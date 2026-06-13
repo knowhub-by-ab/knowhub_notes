@@ -1,7 +1,80 @@
 {
   "version": 1,
-  "exportedAt": "2026-06-13T20:00:00.366Z",
-  "nodes": [],
+  "exportedAt": "2026-06-13T20:14:19.493Z",
+  "nodes": [
+    {
+      "id": "mqcsjhv4on2duq",
+      "title": "Professional Career Development",
+      "parentId": null,
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1781381483824
+    },
+    {
+      "id": "mqcsk3in0nt3rr",
+      "title": "Technology & Engineering",
+      "parentId": "mqcsjhv4on2duq",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1781381511887
+    },
+    {
+      "id": "mqcskudao90636",
+      "title": "Product, Design & Creative",
+      "parentId": "mqcsjhv4on2duq",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1781381546686
+    },
+    {
+      "id": "mqcsl1cee55zuf",
+      "title": "Business, Strategy & Consulting",
+      "parentId": "mqcsjhv4on2duq",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1781381555726
+    },
+    {
+      "id": "mqcsl7xsgi04te",
+      "title": "Marketing, Growth & Communications",
+      "parentId": "mqcsjhv4on2duq",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1781381564272
+    },
+    {
+      "id": "mqcslq0e0ru7zg",
+      "title": "Customer-Facing & Revenue Roles",
+      "parentId": "mqcsjhv4on2duq",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1781381587694
+    },
+    {
+      "id": "mqcslzgxpdtoxf",
+      "title": "People & Organizational Roles",
+      "parentId": "mqcsjhv4on2duq",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1781381599953
+    },
+    {
+      "id": "mqcsm64nfxb8qd",
+      "title": "Legal, Governance & Risk",
+      "parentId": "mqcsjhv4on2duq",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1781381608583
+    },
+    {
+      "id": "mqcsmbub6b6xuj",
+      "title": "Innovation Leadership",
+      "parentId": "mqcsjhv4on2duq",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1781381615987
+    }
+  ],
   "pages": {},
   "notes": "\n\n",
   "resources": [],
