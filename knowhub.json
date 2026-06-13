@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-06-13T20:14:19.493Z",
+  "exportedAt": "2026-06-13T23:34:15.156Z",
   "nodes": [
     {
       "id": "mqcsjhv4on2duq",
@@ -13,7 +13,7 @@
     {
       "id": "mqcsk3in0nt3rr",
       "title": "Technology & Engineering",
-      "parentId": "mqcsjhv4on2duq",
+      "parentId": "mqcyd64a4w2qqg",
       "status": "pending",
       "order": 0,
       "createdAt": 1781381511887
@@ -21,7 +21,7 @@
     {
       "id": "mqcskudao90636",
       "title": "Product, Design & Creative",
-      "parentId": "mqcsjhv4on2duq",
+      "parentId": "mqcyd64a4w2qqg",
       "status": "pending",
       "order": 1,
       "createdAt": 1781381546686
@@ -29,7 +29,7 @@
     {
       "id": "mqcsl1cee55zuf",
       "title": "Business, Strategy & Consulting",
-      "parentId": "mqcsjhv4on2duq",
+      "parentId": "mqcyd64a4w2qqg",
       "status": "pending",
       "order": 2,
       "createdAt": 1781381555726
@@ -37,7 +37,7 @@
     {
       "id": "mqcsl7xsgi04te",
       "title": "Marketing, Growth & Communications",
-      "parentId": "mqcsjhv4on2duq",
+      "parentId": "mqcyd64a4w2qqg",
       "status": "pending",
       "order": 3,
       "createdAt": 1781381564272
@@ -45,7 +45,7 @@
     {
       "id": "mqcslq0e0ru7zg",
       "title": "Customer-Facing & Revenue Roles",
-      "parentId": "mqcsjhv4on2duq",
+      "parentId": "mqcyd64a4w2qqg",
       "status": "pending",
       "order": 4,
       "createdAt": 1781381587694
@@ -53,7 +53,7 @@
     {
       "id": "mqcslzgxpdtoxf",
       "title": "People & Organizational Roles",
-      "parentId": "mqcsjhv4on2duq",
+      "parentId": "mqcyd64a4w2qqg",
       "status": "pending",
       "order": 5,
       "createdAt": 1781381599953
@@ -61,7 +61,7 @@
     {
       "id": "mqcsm64nfxb8qd",
       "title": "Legal, Governance & Risk",
-      "parentId": "mqcsjhv4on2duq",
+      "parentId": "mqcyd64a4w2qqg",
       "status": "pending",
       "order": 6,
       "createdAt": 1781381608583
@@ -69,14 +69,157 @@
     {
       "id": "mqcsmbub6b6xuj",
       "title": "Innovation Leadership",
-      "parentId": "mqcsjhv4on2duq",
+      "parentId": "mqcyd64a4w2qqg",
       "status": "pending",
       "order": 7,
       "createdAt": 1781381615987
+    },
+    {
+      "id": "mqcx1fy8jfdv1b",
+      "title": "Software Engineering",
+      "parentId": "mqcsk3in0nt3rr",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1781389039616
+    },
+    {
+      "id": "mqcx246qfph2da",
+      "title": "Full Stack Engineering",
+      "parentId": "mqcsk3in0nt3rr",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1781389071026
+    },
+    {
+      "id": "mqcx2azeplfx35",
+      "title": "Mobile Engineering",
+      "parentId": "mqcsk3in0nt3rr",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1781389079834
+    },
+    {
+      "id": "mqcx2mtdvunakk",
+      "title": "Frontend Engineering",
+      "parentId": "mqcsk3in0nt3rr",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1781389095169
+    },
+    {
+      "id": "mqcx2vw97ycqtr",
+      "title": "Backend Engineering",
+      "parentId": "mqcsk3in0nt3rr",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1781389106937
+    },
+    {
+      "id": "mqcycltc9ua5so",
+      "title": "Universal Foundations",
+      "parentId": "mqcsjhv4on2duq",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1781391240048
+    },
+    {
+      "id": "mqcyd64a4w2qqg",
+      "title": "Career Domains",
+      "parentId": "mqcsjhv4on2duq",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1781391266362
+    },
+    {
+      "id": "mqcz8b1yjezsd5",
+      "title": "Learning Foundation",
+      "parentId": "mqcycltc9ua5so",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1781392719094
+    },
+    {
+      "id": "mqcz8hzf8foepg",
+      "title": "Digital Literacy",
+      "parentId": "mqcycltc9ua5so",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1781392728075
+    },
+    {
+      "id": "mqcz8oron7ngtb",
+      "title": "Business Literacy",
+      "parentId": "mqcycltc9ua5so",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1781392736868
+    },
+    {
+      "id": "mqcz8z1y2db5wt",
+      "title": "Data Literacy",
+      "parentId": "mqcycltc9ua5so",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1781392750198
+    },
+    {
+      "id": "mqcz97gsiswi3x",
+      "title": "Communication & Professional Skills",
+      "parentId": "mqcycltc9ua5so",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1781392761100
+    },
+    {
+      "id": "mqcz9h85juxja3",
+      "title": "Computer Science Foundations",
+      "parentId": "mqcycltc9ua5so",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1781392773749
+    },
+    {
+      "id": "mqcz9puumjtpih",
+      "title": "Programming Foundations",
+      "parentId": "mqcycltc9ua5so",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1781392784934
+    },
+    {
+      "id": "mqcz9zj6acgjlw",
+      "title": "Core Technical Foundations",
+      "parentId": "mqcycltc9ua5so",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1781392797474
+    },
+    {
+      "id": "mqcza6cw3lqxfe",
+      "title": "Modern Technology Foundations",
+      "parentId": "mqcycltc9ua5so",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1781392806320
     }
   ],
   "pages": {},
-  "notes": "\n\n",
+  "notesList": [
+    {
+      "id": "mqcylvxuem65ni",
+      "title": "NOTE 2",
+      "body": "NOTE 2",
+      "createdAt": 1781391673074,
+      "updatedAt": 1781391683065
+    },
+    {
+      "id": "mqcyle1l9eas2a",
+      "title": "NOTE 1",
+      "body": "NOTE 1",
+      "createdAt": 1781391649881,
+      "updatedAt": 1781391670453
+    }
+  ],
   "resources": [],
   "quizzes": []
 }
