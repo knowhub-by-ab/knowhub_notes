@@ -34,12 +34,12 @@ The path from beginner to professional is a dynamic cycle of learning, applicati
 
 ```mermaid
 graph TD
-    A[Curiosity & Foundational Learning] --> B(Skill Acquisition & Practice);
-    B --> C{Project Application & Real-World Experience};
-    C --> D[Feedback, Reflection & Iteration];
-    D --> E(Specialization & Deep Expertise);
-    E --> F[Mentorship, Leadership & Innovation];
-    F --> G(Continuous Learning & Adaptation);
+    A[Curiosity &<br>Foundational Learning] --> B(Skill Acquisition<br>& Practice);
+    B --> C{Project Application<br>& Real-World Experience};
+    C --> D[Feedback, Reflection<br>& Iteration];
+    D --> E(Specialization<br>& Deep Expertise);
+    E --> F[Mentorship, Leadership<br>& Innovation];
+    F --> G(Continuous Learning<br>& Adaptation);
     G --> A;
 ```
 
@@ -61,12 +61,12 @@ One of the most powerful principles in lifelong learning is **knowledge compound
 
 ```mermaid
 graph LR
-    A[Initial Core Knowledge] --> B{Contextual Understanding};
-    B --> C(Easier Integration of New Information);
-    C --> D{Faster Skill Acquisition};
-    D --> E(Deeper Insights & Connections);
-    E --> F[Accelerated Expertise & Innovation];
-    F --> G(Increased Capacity to Learn More);
+    A[Initial Core<br>Knowledge] --> B{Contextual<br>Understanding};
+    B --> C(Easier Integration<br>of New Information);
+    C --> D{Faster Skill<br>Acquisition};
+    D --> E(Deeper Insights<br>& Connections);
+    E --> F[Accelerated Expertise<br>& Innovation];
+    F --> G(Increased Capacity<br>to Learn More);
     G --> C;
 ```
 
