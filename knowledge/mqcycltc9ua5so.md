@@ -21,7 +21,7 @@ Every career path, from software development to project management, data analysi
 The Universal Foundations curriculum is structured around several critical areas, each contributing unique competencies vital for professional success:
 
 *   ### [Learning Foundation](?topic=Learning%20Foundation)
-    *   **What it is:** The meta-skill of learning how to learn effectively. It covers methodologies for acquiring, processing, and retaining knowledge efficiently.
+    *   **What it is:** The meta-skill of learning how to learn effectively. A "meta-skill" is a skill that helps you acquire other skills. It covers methodologies for acquiring, processing, and retaining knowledge efficiently.
     *   **Competencies Developed:** Critical thinking, self-directed learning, active listening, research skills, effective note-taking, metacognition.
 *   ### [Digital Literacy](?topic=Digital%20Literacy)
     *   **What it is:** The ability to find, evaluate, create, and communicate information using digital technologies, as well as an understanding of digital ethics and safety.
@@ -53,32 +53,19 @@ The Universal Foundations curriculum is structured around several critical areas
 These foundational areas are not isolated silos; they are deeply interconnected, forming a cohesive web of knowledge and skills. Mastery in one area often strengthens understanding and performance in others.
 
 ```mermaid
-graph TD
-    A[Learning Foundation] --> B(Digital Literacy)
-    A --> C(Communication & Professional Skills)
+graph LR
+    A[Learning Foundation]
+    B[Digital Literacy]
+    C[Communication & Professional Skills]
+    D[Business Literacy]
+    E[Data Literacy]
+    F[Computer Science Foundations]
+    G[Programming Foundations]
+    H[Core Technical Foundations]
+    I[Modern Technology Foundations]
 
-    B --> D(Business Literacy)
-    B --> E(Data Literacy)
-    B --> F(Computer Science Foundations)
-
-    C --> D
-    C --> E
-    C --> G(Programming Foundations)
-    C --> H(Core Technical Foundations)
-    C --> I(Modern Technology Foundations)
-
-    D --> E
-    D --> H
-
-    E --> G
-    E --> H
-    E --> I
-
-    F --> G
-    G --> H
-    H --> I
-
-    subgraph Core Human/Business Skills
+    subgraph Core Human & Business Skills
+        direction LR
         A
         B
         C
@@ -86,12 +73,38 @@ graph TD
         E
     end
 
-    subgraph Core Technical Skills
+    subgraph Core Technical Foundations
+        direction LR
         F
         G
         H
         I
     end
+
+    A --> B
+    A --> C
+    B --> D
+    B --> E
+    C --> D
+    C --> E
+
+    F --> G
+    G --> H
+    H --> I
+
+    B --> F
+    B --> G
+
+    C --> G
+    C --> H
+    C --> I
+
+    D --> H
+    D --> I
+
+    E --> G
+    E --> H
+    E --> I
 
     style A fill:#FCE4EC,stroke:#333,stroke-width:2px
     style B fill:#E3F2FD,stroke:#333,stroke-width:2px
