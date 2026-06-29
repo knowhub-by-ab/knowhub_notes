@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-29T12:33:31.570Z",
+  "exportedAt": "2026-06-29T12:38:33.762Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -2007,6 +2007,183 @@
   "resources": [],
   "quizzes": [
     {
+      "id": "mqz78systl0bqq",
+      "title": "Quiz: DSPM (from Absolute Novice to Industry Standards level, style: Normal explanation)",
+      "questions": [
+        {
+          "id": "mqz78sysnsut9p",
+          "prompt": "What does the acronym DSPM primarily stand for?",
+          "options": [
+            "Data System Performance Monitor",
+            "Digital Security Protocol Management",
+            "Data Security Posture Management",
+            "Distributed Storage Platform Management"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "DSPM is defined as Data Security Posture Management."
+        },
+        {
+          "id": "mqz78sysjml50u",
+          "prompt": "The text highlights that organizations store data across diverse environments. Which of the following is NOT explicitly mentioned as one of these environments contributing to the need for DSPM?",
+          "options": [
+            "On-premises databases",
+            "Public cloud services",
+            "SaaS applications",
+            "Edge computing devices"
+          ],
+          "correct": [
+            3
+          ],
+          "explanation": "The text explicitly mentions on-premises databases, public cloud services, and SaaS applications as data storage environments, but not edge computing devices."
+        },
+        {
+          "id": "mqz78syssatx3i",
+          "prompt": "According to the 'library' analogy, what problem does DSPM solve related to knowing what data an organization possesses?",
+          "options": [
+            "Ensuring all books are physically present on shelves",
+            "Knowing exactly what data you have and its sensitivity",
+            "Categorizing books by publication date",
+            "Optimizing the layout of the library sections"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The text states DSPM solves the problem of 'Unknown Books,' meaning not knowing exactly what data you have, where it is, or how much is sensitive."
+        },
+        {
+          "id": "mqz78sysohnnoi",
+          "prompt": "Without DSPM, a lack of awareness about who has access to data and whether that access is appropriate falls under which problem described in the text?",
+          "options": [
+            "Hidden Risks",
+            "Compliance Headaches",
+            "Uncontrolled Access",
+            "Unknown Books"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The text identifies 'Uncontrolled Access' as not being sure who has access to which data, whether that access is appropriate, or if it's being used correctly."
+        },
+        {
+          "id": "mqz78sysu8lc0c",
+          "prompt": "What is the direct consequence of 'data sprawl' when an organization lacks DSPM, as mentioned in the learning page?",
+          "options": [
+            "Reduced need for auditing",
+            "Increased data innovation",
+            "Unmanageable security risk",
+            "Simplified data governance"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The text clearly states that 'data sprawl' leads to an unmanageable security risk and potential data breaches."
+        }
+      ],
+      "attempts": [
+        {
+          "id": "mqz7a7ewws8bnu",
+          "takenAt": 1782736500488,
+          "score": 2,
+          "total": 5,
+          "items": [
+            {
+              "questionId": "mqz78sysnsut9p",
+              "prompt": "What does the acronym DSPM primarily stand for?",
+              "options": [
+                "Data System Performance Monitor",
+                "Digital Security Protocol Management",
+                "Data Security Posture Management",
+                "Distributed Storage Platform Management"
+              ],
+              "correct": [
+                2
+              ],
+              "chosen": [
+                2
+              ],
+              "isCorrect": true,
+              "explanation": "DSPM is defined as Data Security Posture Management."
+            },
+            {
+              "questionId": "mqz78sysjml50u",
+              "prompt": "The text highlights that organizations store data across diverse environments. Which of the following is NOT explicitly mentioned as one of these environments contributing to the need for DSPM?",
+              "options": [
+                "On-premises databases",
+                "Public cloud services",
+                "SaaS applications",
+                "Edge computing devices"
+              ],
+              "correct": [
+                3
+              ],
+              "chosen": [
+                0
+              ],
+              "isCorrect": false,
+              "explanation": "The text explicitly mentions on-premises databases, public cloud services, and SaaS applications as data storage environments, but not edge computing devices."
+            },
+            {
+              "questionId": "mqz78syssatx3i",
+              "prompt": "According to the 'library' analogy, what problem does DSPM solve related to knowing what data an organization possesses?",
+              "options": [
+                "Ensuring all books are physically present on shelves",
+                "Knowing exactly what data you have and its sensitivity",
+                "Categorizing books by publication date",
+                "Optimizing the layout of the library sections"
+              ],
+              "correct": [
+                1
+              ],
+              "chosen": [
+                1
+              ],
+              "isCorrect": true,
+              "explanation": "The text states DSPM solves the problem of 'Unknown Books,' meaning not knowing exactly what data you have, where it is, or how much is sensitive."
+            },
+            {
+              "questionId": "mqz78sysohnnoi",
+              "prompt": "Without DSPM, a lack of awareness about who has access to data and whether that access is appropriate falls under which problem described in the text?",
+              "options": [
+                "Hidden Risks",
+                "Compliance Headaches",
+                "Uncontrolled Access",
+                "Unknown Books"
+              ],
+              "correct": [
+                2
+              ],
+              "chosen": [
+                1
+              ],
+              "isCorrect": false,
+              "explanation": "The text identifies 'Uncontrolled Access' as not being sure who has access to which data, whether that access is appropriate, or if it's being used correctly."
+            },
+            {
+              "questionId": "mqz78sysu8lc0c",
+              "prompt": "What is the direct consequence of 'data sprawl' when an organization lacks DSPM, as mentioned in the learning page?",
+              "options": [
+                "Reduced need for auditing",
+                "Increased data innovation",
+                "Unmanageable security risk",
+                "Simplified data governance"
+              ],
+              "correct": [
+                2
+              ],
+              "chosen": [
+                1
+              ],
+              "isCorrect": false,
+              "explanation": "The text clearly states that 'data sprawl' leads to an unmanageable security risk and potential data breaches."
+            }
+          ]
+        }
+      ],
+      "createdAt": 1782736435108
+    },
+    {
       "title": "Artificial Intelligence Fundamentals Quiz",
       "attempts": [
         {
@@ -2301,6 +2478,154 @@
     }
   ],
   "questionBanks": [
+    {
+      "id": "mqz7bl3zp9wyty",
+      "title": "DSPM TEST QB 2",
+      "source": "DSPM (from Absolute Novice to Industry Standards level, style: Normal explanation)",
+      "questions": [
+        {
+          "id": "mqz7bl3zarqkjo",
+          "prompt": "What does the acronym DSPM stand for?",
+          "options": [
+            "Data Security Performance Management",
+            "Digital System Protection Metrics",
+            "Data Security Posture Management",
+            "Distributed Storage Policy Monitor"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "DSPM stands for Data Security Posture Management, a security discipline designed to manage data security risks."
+        },
+        {
+          "id": "mqz7bl3zppxee5",
+          "prompt": "According to the text, which of the following best describes the fundamental problem DSPM aims to solve?",
+          "options": [
+            "Optimizing network bandwidth for data transfers",
+            "Enhancing the speed of data processing in analytics systems",
+            "Addressing unmanageable security risks, potential data breaches, and non-compliance fines due to data sprawl",
+            "Managing physical access control to data centers"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The text states that 'data sprawl' leads to 'an unmanageable security risk, potential data breaches, and non-compliance fines,' which DSPM is designed to solve."
+        },
+        {
+          "id": "mqz7bl3zu1o2m2",
+          "prompt": "Which of the following is identified as one of the core concepts DSPM is built upon?",
+          "options": [
+            "Network Traffic Analysis",
+            "Server Virtualization",
+            "Data Inventory",
+            "Endpoint Detection and Response"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The core concepts section lists 'Data Inventory' as the first fundamental idea: 'You can't protect what you don't know you have. DSPM begins by discovering all data stores.'"
+        },
+        {
+          "id": "mqz7bl3zsnv6tk",
+          "prompt": "In the context of DSPM, what is the primary purpose of 'Data Classification'?",
+          "options": [
+            "To encrypt all data automatically upon discovery",
+            "To categorize data based on its sensitivity level (e.g., PII, PCI, PHI)",
+            "To compress data for more efficient storage",
+            "To migrate data between different cloud providers"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The text explains, 'Classification tags data with its sensitivity level' such as PII, PCI, or PHI."
+        },
+        {
+          "id": "mqz7bl3z0m54tw",
+          "prompt": "A DSPM solution identifies an unencrypted AWS S3 bucket containing customer email addresses and classifies this as 'Highly Sensitive PII.' This scenario primarily demonstrates which core DSPM functionality?",
+          "options": [
+            "Data Access Governance",
+            "Data Discovery & Classification",
+            "Compliance & Reporting",
+            "Network Security Monitoring"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "This is a direct example provided for 'Data Discovery & Classification,' which involves scanning data content and classifying sensitive information."
+        },
+        {
+          "id": "mqz7bl3z34w08q",
+          "prompt": "What is a key function of 'Data Access Governance' within DSPM?",
+          "options": [
+            "To perform regular backups of all sensitive data",
+            "To map how users, roles, applications, and services interact with data and identify excessive permissions",
+            "To monitor data transfer speeds across the network",
+            "To physically secure the data storage infrastructure"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "Data Access Governance involves 'Mapping Data Access Paths' and 'Identifying Excessive Permissions,' understanding 'who can access your sensitive data, and under what conditions?'"
+        },
+        {
+          "id": "mqz7bl3zdq2ag6",
+          "prompt": "Identifying instances where users or roles have more access to data than they need (violating the principle of Least Privilege) is a function of which DSPM component?",
+          "options": [
+            "Data Discovery & Classification",
+            "Data Access Governance",
+            "Compliance & Reporting",
+            "Thre (incomplete word in source, but contextually separate from Least Privilege)"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "Under 'Data Access Governance,' the text explicitly states, 'Identifying Excessive Permissions: Flagging instances where users or roles have more access than they need (violating the principle of Least Privilege).'"
+        },
+        {
+          "id": "mqz7bl3zn2xsom",
+          "prompt": "Which of the following best exemplifies the 'Data Risk Assessment & Prioritization' capability of DSPM?",
+          "options": [
+            "Generating a list of all database administrators",
+            "Implementing a new intrusion detection system",
+            "Assigning a higher risk score to a publicly exposed S3 bucket with 'Highly Sensitive PII' than to an internal share with non-sensitive marketing materials",
+            "Automatically applying software patches to operating systems"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The example provided is: 'A publicly exposed S3 bucket containing 'Highly Sensitive PII' would receive a much higher risk score than an internal share containing non-sensitive marketing materials, even if both had misconfigurations.'"
+        },
+        {
+          "id": "mqz7bl3zpd7grs",
+          "prompt": "How does DSPM primarily assist with meeting regulatory mandates like GDPR, CCPA, and HIPAA?",
+          "options": [
+            "By providing legal counsel and regulatory interpretations",
+            "By physically encrypting all data within the organization's premises",
+            "By generating reports that demonstrate compliance with various standards, detailing data classification and access controls",
+            "By automatically responding to all Data Subject Rights (DSR) requests"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "Under 'Compliance & Reporting,' it states DSPM helps by 'Generating reports that demonstrate compliance with various standards, detailing data classification, access controls, and risk remediation efforts.'"
+        },
+        {
+          "id": "mqz7bl3zqvvxzd",
+          "prompt": "The analogy of an organization's data as a 'massive, constantly growing library' is used to illustrate the problems DSPM solves. Without DSPM, what is a key issue highlighted regarding this library?",
+          "options": [
+            "All books are perfectly organized and easily accessible",
+            "You always know who has access to which books and if it's appropriate",
+            "You don't know exactly what data you have, where it is, or how much of it is sensitive",
+            "All books are consistently updated with the latest information"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The text states, 'Without DSPM, your data landscape often looks like this: Unknown Books: You don't know exactly what data you have, where it is, or how much of it is sensitive.'"
+        }
+      ],
+      "createdAt": 1782736564895
+    },
     {
       "id": "mqz2q2opoxjxzy",
       "title": "DSPM TEST QB",
