@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-29T11:47:27.167Z",
+  "exportedAt": "2026-06-29T11:54:01.250Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -2632,6 +2632,17 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "q-xS25lsN3I",
+      "title": "What is Node.js and how it works (explained in 2 minutes)",
+      "channel": "Code ON 코드온",
+      "durationSec": 137,
+      "validated": true,
+      "topic": "NODEJS",
+      "kept": true,
+      "id": "mqz5mig8l4654f",
+      "createdAt": 1782733715432
+    },
     {
       "videoId": "-bt_y4Loofg",
       "title": "MongoDB in 100 Seconds",
