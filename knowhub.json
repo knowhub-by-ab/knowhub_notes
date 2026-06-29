@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-29T12:16:53.710Z",
+  "exportedAt": "2026-06-29T12:23:31.537Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -2628,10 +2628,99 @@
         }
       ],
       "createdAt": 1782727216946,
-      "updatedAt": 1782727250622
+      "updatedAt": 1782735607329,
+      "folderId": "mqz6qttk9xej48"
     }
   ],
   "videos": [
+    {
+      "videoId": "C3yvNs95W_c",
+      "title": "Personal brand from scratch #1",
+      "channel": "Pritika Loonia",
+      "durationSec": 45,
+      "validated": true,
+      "pageId": "mqcsjhv4on2duq",
+      "kept": false,
+      "id": "mqz6suaoxhptfq",
+      "createdAt": 1782735690336
+    },
+    {
+      "videoId": "sO4te2QNsHY",
+      "title": "What Is Branding? 4 Minute Crash Course.",
+      "channel": "The Futur",
+      "durationSec": 229,
+      "validated": true,
+      "pageId": "mqcsjhv4on2duq",
+      "kept": true,
+      "id": "mqz6suaokh21wt",
+      "createdAt": 1782735690336
+    },
+    {
+      "videoId": "OqvTAo9eOTM",
+      "title": "2 SECRET strategies to build your BRAND!",
+      "channel": "Rajiv Talreja",
+      "durationSec": 47,
+      "validated": true,
+      "pageId": "mqcsjhv4on2duq",
+      "kept": false,
+      "id": "mqz6suaol1r8ug",
+      "createdAt": 1782735690336
+    },
+    {
+      "videoId": "T-qZiFJJoPA",
+      "title": "7 Tips to continue growing in your career | Continuous Learning | Career Growth",
+      "channel": "HRwisor - Your HR Advisor",
+      "durationSec": 144,
+      "validated": true,
+      "pageId": "mqcsjhv4on2duq",
+      "kept": false,
+      "id": "mqz6suaoih0kdi",
+      "createdAt": 1782735690336
+    },
+    {
+      "videoId": "T7KD6Uwd998",
+      "title": "What Is Continuous Learning? - Admin Career Guide",
+      "channel": "Admin Career Guide",
+      "durationSec": 164,
+      "validated": true,
+      "pageId": "mqcsjhv4on2duq",
+      "kept": true,
+      "id": "mqz6suaoqk8rtw",
+      "createdAt": 1782735690336
+    },
+    {
+      "videoId": "9qzdE_4dCVM",
+      "title": "What Are the Benefits of Continuous Learning in Career Development? | Job Success Network",
+      "channel": "Job Success Network",
+      "durationSec": 225,
+      "validated": true,
+      "pageId": "mqcsjhv4on2duq",
+      "kept": true,
+      "id": "mqz6suaoa1blxz",
+      "createdAt": 1782735690336
+    },
+    {
+      "videoId": "PeMlggyqz0Y",
+      "title": "Machine Learning Explained in 100 Seconds",
+      "channel": "Fireship",
+      "durationSec": 155,
+      "validated": true,
+      "topic": "AIML",
+      "kept": true,
+      "id": "mqz6rzp5gwrb9d",
+      "createdAt": 1782735650681
+    },
+    {
+      "videoId": "0U4Ko9DVxpY",
+      "title": "Create a ChatBot in Under 7 Minutes",
+      "channel": "Coding Nexus",
+      "durationSec": 6,
+      "validated": true,
+      "topic": "AIML",
+      "kept": true,
+      "id": "mqz6rzp5uwmk1y",
+      "createdAt": 1782735650681
+    },
     {
       "videoId": "q-xS25lsN3I",
       "title": "What is Node.js and how it works (explained in 2 minutes)",
