@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-29T13:36:17.475Z",
+  "exportedAt": "2026-06-29T13:59:30.623Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -3091,5 +3091,12 @@
       "createdAt": 1782735690336
     }
   ],
-  "highlights": []
+  "highlights": [],
+  "chatFolders": [
+    {
+      "id": "mqz6qttk9xej48",
+      "name": "Gen. Chat",
+      "createdAt": 1782735596408
+    }
+  ]
 }
