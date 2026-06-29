@@ -1,1958 +1,1958 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-29T14:58:32.054Z",
+  "exportedAt": "2026-06-29T14:59:46.745Z",
   "nodes": [
     {
-      "title": "Professional Career Development",
-      "parentId": null,
-      "id": "mqcsjhv4on2duq",
       "createdAt": 1781381483824,
-      "order": 0,
-      "status": "in_progress"
-    },
-    {
-      "id": "mqcsk3in0nt3rr",
-      "parentId": "mqcyd64a4w2qqg",
-      "title": "Technology & Engineering",
-      "status": "pending",
-      "createdAt": 1781381511887,
-      "order": 0
-    },
-    {
-      "parentId": "mqcyd64a4w2qqg",
-      "title": "Product, Design & Creative",
-      "id": "mqcskudao90636",
-      "order": 1,
-      "createdAt": 1781381546686,
-      "status": "pending"
-    },
-    {
-      "title": "Business, Strategy & Consulting",
-      "parentId": "mqcyd64a4w2qqg",
-      "id": "mqcsl1cee55zuf",
-      "createdAt": 1781381555726,
-      "order": 2,
-      "status": "pending"
-    },
-    {
-      "status": "pending",
-      "createdAt": 1781381564272,
-      "order": 3,
-      "id": "mqcsl7xsgi04te",
-      "title": "Marketing, Growth & Communications",
-      "parentId": "mqcyd64a4w2qqg"
-    },
-    {
-      "status": "pending",
-      "createdAt": 1781381587694,
-      "order": 4,
-      "id": "mqcslq0e0ru7zg",
-      "title": "Customer-Facing & Revenue Roles",
-      "parentId": "mqcyd64a4w2qqg"
-    },
-    {
-      "createdAt": 1781381599953,
-      "order": 5,
-      "status": "pending",
-      "parentId": "mqcyd64a4w2qqg",
-      "title": "People & Organizational Roles",
-      "id": "mqcslzgxpdtoxf"
-    },
-    {
-      "id": "mqcsm64nfxb8qd",
-      "title": "Legal, Governance & Risk",
-      "parentId": "mqcyd64a4w2qqg",
-      "status": "pending",
-      "createdAt": 1781381608583,
-      "order": 6
-    },
-    {
-      "createdAt": 1781381615987,
-      "order": 7,
-      "status": "pending",
-      "title": "Innovation Leadership",
-      "parentId": "mqcyd64a4w2qqg",
-      "id": "mqcsmbub6b6xuj"
-    },
-    {
-      "parentId": "mqcsk3in0nt3rr",
-      "title": "Software Engineering",
-      "id": "mqcx1fy8jfdv1b",
-      "createdAt": 1781389039616,
-      "order": 0,
-      "status": "pending"
-    },
-    {
-      "status": "pending",
-      "order": 1,
-      "createdAt": 1781389071026,
-      "id": "mqcx246qfph2da",
-      "parentId": "mqcsk3in0nt3rr",
-      "title": "Full Stack Engineering"
-    },
-    {
-      "parentId": "mqcsk3in0nt3rr",
-      "title": "Mobile Engineering",
-      "id": "mqcx2azeplfx35",
-      "createdAt": 1781389079834,
-      "order": 2,
-      "status": "pending"
-    },
-    {
-      "status": "pending",
-      "order": 3,
-      "createdAt": 1781389095169,
-      "id": "mqcx2mtdvunakk",
-      "parentId": "mqcsk3in0nt3rr",
-      "title": "Frontend Engineering"
-    },
-    {
-      "status": "pending",
-      "order": 4,
-      "createdAt": 1781389106937,
-      "id": "mqcx2vw97ycqtr",
-      "title": "Backend Engineering",
-      "parentId": "mqcsk3in0nt3rr"
-    },
-    {
-      "createdAt": 1781391240048,
-      "order": 0,
+      "title": "Professional Career Development",
+      "id": "mqcsjhv4on2duq",
+      "parentId": null,
       "status": "in_progress",
-      "parentId": "mqcsjhv4on2duq",
-      "title": "Universal Foundations",
-      "id": "mqcycltc9ua5so"
-    },
-    {
-      "parentId": "mqcsjhv4on2duq",
-      "title": "Career Domains",
-      "id": "mqcyd64a4w2qqg",
-      "order": 1,
-      "createdAt": 1781391266362,
-      "status": "pending"
-    },
-    {
-      "id": "mqcz8b1yjezsd5",
-      "parentId": "mqcycltc9ua5so",
-      "title": "Learning Foundation",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1781392719094
-    },
-    {
-      "id": "mqcz8hzf8foepg",
-      "parentId": "mqcycltc9ua5so",
-      "title": "Digital Literacy",
-      "status": "pending",
-      "order": 1,
-      "createdAt": 1781392728075
-    },
-    {
-      "status": "pending",
-      "order": 2,
-      "createdAt": 1781392736868,
-      "id": "mqcz8oron7ngtb",
-      "parentId": "mqcycltc9ua5so",
-      "title": "Business Literacy"
-    },
-    {
-      "title": "Data Literacy",
-      "parentId": "mqcycltc9ua5so",
-      "id": "mqcz8z1y2db5wt",
-      "createdAt": 1781392750198,
-      "order": 3,
-      "status": "pending"
-    },
-    {
-      "order": 4,
-      "createdAt": 1781392761100,
-      "status": "pending",
-      "title": "Communication & Professional Skills",
-      "parentId": "mqcycltc9ua5so",
-      "id": "mqcz97gsiswi3x"
-    },
-    {
-      "status": "pending",
-      "order": 5,
-      "createdAt": 1781392773749,
-      "id": "mqcz9h85juxja3",
-      "title": "Computer Science Foundations",
-      "parentId": "mqcycltc9ua5so"
-    },
-    {
-      "id": "mqcz9puumjtpih",
-      "title": "Programming Foundations",
-      "parentId": "mqcycltc9ua5so",
-      "status": "pending",
-      "order": 6,
-      "createdAt": 1781392784934
-    },
-    {
-      "title": "Core Technical Foundations",
-      "parentId": "mqcycltc9ua5so",
-      "id": "mqcz9zj6acgjlw",
-      "createdAt": 1781392797474,
-      "order": 7,
-      "status": "pending"
-    },
-    {
-      "title": "Modern Technology Foundations",
-      "parentId": "mqcycltc9ua5so",
-      "id": "mqcza6cw3lqxfe",
-      "createdAt": 1781392806320,
-      "order": 8,
-      "status": "pending"
-    },
-    {
-      "order": 0,
-      "createdAt": 1781395065925,
-      "status": "pending",
-      "title": "Learning Strategies",
-      "parentId": "mqcz8b1yjezsd5",
-      "id": "mqd0mlvpcv8194"
-    },
-    {
-      "id": "mqd0mlvroob51r",
-      "title": "Learning How to Learn",
-      "parentId": "mqd0mlvpcv8194",
-      "status": "pending",
-      "createdAt": 1781395065927,
       "order": 0
     },
     {
-      "title": "Learning Preferences",
-      "parentId": "mqd0mlvpcv8194",
-      "id": "mqd0mlvsj5rujv",
-      "order": 2,
-      "createdAt": 1781395065928,
-      "status": "pending"
-    },
-    {
-      "id": "mqd0mlvsx434ox",
-      "parentId": "mqd0mlvpcv8194",
-      "title": "Study Techniques",
-      "status": "pending",
-      "order": 3,
-      "createdAt": 1781395065928
-    },
-    {
-      "createdAt": 1781395065929,
-      "order": 1,
-      "status": "pending",
-      "parentId": "mqcz8b1yjezsd5",
-      "title": "Memory & Retention",
-      "id": "mqd0mlvtf1cxis"
-    },
-    {
-      "id": "mqd0mlvuw4ltq3",
-      "title": "Memory Principles",
-      "parentId": "mqd0mlvtf1cxis",
-      "status": "pending",
       "order": 0,
-      "createdAt": 1781395065930
+      "status": "pending",
+      "parentId": "mqcyd64a4w2qqg",
+      "id": "mqcsk3in0nt3rr",
+      "createdAt": 1781381511887,
+      "title": "Technology & Engineering"
     },
     {
-      "id": "mqd0mlvupsohg6",
-      "parentId": "mqd0mlvtf1cxis",
-      "title": "Active Recall",
+      "parentId": "mqcyd64a4w2qqg",
       "status": "pending",
-      "createdAt": 1781395065930,
+      "id": "mqcskudao90636",
+      "title": "Product, Design & Creative",
+      "createdAt": 1781381546686,
       "order": 1
     },
     {
+      "title": "Business, Strategy & Consulting",
+      "createdAt": 1781381555726,
       "status": "pending",
+      "parentId": "mqcyd64a4w2qqg",
+      "id": "mqcsl1cee55zuf",
+      "order": 2
+    },
+    {
+      "id": "mqcsl7xsgi04te",
+      "status": "pending",
+      "parentId": "mqcyd64a4w2qqg",
+      "title": "Marketing, Growth & Communications",
+      "createdAt": 1781381564272,
+      "order": 3
+    },
+    {
+      "order": 4,
+      "title": "Customer-Facing & Revenue Roles",
+      "createdAt": 1781381587694,
+      "parentId": "mqcyd64a4w2qqg",
+      "status": "pending",
+      "id": "mqcslq0e0ru7zg"
+    },
+    {
+      "order": 5,
+      "title": "People & Organizational Roles",
+      "createdAt": 1781381599953,
+      "id": "mqcslzgxpdtoxf",
+      "parentId": "mqcyd64a4w2qqg",
+      "status": "pending"
+    },
+    {
+      "order": 6,
+      "createdAt": 1781381608583,
+      "title": "Legal, Governance & Risk",
+      "id": "mqcsm64nfxb8qd",
+      "parentId": "mqcyd64a4w2qqg",
+      "status": "pending"
+    },
+    {
+      "parentId": "mqcyd64a4w2qqg",
+      "status": "pending",
+      "id": "mqcsmbub6b6xuj",
+      "createdAt": 1781381615987,
+      "title": "Innovation Leadership",
+      "order": 7
+    },
+    {
+      "order": 0,
+      "id": "mqcx1fy8jfdv1b",
+      "parentId": "mqcsk3in0nt3rr",
+      "status": "pending",
+      "title": "Software Engineering",
+      "createdAt": 1781389039616
+    },
+    {
+      "createdAt": 1781389071026,
+      "title": "Full Stack Engineering",
+      "status": "pending",
+      "parentId": "mqcsk3in0nt3rr",
+      "id": "mqcx246qfph2da",
+      "order": 1
+    },
+    {
       "order": 2,
-      "createdAt": 1781395065931,
+      "id": "mqcx2azeplfx35",
+      "parentId": "mqcsk3in0nt3rr",
+      "status": "pending",
+      "title": "Mobile Engineering",
+      "createdAt": 1781389079834
+    },
+    {
+      "order": 3,
+      "id": "mqcx2mtdvunakk",
+      "status": "pending",
+      "parentId": "mqcsk3in0nt3rr",
+      "title": "Frontend Engineering",
+      "createdAt": 1781389095169
+    },
+    {
+      "createdAt": 1781389106937,
+      "title": "Backend Engineering",
+      "parentId": "mqcsk3in0nt3rr",
+      "status": "pending",
+      "id": "mqcx2vw97ycqtr",
+      "order": 4
+    },
+    {
+      "id": "mqcycltc9ua5so",
+      "status": "in_progress",
+      "parentId": "mqcsjhv4on2duq",
+      "title": "Universal Foundations",
+      "createdAt": 1781391240048,
+      "order": 0
+    },
+    {
+      "parentId": "mqcsjhv4on2duq",
+      "status": "pending",
+      "id": "mqcyd64a4w2qqg",
+      "createdAt": 1781391266362,
+      "title": "Career Domains",
+      "order": 1
+    },
+    {
+      "order": 0,
+      "parentId": "mqcycltc9ua5so",
+      "status": "pending",
+      "id": "mqcz8b1yjezsd5",
+      "createdAt": 1781392719094,
+      "title": "Learning Foundation"
+    },
+    {
+      "order": 1,
+      "createdAt": 1781392728075,
+      "title": "Digital Literacy",
+      "parentId": "mqcycltc9ua5so",
+      "status": "pending",
+      "id": "mqcz8hzf8foepg"
+    },
+    {
+      "order": 2,
+      "createdAt": 1781392736868,
+      "title": "Business Literacy",
+      "id": "mqcz8oron7ngtb",
+      "status": "pending",
+      "parentId": "mqcycltc9ua5so"
+    },
+    {
+      "title": "Data Literacy",
+      "createdAt": 1781392750198,
+      "id": "mqcz8z1y2db5wt",
+      "status": "pending",
+      "parentId": "mqcycltc9ua5so",
+      "order": 3
+    },
+    {
+      "order": 4,
+      "id": "mqcz97gsiswi3x",
+      "status": "pending",
+      "parentId": "mqcycltc9ua5so",
+      "title": "Communication & Professional Skills",
+      "createdAt": 1781392761100
+    },
+    {
+      "order": 5,
+      "createdAt": 1781392773749,
+      "title": "Computer Science Foundations",
+      "status": "pending",
+      "parentId": "mqcycltc9ua5so",
+      "id": "mqcz9h85juxja3"
+    },
+    {
+      "order": 6,
+      "parentId": "mqcycltc9ua5so",
+      "status": "pending",
+      "id": "mqcz9puumjtpih",
+      "createdAt": 1781392784934,
+      "title": "Programming Foundations"
+    },
+    {
+      "order": 7,
+      "parentId": "mqcycltc9ua5so",
+      "status": "pending",
+      "id": "mqcz9zj6acgjlw",
+      "title": "Core Technical Foundations",
+      "createdAt": 1781392797474
+    },
+    {
+      "id": "mqcza6cw3lqxfe",
+      "status": "pending",
+      "parentId": "mqcycltc9ua5so",
+      "createdAt": 1781392806320,
+      "title": "Modern Technology Foundations",
+      "order": 8
+    },
+    {
+      "createdAt": 1781395065925,
+      "title": "Learning Strategies",
+      "id": "mqd0mlvpcv8194",
+      "parentId": "mqcz8b1yjezsd5",
+      "status": "pending",
+      "order": 0
+    },
+    {
+      "order": 0,
+      "status": "pending",
+      "parentId": "mqd0mlvpcv8194",
+      "id": "mqd0mlvroob51r",
+      "createdAt": 1781395065927,
+      "title": "Learning How to Learn"
+    },
+    {
+      "createdAt": 1781395065928,
+      "title": "Learning Preferences",
+      "status": "pending",
+      "parentId": "mqd0mlvpcv8194",
+      "id": "mqd0mlvsj5rujv",
+      "order": 2
+    },
+    {
+      "status": "pending",
+      "parentId": "mqd0mlvpcv8194",
+      "id": "mqd0mlvsx434ox",
+      "createdAt": 1781395065928,
+      "title": "Study Techniques",
+      "order": 3
+    },
+    {
+      "order": 1,
+      "status": "pending",
+      "parentId": "mqcz8b1yjezsd5",
+      "id": "mqd0mlvtf1cxis",
+      "title": "Memory & Retention",
+      "createdAt": 1781395065929
+    },
+    {
+      "title": "Memory Principles",
+      "createdAt": 1781395065930,
+      "parentId": "mqd0mlvtf1cxis",
+      "status": "pending",
+      "id": "mqd0mlvuw4ltq3",
+      "order": 0
+    },
+    {
+      "order": 1,
+      "id": "mqd0mlvupsohg6",
+      "status": "pending",
+      "parentId": "mqd0mlvtf1cxis",
+      "createdAt": 1781395065930,
+      "title": "Active Recall"
+    },
+    {
+      "order": 2,
       "id": "mqd0mlvv4qcinz",
       "parentId": "mqd0mlvtf1cxis",
-      "title": "Spaced Repetition"
+      "status": "pending",
+      "title": "Spaced Repetition",
+      "createdAt": 1781395065931
     },
     {
-      "status": "pending",
-      "createdAt": 1781395065932,
-      "order": 2,
-      "id": "mqd0mlvwh0us5w",
       "parentId": "mqcz8b1yjezsd5",
-      "title": "Information Capture"
+      "status": "pending",
+      "id": "mqd0mlvwh0us5w",
+      "createdAt": 1781395065932,
+      "title": "Information Capture",
+      "order": 2
     },
     {
-      "order": 0,
-      "createdAt": 1781395065933,
+      "id": "mqd0mlvx6gausp",
       "status": "pending",
-      "title": "Note-Taking Methods",
       "parentId": "mqd0mlvwh0us5w",
-      "id": "mqd0mlvx6gausp"
+      "title": "Note-Taking Methods",
+      "createdAt": 1781395065933,
+      "order": 0
     },
     {
-      "status": "pending",
       "order": 1,
       "createdAt": 1781395065936,
+      "title": "Summarization",
       "id": "mqd0mlw0lfa9qk",
-      "parentId": "mqd0mlvwh0us5w",
-      "title": "Summarization"
-    },
-    {
       "status": "pending",
-      "order": 3,
-      "createdAt": 1781395065937,
-      "id": "mqd0mlw1zw2sp6",
-      "title": "Cognitive Skills",
-      "parentId": "mqcz8b1yjezsd5"
+      "parentId": "mqd0mlvwh0us5w"
     },
     {
-      "parentId": "mqd0mlw1zw2sp6",
-      "title": "Critical Thinking",
-      "id": "mqd0mlw3fp6pcc",
+      "order": 3,
+      "id": "mqd0mlw1zw2sp6",
+      "status": "pending",
+      "parentId": "mqcz8b1yjezsd5",
+      "title": "Cognitive Skills",
+      "createdAt": 1781395065937
+    },
+    {
       "order": 0,
       "createdAt": 1781395065939,
-      "status": "pending"
-    },
-    {
-      "parentId": "mqd0mlw1zw2sp6",
-      "title": "Problem Solving",
-      "id": "mqd0mlw3l7xdul",
-      "order": 1,
-      "createdAt": 1781395065939,
-      "status": "pending"
-    },
-    {
+      "title": "Critical Thinking",
       "status": "pending",
+      "parentId": "mqd0mlw1zw2sp6",
+      "id": "mqd0mlw3fp6pcc"
+    },
+    {
+      "order": 1,
+      "id": "mqd0mlw3l7xdul",
+      "status": "pending",
+      "parentId": "mqd0mlw1zw2sp6",
+      "createdAt": 1781395065939,
+      "title": "Problem Solving"
+    },
+    {
       "order": 2,
-      "createdAt": 1781395065940,
-      "id": "mqd0mlw455g0ab",
       "title": "Bias Recognition",
-      "parentId": "mqd0mlw1zw2sp6"
+      "createdAt": 1781395065940,
+      "parentId": "mqd0mlw1zw2sp6",
+      "status": "pending",
+      "id": "mqd0mlw455g0ab"
     },
     {
       "id": "mqd0mlw5lfhsjs",
-      "title": "Decision Making",
-      "parentId": "mqd0mlw1zw2sp6",
       "status": "pending",
+      "parentId": "mqd0mlw1zw2sp6",
+      "title": "Decision Making",
       "createdAt": 1781395065941,
       "order": 3
     },
     {
+      "order": 4,
+      "status": "pending",
+      "parentId": "mqcz8b1yjezsd5",
       "id": "mqd0mlw5owotge",
       "title": "Research & Evaluation",
-      "parentId": "mqcz8b1yjezsd5",
-      "status": "pending",
-      "createdAt": 1781395065941,
-      "order": 4
+      "createdAt": 1781395065941
     },
     {
       "order": 0,
       "createdAt": 1781395065942,
-      "status": "pending",
-      "parentId": "mqd0mlw5owotge",
       "title": "Information Gathering",
-      "id": "mqd0mlw6eo4pe8"
-    },
-    {
+      "id": "mqd0mlw6eo4pe8",
       "parentId": "mqd0mlw5owotge",
-      "title": "Source Evaluation",
-      "id": "mqd0mlw821cciz",
-      "order": 1,
-      "createdAt": 1781395065944,
       "status": "pending"
     },
     {
+      "order": 1,
+      "status": "pending",
+      "parentId": "mqd0mlw5owotge",
+      "id": "mqd0mlw821cciz",
+      "title": "Source Evaluation",
+      "createdAt": 1781395065944
+    },
+    {
+      "order": 2,
+      "title": "Synthesizing Information",
+      "createdAt": 1781395065945,
       "id": "mqd0mlw97zg5zi",
       "parentId": "mqd0mlw5owotge",
-      "title": "Synthesizing Information",
-      "status": "pending",
-      "order": 2,
-      "createdAt": 1781395065945
+      "status": "pending"
     },
     {
-      "parentId": "mqcz8b1yjezsd5",
-      "title": "Self-Directed Learning",
-      "id": "mqd0mlwa5gg1yc",
-      "createdAt": 1781395065946,
       "order": 5,
-      "status": "pending"
+      "createdAt": 1781395065946,
+      "title": "Self-Directed Learning",
+      "parentId": "mqcz8b1yjezsd5",
+      "status": "pending",
+      "id": "mqd0mlwa5gg1yc"
     },
     {
       "id": "mqd0mlwauarbz3",
+      "status": "pending",
       "parentId": "mqd0mlwa5gg1yc",
       "title": "Setting Learning Goals",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1781395065946
+      "createdAt": 1781395065946,
+      "order": 0
     },
     {
-      "id": "mqd0mlwb7k27dt",
-      "parentId": "mqd0mlwa5gg1yc",
+      "order": 1,
+      "createdAt": 1781395065947,
       "title": "Resource Curation",
+      "id": "mqd0mlwb7k27dt",
       "status": "pending",
-      "createdAt": 1781395065947,
-      "order": 1
+      "parentId": "mqd0mlwa5gg1yc"
     },
     {
-      "createdAt": 1781395065947,
       "order": 2,
-      "status": "pending",
-      "parentId": "mqd0mlwa5gg1yc",
+      "createdAt": 1781395065947,
       "title": "Motivation & Discipline",
-      "id": "mqd0mlwbwjxejn"
+      "id": "mqd0mlwbwjxejn",
+      "status": "pending",
+      "parentId": "mqd0mlwa5gg1yc"
     },
     {
-      "id": "mqd0mlwcou4erj",
-      "parentId": "mqcz8b1yjezsd5",
       "title": "Knowledge Management",
-      "status": "pending",
       "createdAt": 1781395065948,
+      "status": "pending",
+      "parentId": "mqcz8b1yjezsd5",
+      "id": "mqd0mlwcou4erj",
       "order": 6
     },
     {
-      "createdAt": 1781395065948,
       "order": 0,
-      "status": "pending",
+      "id": "mqd0mlwcff2k8d",
       "parentId": "mqd0mlwcou4erj",
-      "title": "Organizing Information",
-      "id": "mqd0mlwcff2k8d"
+      "status": "pending",
+      "createdAt": 1781395065948,
+      "title": "Organizing Information"
     },
     {
+      "order": 1,
+      "parentId": "mqd0mlwcou4erj",
+      "status": "pending",
       "id": "mqd0mlwdidwq91",
-      "parentId": "mqd0mlwcou4erj",
       "title": "Personal Knowledge Systems",
-      "status": "pending",
-      "createdAt": 1781395065949,
-      "order": 1
+      "createdAt": 1781395065949
     },
     {
-      "status": "pending",
-      "order": 2,
-      "createdAt": 1781395065950,
       "id": "mqd0mlwe7mgrxj",
       "parentId": "mqd0mlwcou4erj",
-      "title": "Knowledge Sharing"
+      "status": "pending",
+      "title": "Knowledge Sharing",
+      "createdAt": 1781395065950,
+      "order": 2
     },
     {
-      "id": "mqd0mlwe8kh972",
+      "createdAt": 1781395065950,
       "title": "Lifelong Learning",
       "parentId": "mqcz8b1yjezsd5",
       "status": "pending",
-      "order": 7,
-      "createdAt": 1781395065950
+      "id": "mqd0mlwe8kh972",
+      "order": 7
     },
     {
+      "order": 0,
+      "id": "mqd0mlwf1bt1og",
+      "status": "pending",
       "parentId": "mqd0mlwe8kh972",
       "title": "Continuous Development",
-      "id": "mqd0mlwf1bt1og",
-      "order": 0,
-      "createdAt": 1781395065951,
-      "status": "pending"
+      "createdAt": 1781395065951
     },
     {
       "createdAt": 1781395065952,
-      "order": 1,
-      "status": "pending",
       "title": "Adaptability & Growth",
+      "status": "pending",
       "parentId": "mqd0mlwe8kh972",
-      "id": "mqd0mlwg1tco2r"
+      "id": "mqd0mlwg1tco2r",
+      "order": 1
     },
     {
-      "status": "pending",
       "order": 2,
       "createdAt": 1781395065953,
-      "id": "mqd0mlwhn4jmtu",
+      "title": "Staying Current",
+      "status": "pending",
       "parentId": "mqd0mlwe8kh972",
-      "title": "Staying Current"
+      "id": "mqd0mlwhn4jmtu"
     },
     {
-      "parentId": "mqcz8b1yjezsd5",
-      "title": "Meta Learning",
       "id": "mqd0sbh3rn6n0s",
-      "order": 8,
-      "createdAt": 1781395332375,
-      "status": "pending"
-    },
-    {
-      "createdAt": 1781395340268,
-      "order": 9,
-      "status": "pending",
       "parentId": "mqcz8b1yjezsd5",
+      "status": "pending",
+      "title": "Meta Learning",
+      "createdAt": 1781395332375,
+      "order": 8
+    },
+    {
+      "parentId": "mqcz8b1yjezsd5",
+      "status": "pending",
+      "id": "mqd0shkckr41ew",
+      "createdAt": 1781395340268,
       "title": "AI-Assisted Learning",
-      "id": "mqd0shkckr41ew"
+      "order": 9
     },
     {
-      "title": "What Learning Is",
-      "parentId": "mqd0mlvroob51r",
-      "id": "mqd14kvk9b1cn8",
-      "createdAt": 1781395904432,
       "order": 0,
+      "title": "What Learning Is",
+      "createdAt": 1781395904432,
+      "id": "mqd14kvk9b1cn8",
+      "parentId": "mqd0mlvroob51r",
       "status": "pending"
     },
     {
       "parentId": "mqd0mlvroob51r",
-      "title": "How Knowledge Is Built",
+      "status": "pending",
       "id": "mqd14kvl2cv1ej",
+      "title": "How Knowledge Is Built",
       "createdAt": 1781395904433,
-      "order": 1,
-      "status": "pending"
+      "order": 1
     },
     {
       "createdAt": 1781395904433,
-      "order": 2,
+      "title": "How Skills Are Developed",
       "status": "pending",
       "parentId": "mqd0mlvroob51r",
-      "title": "How Skills Are Developed",
-      "id": "mqd14kvl1dp702"
+      "id": "mqd14kvl1dp702",
+      "order": 2
     },
     {
-      "parentId": "mqd0mlvroob51r",
-      "title": "Metacognition",
       "id": "mqd14kvmmhso6l",
-      "order": 3,
+      "parentId": "mqd0mlvroob51r",
+      "status": "pending",
+      "title": "Metacognition",
       "createdAt": 1781395904434,
-      "status": "pending"
+      "order": 3
     },
     {
       "id": "mqd14kvmzmbc2c",
-      "title": "Learning Science",
-      "parentId": "mqd0mlvpcv8194",
       "status": "pending",
+      "parentId": "mqd0mlvpcv8194",
+      "title": "Learning Science",
       "createdAt": 1781395904434,
       "order": 1
     },
     {
-      "createdAt": 1781395904435,
       "order": 0,
+      "createdAt": 1781395904435,
+      "title": "Cognitive Load",
+      "id": "mqd14kvnytmvqt",
+      "parentId": "mqd14kvmzmbc2c",
+      "status": "pending"
+    },
+    {
+      "order": 1,
+      "createdAt": 1781395904435,
+      "title": "Working Memory",
+      "id": "mqd14kvnetb82z",
+      "parentId": "mqd14kvmzmbc2c",
+      "status": "pending"
+    },
+    {
+      "createdAt": 1781395904436,
+      "title": "Long-Term Memory",
       "status": "pending",
       "parentId": "mqd14kvmzmbc2c",
-      "title": "Cognitive Load",
-      "id": "mqd14kvnytmvqt"
-    },
-    {
-      "status": "pending",
-      "createdAt": 1781395904435,
-      "order": 1,
-      "id": "mqd14kvnetb82z",
-      "title": "Working Memory",
-      "parentId": "mqd14kvmzmbc2c"
-    },
-    {
-      "status": "pending",
-      "createdAt": 1781395904436,
-      "order": 2,
       "id": "mqd14kvoriy6hg",
-      "title": "Long-Term Memory",
-      "parentId": "mqd14kvmzmbc2c"
+      "order": 2
     },
     {
+      "parentId": "mqd14kvmzmbc2c",
+      "status": "pending",
       "id": "mqd14kvochn01r",
       "title": "Schema Formation",
-      "parentId": "mqd14kvmzmbc2c",
-      "status": "pending",
-      "order": 3,
-      "createdAt": 1781395904436
-    },
-    {
-      "parentId": "mqd0mlvsx434ox",
-      "title": "Active Recall",
-      "id": "mqd14kvpvc1ajd",
-      "order": 0,
-      "createdAt": 1781395904437,
-      "status": "pending"
-    },
-    {
-      "order": 1,
-      "createdAt": 1781395904437,
-      "status": "pending",
-      "title": "Interleaving",
-      "parentId": "mqd0mlvsx434ox",
-      "id": "mqd14kvpsc4nlq"
-    },
-    {
-      "parentId": "mqd0mlvsx434ox",
-      "title": "Retrieval Practice",
-      "id": "mqd14kvqruibwt",
-      "createdAt": 1781395904438,
-      "order": 2,
-      "status": "pending"
-    },
-    {
-      "id": "mqd14kvqczfrhq",
-      "title": "Elaboration",
-      "parentId": "mqd0mlvsx434ox",
-      "status": "pending",
-      "createdAt": 1781395904438,
+      "createdAt": 1781395904436,
       "order": 3
     },
     {
-      "order": 4,
+      "order": 0,
+      "id": "mqd14kvpvc1ajd",
+      "parentId": "mqd0mlvsx434ox",
+      "status": "pending",
+      "createdAt": 1781395904437,
+      "title": "Active Recall"
+    },
+    {
+      "order": 1,
+      "parentId": "mqd0mlvsx434ox",
+      "status": "pending",
+      "id": "mqd14kvpsc4nlq",
+      "createdAt": 1781395904437,
+      "title": "Interleaving"
+    },
+    {
+      "title": "Retrieval Practice",
+      "createdAt": 1781395904438,
+      "id": "mqd14kvqruibwt",
+      "parentId": "mqd0mlvsx434ox",
+      "status": "pending",
+      "order": 2
+    },
+    {
+      "title": "Elaboration",
+      "createdAt": 1781395904438,
+      "status": "pending",
+      "parentId": "mqd0mlvsx434ox",
+      "id": "mqd14kvqczfrhq",
+      "order": 3
+    },
+    {
+      "title": "Deliberate Practice",
       "createdAt": 1781395904438,
       "status": "pending",
       "parentId": "mqd0mlvpcv8194",
-      "title": "Deliberate Practice",
-      "id": "mqd14kvqzk8a11"
+      "id": "mqd14kvqzk8a11",
+      "order": 4
     },
     {
-      "createdAt": 1781395904439,
       "order": 0,
+      "id": "mqd14kvroqx2va",
       "status": "pending",
       "parentId": "mqd14kvqzk8a11",
       "title": "Feedback Loops",
-      "id": "mqd14kvroqx2va"
+      "createdAt": 1781395904439
     },
     {
-      "createdAt": 1781395904439,
       "order": 1,
-      "status": "pending",
       "parentId": "mqd14kvqzk8a11",
+      "status": "pending",
+      "id": "mqd14kvr5nazt6",
       "title": "Practice Design",
-      "id": "mqd14kvr5nazt6"
+      "createdAt": 1781395904439
     },
     {
-      "order": 2,
-      "createdAt": 1781395904439,
-      "status": "pending",
-      "parentId": "mqd14kvqzk8a11",
       "title": "Performance Improvement",
-      "id": "mqd14kvrjpl4yh"
+      "createdAt": 1781395904439,
+      "id": "mqd14kvrjpl4yh",
+      "parentId": "mqd14kvqzk8a11",
+      "status": "pending",
+      "order": 2
     },
     {
-      "id": "mqd14kvstiuhi9",
-      "parentId": "mqd0mlvpcv8194",
-      "title": "Skill Acquisition",
-      "status": "pending",
       "order": 5,
+      "parentId": "mqd0mlvpcv8194",
+      "status": "pending",
+      "id": "mqd14kvstiuhi9",
+      "createdAt": 1781395904440,
+      "title": "Skill Acquisition"
+    },
+    {
+      "order": 0,
+      "id": "mqd14kvszikqvf",
+      "status": "pending",
+      "parentId": "mqd14kvstiuhi9",
+      "createdAt": 1781395904440,
+      "title": "Beginner Stage"
+    },
+    {
+      "order": 1,
+      "parentId": "mqd14kvstiuhi9",
+      "status": "pending",
+      "id": "mqd14kvscdhzrh",
+      "title": "Intermediate Stage",
       "createdAt": 1781395904440
     },
     {
-      "title": "Beginner Stage",
-      "parentId": "mqd14kvstiuhi9",
-      "id": "mqd14kvszikqvf",
-      "order": 0,
-      "createdAt": 1781395904440,
-      "status": "pending"
-    },
-    {
-      "parentId": "mqd14kvstiuhi9",
-      "title": "Intermediate Stage",
-      "id": "mqd14kvscdhzrh",
-      "order": 1,
-      "createdAt": 1781395904440,
-      "status": "pending"
-    },
-    {
-      "parentId": "mqd14kvstiuhi9",
-      "title": "Advanced Stage",
-      "id": "mqd14kvswq2vde",
       "order": 2,
-      "createdAt": 1781395904440,
-      "status": "pending"
-    },
-    {
-      "status": "pending",
-      "order": 3,
-      "createdAt": 1781395904441,
-      "id": "mqd14kvtaxpwkj",
+      "id": "mqd14kvswq2vde",
       "parentId": "mqd14kvstiuhi9",
-      "title": "Expert Stage"
+      "status": "pending",
+      "title": "Advanced Stage",
+      "createdAt": 1781395904440
     },
     {
-      "title": "Learning Transfer",
-      "parentId": "mqd0mlvpcv8194",
-      "id": "mqd14kvtl8bfdr",
+      "id": "mqd14kvtaxpwkj",
+      "status": "pending",
+      "parentId": "mqd14kvstiuhi9",
+      "createdAt": 1781395904441,
+      "title": "Expert Stage",
+      "order": 3
+    },
+    {
       "order": 6,
       "createdAt": 1781395904441,
-      "status": "pending"
-    },
-    {
-      "title": "Near Transfer",
-      "parentId": "mqd14kvtl8bfdr",
-      "id": "mqd14kvt2gv898",
-      "createdAt": 1781395904441,
-      "order": 0,
-      "status": "pending"
-    },
-    {
-      "parentId": "mqd14kvtl8bfdr",
-      "title": "Far Transfer",
-      "id": "mqd14kvtxixyia",
-      "createdAt": 1781395904441,
-      "order": 1,
-      "status": "pending"
-    },
-    {
-      "title": "Application",
-      "parentId": "mqd14kvtl8bfdr",
-      "id": "mqd14kvubabt8a",
-      "order": 2,
-      "createdAt": 1781395904442,
-      "status": "pending"
-    },
-    {
+      "title": "Learning Transfer",
       "parentId": "mqd0mlvpcv8194",
-      "title": "Deep Learning",
-      "id": "mqd14kvufswb2a",
+      "status": "pending",
+      "id": "mqd14kvtl8bfdr"
+    },
+    {
+      "id": "mqd14kvt2gv898",
+      "status": "pending",
+      "parentId": "mqd14kvtl8bfdr",
+      "title": "Near Transfer",
+      "createdAt": 1781395904441,
+      "order": 0
+    },
+    {
+      "order": 1,
+      "title": "Far Transfer",
+      "createdAt": 1781395904441,
+      "status": "pending",
+      "parentId": "mqd14kvtl8bfdr",
+      "id": "mqd14kvtxixyia"
+    },
+    {
+      "id": "mqd14kvubabt8a",
+      "status": "pending",
+      "parentId": "mqd14kvtl8bfdr",
+      "createdAt": 1781395904442,
+      "title": "Application",
+      "order": 2
+    },
+    {
       "order": 7,
       "createdAt": 1781395904442,
-      "status": "pending"
+      "title": "Deep Learning",
+      "status": "pending",
+      "parentId": "mqd0mlvpcv8194",
+      "id": "mqd14kvufswb2a"
     },
     {
+      "status": "pending",
+      "parentId": "mqd14kvufswb2a",
       "id": "mqd14kvuurxl38",
       "title": "Understanding",
-      "parentId": "mqd14kvufswb2a",
-      "status": "pending",
       "createdAt": 1781395904442,
       "order": 0
     },
     {
-      "status": "pending",
-      "createdAt": 1781395904442,
       "order": 1,
       "id": "mqd14kvu3tkioc",
-      "title": "Connections",
-      "parentId": "mqd14kvufswb2a"
+      "parentId": "mqd14kvufswb2a",
+      "status": "pending",
+      "createdAt": 1781395904442,
+      "title": "Connections"
     },
     {
-      "parentId": "mqd14kvufswb2a",
-      "title": "Abstraction",
-      "id": "mqd14kvu3bj4sg",
-      "createdAt": 1781395904442,
       "order": 2,
+      "title": "Abstraction",
+      "createdAt": 1781395904442,
+      "id": "mqd14kvu3bj4sg",
+      "parentId": "mqd14kvufswb2a",
       "status": "pending"
     },
     {
-      "createdAt": 1781395904443,
       "order": 8,
-      "status": "pending",
       "parentId": "mqd0mlvpcv8194",
-      "title": "Mastery",
-      "id": "mqd14kvviewuwm"
+      "status": "pending",
+      "id": "mqd14kvviewuwm",
+      "createdAt": 1781395904443,
+      "title": "Mastery"
     },
     {
-      "order": 0,
       "createdAt": 1781395904443,
-      "status": "pending",
       "title": "Expertise",
       "parentId": "mqd14kvviewuwm",
-      "id": "mqd14kvv1toop0"
+      "status": "pending",
+      "id": "mqd14kvv1toop0",
+      "order": 0
     },
     {
       "order": 1,
-      "createdAt": 1781395904444,
-      "status": "pending",
+      "id": "mqd14kvwm6sb0n",
       "parentId": "mqd14kvviewuwm",
+      "status": "pending",
       "title": "Continuous Improvement",
-      "id": "mqd14kvwm6sb0n"
+      "createdAt": 1781395904444
     },
     {
+      "order": 2,
+      "createdAt": 1781395904444,
       "title": "Reflective Learning",
-      "parentId": "mqd14kvviewuwm",
       "id": "mqd14kvwox8zk6",
-      "createdAt": 1781395904444,
-      "order": 2,
+      "parentId": "mqd14kvviewuwm",
       "status": "pending"
     },
     {
-      "parentId": "mqd0mlvroob51r",
-      "title": "Self-Regulated Learning",
       "id": "mqd197f1y6yfvj",
+      "status": "pending",
+      "parentId": "mqd0mlvroob51r",
       "createdAt": 1781396120269,
-      "order": 4,
-      "status": "pending"
-    },
-    {
-      "id": "mqd197f26yh2zo",
-      "parentId": "mqd14kvmzmbc2c",
-      "title": "Neuroplasticity",
-      "status": "pending",
-      "order": 4,
-      "createdAt": 1781396120270
-    },
-    {
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1781396120270,
-      "id": "mqd197f2kgdsut",
-      "parentId": "mqd0mlvsj5rujv",
-      "title": "Learning Modalities"
-    },
-    {
-      "id": "mqd197f2oznblr",
-      "parentId": "mqd0mlvsj5rujv",
-      "title": "Learning Environment Preferences",
-      "status": "pending",
-      "createdAt": 1781396120270,
-      "order": 1
-    },
-    {
-      "order": 2,
-      "createdAt": 1781396120270,
-      "status": "pending",
-      "parentId": "mqd0mlvsj5rujv",
-      "title": "Learning Resource Preferences",
-      "id": "mqd197f2hvm1v2"
-    },
-    {
-      "createdAt": 1781396120270,
-      "order": 3,
-      "status": "pending",
-      "parentId": "mqd0mlvsj5rujv",
-      "title": "Personalization Strategies",
-      "id": "mqd197f2u8oey0"
-    },
-    {
-      "status": "pending",
-      "order": 4,
-      "createdAt": 1781396120271,
-      "id": "mqd197f3sumykq",
-      "parentId": "mqd0mlvsj5rujv",
-      "title": "Adapting Study Methods"
-    },
-    {
-      "status": "pending",
-      "createdAt": 1781396120271,
-      "order": 4,
-      "id": "mqd197f34hqv9v",
-      "parentId": "mqd0mlvsx434ox",
-      "title": "Feynman Technique"
-    },
-    {
-      "createdAt": 1781396120271,
-      "order": 5,
-      "status": "pending",
-      "title": "Cornell Note-Taking",
-      "parentId": "mqd0mlvsx434ox",
-      "id": "mqd197f3go6umx"
-    },
-    {
-      "id": "mqd197f4pyjccq",
-      "parentId": "mqd14kvqzk8a11",
-      "title": "Error Correction",
-      "status": "pending",
-      "createdAt": 1781396120272,
-      "order": 3
-    },
-    {
-      "status": "pending",
-      "order": 4,
-      "createdAt": 1781396120272,
-      "id": "mqd197f4278gbj",
-      "title": "Competency Development",
-      "parentId": "mqd14kvstiuhi9"
-    },
-    {
-      "title": "Cross-Domain Thinking",
-      "parentId": "mqd14kvtl8bfdr",
-      "id": "mqd197f4hv76i2",
-      "order": 3,
-      "createdAt": 1781396120272,
-      "status": "pending"
-    },
-    {
-      "id": "mqd197f4e2tlna",
-      "parentId": "mqd14kvtl8bfdr",
-      "title": "Real-World Application",
-      "status": "pending",
-      "order": 4,
-      "createdAt": 1781396120272
-    },
-    {
-      "id": "mqd197f4d9mugq",
-      "title": "Systems Thinking",
-      "parentId": "mqd14kvufswb2a",
-      "status": "pending",
-      "createdAt": 1781396120272,
-      "order": 3
-    },
-    {
-      "id": "mqd197f4er48eu",
-      "parentId": "mqd0mlvpcv8194",
-      "title": "Reflective Learning",
-      "status": "pending",
-      "order": 9,
-      "createdAt": 1781396120272
-    },
-    {
-      "createdAt": 1781396120273,
-      "order": 0,
-      "status": "pending",
-      "parentId": "mqd197f4er48eu",
-      "title": "Self-Assessment",
-      "id": "mqd197f5d72hoq"
-    },
-    {
-      "order": 1,
-      "createdAt": 1781396120273,
-      "status": "pending",
-      "parentId": "mqd197f4er48eu",
-      "title": "Learning Journals",
-      "id": "mqd197f5550zz1"
-    },
-    {
-      "id": "mqd197f6usbfuk",
-      "title": "Retrospectives",
-      "parentId": "mqd197f4er48eu",
-      "status": "pending",
-      "order": 2,
-      "createdAt": 1781396120274
-    },
-    {
-      "id": "mqd197f64wpp6w",
-      "parentId": "mqd197f4er48eu",
-      "title": "Continuous Improvement",
-      "status": "pending",
-      "order": 3,
-      "createdAt": 1781396120274
-    },
-    {
-      "id": "mqd197f6f77s0c",
-      "parentId": "mqd14kvviewuwm",
-      "title": "Expertise Development",
-      "status": "pending",
-      "createdAt": 1781396120274,
-      "order": 3
-    },
-    {
-      "id": "mqd197f680cz54",
-      "title": "Knowledge Integration",
-      "parentId": "mqd14kvviewuwm",
-      "status": "pending",
-      "createdAt": 1781396120274,
+      "title": "Self-Regulated Learning",
       "order": 4
     },
     {
-      "id": "mqd197f6jtcxhj",
-      "parentId": "mqd14kvviewuwm",
-      "title": "Teaching Others",
+      "order": 4,
+      "id": "mqd197f26yh2zo",
       "status": "pending",
-      "createdAt": 1781396120274,
-      "order": 5
+      "parentId": "mqd14kvmzmbc2c",
+      "title": "Neuroplasticity",
+      "createdAt": 1781396120270
     },
     {
-      "createdAt": 1781396120275,
-      "order": 6,
+      "order": 0,
       "status": "pending",
-      "parentId": "mqd14kvviewuwm",
-      "title": "Lifelong Mastery",
-      "id": "mqd197f77041r3"
+      "parentId": "mqd0mlvsj5rujv",
+      "id": "mqd197f2kgdsut",
+      "createdAt": 1781396120270,
+      "title": "Learning Modalities"
     },
     {
-      "status": "pending",
       "order": 1,
-      "createdAt": 1782671677888,
-      "id": "mqy4otz4sopwmd",
-      "parentId": null,
-      "title": "DSPM (from Absolute Novice to Industry Standards level, style: Normal explanation)"
-    },
-    {
-      "id": "mqy4otzeeocpgh",
-      "title": "Foundational Concepts",
-      "parentId": "mqy4otz4sopwmd",
+      "createdAt": 1781396120270,
+      "title": "Learning Environment Preferences",
+      "id": "mqd197f2oznblr",
       "status": "pending",
-      "order": 0,
-      "createdAt": 1782671677898
-    },
-    {
-      "title": "Cybersecurity & Data Basics",
-      "parentId": "mqy4otzeeocpgh",
-      "id": "mqy4otzomd2lsm",
-      "order": 0,
-      "createdAt": 1782671677908,
-      "status": "pending"
-    },
-    {
-      "parentId": "mqy4otzomd2lsm",
-      "title": "Core Security Principles",
-      "id": "mqy4otzw0mjhc1",
-      "createdAt": 1782671677916,
-      "order": 0,
-      "status": "pending"
-    },
-    {
-      "id": "mqy4ou05b0nf7o",
-      "title": "Data Types & Sensitivity",
-      "parentId": "mqy4otzomd2lsm",
-      "status": "pending",
-      "order": 1,
-      "createdAt": 1782671677925
-    },
-    {
-      "parentId": "mqy4otzeeocpgh",
-      "title": "Cloud Computing Fundamentals",
-      "id": "mqy4ou0djfeo6y",
-      "order": 1,
-      "createdAt": 1782671677933,
-      "status": "pending"
-    },
-    {
-      "order": 0,
-      "createdAt": 1782671677941,
-      "status": "pending",
-      "title": "IaaS, PaaS, SaaS Models",
-      "parentId": "mqy4ou0djfeo6y",
-      "id": "mqy4ou0lryzfu2"
-    },
-    {
-      "id": "mqy4ou0uz0s52m",
-      "parentId": "mqy4ou0djfeo6y",
-      "title": "Cloud Shared Responsibility Model",
-      "status": "pending",
-      "createdAt": 1782671677950,
-      "order": 1
+      "parentId": "mqd0mlvsj5rujv"
     },
     {
       "order": 2,
-      "createdAt": 1782671677958,
+      "id": "mqd197f2hvm1v2",
+      "parentId": "mqd0mlvsj5rujv",
       "status": "pending",
-      "title": "Introduction to Data Security",
-      "parentId": "mqy4otzeeocpgh",
-      "id": "mqy4ou12fzsot2"
+      "createdAt": 1781396120270,
+      "title": "Learning Resource Preferences"
     },
     {
+      "order": 3,
+      "id": "mqd197f2u8oey0",
+      "parentId": "mqd0mlvsj5rujv",
+      "status": "pending",
+      "createdAt": 1781396120270,
+      "title": "Personalization Strategies"
+    },
+    {
+      "createdAt": 1781396120271,
+      "title": "Adapting Study Methods",
+      "parentId": "mqd0mlvsj5rujv",
+      "status": "pending",
+      "id": "mqd197f3sumykq",
+      "order": 4
+    },
+    {
+      "order": 4,
+      "status": "pending",
+      "parentId": "mqd0mlvsx434ox",
+      "id": "mqd197f34hqv9v",
+      "title": "Feynman Technique",
+      "createdAt": 1781396120271
+    },
+    {
+      "order": 5,
+      "status": "pending",
+      "parentId": "mqd0mlvsx434ox",
+      "id": "mqd197f3go6umx",
+      "title": "Cornell Note-Taking",
+      "createdAt": 1781396120271
+    },
+    {
+      "order": 3,
+      "id": "mqd197f4pyjccq",
+      "parentId": "mqd14kvqzk8a11",
+      "status": "pending",
+      "createdAt": 1781396120272,
+      "title": "Error Correction"
+    },
+    {
+      "createdAt": 1781396120272,
+      "title": "Competency Development",
+      "status": "pending",
+      "parentId": "mqd14kvstiuhi9",
+      "id": "mqd197f4278gbj",
+      "order": 4
+    },
+    {
+      "order": 3,
+      "createdAt": 1781396120272,
+      "title": "Cross-Domain Thinking",
+      "id": "mqd197f4hv76i2",
+      "status": "pending",
+      "parentId": "mqd14kvtl8bfdr"
+    },
+    {
+      "order": 4,
+      "status": "pending",
+      "parentId": "mqd14kvtl8bfdr",
+      "id": "mqd197f4e2tlna",
+      "createdAt": 1781396120272,
+      "title": "Real-World Application"
+    },
+    {
+      "order": 3,
+      "id": "mqd197f4d9mugq",
+      "status": "pending",
+      "parentId": "mqd14kvufswb2a",
+      "createdAt": 1781396120272,
+      "title": "Systems Thinking"
+    },
+    {
+      "status": "pending",
+      "parentId": "mqd0mlvpcv8194",
+      "id": "mqd197f4er48eu",
+      "title": "Reflective Learning",
+      "createdAt": 1781396120272,
+      "order": 9
+    },
+    {
+      "order": 0,
+      "id": "mqd197f5d72hoq",
+      "parentId": "mqd197f4er48eu",
+      "status": "pending",
+      "createdAt": 1781396120273,
+      "title": "Self-Assessment"
+    },
+    {
+      "order": 1,
+      "id": "mqd197f5550zz1",
+      "parentId": "mqd197f4er48eu",
+      "status": "pending",
+      "title": "Learning Journals",
+      "createdAt": 1781396120273
+    },
+    {
+      "title": "Retrospectives",
+      "createdAt": 1781396120274,
+      "parentId": "mqd197f4er48eu",
+      "status": "pending",
+      "id": "mqd197f6usbfuk",
+      "order": 2
+    },
+    {
+      "id": "mqd197f64wpp6w",
+      "status": "pending",
+      "parentId": "mqd197f4er48eu",
+      "title": "Continuous Improvement",
+      "createdAt": 1781396120274,
+      "order": 3
+    },
+    {
+      "order": 3,
+      "id": "mqd197f6f77s0c",
+      "parentId": "mqd14kvviewuwm",
+      "status": "pending",
+      "title": "Expertise Development",
+      "createdAt": 1781396120274
+    },
+    {
+      "title": "Knowledge Integration",
+      "createdAt": 1781396120274,
+      "id": "mqd197f680cz54",
+      "status": "pending",
+      "parentId": "mqd14kvviewuwm",
+      "order": 4
+    },
+    {
+      "order": 5,
+      "createdAt": 1781396120274,
+      "title": "Teaching Others",
+      "parentId": "mqd14kvviewuwm",
+      "status": "pending",
+      "id": "mqd197f6jtcxhj"
+    },
+    {
+      "order": 6,
+      "status": "pending",
+      "parentId": "mqd14kvviewuwm",
+      "id": "mqd197f77041r3",
+      "title": "Lifelong Mastery",
+      "createdAt": 1781396120275
+    },
+    {
+      "order": 1,
+      "createdAt": 1782671677888,
+      "title": "DSPM (from Absolute Novice to Industry Standards level, style: Normal explanation)",
+      "parentId": null,
+      "status": "pending",
+      "id": "mqy4otz4sopwmd"
+    },
+    {
+      "status": "pending",
+      "parentId": "mqy4otz4sopwmd",
+      "id": "mqy4otzeeocpgh",
+      "createdAt": 1782671677898,
+      "title": "Foundational Concepts",
+      "order": 0
+    },
+    {
+      "order": 0,
+      "id": "mqy4otzomd2lsm",
+      "status": "pending",
+      "parentId": "mqy4otzeeocpgh",
+      "title": "Cybersecurity & Data Basics",
+      "createdAt": 1782671677908
+    },
+    {
+      "order": 0,
+      "id": "mqy4otzw0mjhc1",
+      "status": "pending",
+      "parentId": "mqy4otzomd2lsm",
+      "title": "Core Security Principles",
+      "createdAt": 1782671677916
+    },
+    {
+      "order": 1,
+      "id": "mqy4ou05b0nf7o",
+      "status": "pending",
+      "parentId": "mqy4otzomd2lsm",
+      "title": "Data Types & Sensitivity",
+      "createdAt": 1782671677925
+    },
+    {
+      "order": 1,
+      "title": "Cloud Computing Fundamentals",
+      "createdAt": 1782671677933,
+      "status": "pending",
+      "parentId": "mqy4otzeeocpgh",
+      "id": "mqy4ou0djfeo6y"
+    },
+    {
+      "id": "mqy4ou0lryzfu2",
+      "parentId": "mqy4ou0djfeo6y",
+      "status": "pending",
+      "createdAt": 1782671677941,
+      "title": "IaaS, PaaS, SaaS Models",
+      "order": 0
+    },
+    {
+      "order": 1,
+      "id": "mqy4ou0uz0s52m",
+      "status": "pending",
+      "parentId": "mqy4ou0djfeo6y",
+      "createdAt": 1782671677950,
+      "title": "Cloud Shared Responsibility Model"
+    },
+    {
+      "id": "mqy4ou12fzsot2",
+      "status": "pending",
+      "parentId": "mqy4otzeeocpgh",
+      "createdAt": 1782671677958,
+      "title": "Introduction to Data Security",
+      "order": 2
+    },
+    {
+      "status": "pending",
+      "parentId": "mqy4ou12fzsot2",
       "id": "mqy4ou1bexnwi9",
       "title": "Confidentiality, Integrity, Availability (CIA)",
-      "parentId": "mqy4ou12fzsot2",
-      "status": "pending",
       "createdAt": 1782671677967,
       "order": 0
     },
     {
-      "title": "Common Data Security Challenges",
-      "parentId": "mqy4ou12fzsot2",
-      "id": "mqy4ou1jbjdhxp",
-      "createdAt": 1782671677975,
       "order": 1,
-      "status": "pending"
+      "createdAt": 1782671677975,
+      "title": "Common Data Security Challenges",
+      "status": "pending",
+      "parentId": "mqy4ou12fzsot2",
+      "id": "mqy4ou1jbjdhxp"
     },
     {
       "id": "mqy4ou1q5rw3bz",
-      "title": "Understanding DSPM",
-      "parentId": "mqy4otz4sopwmd",
       "status": "pending",
+      "parentId": "mqy4otz4sopwmd",
       "createdAt": 1782671677982,
+      "title": "Understanding DSPM",
       "order": 1
     },
     {
       "order": 0,
       "createdAt": 1782671677992,
-      "status": "pending",
       "title": "What is DSPM?",
+      "status": "pending",
       "parentId": "mqy4ou1q5rw3bz",
       "id": "mqy4ou20ccy0w1"
     },
     {
       "order": 0,
-      "createdAt": 1782671677999,
+      "id": "mqy4ou27uky90r",
       "status": "pending",
-      "title": "Definition & Purpose",
       "parentId": "mqy4ou20ccy0w1",
-      "id": "mqy4ou27uky90r"
+      "createdAt": 1782671677999,
+      "title": "Definition & Purpose"
     },
     {
-      "id": "mqy4ou2fvlicej",
-      "parentId": "mqy4ou20ccy0w1",
-      "title": "Why DSPM is Essential Today",
-      "status": "pending",
       "order": 1,
+      "parentId": "mqy4ou20ccy0w1",
+      "status": "pending",
+      "id": "mqy4ou2fvlicej",
+      "title": "Why DSPM is Essential Today",
       "createdAt": 1782671678007
     },
     {
-      "order": 1,
-      "createdAt": 1782671678015,
+      "id": "mqy4ou2nlfkld6",
+      "parentId": "mqy4ou1q5rw3bz",
       "status": "pending",
       "title": "Key Benefits & Use Cases",
-      "parentId": "mqy4ou1q5rw3bz",
-      "id": "mqy4ou2nlfkld6"
+      "createdAt": 1782671678015,
+      "order": 1
     },
     {
-      "createdAt": 1782671678024,
-      "order": 0,
       "status": "pending",
       "parentId": "mqy4ou2nlfkld6",
+      "id": "mqy4ou2w9kexs5",
+      "createdAt": 1782671678024,
       "title": "Risk Reduction & Compliance",
-      "id": "mqy4ou2w9kexs5"
+      "order": 0
     },
     {
-      "createdAt": 1782671678032,
       "order": 1,
-      "status": "pending",
+      "createdAt": 1782671678032,
       "title": "Operational Efficiency",
+      "status": "pending",
       "parentId": "mqy4ou2nlfkld6",
       "id": "mqy4ou34xryrgp"
     },
     {
-      "status": "pending",
-      "order": 2,
-      "createdAt": 1782671678041,
       "id": "mqy4ou3dxzkb8m",
+      "status": "pending",
       "parentId": "mqy4ou1q5rw3bz",
-      "title": "DSPM vs. Related Concepts"
+      "title": "DSPM vs. Related Concepts",
+      "createdAt": 1782671678041,
+      "order": 2
     },
     {
+      "status": "pending",
       "parentId": "mqy4ou3dxzkb8m",
-      "title": "DSPM vs. CSPM/CNAPP",
       "id": "mqy4ou3outxyv5",
+      "title": "DSPM vs. CSPM/CNAPP",
       "createdAt": 1782671678052,
-      "order": 0,
-      "status": "pending"
+      "order": 0
     },
     {
-      "title": "DSPM vs. DLP",
-      "parentId": "mqy4ou3dxzkb8m",
       "id": "mqy4ou3z7pffdf",
-      "order": 1,
+      "status": "pending",
+      "parentId": "mqy4ou3dxzkb8m",
+      "title": "DSPM vs. DLP",
       "createdAt": 1782671678063,
-      "status": "pending"
+      "order": 1
     },
     {
       "createdAt": 1782671678073,
-      "order": 2,
+      "title": "DSPM Core Capabilities",
+      "id": "mqy4ou49csbguy",
       "status": "pending",
       "parentId": "mqy4otz4sopwmd",
-      "title": "DSPM Core Capabilities",
-      "id": "mqy4ou49csbguy"
+      "order": 2
     },
     {
-      "order": 0,
       "createdAt": 1782671678082,
-      "status": "pending",
       "title": "Data Discovery & Classification",
+      "status": "pending",
       "parentId": "mqy4ou49csbguy",
-      "id": "mqy4ou4i9ner70"
+      "id": "mqy4ou4i9ner70",
+      "order": 0
     },
     {
       "id": "mqy4ou4s8gcyqg",
       "parentId": "mqy4ou4i9ner70",
+      "status": "pending",
+      "createdAt": 1782671678092,
       "title": "Automated Sensitive Data Discovery",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1782671678092
+      "order": 0
     },
     {
-      "id": "mqy4ou52w7hno9",
       "title": "Contextual Data Classification",
+      "createdAt": 1782671678102,
+      "id": "mqy4ou52w7hno9",
+      "status": "pending",
       "parentId": "mqy4ou4i9ner70",
-      "status": "pending",
-      "order": 1,
-      "createdAt": 1782671678102
+      "order": 1
     },
     {
       "order": 1,
-      "createdAt": 1782671678111,
-      "status": "pending",
-      "parentId": "mqy4ou49csbguy",
       "title": "Risk Identification & Prioritization",
-      "id": "mqy4ou5b5zqa1f"
-    },
-    {
-      "order": 0,
-      "createdAt": 1782671678124,
-      "status": "pending",
-      "title": "Misconfiguration & Vulnerability Detection",
-      "parentId": "mqy4ou5b5zqa1f",
-      "id": "mqy4ou5o615z17"
-    },
-    {
-      "createdAt": 1782671678135,
-      "order": 1,
-      "status": "pending",
-      "title": "Data Access Risk Analysis",
-      "parentId": "mqy4ou5b5zqa1f",
-      "id": "mqy4ou5zjg5mjr"
-    },
-    {
-      "status": "pending",
-      "createdAt": 1782671678145,
-      "order": 2,
-      "id": "mqy4ou697hg8x3",
-      "title": "Context-Aware Risk Scoring",
-      "parentId": "mqy4ou5b5zqa1f"
-    },
-    {
-      "id": "mqy4ou6nw80lks",
+      "createdAt": 1782671678111,
+      "id": "mqy4ou5b5zqa1f",
       "parentId": "mqy4ou49csbguy",
+      "status": "pending"
+    },
+    {
+      "status": "pending",
+      "parentId": "mqy4ou5b5zqa1f",
+      "id": "mqy4ou5o615z17",
+      "title": "Misconfiguration & Vulnerability Detection",
+      "createdAt": 1782671678124,
+      "order": 0
+    },
+    {
+      "id": "mqy4ou5zjg5mjr",
+      "status": "pending",
+      "parentId": "mqy4ou5b5zqa1f",
+      "createdAt": 1782671678135,
+      "title": "Data Access Risk Analysis",
+      "order": 1
+    },
+    {
+      "id": "mqy4ou697hg8x3",
+      "status": "pending",
+      "parentId": "mqy4ou5b5zqa1f",
+      "createdAt": 1782671678145,
+      "title": "Context-Aware Risk Scoring",
+      "order": 2
+    },
+    {
+      "createdAt": 1782671678159,
       "title": "Policy & Compliance Enforcement",
+      "parentId": "mqy4ou49csbguy",
       "status": "pending",
-      "order": 2,
-      "createdAt": 1782671678159
+      "id": "mqy4ou6nw80lks",
+      "order": 2
     },
     {
+      "id": "mqy4ou6zpq9nym",
+      "status": "pending",
+      "parentId": "mqy4ou6nw80lks",
       "createdAt": 1782671678171,
-      "order": 0,
-      "status": "pending",
       "title": "Security Baselines & Custom Policies",
-      "parentId": "mqy4ou6nw80lks",
-      "id": "mqy4ou6zpq9nym"
+      "order": 0
     },
     {
-      "id": "mqy4ou79954biy",
       "title": "Regulatory Compliance Mapping",
+      "createdAt": 1782671678181,
+      "id": "mqy4ou79954biy",
       "parentId": "mqy4ou6nw80lks",
       "status": "pending",
-      "createdAt": 1782671678181,
       "order": 1
     },
     {
       "order": 3,
-      "createdAt": 1782671678194,
-      "status": "pending",
-      "title": "Remediation & Monitoring",
       "parentId": "mqy4ou49csbguy",
-      "id": "mqy4ou7mcw3qbx"
+      "status": "pending",
+      "id": "mqy4ou7mcw3qbx",
+      "createdAt": 1782671678194,
+      "title": "Remediation & Monitoring"
     },
     {
       "order": 0,
-      "createdAt": 1782671678204,
-      "status": "pending",
-      "parentId": "mqy4ou7mcw3qbx",
       "title": "Guided Remediation Workflows",
+      "createdAt": 1782671678204,
+      "parentId": "mqy4ou7mcw3qbx",
+      "status": "pending",
       "id": "mqy4ou7wdtkoz4"
     },
     {
-      "status": "pending",
-      "order": 1,
+      "title": "Alerting, Reporting & Dashboards",
       "createdAt": 1782671678216,
       "id": "mqy4ou87rmdc1v",
+      "status": "pending",
       "parentId": "mqy4ou7mcw3qbx",
-      "title": "Alerting, Reporting & Dashboards"
+      "order": 1
     },
     {
-      "status": "pending",
-      "createdAt": 1782671678225,
-      "order": 3,
       "id": "mqy4ou8hfv00fi",
+      "parentId": "mqy4otz4sopwmd",
+      "status": "pending",
       "title": "DSPM Implementation & Operations",
-      "parentId": "mqy4otz4sopwmd"
+      "createdAt": 1782671678225,
+      "order": 3
     },
     {
-      "status": "pending",
-      "createdAt": 1782671678234,
-      "order": 0,
-      "id": "mqy4ou8q6e0r4l",
       "parentId": "mqy4ou8hfv00fi",
-      "title": "Platform Selection & Deployment"
+      "status": "pending",
+      "id": "mqy4ou8q6e0r4l",
+      "title": "Platform Selection & Deployment",
+      "createdAt": 1782671678234,
+      "order": 0
     },
     {
       "id": "mqy4ou92z92war",
       "parentId": "mqy4ou8q6e0r4l",
+      "status": "pending",
+      "createdAt": 1782671678246,
       "title": "Vendor Evaluation Criteria",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1782671678246
+      "order": 0
     },
     {
-      "status": "pending",
-      "order": 1,
-      "createdAt": 1782671678257,
       "id": "mqy4ou9dpn6080",
+      "status": "pending",
+      "parentId": "mqy4ou8q6e0r4l",
       "title": "Deployment Strategies",
-      "parentId": "mqy4ou8q6e0r4l"
+      "createdAt": 1782671678257,
+      "order": 1
     },
     {
-      "id": "mqy4ou9ntuny4u",
-      "parentId": "mqy4ou8hfv00fi",
-      "title": "Integration with Enterprise Ecosystem",
       "status": "pending",
+      "parentId": "mqy4ou8hfv00fi",
+      "id": "mqy4ou9ntuny4u",
+      "title": "Integration with Enterprise Ecosystem",
       "createdAt": 1782671678267,
       "order": 1
     },
     {
-      "id": "mqy4ou9wffub86",
+      "order": 0,
       "title": "SIEM, SOAR & Ticketing Systems",
+      "createdAt": 1782671678276,
       "parentId": "mqy4ou9ntuny4u",
       "status": "pending",
-      "order": 0,
-      "createdAt": 1782671678276
+      "id": "mqy4ou9wffub86"
     },
     {
       "order": 1,
-      "createdAt": 1782671678286,
+      "id": "mqy4oua6chdw4o",
       "status": "pending",
-      "title": "IAM & Cloud Security Tools",
       "parentId": "mqy4ou9ntuny4u",
-      "id": "mqy4oua6chdw4o"
+      "title": "IAM & Cloud Security Tools",
+      "createdAt": 1782671678286
     },
     {
-      "createdAt": 1782671678297,
       "order": 2,
-      "status": "pending",
-      "parentId": "mqy4ou8hfv00fi",
       "title": "Building DSPM Processes & Teams",
+      "createdAt": 1782671678297,
+      "parentId": "mqy4ou8hfv00fi",
+      "status": "pending",
       "id": "mqy4ouah2xriof"
     },
     {
       "order": 0,
-      "createdAt": 1782671678306,
+      "id": "mqy4ouaqg9sicg",
       "status": "pending",
       "parentId": "mqy4ouah2xriof",
       "title": "Defining Roles & Responsibilities",
-      "id": "mqy4ouaqg9sicg"
+      "createdAt": 1782671678306
     },
     {
-      "status": "pending",
-      "order": 1,
       "createdAt": 1782671678318,
-      "id": "mqy4oub2oo4id0",
       "title": "Establishing Operational Workflows",
-      "parentId": "mqy4ouah2xriof"
-    },
-    {
-      "id": "mqy4oubeel7wrx",
-      "parentId": "mqy4otz4sopwmd",
-      "title": "Advanced DSPM Strategies",
+      "id": "mqy4oub2oo4id0",
       "status": "pending",
-      "order": 4,
-      "createdAt": 1782671678330
-    },
-    {
-      "status": "pending",
-      "createdAt": 1782671678340,
-      "order": 0,
-      "id": "mqy4oubo6drxd6",
-      "parentId": "mqy4oubeel7wrx",
-      "title": "Data Flow & Access Governance"
-    },
-    {
-      "status": "pending",
-      "createdAt": 1782671678351,
-      "order": 0,
-      "id": "mqy4oubzenpv32",
-      "parentId": "mqy4oubo6drxd6",
-      "title": "Mapping Data Flows"
-    },
-    {
-      "createdAt": 1782671678362,
-      "order": 1,
-      "status": "pending",
-      "title": "Granular Access Control Monitoring",
-      "parentId": "mqy4oubo6drxd6",
-      "id": "mqy4oucabhv6zz"
-    },
-    {
-      "parentId": "mqy4oubeel7wrx",
-      "title": "Proactive Threat Detection",
-      "id": "mqy4ouciamcuea",
-      "order": 1,
-      "createdAt": 1782671678370,
-      "status": "pending"
-    },
-    {
-      "title": "Behavioral Analytics for Data Access",
-      "parentId": "mqy4ouciamcuea",
-      "id": "mqy4oucrc8dssz",
-      "createdAt": 1782671678379,
-      "order": 0,
-      "status": "pending"
-    },
-    {
-      "status": "pending",
-      "order": 1,
-      "createdAt": 1782671678390,
-      "id": "mqy4oud2q7k3ag",
-      "title": "Anomalous Activity Detection",
-      "parentId": "mqy4ouciamcuea"
-    },
-    {
-      "id": "mqy4ouddhym3ng",
-      "parentId": "mqy4oubeel7wrx",
-      "title": "Integrating with Broader Security Programs",
-      "status": "pending",
-      "createdAt": 1782671678401,
-      "order": 2
-    },
-    {
-      "status": "pending",
-      "createdAt": 1782671678409,
-      "order": 0,
-      "id": "mqy4oudlva67jg",
-      "title": "DSPM & Data Governance",
-      "parentId": "mqy4ouddhym3ng"
-    },
-    {
-      "status": "pending",
-      "order": 1,
-      "createdAt": 1782671678420,
-      "id": "mqy4oudwd48x3h",
-      "parentId": "mqy4ouddhym3ng",
-      "title": "Synergies with DLP and CASB"
-    },
-    {
-      "id": "mqy4ouea4drvuj",
-      "parentId": "mqy4otz4sopwmd",
-      "title": "Industry Standards & Future of DSPM",
-      "status": "pending",
-      "order": 5,
-      "createdAt": 1782671678434
-    },
-    {
-      "title": "Key Compliance Frameworks",
-      "parentId": "mqy4ouea4drvuj",
-      "id": "mqy4ouekjsqhtd",
-      "order": 0,
-      "createdAt": 1782671678444,
-      "status": "pending"
-    },
-    {
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1782671678455,
-      "id": "mqy4ouev2fik8u",
-      "title": "GDPR, HIPAA, CCPA, SOC 2",
-      "parentId": "mqy4ouekjsqhtd"
-    },
-    {
-      "parentId": "mqy4ouekjsqhtd",
-      "title": "Mapping DSPM to Frameworks",
-      "id": "mqy4ouf54c5iz2",
-      "order": 1,
-      "createdAt": 1782671678465,
-      "status": "pending"
-    },
-    {
-      "createdAt": 1782671678475,
-      "order": 1,
-      "status": "pending",
-      "parentId": "mqy4ouea4drvuj",
-      "title": "DSPM Maturity Models",
-      "id": "mqy4ouffc1y0r4"
-    },
-    {
-      "title": "Assessing & Advancing DSPM Maturity",
-      "parentId": "mqy4ouffc1y0r4",
-      "id": "mqy4oufo1s1qff",
-      "createdAt": 1782671678484,
-      "order": 0,
-      "status": "pending"
-    },
-    {
-      "id": "mqy4oufy5t2hpx",
-      "title": "Benchmarking Best Practices",
-      "parentId": "mqy4ouffc1y0r4",
-      "status": "pending",
-      "order": 1,
-      "createdAt": 1782671678494
-    },
-    {
-      "order": 2,
-      "createdAt": 1782671678504,
-      "status": "pending",
-      "title": "AI/ML & Automation in DSPM",
-      "parentId": "mqy4ouea4drvuj",
-      "id": "mqy4oug877av7y"
-    },
-    {
-      "title": "Leveraging AI for Anomaly Detection",
-      "parentId": "mqy4oug877av7y",
-      "id": "mqy4ough827h1h",
-      "createdAt": 1782671678513,
-      "order": 0,
-      "status": "pending"
-    },
-    {
-      "title": "Automated Remediation & Policy Enforcement",
-      "parentId": "mqy4oug877av7y",
-      "id": "mqy4ougsbi5tn7",
-      "createdAt": 1782671678524,
-      "order": 1,
-      "status": "pending"
-    },
-    {
-      "title": "Emerging Trends & Challenges",
-      "parentId": "mqy4ouea4drvuj",
-      "id": "mqy4ouh2218pn8",
-      "order": 3,
-      "createdAt": 1782671678534,
-      "status": "pending"
-    },
-    {
-      "id": "mqy4ouhbteov31",
-      "parentId": "mqy4ouh2218pn8",
-      "title": "Multi-Cloud & Hybrid Cloud DSPM",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1782671678543
-    },
-    {
-      "parentId": "mqy4ouh2218pn8",
-      "title": "Quantum Computing & Data Security",
-      "id": "mqy4ouhlk7jeel",
-      "createdAt": 1782671678553,
-      "order": 1,
-      "status": "pending"
-    },
-    {
-      "id": "mqy4prc8u8buy9",
-      "title": "Career Lifecycle Management",
-      "parentId": "mqcsjhv4on2duq",
-      "status": "pending",
-      "order": 2,
-      "createdAt": 1782671721128
-    },
-    {
-      "title": "Self-Assessment & Strengths Identification",
-      "parentId": "mqy4prc8u8buy9",
-      "id": "mqy4prcff8ik6n",
-      "order": 0,
-      "createdAt": 1782671721135,
-      "status": "pending"
-    },
-    {
-      "createdAt": 1782671721141,
-      "order": 1,
-      "status": "pending",
-      "parentId": "mqy4prc8u8buy9",
-      "title": "Career Path Exploration",
-      "id": "mqy4prcl60ty9h"
-    },
-    {
-      "title": "Job Search Strategies",
-      "parentId": "mqy4prc8u8buy9",
-      "id": "mqy4prctv8zjum",
-      "order": 2,
-      "createdAt": 1782671721149,
-      "status": "pending"
-    },
-    {
-      "title": "Onboarding & Integration",
-      "parentId": "mqy4prc8u8buy9",
-      "id": "mqy4prd32xgo8f",
-      "createdAt": 1782671721159,
-      "order": 3,
-      "status": "pending"
-    },
-    {
-      "createdAt": 1782671721166,
-      "order": 4,
-      "status": "pending",
-      "title": "Performance Management & Feedback",
-      "parentId": "mqy4prc8u8buy9",
-      "id": "mqy4prda56okkp"
-    },
-    {
-      "status": "pending",
-      "order": 5,
-      "createdAt": 1782671721173,
-      "id": "mqy4prdh6avuvn",
-      "parentId": "mqy4prc8u8buy9",
-      "title": "Mentorship & Sponsorship"
-    },
-    {
-      "order": 6,
-      "createdAt": 1782671721180,
-      "status": "pending",
-      "title": "Leadership Development (Foundational)",
-      "parentId": "mqy4prc8u8buy9",
-      "id": "mqy4prdoxog5r5"
-    },
-    {
-      "status": "pending",
-      "order": 7,
-      "createdAt": 1782671721188,
-      "id": "mqy4prdwz2e8bd",
-      "parentId": "mqy4prc8u8buy9",
-      "title": "Career Transitions & Pivoting"
-    },
-    {
-      "order": 0,
-      "createdAt": 1782671721195,
-      "status": "pending",
-      "title": "Verbal Communication",
-      "parentId": "mqcz97gsiswi3x",
-      "id": "mqy4pre3pknvac"
-    },
-    {
-      "order": 0,
-      "createdAt": 1782671721203,
-      "status": "pending",
-      "title": "Active Listening",
-      "parentId": "mqy4pre3pknvac",
-      "id": "mqy4prebxuwpjh"
-    },
-    {
-      "id": "mqy4preiji07sy",
-      "parentId": "mqy4pre3pknvac",
-      "title": "Presentation Skills",
-      "status": "pending",
-      "createdAt": 1782671721210,
+      "parentId": "mqy4ouah2xriof",
       "order": 1
     },
     {
       "status": "pending",
-      "order": 2,
-      "createdAt": 1782671721218,
-      "id": "mqy4preqgdybzh",
-      "parentId": "mqy4pre3pknvac",
-      "title": "Meeting Etiquette & Facilitation"
+      "parentId": "mqy4otz4sopwmd",
+      "id": "mqy4oubeel7wrx",
+      "createdAt": 1782671678330,
+      "title": "Advanced DSPM Strategies",
+      "order": 4
     },
     {
+      "title": "Data Flow & Access Governance",
+      "createdAt": 1782671678340,
       "status": "pending",
-      "createdAt": 1782671721225,
-      "order": 3,
-      "id": "mqy4prex37n6t1",
-      "parentId": "mqy4pre3pknvac",
-      "title": "Public Speaking Confidence"
-    },
-    {
-      "status": "pending",
-      "createdAt": 1782671721232,
-      "order": 1,
-      "id": "mqy4prf4cb7owh",
-      "title": "Written Communication",
-      "parentId": "mqcz97gsiswi3x"
-    },
-    {
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1782671721240,
-      "id": "mqy4prfcb611aj",
-      "title": "Professional Email & Messaging",
-      "parentId": "mqy4prf4cb7owh"
-    },
-    {
-      "order": 1,
-      "createdAt": 1782671721247,
-      "status": "pending",
-      "title": "Documentation & Reporting",
-      "parentId": "mqy4prf4cb7owh",
-      "id": "mqy4prfj17ep9e"
-    },
-    {
-      "status": "pending",
-      "createdAt": 1782671721254,
-      "order": 2,
-      "id": "mqy4prfqp4v6no",
-      "title": "Technical Communication",
-      "parentId": "mqy4prf4cb7owh"
-    },
-    {
-      "status": "pending",
-      "order": 3,
-      "createdAt": 1782671721261,
-      "id": "mqy4prfxpp6ts7",
-      "title": "Conciseness & Clarity in Writing",
-      "parentId": "mqy4prf4cb7owh"
-    },
-    {
-      "id": "mqy4prg47l8o9j",
-      "title": "Interpersonal & Collaboration Skills",
-      "parentId": "mqcz97gsiswi3x",
-      "status": "pending",
-      "order": 2,
-      "createdAt": 1782671721268
-    },
-    {
-      "parentId": "mqy4prg47l8o9j",
-      "title": "Teamwork & Cross-Functional Collaboration",
-      "id": "mqy4prgbcr1few",
-      "order": 0,
-      "createdAt": 1782671721275,
-      "status": "pending"
-    },
-    {
-      "status": "pending",
-      "order": 1,
-      "createdAt": 1782671721282,
-      "id": "mqy4prgibwecrj",
-      "parentId": "mqy4prg47l8o9j",
-      "title": "Conflict Resolution"
-    },
-    {
-      "order": 2,
-      "createdAt": 1782671721289,
-      "status": "pending",
-      "title": "Feedback: Giving & Receiving",
-      "parentId": "mqy4prg47l8o9j",
-      "id": "mqy4prgp5nvwcx"
-    },
-    {
-      "id": "mqy4prgwhidslr",
-      "title": "Emotional Intelligence",
-      "parentId": "mqy4prg47l8o9j",
-      "status": "pending",
-      "createdAt": 1782671721296,
-      "order": 3
-    },
-    {
-      "title": "Negotiation & Persuasion",
-      "parentId": "mqy4prg47l8o9j",
-      "id": "mqy4prh4rdvf6s",
-      "createdAt": 1782671721304,
-      "order": 4,
-      "status": "pending"
-    },
-    {
-      "parentId": "mqcz97gsiswi3x",
-      "title": "Professional Conduct & Ethics",
-      "id": "mqy4prha21oega",
-      "createdAt": 1782671721310,
-      "order": 3,
-      "status": "pending"
-    },
-    {
-      "id": "mqy4prhhhmjanp",
-      "title": "Workplace Ethics & Integrity",
-      "parentId": "mqy4prha21oega",
-      "status": "pending",
-      "createdAt": 1782671721317,
+      "parentId": "mqy4oubeel7wrx",
+      "id": "mqy4oubo6drxd6",
       "order": 0
     },
     {
-      "order": 1,
-      "createdAt": 1782671721324,
+      "id": "mqy4oubzenpv32",
+      "parentId": "mqy4oubo6drxd6",
       "status": "pending",
-      "title": "Time Management & Prioritization",
-      "parentId": "mqy4prha21oega",
-      "id": "mqy4prho89gof4"
+      "createdAt": 1782671678351,
+      "title": "Mapping Data Flows",
+      "order": 0
     },
     {
       "status": "pending",
+      "parentId": "mqy4oubo6drxd6",
+      "id": "mqy4oucabhv6zz",
+      "createdAt": 1782671678362,
+      "title": "Granular Access Control Monitoring",
+      "order": 1
+    },
+    {
+      "createdAt": 1782671678370,
+      "title": "Proactive Threat Detection",
+      "parentId": "mqy4oubeel7wrx",
+      "status": "pending",
+      "id": "mqy4ouciamcuea",
+      "order": 1
+    },
+    {
+      "order": 0,
+      "id": "mqy4oucrc8dssz",
+      "parentId": "mqy4ouciamcuea",
+      "status": "pending",
+      "createdAt": 1782671678379,
+      "title": "Behavioral Analytics for Data Access"
+    },
+    {
+      "createdAt": 1782671678390,
+      "title": "Anomalous Activity Detection",
+      "parentId": "mqy4ouciamcuea",
+      "status": "pending",
+      "id": "mqy4oud2q7k3ag",
+      "order": 1
+    },
+    {
       "order": 2,
-      "createdAt": 1782671721331,
-      "id": "mqy4prhvf2636k",
-      "title": "Stress Management & Well-being",
-      "parentId": "mqy4prha21oega"
+      "title": "Integrating with Broader Security Programs",
+      "createdAt": 1782671678401,
+      "id": "mqy4ouddhym3ng",
+      "parentId": "mqy4oubeel7wrx",
+      "status": "pending"
     },
     {
-      "id": "mqy4pri3ovdf3c",
-      "parentId": "mqy4prha21oega",
-      "title": "Adaptability & Resilience",
-      "status": "pending",
-      "order": 3,
-      "createdAt": 1782671721339
+      "order": 0,
+      "title": "DSPM & Data Governance",
+      "createdAt": 1782671678409,
+      "id": "mqy4oudlva67jg",
+      "parentId": "mqy4ouddhym3ng",
+      "status": "pending"
     },
     {
-      "order": 4,
-      "createdAt": 1782671721345,
+      "title": "Synergies with DLP and CASB",
+      "createdAt": 1782671678420,
+      "id": "mqy4oudwd48x3h",
+      "parentId": "mqy4ouddhym3ng",
       "status": "pending",
-      "title": "Cultural Sensitivity & Diversity",
-      "parentId": "mqy4prha21oega",
-      "id": "mqy4pri9mrqa78"
+      "order": 1
     },
     {
-      "id": "mqy4prikw87vm5",
-      "title": "Professional Etiquette",
-      "parentId": "mqy4prha21oega",
+      "id": "mqy4ouea4drvuj",
       "status": "pending",
-      "createdAt": 1782671721356,
+      "parentId": "mqy4otz4sopwmd",
+      "title": "Industry Standards & Future of DSPM",
+      "createdAt": 1782671678434,
       "order": 5
     },
     {
       "status": "pending",
+      "parentId": "mqy4ouea4drvuj",
+      "id": "mqy4ouekjsqhtd",
+      "title": "Key Compliance Frameworks",
+      "createdAt": 1782671678444,
+      "order": 0
+    },
+    {
+      "order": 0,
+      "title": "GDPR, HIPAA, CCPA, SOC 2",
+      "createdAt": 1782671678455,
+      "id": "mqy4ouev2fik8u",
+      "status": "pending",
+      "parentId": "mqy4ouekjsqhtd"
+    },
+    {
+      "title": "Mapping DSPM to Frameworks",
+      "createdAt": 1782671678465,
+      "id": "mqy4ouf54c5iz2",
+      "parentId": "mqy4ouekjsqhtd",
+      "status": "pending",
+      "order": 1
+    },
+    {
+      "parentId": "mqy4ouea4drvuj",
+      "status": "pending",
+      "id": "mqy4ouffc1y0r4",
+      "createdAt": 1782671678475,
+      "title": "DSPM Maturity Models",
+      "order": 1
+    },
+    {
+      "order": 0,
+      "id": "mqy4oufo1s1qff",
+      "parentId": "mqy4ouffc1y0r4",
+      "status": "pending",
+      "title": "Assessing & Advancing DSPM Maturity",
+      "createdAt": 1782671678484
+    },
+    {
+      "order": 1,
+      "parentId": "mqy4ouffc1y0r4",
+      "status": "pending",
+      "id": "mqy4oufy5t2hpx",
+      "createdAt": 1782671678494,
+      "title": "Benchmarking Best Practices"
+    },
+    {
+      "createdAt": 1782671678504,
+      "title": "AI/ML & Automation in DSPM",
+      "status": "pending",
+      "parentId": "mqy4ouea4drvuj",
+      "id": "mqy4oug877av7y",
+      "order": 2
+    },
+    {
+      "order": 0,
+      "title": "Leveraging AI for Anomaly Detection",
+      "createdAt": 1782671678513,
+      "id": "mqy4ough827h1h",
+      "status": "pending",
+      "parentId": "mqy4oug877av7y"
+    },
+    {
+      "order": 1,
+      "title": "Automated Remediation & Policy Enforcement",
+      "createdAt": 1782671678524,
+      "parentId": "mqy4oug877av7y",
+      "status": "pending",
+      "id": "mqy4ougsbi5tn7"
+    },
+    {
+      "order": 3,
+      "title": "Emerging Trends & Challenges",
+      "createdAt": 1782671678534,
+      "parentId": "mqy4ouea4drvuj",
+      "status": "pending",
+      "id": "mqy4ouh2218pn8"
+    },
+    {
+      "title": "Multi-Cloud & Hybrid Cloud DSPM",
+      "createdAt": 1782671678543,
+      "id": "mqy4ouhbteov31",
+      "parentId": "mqy4ouh2218pn8",
+      "status": "pending",
+      "order": 0
+    },
+    {
+      "status": "pending",
+      "parentId": "mqy4ouh2218pn8",
+      "id": "mqy4ouhlk7jeel",
+      "title": "Quantum Computing & Data Security",
+      "createdAt": 1782671678553,
+      "order": 1
+    },
+    {
+      "id": "mqy4prc8u8buy9",
+      "status": "pending",
+      "parentId": "mqcsjhv4on2duq",
+      "title": "Career Lifecycle Management",
+      "createdAt": 1782671721128,
+      "order": 2
+    },
+    {
+      "id": "mqy4prcff8ik6n",
+      "status": "pending",
+      "parentId": "mqy4prc8u8buy9",
+      "title": "Self-Assessment & Strengths Identification",
+      "createdAt": 1782671721135,
+      "order": 0
+    },
+    {
+      "parentId": "mqy4prc8u8buy9",
+      "status": "pending",
+      "id": "mqy4prcl60ty9h",
+      "createdAt": 1782671721141,
+      "title": "Career Path Exploration",
+      "order": 1
+    },
+    {
+      "order": 2,
+      "status": "pending",
+      "parentId": "mqy4prc8u8buy9",
+      "id": "mqy4prctv8zjum",
+      "title": "Job Search Strategies",
+      "createdAt": 1782671721149
+    },
+    {
+      "id": "mqy4prd32xgo8f",
+      "parentId": "mqy4prc8u8buy9",
+      "status": "pending",
+      "title": "Onboarding & Integration",
+      "createdAt": 1782671721159,
+      "order": 3
+    },
+    {
       "order": 4,
-      "createdAt": 1782671721363,
-      "id": "mqy4prirehm8ap",
+      "createdAt": 1782671721166,
+      "title": "Performance Management & Feedback",
+      "parentId": "mqy4prc8u8buy9",
+      "status": "pending",
+      "id": "mqy4prda56okkp"
+    },
+    {
+      "createdAt": 1782671721173,
+      "title": "Mentorship & Sponsorship",
+      "id": "mqy4prdh6avuvn",
+      "parentId": "mqy4prc8u8buy9",
+      "status": "pending",
+      "order": 5
+    },
+    {
+      "order": 6,
+      "parentId": "mqy4prc8u8buy9",
+      "status": "pending",
+      "id": "mqy4prdoxog5r5",
+      "createdAt": 1782671721180,
+      "title": "Leadership Development (Foundational)"
+    },
+    {
+      "title": "Career Transitions & Pivoting",
+      "createdAt": 1782671721188,
+      "status": "pending",
+      "parentId": "mqy4prc8u8buy9",
+      "id": "mqy4prdwz2e8bd",
+      "order": 7
+    },
+    {
+      "id": "mqy4pre3pknvac",
       "parentId": "mqcz97gsiswi3x",
+      "status": "pending",
+      "createdAt": 1782671721195,
+      "title": "Verbal Communication",
+      "order": 0
+    },
+    {
+      "createdAt": 1782671721203,
+      "title": "Active Listening",
+      "parentId": "mqy4pre3pknvac",
+      "status": "pending",
+      "id": "mqy4prebxuwpjh",
+      "order": 0
+    },
+    {
+      "order": 1,
+      "id": "mqy4preiji07sy",
+      "parentId": "mqy4pre3pknvac",
+      "status": "pending",
+      "title": "Presentation Skills",
+      "createdAt": 1782671721210
+    },
+    {
+      "order": 2,
+      "id": "mqy4preqgdybzh",
+      "parentId": "mqy4pre3pknvac",
+      "status": "pending",
+      "createdAt": 1782671721218,
+      "title": "Meeting Etiquette & Facilitation"
+    },
+    {
+      "status": "pending",
+      "parentId": "mqy4pre3pknvac",
+      "id": "mqy4prex37n6t1",
+      "createdAt": 1782671721225,
+      "title": "Public Speaking Confidence",
+      "order": 3
+    },
+    {
+      "id": "mqy4prf4cb7owh",
+      "status": "pending",
+      "parentId": "mqcz97gsiswi3x",
+      "title": "Written Communication",
+      "createdAt": 1782671721232,
+      "order": 1
+    },
+    {
+      "createdAt": 1782671721240,
+      "title": "Professional Email & Messaging",
+      "parentId": "mqy4prf4cb7owh",
+      "status": "pending",
+      "id": "mqy4prfcb611aj",
+      "order": 0
+    },
+    {
+      "createdAt": 1782671721247,
+      "title": "Documentation & Reporting",
+      "status": "pending",
+      "parentId": "mqy4prf4cb7owh",
+      "id": "mqy4prfj17ep9e",
+      "order": 1
+    },
+    {
+      "order": 2,
+      "id": "mqy4prfqp4v6no",
+      "status": "pending",
+      "parentId": "mqy4prf4cb7owh",
+      "createdAt": 1782671721254,
+      "title": "Technical Communication"
+    },
+    {
+      "order": 3,
+      "createdAt": 1782671721261,
+      "title": "Conciseness & Clarity in Writing",
+      "id": "mqy4prfxpp6ts7",
+      "parentId": "mqy4prf4cb7owh",
+      "status": "pending"
+    },
+    {
+      "order": 2,
+      "id": "mqy4prg47l8o9j",
+      "parentId": "mqcz97gsiswi3x",
+      "status": "pending",
+      "createdAt": 1782671721268,
+      "title": "Interpersonal & Collaboration Skills"
+    },
+    {
+      "order": 0,
+      "parentId": "mqy4prg47l8o9j",
+      "status": "pending",
+      "id": "mqy4prgbcr1few",
+      "title": "Teamwork & Cross-Functional Collaboration",
+      "createdAt": 1782671721275
+    },
+    {
+      "createdAt": 1782671721282,
+      "title": "Conflict Resolution",
+      "status": "pending",
+      "parentId": "mqy4prg47l8o9j",
+      "id": "mqy4prgibwecrj",
+      "order": 1
+    },
+    {
+      "parentId": "mqy4prg47l8o9j",
+      "status": "pending",
+      "id": "mqy4prgp5nvwcx",
+      "createdAt": 1782671721289,
+      "title": "Feedback: Giving & Receiving",
+      "order": 2
+    },
+    {
+      "order": 3,
+      "createdAt": 1782671721296,
+      "title": "Emotional Intelligence",
+      "id": "mqy4prgwhidslr",
+      "parentId": "mqy4prg47l8o9j",
+      "status": "pending"
+    },
+    {
+      "order": 4,
+      "title": "Negotiation & Persuasion",
+      "createdAt": 1782671721304,
+      "parentId": "mqy4prg47l8o9j",
+      "status": "pending",
+      "id": "mqy4prh4rdvf6s"
+    },
+    {
+      "createdAt": 1782671721310,
+      "title": "Professional Conduct & Ethics",
+      "id": "mqy4prha21oega",
+      "parentId": "mqcz97gsiswi3x",
+      "status": "pending",
+      "order": 3
+    },
+    {
+      "title": "Workplace Ethics & Integrity",
+      "createdAt": 1782671721317,
+      "parentId": "mqy4prha21oega",
+      "status": "pending",
+      "id": "mqy4prhhhmjanp",
+      "order": 0
+    },
+    {
+      "id": "mqy4prho89gof4",
+      "parentId": "mqy4prha21oega",
+      "status": "pending",
+      "createdAt": 1782671721324,
+      "title": "Time Management & Prioritization",
+      "order": 1
+    },
+    {
+      "order": 2,
+      "status": "pending",
+      "parentId": "mqy4prha21oega",
+      "id": "mqy4prhvf2636k",
+      "title": "Stress Management & Well-being",
+      "createdAt": 1782671721331
+    },
+    {
+      "createdAt": 1782671721339,
+      "title": "Adaptability & Resilience",
+      "id": "mqy4pri3ovdf3c",
+      "parentId": "mqy4prha21oega",
+      "status": "pending",
+      "order": 3
+    },
+    {
+      "order": 4,
+      "createdAt": 1782671721345,
+      "title": "Cultural Sensitivity & Diversity",
+      "parentId": "mqy4prha21oega",
+      "status": "pending",
+      "id": "mqy4pri9mrqa78"
+    },
+    {
+      "order": 5,
+      "id": "mqy4prikw87vm5",
+      "parentId": "mqy4prha21oega",
+      "status": "pending",
+      "createdAt": 1782671721356,
+      "title": "Professional Etiquette"
+    },
+    {
+      "order": 4,
+      "id": "mqy4prirehm8ap",
+      "status": "pending",
+      "parentId": "mqcz97gsiswi3x",
+      "createdAt": 1782671721363,
       "title": "Problem-Solving & Decision Making"
     },
     {
       "title": "Structured Problem Solving",
-      "parentId": "mqy4prirehm8ap",
-      "id": "mqy4priyhhn9kq",
       "createdAt": 1782671721370,
-      "order": 0,
-      "status": "pending"
+      "id": "mqy4priyhhn9kq",
+      "parentId": "mqy4prirehm8ap",
+      "status": "pending",
+      "order": 0
     },
     {
       "order": 1,
       "createdAt": 1782671721378,
-      "status": "pending",
       "title": "Critical Thinking in Practice",
+      "status": "pending",
       "parentId": "mqy4prirehm8ap",
       "id": "mqy4prj6b5mcf6"
     },
     {
-      "status": "pending",
       "order": 2,
+      "title": "Decision-Making Frameworks",
       "createdAt": 1782671721385,
       "id": "mqy4prjdyf8m9m",
       "parentId": "mqy4prirehm8ap",
-      "title": "Decision-Making Frameworks"
-    },
-    {
-      "status": "pending",
-      "createdAt": 1782671721393,
-      "order": 3,
-      "id": "mqy4prjl5msu8s",
-      "title": "Root Cause Analysis",
-      "parentId": "mqy4prirehm8ap"
-    },
-    {
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1782671721401,
-      "id": "mqy4prjt9l2qn7",
-      "title": "Digital Collaboration Tools",
-      "parentId": "mqcz8hzf8foepg"
-    },
-    {
-      "id": "mqy4prjz4ovm98",
-      "parentId": "mqy4prjt9l2qn7",
-      "title": "Project Management Software (e.g., Jira, Trello)",
-      "status": "pending",
-      "createdAt": 1782671721407,
-      "order": 0
-    },
-    {
-      "id": "mqy4prk7iu428e",
-      "parentId": "mqy4prjt9l2qn7",
-      "title": "Communication Platforms (e.g., Slack, Teams)",
-      "status": "pending",
-      "order": 1,
-      "createdAt": 1782671721415
-    },
-    {
-      "status": "pending",
-      "order": 2,
-      "createdAt": 1782671721423,
-      "id": "mqy4prkfuplylu",
-      "parentId": "mqy4prjt9l2qn7",
-      "title": "Document Sharing & Co-editing"
-    },
-    {
-      "id": "mqy4prkmsh9m1u",
-      "parentId": "mqy4prjt9l2qn7",
-      "title": "Virtual Meeting Platforms",
-      "status": "pending",
-      "order": 3,
-      "createdAt": 1782671721430
-    },
-    {
-      "status": "pending",
-      "createdAt": 1782671721437,
-      "order": 1,
-      "id": "mqy4prktnji6sh",
-      "title": "Online Professional Presence",
-      "parentId": "mqcz8hzf8foepg"
-    },
-    {
-      "createdAt": 1782671721444,
-      "order": 0,
-      "status": "pending",
-      "parentId": "mqy4prktnji6sh",
-      "title": "Professional Social Media Management (e.g., LinkedIn)",
-      "id": "mqy4prl04xis1n"
-    },
-    {
-      "parentId": "mqy4prktnji6sh",
-      "title": "Portfolio & Personal Website Creation",
-      "id": "mqy4prl77fjh6w",
-      "order": 1,
-      "createdAt": 1782671721451,
       "status": "pending"
     },
     {
-      "id": "mqy4prlesijrz9",
-      "title": "Digital Reputation Management",
-      "parentId": "mqy4prktnji6sh",
       "status": "pending",
-      "createdAt": 1782671721458,
+      "parentId": "mqy4prirehm8ap",
+      "id": "mqy4prjl5msu8s",
+      "createdAt": 1782671721393,
+      "title": "Root Cause Analysis",
+      "order": 3
+    },
+    {
+      "title": "Digital Collaboration Tools",
+      "createdAt": 1782671721401,
+      "id": "mqy4prjt9l2qn7",
+      "status": "pending",
+      "parentId": "mqcz8hzf8foepg",
+      "order": 0
+    },
+    {
+      "createdAt": 1782671721407,
+      "title": "Project Management Software (e.g., Jira, Trello)",
+      "id": "mqy4prjz4ovm98",
+      "parentId": "mqy4prjt9l2qn7",
+      "status": "pending",
+      "order": 0
+    },
+    {
+      "order": 1,
+      "parentId": "mqy4prjt9l2qn7",
+      "status": "pending",
+      "id": "mqy4prk7iu428e",
+      "createdAt": 1782671721415,
+      "title": "Communication Platforms (e.g., Slack, Teams)"
+    },
+    {
+      "id": "mqy4prkfuplylu",
+      "status": "pending",
+      "parentId": "mqy4prjt9l2qn7",
+      "createdAt": 1782671721423,
+      "title": "Document Sharing & Co-editing",
       "order": 2
     },
     {
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1782671721466,
-      "id": "mqy4prlmudpqdd",
-      "title": "Project Management Basics",
-      "parentId": "mqcz8oron7ngtb"
+      "order": 3,
+      "title": "Virtual Meeting Platforms",
+      "createdAt": 1782671721430,
+      "id": "mqy4prkmsh9m1u",
+      "parentId": "mqy4prjt9l2qn7",
+      "status": "pending"
     },
     {
-      "parentId": "mqy4prlmudpqdd",
+      "status": "pending",
+      "parentId": "mqcz8hzf8foepg",
+      "id": "mqy4prktnji6sh",
+      "title": "Online Professional Presence",
+      "createdAt": 1782671721437,
+      "order": 1
+    },
+    {
+      "id": "mqy4prl04xis1n",
+      "parentId": "mqy4prktnji6sh",
+      "status": "pending",
+      "title": "Professional Social Media Management (e.g., LinkedIn)",
+      "createdAt": 1782671721444,
+      "order": 0
+    },
+    {
+      "status": "pending",
+      "parentId": "mqy4prktnji6sh",
+      "id": "mqy4prl77fjh6w",
+      "createdAt": 1782671721451,
+      "title": "Portfolio & Personal Website Creation",
+      "order": 1
+    },
+    {
+      "order": 2,
+      "createdAt": 1782671721458,
+      "title": "Digital Reputation Management",
+      "id": "mqy4prlesijrz9",
+      "parentId": "mqy4prktnji6sh",
+      "status": "pending"
+    },
+    {
+      "order": 0,
+      "title": "Project Management Basics",
+      "createdAt": 1782671721466,
+      "parentId": "mqcz8oron7ngtb",
+      "status": "pending",
+      "id": "mqy4prlmudpqdd"
+    },
+    {
+      "order": 0,
+      "createdAt": 1782671721473,
       "title": "Project Life Cycle & Methodologies (Agile, Waterfall)",
       "id": "mqy4prlt3a6qrg",
-      "createdAt": 1782671721473,
-      "order": 0,
+      "parentId": "mqy4prlmudpqdd",
       "status": "pending"
     },
     {
       "title": "Stakeholder Management",
-      "parentId": "mqy4prlmudpqdd",
-      "id": "mqy4prm1ckramk",
-      "order": 1,
       "createdAt": 1782671721481,
-      "status": "pending"
+      "parentId": "mqy4prlmudpqdd",
+      "status": "pending",
+      "id": "mqy4prm1ckramk",
+      "order": 1
     },
     {
       "order": 2,
-      "createdAt": 1782671721488,
+      "id": "mqy4prm8j3z36p",
+      "parentId": "mqy4prlmudpqdd",
       "status": "pending",
       "title": "Resource & Budget Management Fundamentals",
-      "parentId": "mqy4prlmudpqdd",
-      "id": "mqy4prm8j3z36p"
+      "createdAt": 1782671721488
     },
     {
-      "id": "mqy4prmfjl20qn",
-      "parentId": "mqy4prlmudpqdd",
       "title": "Risk & Issue Management (Business Context)",
+      "createdAt": 1782671721495,
       "status": "pending",
-      "order": 3,
-      "createdAt": 1782671721495
+      "parentId": "mqy4prlmudpqdd",
+      "id": "mqy4prmfjl20qn",
+      "order": 3
     },
     {
       "title": "Organizational Structure & Dynamics",
-      "parentId": "mqcz8oron7ngtb",
-      "id": "mqy4prmnthacr0",
       "createdAt": 1782671721503,
-      "order": 1,
-      "status": "pending"
+      "id": "mqy4prmnthacr0",
+      "status": "pending",
+      "parentId": "mqcz8oron7ngtb",
+      "order": 1
     },
     {
-      "id": "mqy4prmucmi4kn",
-      "parentId": "mqy4prmnthacr0",
-      "title": "Types of Organizational Structures",
-      "status": "pending",
       "order": 0,
-      "createdAt": 1782671721510
+      "createdAt": 1782671721510,
+      "title": "Types of Organizational Structures",
+      "id": "mqy4prmucmi4kn",
+      "status": "pending",
+      "parentId": "mqy4prmnthacr0"
     },
     {
-      "order": 1,
-      "createdAt": 1782671721517,
-      "status": "pending",
-      "parentId": "mqy4prmnthacr0",
       "title": "Corporate Culture & Values",
-      "id": "mqy4prn11b40yo"
-    },
-    {
-      "status": "pending",
-      "createdAt": 1782671721525,
-      "order": 2,
-      "id": "mqy4prn94q7mvx",
+      "createdAt": 1782671721517,
+      "id": "mqy4prn11b40yo",
       "parentId": "mqy4prmnthacr0",
-      "title": "Cross-Departmental Functions"
-    },
-    {
-      "id": "mqy4prnhj2nryy",
-      "title": "Data Privacy Engineering Principles",
-      "parentId": "mqy4ouddhym3ng",
       "status": "pending",
-      "order": 2,
-      "createdAt": 1782671721533
+      "order": 1
     },
     {
-      "id": "mqy4prnozj1vw9",
-      "parentId": "mqy4prnhj2nryy",
+      "order": 2,
+      "title": "Cross-Departmental Functions",
+      "createdAt": 1782671721525,
+      "status": "pending",
+      "parentId": "mqy4prmnthacr0",
+      "id": "mqy4prn94q7mvx"
+    },
+    {
+      "createdAt": 1782671721533,
+      "title": "Data Privacy Engineering Principles",
+      "id": "mqy4prnhj2nryy",
+      "status": "pending",
+      "parentId": "mqy4ouddhym3ng",
+      "order": 2
+    },
+    {
+      "createdAt": 1782671721540,
       "title": "Privacy by Design & Default",
       "status": "pending",
-      "order": 0,
-      "createdAt": 1782671721540
-    },
-    {
-      "createdAt": 1782671721547,
-      "order": 1,
-      "status": "pending",
       "parentId": "mqy4prnhj2nryy",
-      "title": "Data Minimization & Pseudonymization",
-      "id": "mqy4prnv25xx0i"
+      "id": "mqy4prnozj1vw9",
+      "order": 0
     },
     {
+      "order": 1,
+      "parentId": "mqy4prnhj2nryy",
       "status": "pending",
-      "createdAt": 1782671721556,
+      "id": "mqy4prnv25xx0i",
+      "title": "Data Minimization & Pseudonymization",
+      "createdAt": 1782671721547
+    },
+    {
       "order": 2,
       "id": "mqy4pro4htguqq",
+      "parentId": "mqy4prnhj2nryy",
+      "status": "pending",
       "title": "Privacy Enhancing Technologies (PETs)",
-      "parentId": "mqy4prnhj2nryy"
+      "createdAt": 1782671721556
     },
     {
-      "id": "mqy4prock1cmld",
-      "parentId": "mqy4prnhj2nryy",
       "title": "Homomorphic Encryption & Secure Multi-Party Computation Concepts",
+      "createdAt": 1782671721564,
+      "id": "mqy4prock1cmld",
       "status": "pending",
-      "order": 3,
-      "createdAt": 1782671721564
+      "parentId": "mqy4prnhj2nryy",
+      "order": 3
     }
   ],
   "pages": {
@@ -3072,6 +3072,39 @@
       "kept": true,
       "id": "mqz1u8jqej206o",
       "createdAt": 1782727357382
+    },
+    {
+      "videoId": "C3yvNs95W_c",
+      "title": "Personal brand from scratch #1",
+      "channel": "Pritika Loonia",
+      "durationSec": 45,
+      "validated": true,
+      "pageId": "mqcsjhv4on2duq",
+      "kept": false,
+      "id": "mqz6suaoxhptfq",
+      "createdAt": 1782735690336
+    },
+    {
+      "videoId": "OqvTAo9eOTM",
+      "title": "2 SECRET strategies to build your BRAND!",
+      "channel": "Rajiv Talreja",
+      "durationSec": 47,
+      "validated": true,
+      "pageId": "mqcsjhv4on2duq",
+      "kept": false,
+      "id": "mqz6suaol1r8ug",
+      "createdAt": 1782735690336
+    },
+    {
+      "videoId": "T-qZiFJJoPA",
+      "title": "7 Tips to continue growing in your career | Continuous Learning | Career Growth",
+      "channel": "HRwisor - Your HR Advisor",
+      "durationSec": 144,
+      "validated": true,
+      "pageId": "mqcsjhv4on2duq",
+      "kept": false,
+      "id": "mqz6suaoih0kdi",
+      "createdAt": 1782735690336
     }
   ],
   "highlights": [],
