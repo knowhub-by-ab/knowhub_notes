@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "exportedAt": "2026-06-29T11:32:06.507Z",
+  "version": 2,
+  "exportedAt": "2026-06-29T11:41:38.091Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -2262,5 +2262,409 @@
       ],
       "id": "mqdohgo7orc77a"
     }
-  ]
+  ],
+  "flashcards": [
+    {
+      "front": "What is metacognition?",
+      "back": "Metacognition is the awareness and understanding of one's own thought processes and learning strategies. It involves actively managing how you learn, solve problems, and make decisions.",
+      "pageId": "mqd14kvmmhso6l",
+      "id": "mqy5cilslhm54j",
+      "createdAt": 1782672782896
+    },
+    {
+      "front": "Who coined the term 'metacognition' and when?",
+      "back": "John Flavell in the 1970s.",
+      "pageId": "mqd14kvmmhso6l",
+      "id": "mqy5cils8onucs",
+      "createdAt": 1782672782896
+    },
+    {
+      "front": "Why does metacognition matter?",
+      "back": "It improves learning efficiency, fosters critical thinking, and enhances problem-solving skills, essential for lifelong learning and professional growth.",
+      "pageId": "mqd14kvmmhso6l",
+      "id": "mqy5cilsbz4fit",
+      "createdAt": 1782672782896
+    },
+    {
+      "front": "What are the three main components of metacognition?",
+      "back": "Metacognitive Knowledge (awareness of self, tasks, strategies), Metacognitive Monitoring (assessing understanding and performance), and Metacognitive Control (adjusting strategies and resources).",
+      "pageId": "mqd14kvmmhso6l",
+      "id": "mqy5cils16ia4f",
+      "createdAt": 1782672782896
+    },
+    {
+      "front": "What is the role of self-awareness in metacognition?",
+      "back": "Self-awareness is the foundation of metacognition, enabling one to recognize strengths, weaknesses, and thought patterns for targeted improvement.",
+      "pageId": "mqd14kvmmhso6l",
+      "id": "mqy5cilsrqqdvx",
+      "createdAt": 1782672782896
+    }
+  ],
+  "questionBanks": [
+    {
+      "id": "mqz2q2opoxjxzy",
+      "title": "DSPM TEST QB",
+      "source": "DSPM (from Absolute Novice to Industry Standards level, style: Normal explanation)",
+      "questions": [
+        {
+          "id": "mqz2q2opjutuzq",
+          "prompt": "According to the text, which of the following is a primary problem that Data Security Posture Management (DSPM) aims to solve?",
+          "options": [
+            "Lack of hardware maintenance schedules in data centers.",
+            "Inefficient software development lifecycles.",
+            "Unmanageable security risks due to data sprawl, unknown data, and uncontrolled access.",
+            "Over-reliance on physical security measures for data storage."
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The text states, \"This 'data sprawl' leads to an unmanageable security risk, potential data breaches, and non-compliance fines.\" It also lists 'Unknown Books', 'Uncontrolled Access', and 'Hidden Risks' as issues without DSPM."
+        },
+        {
+          "id": "mqz2q2opyz27q4",
+          "prompt": "What does the acronym DSPM stand for?",
+          "options": [
+            "Digital System Performance Monitor",
+            "Data Security Posture Management",
+            "Database System Policy Manager",
+            "Distributed Storage Provisioning Module"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The text explicitly states, \"DSPM stands for Data Security Posture Management.\""
+        },
+        {
+          "id": "mqz2q2op3yj6fk",
+          "prompt": "Which of the following is NOT listed as a fundamental idea or core concept upon which DSPM is built?",
+          "options": [
+            "Data Inventory",
+            "Data Classification",
+            "Data Migration Strategy",
+            "Data Risk Assessment"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The three core concepts listed are Data Inventory, Data Classification, and Data Risk Assessment. Data Migration Strategy is not mentioned as a core concept of DSPM."
+        },
+        {
+          "id": "mqz2q2opt1oqu0",
+          "prompt": "The \"Data Inventory\" core concept of DSPM primarily involves what action?",
+          "options": [
+            "Deleting old, unused data to free up storage space.",
+            "Discovering all data stores across various environments and the data within them.",
+            "Creating daily backups of all critical data assets.",
+            "Encrypting all data at rest and in transit automatically."
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The text says, \"DSPM begins by discovering all data stores – databases, cloud buckets, SaaS apps, file shares – and the data within them.\""
+        },
+        {
+          "id": "mqz2q2opnor7ol",
+          "prompt": "What is the main purpose of \"Data Classification\" within DSPM?",
+          "options": [
+            "To organize data into folders for easier manual access.",
+            "To tag data with its sensitivity level (e.g., PII, PCI) to apply appropriate controls.",
+            "To compress data to reduce storage costs and network bandwidth.",
+            "To assign ownership of data to specific departments for billing purposes."
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The text states, \"Classification tags data with its sensitivity level.\""
+        },
+        {
+          "id": "mqz2q2opwjvaqt",
+          "prompt": "\"Data Access Governance\" in DSPM is primarily concerned with:",
+          "options": [
+            "Analyzing network traffic patterns for potential data exfiltration.",
+            "Mapping data access paths, identifying excessive permissions, and monitoring access patterns.",
+            "Managing the physical security infrastructure of data centers.",
+            "Optimizing database query performance for faster data retrieval."
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The 'Data Access Governance' section describes mapping how users, roles, applications, and services interact with data, identifying excessive permissions, and monitoring access patterns."
+        },
+        {
+          "id": "mqz2q2opn6fw0c",
+          "prompt": "Which of the following methods is mentioned as a technique DSPM tools use to scan data content and identify specific types of sensitive information during data discovery?",
+          "options": [
+            "Manual audit logs review by security analysts.",
+            "Conducting user interviews and surveys about data usage.",
+            "Pattern Matching (e.g., regular expressions) and Machine Learning (ML).",
+            "Physical inspection of storage devices and media."
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "Under 'Scan Data Content,' the text mentions, 'Pattern Matching: Regular expressions for credit card numbers, social security numbers' and 'Machine Learning (ML): To understand context and identify complex data types.'"
+        },
+        {
+          "id": "mqz2q2op6gt67u",
+          "prompt": "The principle of \"Least Privilege\" is most directly supported and enforced by which DSPM capability?",
+          "options": [
+            "Data Discovery & Classification",
+            "Data Access Governance",
+            "Shadow Data Detection",
+            "Automated Policy Enforcement for compliance"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The 'Data Access Governance' section explicitly mentions 'Identifying Excessive Permissions' and links to the 'principle of Least Privilege.'"
+        },
+        {
+          "id": "mqz2q2ophcer90",
+          "prompt": "What is the primary benefit of \"Contextual Risk Scoring\" in DSPM's Data Risk Assessment & Prioritization?",
+          "options": [
+            "It simplifies data classification by ignoring the broader context.",
+            "It assigns a standard, uniform risk level to all data regardless of its sensitivity.",
+            "It combines data sensitivity, vulnerability severity, and access exposure to provide a prioritized risk score, indicating urgency.",
+            "It only focuses on network-related vulnerabilities, intentionally ignoring data content risks."
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The text states, \"Contextual Risk Scoring: Combining data sensitivity with vulnerability severity, access exposure, and compliance relevance to provide a prioritized risk score.\""
+        },
+        {
+          "id": "mqz2q2op9naxa5",
+          "prompt": "How does DSPM assist organizations in meeting regulatory mandates like GDPR, CCPA, and HIPAA?",
+          "options": [
+            "By directly handling all legal interpretations and compliance filings for these regulations.",
+            "By generating reports that demonstrate compliance, detailing data classification, access controls, and risk remediation efforts.",
+            "By completely automating all data deletion requests required by data subject rights.",
+            "By replacing the need for internal legal and compliance teams entirely."
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "Under 'Compliance & Reporting,' the text mentions \"Generating reports that demonstrate compliance with various standards, detailing data classification, access controls, and risk remediation efforts.\""
+        }
+      ],
+      "createdAt": 1782728842777
+    },
+    {
+      "id": "mqz2nf26ochi90",
+      "title": "Test QB",
+      "source": "Full Stack Engineering",
+      "questions": [
+        {
+          "id": "mqz2nf26f5erta",
+          "prompt": "According to the text, what is the core definition of Professional Career Development?",
+          "options": [
+            "Primarily focused on climbing the corporate ladder.",
+            "A reactive process of skill acquisition when needed.",
+            "The intentional and continuous process of enhancing skills, knowledge, and experiences to achieve career aspirations.",
+            "Solely about accumulating technical expertise in one specific field."
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The introduction defines Professional Career Development as 'the intentional and continuous process of enhancing your skills, knowledge, and experiences to achieve your career aspirations. It's more than just climbing the corporate ladder...'"
+        },
+        {
+          "id": "mqz2nf2600q56m",
+          "prompt": "Which of the following is NOT listed as a reason why continuous professional development matters in today's dynamic professional world?",
+          "options": [
+            "Increased Earning Potential",
+            "Rapid Change",
+            "Reduced need for adaptability",
+            "Enhanced Employability"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The text states 'Adaptability & Resilience: Developing new competencies builds your capacity to adapt to unforeseen challenges...' meaning continuous development increases, not reduces, adaptability."
+        },
+        {
+          "id": "mqz2nf26jal2i5",
+          "prompt": "The modern career landscape is described as increasingly interdisciplinary, demanding a blend of technical expertise and versatile human skills. Which of the following is highlighted as one of its key pillars?",
+          "options": [
+            "Static Industry Knowledge",
+            "Technology",
+            "Purely managerial roles",
+            "Isolated Specialization"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The text lists 'Technology' as a key pillar, stating it is 'The omnipresent force driving innovation' and 'fundamental across almost all roles.'"
+        },
+        {
+          "id": "mqz2nf26x10axn",
+          "prompt": "Which of these skills is considered a 'Universal Foundation' applicable across virtually all industries and roles?",
+          "options": [
+            "Software Development (e.g., Python)",
+            "Financial Analysis (e.g., valuation)",
+            "Critical Thinking & Problem-Solving",
+            "Digital Marketing (e.g., SEO)"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The text explicitly lists 'Critical Thinking & Problem-Solving' under 'Universal Foundations'. The other options are examples of 'Career Domains'."
+        },
+        {
+          "id": "mqz2nf26cov37t",
+          "prompt": "An individual specializing in 'statistical modeling, machine learning, and data visualization' is primarily focusing on which 'Career Domain' according to the text?",
+          "options": [
+            "UX/UI Design",
+            "Digital Marketing",
+            "Data Science",
+            "Leadership"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The text states under 'Career Domains': 'Data Science (e.g., statistical modeling, machine learning, data visualization)'."
+        },
+        {
+          "id": "mqz2nf26k5noxu",
+          "prompt": "How does the text describe the relationship between Universal Foundations and Career Domains?",
+          "options": [
+            "They are completely separate and independent skill sets.",
+            "Universal Foundations are only relevant for entry-level positions, while Career Domains are for experts.",
+            "Strong universal foundations enable more effective acquisition and application of domain-specific knowledge, and adaptation to changes.",
+            "Career Domains should always be prioritized over Universal Foundations for immediate career success."
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The text states, 'The relationship is symbiotic: strong universal foundations enable you to acquire and apply domain-specific knowledge more effectively and adapt to changes within your domain.'"
+        },
+        {
+          "id": "mqz2nf26dw9kad",
+          "prompt": "The introduction states that the journey of Professional Career Development is primarily characterized as:",
+          "options": [
+            "Reactive, corporate-driven, and linear.",
+            "Proactive, strategic, and deeply personal.",
+            "Static, general, and short-term.",
+            "Passive, skill-focused, and employer-dependent."
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The text describes this journey as 'proactive, strategic, and deeply personal'."
+        },
+        {
+          "id": "mqz2nf26qaxeiw",
+          "prompt": "In the 'Modern Career Landscape,' how is Technology primarily described?",
+          "options": [
+            "A secondary skill only for tech-specific roles.",
+            "A force driving innovation and fundamental across almost all roles.",
+            "A field that is becoming obsolete due to automation.",
+            "Separate from business acumen and design thinking."
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The text states: 'Technology: The omnipresent force driving innovation. From AI and automation to data science and cybersecurity, technological literacy is fundamental across almost all roles.'"
+        },
+        {
+          "id": "mqz2nf26o8avmm",
+          "prompt": "What is the core focus of 'Design Thinking' as described in the context of the Modern Career Landscape?",
+          "options": [
+            "Strictly following traditional business models.",
+            "Focusing on empathy, ideation, prototyping, and testing for user-friendly solutions.",
+            "Primarily about financial forecasting and risk management.",
+            "Limiting problem-solving to established industry standards."
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The text states: 'Design Thinking: A human-centered approach to problem-solving, focusing on empathy, ideation, prototyping, and testing. It's about creating user-friendly, effective solutions...'"
+        },
+        {
+          "id": "mqz2nf26obq64d",
+          "prompt": "According to 'The Beginner-to-Professional Journey,' what is the primary focus for an individual in the 'Beginner' stage?",
+          "options": [
+            "Mastering a specialized domain and mentoring others.",
+            "Solving complex, ambiguous problems independently.",
+            "Acquiring foundational knowledge, basic skills, and understanding core concepts.",
+            "Innovating solutions and driving initiatives."
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The text describes the 'Beginner' stage as: 'Focus on acquiring foundational knowledge and basic skills. Understand core concepts, terminology, and simple procedures.'"
+        }
+      ],
+      "createdAt": 1782728718846
+    }
+  ],
+  "chatSessions": [
+    {
+      "id": "mqz595oxoxifyk",
+      "title": "New chat",
+      "messages": [],
+      "createdAt": 1782733092369,
+      "updatedAt": 1782733092369
+    },
+    {
+      "id": "mqz1r86q5jaxio",
+      "title": "Hi",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hi"
+        },
+        {
+          "role": "assistant",
+          "content": "Hello! How can I help you today with your learning journey in Professional Career Development?"
+        },
+        {
+          "role": "user",
+          "content": "Help me learn mongodb"
+        },
+        {
+          "role": "assistant",
+          "content": "That's a great goal! Learning MongoDB, a popular NoSQL database, can significantly enhance your technical toolkit.\n\nWhile I don't have direct content on MongoDB itself, I can absolutely help you with **how to learn MongoDB effectively**, using the principles of **Learning How to Learn** and **Learning Strategies** from your Professional Career Development path.\n\nThink of me as your guide to optimizing your learning process, rather than a MongoDB tutor.\n\nHere's a structured approach to learning MongoDB, leveraging proven learning strategies:\n\n---\n\n### Your Personalized MongoDB Learning Journey: A Strategic Approach\n\nTo get started effectively, let's frame your MongoDB learning around these key areas:\n\n1.  **Define Your \"Why\" and Goals (Self-Directed Learning & Setting Learning Goals)**\n    *   **Why MongoDB?** What problem are you trying to solve or what skill are you trying to acquire? Are you aiming to:\n        *   Understand NoSQL databases in general?\n        *   Build a specific application (e.g., a web app with Node.js and MongoDB)?\n        *   Prepare for a job requiring MongoDB skills?\n        *   Migrate data from a relational database?\n    *   **Specific, Measurable Goals:** Instead of \"learn MongoDB,\" aim for \"By X date, I will be able to perform CRUD operations in MongoDB and connect it to a simple Node.js application.\"\n\n2.  **Resource Curation (Information Gathering & Resource Curation)**\n    *   Don't just jump into the first tutorial. Actively seek out and evaluate resources.\n    *   **Official Documentation:** MongoDB's official docs are excellent and comprehensive.\n    *   **MongoDB University:** They offer free, structured courses covering various aspects. This is often the best starting point.\n    *   **Online Courses:** Platforms like Udemy, Coursera, or Pluralsight often have great video courses. Read reviews!\n    *   **Books:** For deeper dives, a good book can be invaluable.\n    *   **Blogs/Tutorials:** Look for practical guides and examples.\n\n3.  **Foundational Understanding (What Learning Is, How Knowledge Is Built)**\n    *   Before diving into commands, take a moment to understand MongoDB's core concepts:\n        *   What is NoSQL? How does it differ from SQL (if you know SQL)?\n        *   What are documents, collections, and databases in MongoDB?\n        *   What is BSON?\n        *   What are its primary use cases and advantages/disadvantages?\n\n4.  **Active & Deliberate Practice (Skill Acquisition, Deliberate Practice, Active Recall)**\n    *   This is the MOST CRITICAL part. You can't learn MongoDB just by reading or watching videos.\n    *   **Install It:** Set up MongoDB on your local machine.\n    *   **Follow Along:** Code along with tutorials, don't just watch.\n    *   **CRUD Operations:** Master Create, Read, Update, Delete operations first.\n    *   **Index Creation:** Understand why and how to create indexes.\n    *   **Aggregation Framework:** This is powerful; dedicate time to understanding it.\n    *   **Build Small Projects:**\n        *   A simple to-do list app.\n        *   A blog post storage system.\n        *   A user management system.\n        *   Connecting MongoDB to a backend language you know (e.g., Node.js, Python, Java).\n    *   **Experiment:** Try breaking things! See what happens when you write a query incorrectly.\n\n5.  **Study Techniques for Retention (Active Recall, Spaced Repetition, Elaboration)**\n    *   **Active Recall:** Instead of re-reading notes, test yourself. \"What's the command to find documents older than X date?\" \"How do I update multiple documents?\"\n    *   **Spaced Repetition:** Review concepts and commands at increasing intervals (e.g., use Anki flashcards for syntax or key concepts).\n    *   **Elaboration:** Explain MongoDB concepts in your own words. How would you explain `db.collection.aggregate()` to a non-technical friend? Try the **Feynman Technique**.\n\n6.  **Deep Learning & Connections (Understanding, Connections, Abstraction)**\n    *   Once comfortable with the basics, explore more advanced topics:\n        *   Replication (for high availability)\n        *   Sharding (for horizontal scaling)\n        *   Transactions\n        *   Security best practices\n        *   Integration with various programming languages.\n\n7.  **Feedback & Error Correction (Deliberate Practice)**\n    *   When you get stuck, don't just copy-paste solutions. Try to understand *why* your approach failed and *why* the solution works.\n    *   Utilize online communities (Stack Overflow, MongoDB forums) to ask specific questions.\n\n8.  **Reflect and Adapt (Reflective Learning)**\n    *   Keep a learning journal. What challenges did you face? What breakthroughs did you have? What are your next steps?\n    *   Regularly assess your progress against your initial goals.\n\n---\n\n**To help me guide you further, tell me:**\n\n1.  **What are your primary goals for learning MongoDB?** (e.g., personal project, career advancement, general knowledge)\n2.  **What's your current technical background?** (e.g., familiar with other databases, programming languages, beginner)\n\nOnce I have a better understanding of your context, I can suggest more tailored learning strategies and resource types!"
+        }
+      ],
+      "createdAt": 1782727216946,
+      "updatedAt": 1782727250622
+    }
+  ],
+  "videos": [
+    {
+      "videoId": "-bt_y4Loofg",
+      "title": "MongoDB in 100 Seconds",
+      "channel": "Fireship",
+      "durationSec": 147,
+      "validated": true,
+      "topic": "MONGODB",
+      "kept": true,
+      "id": "mqz2gtdh1euhnt",
+      "createdAt": 1782728410805
+    },
+    {
+      "videoId": "X0JVhHzMOA8",
+      "title": "What is DSPM? — Data Security Posture Management Explained |#ExpertAdvice from @ESGglobal",
+      "channel": "Solutions Review",
+      "durationSec": 44,
+      "validated": true,
+      "pageId": "mqy4otz4sopwmd",
+      "kept": true,
+      "id": "mqz1u8jquq3ulo",
+      "createdAt": 1782727357382
+    },
+    {
+      "videoId": "Q69geIblLZ8",
+      "title": "What is Data Security Posture Management (DSPM)? (In 2 Minutes!) | CloudSec Shorts - Wiz",
+      "channel": "Wiz",
+      "durationSec": 119,
+      "validated": true,
+      "pageId": "mqy4otz4sopwmd",
+      "kept": true,
+      "id": "mqz1u8jqej206o",
+      "createdAt": 1782727357382
+    }
+  ],
+  "highlights": []
 }
