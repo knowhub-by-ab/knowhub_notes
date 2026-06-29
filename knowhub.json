@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-29T12:23:31.537Z",
+  "exportedAt": "2026-06-29T12:28:31.709Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -2634,17 +2634,6 @@
   ],
   "videos": [
     {
-      "videoId": "C3yvNs95W_c",
-      "title": "Personal brand from scratch #1",
-      "channel": "Pritika Loonia",
-      "durationSec": 45,
-      "validated": true,
-      "pageId": "mqcsjhv4on2duq",
-      "kept": false,
-      "id": "mqz6suaoxhptfq",
-      "createdAt": 1782735690336
-    },
-    {
       "videoId": "sO4te2QNsHY",
       "title": "What Is Branding? 4 Minute Crash Course.",
       "channel": "The Futur",
@@ -2653,28 +2642,6 @@
       "pageId": "mqcsjhv4on2duq",
       "kept": true,
       "id": "mqz6suaokh21wt",
-      "createdAt": 1782735690336
-    },
-    {
-      "videoId": "OqvTAo9eOTM",
-      "title": "2 SECRET strategies to build your BRAND!",
-      "channel": "Rajiv Talreja",
-      "durationSec": 47,
-      "validated": true,
-      "pageId": "mqcsjhv4on2duq",
-      "kept": false,
-      "id": "mqz6suaol1r8ug",
-      "createdAt": 1782735690336
-    },
-    {
-      "videoId": "T-qZiFJJoPA",
-      "title": "7 Tips to continue growing in your career | Continuous Learning | Career Growth",
-      "channel": "HRwisor - Your HR Advisor",
-      "durationSec": 144,
-      "validated": true,
-      "pageId": "mqcsjhv4on2duq",
-      "kept": false,
-      "id": "mqz6suaoih0kdi",
       "createdAt": 1782735690336
     },
     {
