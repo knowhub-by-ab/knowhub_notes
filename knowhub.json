@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T15:43:45.997Z",
+  "exportedAt": "2026-06-30T15:48:44.995Z",
   "nodes": [
     {
       "createdAt": 1781381483824,
@@ -2569,6 +2569,438 @@
       "status": "pending",
       "order": 12,
       "createdAt": 1782833932524
+    },
+    {
+      "id": "mr0th2sdu84m4x",
+      "title": "1.2.1. Computer & Device Fundamentals",
+      "parentId": "mr0g92adtr8ecp",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782834238813
+    },
+    {
+      "id": "mr0th2slj4n3jf",
+      "title": "A. Computer Hardware",
+      "parentId": "mr0th2sdu84m4x",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782834238821
+    },
+    {
+      "id": "mr0th2st34fn9p",
+      "title": "B. Computer Software",
+      "parentId": "mr0th2sdu84m4x",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782834238829
+    },
+    {
+      "id": "mr0th2t47fm9ga",
+      "title": "C. Operating Systems",
+      "parentId": "mr0th2sdu84m4x",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782834238840
+    },
+    {
+      "id": "mr0th2tdehpoug",
+      "title": "D. File Systems & Storage",
+      "parentId": "mr0th2sdu84m4x",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782834238849
+    },
+    {
+      "id": "mr0th2tlqxj99w",
+      "title": "E. File & Folder Management",
+      "parentId": "mr0th2sdu84m4x",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782834238857
+    },
+    {
+      "id": "mr0th2tu6h1uzp",
+      "title": "F. Devices & Peripherals",
+      "parentId": "mr0th2sdu84m4x",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782834238866
+    },
+    {
+      "id": "mr0th2u228lzuw",
+      "title": "G. Computer Networking Basics",
+      "parentId": "mr0th2sdu84m4x",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782834238874
+    },
+    {
+      "id": "mr0th2uaa6g2sg",
+      "title": "H. Digital Troubleshooting",
+      "parentId": "mr0th2sdu84m4x",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782834238882
+    },
+    {
+      "id": "mr0th2uk9htnv9",
+      "title": "1.2.2. Internet & Digital Communication",
+      "parentId": "mr0g92adtr8ecp",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782834238892
+    },
+    {
+      "id": "mr0th2ut693wxl",
+      "title": "A. Internet Fundamentals",
+      "parentId": "mr0th2uk9htnv9",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782834238901
+    },
+    {
+      "id": "mr0th2v4dcuiz1",
+      "title": "B. Web Browsers",
+      "parentId": "mr0th2uk9htnv9",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782834238912
+    },
+    {
+      "id": "mr0th2veftktx5",
+      "title": "C. Search Engines & Online Search",
+      "parentId": "mr0th2uk9htnv9",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782834238922
+    },
+    {
+      "id": "mr0th2vm8l7fd7",
+      "title": "D. Email Communication",
+      "parentId": "mr0th2uk9htnv9",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782834238930
+    },
+    {
+      "id": "mr0th2vvo99bhp",
+      "title": "E. Instant Messaging",
+      "parentId": "mr0th2uk9htnv9",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782834238939
+    },
+    {
+      "id": "mr0th2w533uzf8",
+      "title": "F. Video Conferencing",
+      "parentId": "mr0th2uk9htnv9",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782834238949
+    },
+    {
+      "id": "mr0th2wdubsf8h",
+      "title": "G. Online Collaboration",
+      "parentId": "mr0th2uk9htnv9",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782834238957
+    },
+    {
+      "id": "mr0th2wla505n7",
+      "title": "H. Netiquette & Online Communication",
+      "parentId": "mr0th2uk9htnv9",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782834238965
+    },
+    {
+      "id": "mr0th2wumi9zrn",
+      "title": "1.2.3. Digital Productivity & Collaboration",
+      "parentId": "mr0g92adtr8ecp",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782834238974
+    },
+    {
+      "id": "mr0th2x2kj2qms",
+      "title": "A. Word Processing",
+      "parentId": "mr0th2wumi9zrn",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782834238982
+    },
+    {
+      "id": "mr0th2x96e5uyt",
+      "title": "B. Spreadsheets",
+      "parentId": "mr0th2wumi9zrn",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782834238989
+    },
+    {
+      "id": "mr0th2xhhlxwfg",
+      "title": "C. Presentations",
+      "parentId": "mr0th2wumi9zrn",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782834238997
+    },
+    {
+      "id": "mr0th2xpxfplz3",
+      "title": "D. Note-Taking Tools",
+      "parentId": "mr0th2wumi9zrn",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782834239005
+    },
+    {
+      "id": "mr0th2xwutbc8j",
+      "title": "E. Calendars & Task Management",
+      "parentId": "mr0th2wumi9zrn",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782834239012
+    },
+    {
+      "id": "mr0th2y6s7prdt",
+      "title": "F. Cloud Storage",
+      "parentId": "mr0th2wumi9zrn",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782834239022
+    },
+    {
+      "id": "mr0th2yfjm9bj5",
+      "title": "G. Cloud Collaboration",
+      "parentId": "mr0th2wumi9zrn",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782834239031
+    },
+    {
+      "id": "mr0th2yob7qctw",
+      "title": "H. Digital Workflows",
+      "parentId": "mr0th2wumi9zrn",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782834239040
+    },
+    {
+      "id": "mr0th2yxazgt5o",
+      "title": "1.2.4. Digital Security, Privacy & Identity",
+      "parentId": "mr0g92adtr8ecp",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782834239049
+    },
+    {
+      "id": "mr0th2z5u1zawy",
+      "title": "A. Cybersecurity Fundamentals",
+      "parentId": "mr0th2yxazgt5o",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782834239057
+    },
+    {
+      "id": "mr0th2zer94hdo",
+      "title": "B. Password Management",
+      "parentId": "mr0th2yxazgt5o",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782834239066
+    },
+    {
+      "id": "mr0th2zl1x74fa",
+      "title": "C. Authentication & Authorization",
+      "parentId": "mr0th2yxazgt5o",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782834239073
+    },
+    {
+      "id": "mr0th2zu7vnit3",
+      "title": "D. Malware & Threats",
+      "parentId": "mr0th2yxazgt5o",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782834239082
+    },
+    {
+      "id": "mr0th304874zhz",
+      "title": "E. Phishing & Social Engineering",
+      "parentId": "mr0th2yxazgt5o",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782834239092
+    },
+    {
+      "id": "mr0th30dwcf8hy",
+      "title": "F. Digital Privacy",
+      "parentId": "mr0th2yxazgt5o",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782834239101
+    },
+    {
+      "id": "mr0th30korxyrd",
+      "title": "G. Digital Identity",
+      "parentId": "mr0th2yxazgt5o",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782834239108
+    },
+    {
+      "id": "mr0th30t4q0kz1",
+      "title": "H. Safe Browsing Practices",
+      "parentId": "mr0th2yxazgt5o",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782834239117
+    },
+    {
+      "id": "mr0th312w3oorb",
+      "title": "1.2.5. Digital Citizenship & Media Literacy",
+      "parentId": "mr0g92adtr8ecp",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782834239126
+    },
+    {
+      "id": "mr0th31bxfkgll",
+      "title": "A. Digital Citizenship",
+      "parentId": "mr0th312w3oorb",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782834239135
+    },
+    {
+      "id": "mr0th31kughutl",
+      "title": "B. Online Ethics",
+      "parentId": "mr0th312w3oorb",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782834239144
+    },
+    {
+      "id": "mr0th31uledy34",
+      "title": "C. Media Literacy",
+      "parentId": "mr0th312w3oorb",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782834239154
+    },
+    {
+      "id": "mr0th324fcov68",
+      "title": "D. Information Literacy",
+      "parentId": "mr0th312w3oorb",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782834239164
+    },
+    {
+      "id": "mr0th32e9ubziy",
+      "title": "E. Fact Checking & Misinformation",
+      "parentId": "mr0th312w3oorb",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782834239174
+    },
+    {
+      "id": "mr0th32mw8fzgw",
+      "title": "F. Digital Footprint",
+      "parentId": "mr0th312w3oorb",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782834239182
+    },
+    {
+      "id": "mr0th32ufq7f79",
+      "title": "G. Responsible AI Usage",
+      "parentId": "mr0th312w3oorb",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782834239190
+    },
+    {
+      "id": "mr0th331rk1oqx",
+      "title": "H. Digital Wellbeing",
+      "parentId": "mr0th312w3oorb",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782834239197
+    },
+    {
+      "id": "mr0th339ohfi89",
+      "title": "1.2.6. AI Literacy & Digital Innovation",
+      "parentId": "mr0g92adtr8ecp",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782834239205
+    },
+    {
+      "id": "mr0th33h3k2he4",
+      "title": "A. AI Fundamentals",
+      "parentId": "mr0th339ohfi89",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782834239213
+    },
+    {
+      "id": "mr0th33qa982og",
+      "title": "B. Generative AI",
+      "parentId": "mr0th339ohfi89",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782834239222
+    },
+    {
+      "id": "mr0th340tzi0t2",
+      "title": "C. Prompt Engineering Basics",
+      "parentId": "mr0th339ohfi89",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782834239232
+    },
+    {
+      "id": "mr0th3493x8b5i",
+      "title": "D. AI Productivity Tools",
+      "parentId": "mr0th339ohfi89",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782834239241
+    },
+    {
+      "id": "mr0th34ivw5tkm",
+      "title": "E. Automation Fundamentals",
+      "parentId": "mr0th339ohfi89",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782834239250
+    },
+    {
+      "id": "mr0th34qo0boaa",
+      "title": "F. Cloud Computing Fundamentals",
+      "parentId": "mr0th339ohfi89",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782834239258
+    },
+    {
+      "id": "mr0th34zl09iez",
+      "title": "G. Internet of Things (IoT)",
+      "parentId": "mr0th339ohfi89",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782834239267
+    },
+    {
+      "id": "mr0th357c89cn5",
+      "title": "H. Emerging Digital Technologies",
+      "parentId": "mr0th339ohfi89",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782834239275
     }
   ],
   "pages": {
