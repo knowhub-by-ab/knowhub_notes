@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T16:43:46.030Z",
+  "exportedAt": "2026-06-30T16:49:31.223Z",
   "nodes": [
     {
       "id": "mr0g929r44x4tu",
@@ -4617,6 +4617,198 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1782837807396
+    },
+    {
+      "id": "mr0vohanyo2mco",
+      "title": "3.5.1. UI Design",
+      "parentId": "mr0v4wue8q3tb7",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782837943439
+    },
+    {
+      "id": "mr0vohaqavapru",
+      "title": "3.5.2. UX Design",
+      "parentId": "mr0v4wue8q3tb7",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782837943442
+    },
+    {
+      "id": "mr0voharudwohs",
+      "title": "3.5.3. UX Research",
+      "parentId": "mr0v4wue8q3tb7",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782837943443
+    },
+    {
+      "id": "mr0vohasldmyey",
+      "title": "3.5.4. Product Design",
+      "parentId": "mr0v4wue8q3tb7",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782837943444
+    },
+    {
+      "id": "mr0vohatfvaiyl",
+      "title": "3.5.5. Interaction Design",
+      "parentId": "mr0v4wue8q3tb7",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782837943445
+    },
+    {
+      "id": "mr0vohavrg7xkp",
+      "title": "3.5.6. Visual Communication & Graphic Design",
+      "parentId": "mr0v4wue8q3tb7",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782837943447
+    },
+    {
+      "id": "mr0vohaynnbzum",
+      "title": "3.5.7. Motion Graphics & Animation",
+      "parentId": "mr0v4wue8q3tb7",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782837943450
+    },
+    {
+      "id": "mr0vohb0b365jb",
+      "title": "3.5.8. 3D Design & Visualization",
+      "parentId": "mr0v4wue8q3tb7",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782837943452
+    },
+    {
+      "id": "mr0vohb23kgq9i",
+      "title": "3.5.9. Game Art & Game Design",
+      "parentId": "mr0v4wue8q3tb7",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782837943455
+    },
+    {
+      "id": "mr0vohb5mqqbi7",
+      "title": "3.5.10. AR/VR/XR Design",
+      "parentId": "mr0v4wue8q3tb7",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782837943457
+    },
+    {
+      "id": "mr0vohb7n3aoyh",
+      "title": "3.5.11. Design Systems & Accessibility",
+      "parentId": "mr0v4wue8q3tb7",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782837943459
+    },
+    {
+      "id": "mr0vohb9niucs3",
+      "title": "3.5.12. Digital Media & Creative Technology",
+      "parentId": "mr0v4wue8q3tb7",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782837943461
+    },
+    {
+      "id": "mr0vpfhnovzztr",
+      "title": "3.6.1. Financial Markets & Instruments",
+      "parentId": "mr0v4wuuayc45h",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782837987755
+    },
+    {
+      "id": "mr0vpfhs5jvj7h",
+      "title": "3.6.2. Investment Management",
+      "parentId": "mr0v4wuuayc45h",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782837987760
+    },
+    {
+      "id": "mr0vpfhuax2qp9",
+      "title": "3.6.3. Quantitative Finance",
+      "parentId": "mr0v4wuuayc45h",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782837987762
+    },
+    {
+      "id": "mr0vpfhxxfzbui",
+      "title": "3.6.4. Financial Engineering",
+      "parentId": "mr0v4wuuayc45h",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782837987765
+    },
+    {
+      "id": "mr0vpfi1cr0x52",
+      "title": "3.6.5. Algorithmic & High-Frequency Trading",
+      "parentId": "mr0v4wuuayc45h",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782837987769
+    },
+    {
+      "id": "mr0vpfi342jgji",
+      "title": "3.6.6. Risk Management",
+      "parentId": "mr0v4wuuayc45h",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782837987771
+    },
+    {
+      "id": "mr0vpfi5vwxogf",
+      "title": "3.6.7. Banking, FinTech & Digital Finance",
+      "parentId": "mr0v4wuuayc45h",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782837987773
+    },
+    {
+      "id": "mr0vpfi8xunv6l",
+      "title": "3.6.8. Financial Data Science & Analytics",
+      "parentId": "mr0v4wuuayc45h",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782837987776
+    },
+    {
+      "id": "mr0vpfia2d5e35",
+      "title": "3.6.9. Financial Econometrics",
+      "parentId": "mr0v4wuuayc45h",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782837987778
+    },
+    {
+      "id": "mr0vpfid14iwa1",
+      "title": "3.6.10. Computational Finance",
+      "parentId": "mr0v4wuuayc45h",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782837987781
+    },
+    {
+      "id": "mr0vpfiguys8bz",
+      "title": "3.6.11. Corporate Finance & Financial Management",
+      "parentId": "mr0v4wuuayc45h",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782837987784
+    },
+    {
+      "id": "mr0vpfiiostr1h",
+      "title": "3.6.12. Quantitative Research",
+      "parentId": "mr0v4wuuayc45h",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782837987786
     }
   ],
   "pages": {},
