@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T13:23:20.823Z",
+  "exportedAt": "2026-06-30T13:28:16.965Z",
   "nodes": [
     {
       "createdAt": 1781381483824,
@@ -2004,7 +2004,7 @@
     },
     {
       "id": "mr0g92ca1jhaui",
-      "title": "Career & Professional Practice",
+      "title": "Professional Development",
       "parentId": "mr0g929r44x4tu",
       "status": "pending",
       "order": 3,
@@ -2067,14 +2067,6 @@
       "createdAt": 1782812030028
     },
     {
-      "id": "mr0g929zm1evim",
-      "title": "Core Fundamentals",
-      "parentId": "mr0g92a5xmcn48",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1782812029895
-    },
-    {
       "id": "mr0g92a5xmcn48",
       "title": "Universal Foundations",
       "parentId": "mr0g929r44x4tu",
@@ -2093,25 +2085,25 @@
     {
       "id": "mr0g92akn6breq",
       "title": "Business Literacy",
-      "parentId": "mr0g929zm1evim",
+      "parentId": "mr0g92a5xmcn48",
       "status": "pending",
-      "order": 2,
+      "order": 3,
       "createdAt": 1782812029916
     },
     {
       "id": "mr0g92ar5mxlpp",
       "title": "Data Literacy",
-      "parentId": "mr0g929zm1evim",
+      "parentId": "mr0g92a5xmcn48",
       "status": "pending",
-      "order": 3,
+      "order": 4,
       "createdAt": 1782812029923
     },
     {
       "id": "mr0g92aycpttsf",
       "title": "Communication & Professional Skills",
-      "parentId": "mr0g929zm1evim",
+      "parentId": "mr0g92a5xmcn48",
       "status": "pending",
-      "order": 4,
+      "order": 5,
       "createdAt": 1782812029930
     },
     {
