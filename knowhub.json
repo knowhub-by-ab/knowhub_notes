@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T15:34:29.503Z",
+  "exportedAt": "2026-06-30T15:38:44.959Z",
   "nodes": [
     {
       "createdAt": 1781381483824,
@@ -2249,6 +2249,222 @@
       "status": "pending",
       "order": 3,
       "createdAt": 1782828705524
+    },
+    {
+      "id": "mr0t75oe5kkoj3",
+      "title": "A. Active Learning",
+      "parentId": "mr0q6h9hy7jhpe",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782833775998
+    },
+    {
+      "id": "mr0t75oln5xxmm",
+      "title": "B. Active Recall",
+      "parentId": "mr0q6h9hy7jhpe",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782833776005
+    },
+    {
+      "id": "mr0t75orecg130",
+      "title": "C. Retrieval Practice",
+      "parentId": "mr0q6h9hy7jhpe",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782833776011
+    },
+    {
+      "id": "mr0t75ozfsovvv",
+      "title": "D. Spaced Repetition",
+      "parentId": "mr0q6h9hy7jhpe",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782833776019
+    },
+    {
+      "id": "mr0t75p7zmv26j",
+      "title": "E. Interleaving",
+      "parentId": "mr0q6h9hy7jhpe",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782833776027
+    },
+    {
+      "id": "mr0t75petw3yxn",
+      "title": "F. Elaboration",
+      "parentId": "mr0q6h9hy7jhpe",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782833776034
+    },
+    {
+      "id": "mr0t75pm9f7u52",
+      "title": "G. Dual Coding",
+      "parentId": "mr0q6h9hy7jhpe",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782833776042
+    },
+    {
+      "id": "mr0t75pu9bo4lk",
+      "title": "H. Note-Taking Systems",
+      "parentId": "mr0q6h9hy7jhpe",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782833776050
+    },
+    {
+      "id": "mr0t75q1ivwepy",
+      "title": "I. Reading & Comprehension Strategies",
+      "parentId": "mr0q6h9hy7jhpe",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782833776057
+    },
+    {
+      "id": "mr0t75q9arir13",
+      "title": "J. Problem-Solving Strategies",
+      "parentId": "mr0q6h9hy7jhpe",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782833776065
+    },
+    {
+      "id": "mr0t75qix91yql",
+      "title": "K. Time Management for Learning",
+      "parentId": "mr0q6h9hy7jhpe",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782833776074
+    },
+    {
+      "id": "mr0t75qqdcz1ls",
+      "title": "L. Learning Productivity",
+      "parentId": "mr0q6h9hy7jhpe",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782833776082
+    },
+    {
+      "id": "mr0t75qyshtpre",
+      "title": "M. Learning Assessment & Self-Testing",
+      "parentId": "mr0q6h9hy7jhpe",
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1782833776090
+    },
+    {
+      "id": "mr0t75r519p8q4",
+      "title": "N. Common Study Mistakes",
+      "parentId": "mr0q6h9hy7jhpe",
+      "status": "pending",
+      "order": 13,
+      "createdAt": 1782833776097
+    },
+    {
+      "id": "mr0t8xa88xjigb",
+      "title": "A. Skill Acquisition",
+      "parentId": "mr0q6h9pxp0nh0",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782833858432
+    },
+    {
+      "id": "mr0t8xaebv525l",
+      "title": "B. Deliberate Practice",
+      "parentId": "mr0q6h9pxp0nh0",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782833858438
+    },
+    {
+      "id": "mr0t8xam2eonpg",
+      "title": "C. Stages of Skill Development",
+      "parentId": "mr0q6h9pxp0nh0",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782833858446
+    },
+    {
+      "id": "mr0t8xauceixz6",
+      "title": "D. Building Expertise",
+      "parentId": "mr0q6h9pxp0nh0",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782833858454
+    },
+    {
+      "id": "mr0t8xb475fudv",
+      "title": "E. Mental Models",
+      "parentId": "mr0q6h9pxp0nh0",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782833858464
+    },
+    {
+      "id": "mr0t8xbdv622ra",
+      "title": "F. Pattern Recognition",
+      "parentId": "mr0q6h9pxp0nh0",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782833858473
+    },
+    {
+      "id": "mr0t8xbl2rg5on",
+      "title": "G. Feedback & Improvement",
+      "parentId": "mr0q6h9pxp0nh0",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782833858481
+    },
+    {
+      "id": "mr0t8xbsc90thg",
+      "title": "H. Error-Based Learning",
+      "parentId": "mr0q6h9pxp0nh0",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782833858488
+    },
+    {
+      "id": "mr0t8xbz36q8ob",
+      "title": "I. Habit Formation",
+      "parentId": "mr0q6h9pxp0nh0",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782833858495
+    },
+    {
+      "id": "mr0t8xc7bfoq3y",
+      "title": "J. Consistency & Discipline",
+      "parentId": "mr0q6h9pxp0nh0",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782833858503
+    },
+    {
+      "id": "mr0t8xcezsuuaz",
+      "title": "K. Performance Optimization",
+      "parentId": "mr0q6h9pxp0nh0",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782833858510
+    },
+    {
+      "id": "mr0t8xcle38e2x",
+      "title": "L. Knowledge Transfer & Application",
+      "parentId": "mr0q6h9pxp0nh0",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782833858517
+    },
+    {
+      "id": "mr0t8xct0bapg4",
+      "title": "M. Mastery",
+      "parentId": "mr0q6h9pxp0nh0",
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1782833858525
     }
   ],
   "pages": {
