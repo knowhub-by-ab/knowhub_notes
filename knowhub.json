@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T14:33:31.389Z",
+  "exportedAt": "2026-06-30T14:38:18.191Z",
   "nodes": [
     {
       "createdAt": 1781381483824,
@@ -2115,38 +2115,6 @@
       "createdAt": 1782825784460
     },
     {
-      "id": "mr0q6h9b5skro5",
-      "title": "Learning Science & Cognition",
-      "parentId": "mr0ofvd87ol1di",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1782828705503
-    },
-    {
-      "id": "mr0q6h9hy7jhpe",
-      "title": "Effective Study Strategies",
-      "parentId": "mr0ofvd87ol1di",
-      "status": "pending",
-      "order": 1,
-      "createdAt": 1782828705509
-    },
-    {
-      "id": "mr0q6h9pxp0nh0",
-      "title": "Skill Development & Mastery",
-      "parentId": "mr0ofvd87ol1di",
-      "status": "pending",
-      "order": 2,
-      "createdAt": 1782828705517
-    },
-    {
-      "id": "mr0q6h9wxlhlq7",
-      "title": "Sustaining Learning & Growth",
-      "parentId": "mr0ofvd87ol1di",
-      "status": "pending",
-      "order": 3,
-      "createdAt": 1782828705524
-    },
-    {
       "id": "mr0pn2zopvy6f2",
       "title": "Foundations of Learning Science",
       "parentId": "mr0g92a5xmcn48",
@@ -2185,6 +2153,118 @@
       "status": "pending",
       "order": 9,
       "createdAt": 1782827800582
+    },
+    {
+      "id": "mr0r2pejniw9o8",
+      "title": "Learning Science & Cognition",
+      "parentId": "mr0ofvd87ol1di",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782830209051
+    },
+    {
+      "id": "mr0r2per7164ka",
+      "title": "Learning How to Learn",
+      "parentId": "mr0r2pejniw9o8",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782830209059
+    },
+    {
+      "id": "mr0r2pez3xe8dz",
+      "title": "Cognitive Science of Learning",
+      "parentId": "mr0r2pejniw9o8",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782830209067
+    },
+    {
+      "id": "mr0r2pf6v30dpe",
+      "title": "Cognitive Psychology",
+      "parentId": "mr0r2pejniw9o8",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782830209074
+    },
+    {
+      "id": "mr0r2pffied35a",
+      "title": "Attention & Focus",
+      "parentId": "mr0r2pejniw9o8",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782830209083
+    },
+    {
+      "id": "mr0r2pfm3z5pd6",
+      "title": "Working Memory",
+      "parentId": "mr0r2pejniw9o8",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782830209090
+    },
+    {
+      "id": "mr0r2pftkp7n3g",
+      "title": "Long-Term Memory",
+      "parentId": "mr0r2pejniw9o8",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782830209097
+    },
+    {
+      "id": "mr0r2pg1tt7wik",
+      "title": "Memory Formation & Consolidation",
+      "parentId": "mr0r2pejniw9o8",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782830209105
+    },
+    {
+      "id": "mr0r2pg98jzjbt",
+      "title": "Schema Formation",
+      "parentId": "mr0r2pejniw9o8",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782830209113
+    },
+    {
+      "id": "mr0r2pgg7j87pz",
+      "title": "Cognitive Load Theory",
+      "parentId": "mr0r2pejniw9o8",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782830209120
+    },
+    {
+      "id": "mr0r2pgojmeioo",
+      "title": "Neuroplasticity",
+      "parentId": "mr0r2pejniw9o8",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782830209128
+    },
+    {
+      "id": "mr0r2pgw3dtuj2",
+      "title": "Metacognition",
+      "parentId": "mr0r2pejniw9o8",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782830209136
+    },
+    {
+      "id": "mr0r2ph56v34hu",
+      "title": "Motivation & Emotion in Learning",
+      "parentId": "mr0r2pejniw9o8",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782830209145
+    },
+    {
+      "id": "mr0r2phe1twwze",
+      "title": "Learning Transfer",
+      "parentId": "mr0r2pejniw9o8",
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1782830209154
     }
   ],
   "pages": {
