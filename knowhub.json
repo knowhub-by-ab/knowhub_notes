@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T09:33:09.098Z",
+  "exportedAt": "2026-06-30T09:38:31.250Z",
   "nodes": [
     {
       "createdAt": 1781381483824,
@@ -1953,6 +1953,166 @@
       "status": "pending",
       "title": "Homomorphic Encryption & Secure Multi-Party Computation Concepts",
       "order": 3
+    },
+    {
+      "id": "mr0g929r44x4tu",
+      "title": "Professional Career Development Path",
+      "parentId": null,
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782812029887
+    },
+    {
+      "id": "mr0g929zm1evim",
+      "title": "Core Fundamentals",
+      "parentId": "mr0g929r44x4tu",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782812029895
+    },
+    {
+      "id": "mr0g92a5xmcn48",
+      "title": "Universal Foundations",
+      "parentId": "mr0g929zm1evim",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782812029901
+    },
+    {
+      "id": "mr0g92adtr8ecp",
+      "title": "Digital Literacy",
+      "parentId": "mr0g929zm1evim",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782812029909
+    },
+    {
+      "id": "mr0g92akn6breq",
+      "title": "Business Literacy",
+      "parentId": "mr0g929zm1evim",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782812029916
+    },
+    {
+      "id": "mr0g92ar5mxlpp",
+      "title": "Data Literacy",
+      "parentId": "mr0g929zm1evim",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782812029923
+    },
+    {
+      "id": "mr0g92aycpttsf",
+      "title": "Communication & Professional Skills",
+      "parentId": "mr0g929zm1evim",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782812029930
+    },
+    {
+      "id": "mr0g92b7lfh561",
+      "title": "Technical Foundations",
+      "parentId": "mr0g929r44x4tu",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782812029939
+    },
+    {
+      "id": "mr0g92bftw1wn5",
+      "title": "Computer Science Foundations",
+      "parentId": "mr0g92b7lfh561",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782812029947
+    },
+    {
+      "id": "mr0g92bnrfyn92",
+      "title": "Programming Foundations",
+      "parentId": "mr0g92b7lfh561",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782812029955
+    },
+    {
+      "id": "mr0g92bvqljwbv",
+      "title": "Core Technical Foundations",
+      "parentId": "mr0g92b7lfh561",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782812029963
+    },
+    {
+      "id": "mr0g92c215mrce",
+      "title": "Modern Technology Foundations",
+      "parentId": "mr0g92b7lfh561",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782812029970
+    },
+    {
+      "id": "mr0g92ca1jhaui",
+      "title": "Career & Professional Practice",
+      "parentId": "mr0g929r44x4tu",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782812029978
+    },
+    {
+      "id": "mr0g92chzjmz36",
+      "title": "Career Domains",
+      "parentId": "mr0g92ca1jhaui",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782812029985
+    },
+    {
+      "id": "mr0g92cpdewm6s",
+      "title": "Career Development",
+      "parentId": "mr0g92ca1jhaui",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782812029993
+    },
+    {
+      "id": "mr0g92cv63sa7j",
+      "title": "Professional Practice",
+      "parentId": "mr0g92ca1jhaui",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782812029999
+    },
+    {
+      "id": "mr0g92d3r1r2y8",
+      "title": "Strategic Growth",
+      "parentId": "mr0g929r44x4tu",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782812030007
+    },
+    {
+      "id": "mr0g92daucimly",
+      "title": "Leadership & Management",
+      "parentId": "mr0g92d3r1r2y8",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782812030014
+    },
+    {
+      "id": "mr0g92diotvd38",
+      "title": "Innovation & Entrepreneurship",
+      "parentId": "mr0g92d3r1r2y8",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782812030022
+    },
+    {
+      "id": "mr0g92do3zib1j",
+      "title": "Lifelong Professional Growth",
+      "parentId": "mr0g92d3r1r2y8",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782812030028
     }
   ],
   "pages": {
