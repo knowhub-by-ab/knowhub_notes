@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T16:28:45.295Z",
+  "exportedAt": "2026-06-30T16:33:48.165Z",
   "nodes": [
     {
       "createdAt": 1781381483824,
@@ -6009,6 +6009,118 @@
       "status": "pending",
       "order": 7,
       "createdAt": 1782836319630
+    },
+    {
+      "id": "mr0v4wstzo5kcr",
+      "title": "3.1. Software Engineering",
+      "parentId": "mr0g92chzjmz36",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782837030413
+    },
+    {
+      "id": "mr0v4wtbiak0b2",
+      "title": "3.2. Artificial Intelligence & Data",
+      "parentId": "mr0g92chzjmz36",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782837030431
+    },
+    {
+      "id": "mr0v4wtqlp1n8s",
+      "title": "3.3. Cloud, Infrastructure & Cybersecurity",
+      "parentId": "mr0g92chzjmz36",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782837030446
+    },
+    {
+      "id": "mr0v4wu2q4egmj",
+      "title": "3.4. Business & Enterprise Technology",
+      "parentId": "mr0g92chzjmz36",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782837030458
+    },
+    {
+      "id": "mr0v4wue8q3tb7",
+      "title": "3.5. Design & Creative Technology",
+      "parentId": "mr0g92chzjmz36",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782837030470
+    },
+    {
+      "id": "mr0v4wuuayc45h",
+      "title": "3.6. Finance & Quantitative Computing",
+      "parentId": "mr0g92chzjmz36",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782837030486
+    },
+    {
+      "id": "mr0v4wv2cfwejv",
+      "title": "3.7. Scientific Computing & Engineering",
+      "parentId": "mr0g92chzjmz36",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782837030494
+    },
+    {
+      "id": "mr0v4wvcyh3lqb",
+      "title": "3.8. Emerging Technology Domains",
+      "parentId": "mr0g92chzjmz36",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782837030504
+    },
+    {
+      "id": "mr0v787nho2y5p",
+      "title": "4.3. Strategic Thinking & Decision Making",
+      "parentId": "mr0g92d3r1r2y8",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782837138515
+    },
+    {
+      "id": "mr0v788g63b05l",
+      "title": "4.4. Personal Effectiveness & Wellbeing",
+      "parentId": "mr0g92d3r1r2y8",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782837138544
+    },
+    {
+      "id": "mr0v788uww82mo",
+      "title": "4.5. Research, Creativity & Knowledge Creation",
+      "parentId": "mr0g92d3r1r2y8",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782837138558
+    },
+    {
+      "id": "mr0v789ayhjobb",
+      "title": "4.6. Ethics, Sustainability & Global Responsibility",
+      "parentId": "mr0g92d3r1r2y8",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782837138574
+    },
+    {
+      "id": "mr0v789he5194k",
+      "title": "4.7. Lifelong Learning & Continuous Improvement",
+      "parentId": "mr0g92d3r1r2y8",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782837138581
+    },
+    {
+      "id": "mr0v789pipen4j",
+      "title": "4.8. Legacy, Mentorship & Influence",
+      "parentId": "mr0g92d3r1r2y8",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782837138589
     }
   ],
   "pages": {
