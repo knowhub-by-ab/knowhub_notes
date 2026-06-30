@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T15:38:44.959Z",
+  "exportedAt": "2026-06-30T15:43:45.997Z",
   "nodes": [
     {
       "createdAt": 1781381483824,
@@ -2465,6 +2465,110 @@
       "status": "pending",
       "order": 12,
       "createdAt": 1782833858525
+    },
+    {
+      "id": "mr0taido01445n",
+      "title": "A. Self-Directed Learning",
+      "parentId": "mr0q6h9wxlhlq7",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782833932428
+    },
+    {
+      "id": "mr0taidv6xjtpk",
+      "title": "B. Goal Setting & Learning Planning",
+      "parentId": "mr0q6h9wxlhlq7",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782833932435
+    },
+    {
+      "id": "mr0taie2uscjir",
+      "title": "C. Learning Roadmaps",
+      "parentId": "mr0q6h9wxlhlq7",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782833932442
+    },
+    {
+      "id": "mr0taieax19sfy",
+      "title": "D. Personal Knowledge Management",
+      "parentId": "mr0q6h9wxlhlq7",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782833932450
+    },
+    {
+      "id": "mr0taiei1txf1a",
+      "title": "E. Information Capture & Organization",
+      "parentId": "mr0q6h9wxlhlq7",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782833932458
+    },
+    {
+      "id": "mr0taieqxmbadu",
+      "title": "F. Reflection & Learning Journaling",
+      "parentId": "mr0q6h9wxlhlq7",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782833932466
+    },
+    {
+      "id": "mr0taiexj5xdvk",
+      "title": "G. Learning Analytics & Progress Tracking",
+      "parentId": "mr0q6h9wxlhlq7",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782833932473
+    },
+    {
+      "id": "mr0taifa0i1nqm",
+      "title": "H. AI-Assisted Learning",
+      "parentId": "mr0q6h9wxlhlq7",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782833932486
+    },
+    {
+      "id": "mr0taifipr1q1g",
+      "title": "I. Building a Personal Learning System",
+      "parentId": "mr0q6h9wxlhlq7",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782833932494
+    },
+    {
+      "id": "mr0taifpurjb4z",
+      "title": "J. Continuous Improvement",
+      "parentId": "mr0q6h9wxlhlq7",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782833932501
+    },
+    {
+      "id": "mr0taifxf7k1fi",
+      "title": "K. Lifelong Learning",
+      "parentId": "mr0q6h9wxlhlq7",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782833932509
+    },
+    {
+      "id": "mr0taig4jth4wl",
+      "title": "L. Learning Communities & Networking",
+      "parentId": "mr0q6h9wxlhlq7",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782833932516
+    },
+    {
+      "id": "mr0taigcfashuj",
+      "title": "M. Teaching & Knowledge Sharing",
+      "parentId": "mr0q6h9wxlhlq7",
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1782833932524
     }
   ],
   "pages": {
