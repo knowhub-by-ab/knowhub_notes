@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T14:43:45.075Z",
+  "exportedAt": "2026-06-30T14:48:45.096Z",
   "nodes": [
     {
       "createdAt": 1781381483824,
@@ -2156,7 +2156,7 @@
     },
     {
       "id": "mr0r2pejniw9o8",
-      "title": "A. Learning Science & Cognition",
+      "title": "1.1.1. Learning Science & Cognition",
       "parentId": "mr0ofvd87ol1di",
       "status": "pending",
       "order": 0,
@@ -2164,7 +2164,7 @@
     },
     {
       "id": "mr0r2per7164ka",
-      "title": "Learning How to Learn",
+      "title": "A. Learning How to Learn",
       "parentId": "mr0r2pejniw9o8",
       "status": "pending",
       "order": 0,
@@ -2172,7 +2172,7 @@
     },
     {
       "id": "mr0r2pez3xe8dz",
-      "title": "Cognitive Science of Learning",
+      "title": "B. Cognitive Science of Learning",
       "parentId": "mr0r2pejniw9o8",
       "status": "pending",
       "order": 1,
@@ -2180,7 +2180,7 @@
     },
     {
       "id": "mr0r2pf6v30dpe",
-      "title": "Cognitive Psychology",
+      "title": "C. Cognitive Psychology",
       "parentId": "mr0r2pejniw9o8",
       "status": "pending",
       "order": 2,
@@ -2188,7 +2188,7 @@
     },
     {
       "id": "mr0r2pffied35a",
-      "title": "Attention & Focus",
+      "title": "D. Attention & Focus",
       "parentId": "mr0r2pejniw9o8",
       "status": "pending",
       "order": 3,
@@ -2196,7 +2196,7 @@
     },
     {
       "id": "mr0r2pfm3z5pd6",
-      "title": "Working Memory",
+      "title": "E. Working Memory",
       "parentId": "mr0r2pejniw9o8",
       "status": "pending",
       "order": 4,
@@ -2204,7 +2204,7 @@
     },
     {
       "id": "mr0r2pftkp7n3g",
-      "title": "Long-Term Memory",
+      "title": "F. Long-Term Memory",
       "parentId": "mr0r2pejniw9o8",
       "status": "pending",
       "order": 5,
@@ -2212,7 +2212,7 @@
     },
     {
       "id": "mr0r2pg1tt7wik",
-      "title": "Memory Formation & Consolidation",
+      "title": "G. Memory Formation & Consolidation",
       "parentId": "mr0r2pejniw9o8",
       "status": "pending",
       "order": 6,
@@ -2220,7 +2220,7 @@
     },
     {
       "id": "mr0r2pg98jzjbt",
-      "title": "Schema Formation",
+      "title": "H. Schema Formation",
       "parentId": "mr0r2pejniw9o8",
       "status": "pending",
       "order": 7,
@@ -2228,7 +2228,7 @@
     },
     {
       "id": "mr0r2pgg7j87pz",
-      "title": "Cognitive Load Theory",
+      "title": "I. Cognitive Load Theory",
       "parentId": "mr0r2pejniw9o8",
       "status": "pending",
       "order": 8,
@@ -2236,7 +2236,7 @@
     },
     {
       "id": "mr0r2pgojmeioo",
-      "title": "Neuroplasticity",
+      "title": "J. Neuroplasticity",
       "parentId": "mr0r2pejniw9o8",
       "status": "pending",
       "order": 9,
@@ -2244,7 +2244,7 @@
     },
     {
       "id": "mr0r2pgw3dtuj2",
-      "title": "Metacognition",
+      "title": "K. Metacognition",
       "parentId": "mr0r2pejniw9o8",
       "status": "pending",
       "order": 10,
@@ -2252,7 +2252,7 @@
     },
     {
       "id": "mr0r2ph56v34hu",
-      "title": "Motivation & Emotion in Learning",
+      "title": "L. Motivation & Emotion in Learning",
       "parentId": "mr0r2pejniw9o8",
       "status": "pending",
       "order": 11,
@@ -2260,7 +2260,7 @@
     },
     {
       "id": "mr0r2phe1twwze",
-      "title": "Learning Transfer",
+      "title": "M. Learning Transfer",
       "parentId": "mr0r2pejniw9o8",
       "status": "pending",
       "order": 12,
@@ -2268,7 +2268,7 @@
     },
     {
       "id": "mr0q6h9hy7jhpe",
-      "title": "Effective Study Strategies",
+      "title": "1.1.2. Effective Study Strategies",
       "parentId": "mr0ofvd87ol1di",
       "status": "pending",
       "order": 1,
@@ -2276,7 +2276,7 @@
     },
     {
       "id": "mr0q6h9pxp0nh0",
-      "title": "Skill Development & Mastery",
+      "title": "1.1.3. Skill Development & Mastery",
       "parentId": "mr0ofvd87ol1di",
       "status": "pending",
       "order": 2,
@@ -2284,7 +2284,7 @@
     },
     {
       "id": "mr0q6h9wxlhlq7",
-      "title": "Sustaining Learning & Growth",
+      "title": "1.1.4. Sustaining Learning & Growth",
       "parentId": "mr0ofvd87ol1di",
       "status": "pending",
       "order": 3,
