@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T12:32:58.834Z",
+  "exportedAt": "2026-06-30T12:38:18.686Z",
   "nodes": [
     {
       "createdAt": 1781381483824,
@@ -1967,7 +1967,7 @@
       "title": "Technical Foundations",
       "parentId": "mr0g929r44x4tu",
       "status": "pending",
-      "order": 1,
+      "order": 2,
       "createdAt": 1782812029939
     },
     {
@@ -2007,7 +2007,7 @@
       "title": "Career & Professional Practice",
       "parentId": "mr0g929r44x4tu",
       "status": "pending",
-      "order": 2,
+      "order": 3,
       "createdAt": 1782812029978
     },
     {
@@ -2039,7 +2039,7 @@
       "title": "Strategic Growth",
       "parentId": "mr0g929r44x4tu",
       "status": "pending",
-      "order": 3,
+      "order": 4,
       "createdAt": 1782812030007
     },
     {
@@ -2065,6 +2065,54 @@
       "status": "pending",
       "order": 2,
       "createdAt": 1782812030028
+    },
+    {
+      "id": "mr0g929zm1evim",
+      "title": "Core Fundamentals",
+      "parentId": "mr0g92a5xmcn48",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782812029895
+    },
+    {
+      "id": "mr0g92a5xmcn48",
+      "title": "Universal Foundations",
+      "parentId": "mr0g929r44x4tu",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782812029901
+    },
+    {
+      "id": "mr0g92adtr8ecp",
+      "title": "Digital Literacy",
+      "parentId": "mr0g929zm1evim",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782812029909
+    },
+    {
+      "id": "mr0g92akn6breq",
+      "title": "Business Literacy",
+      "parentId": "mr0g929zm1evim",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782812029916
+    },
+    {
+      "id": "mr0g92ar5mxlpp",
+      "title": "Data Literacy",
+      "parentId": "mr0g929zm1evim",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782812029923
+    },
+    {
+      "id": "mr0g92aycpttsf",
+      "title": "Communication & Professional Skills",
+      "parentId": "mr0g929zm1evim",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782812029930
     }
   ],
   "pages": {
