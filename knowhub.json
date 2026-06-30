@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T16:13:45.208Z",
+  "exportedAt": "2026-06-30T16:18:47.108Z",
   "nodes": [
     {
       "createdAt": 1781381483824,
@@ -4297,6 +4297,1734 @@
       "status": "pending",
       "order": 7,
       "createdAt": 1782835944503
+    },
+    {
+      "id": "mr0ujlhyvpr99b",
+      "title": "2.1.1. Computational Thinking",
+      "parentId": "mr0g92bftw1wn5",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836035990
+    },
+    {
+      "id": "mr0ujlig0y9ju4",
+      "title": "A. Computational Thinking Fundamentals",
+      "parentId": "mr0ujlhyvpr99b",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836036008
+    },
+    {
+      "id": "mr0ujlircqxelg",
+      "title": "B. Problem Decomposition",
+      "parentId": "mr0ujlhyvpr99b",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836036019
+    },
+    {
+      "id": "mr0ujlj7grgtc0",
+      "title": "C. Pattern Recognition",
+      "parentId": "mr0ujlhyvpr99b",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836036035
+    },
+    {
+      "id": "mr0ujljl45bzhe",
+      "title": "D. Abstraction",
+      "parentId": "mr0ujlhyvpr99b",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836036049
+    },
+    {
+      "id": "mr0ujljzj0s3c4",
+      "title": "E. Algorithmic Thinking",
+      "parentId": "mr0ujlhyvpr99b",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836036063
+    },
+    {
+      "id": "mr0ujlk80g5s3c",
+      "title": "F. Logical Reasoning",
+      "parentId": "mr0ujlhyvpr99b",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836036072
+    },
+    {
+      "id": "mr0ujlkilkd90o",
+      "title": "G. Modeling & Simulation",
+      "parentId": "mr0ujlhyvpr99b",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836036082
+    },
+    {
+      "id": "mr0ujlkr1h80ak",
+      "title": "H. Computational Problem Solving",
+      "parentId": "mr0ujlhyvpr99b",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836036091
+    },
+    {
+      "id": "mr0ujlkzdivbn5",
+      "title": "2.1.2. Computer Systems",
+      "parentId": "mr0g92bftw1wn5",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836036099
+    },
+    {
+      "id": "mr0ujllephhp75",
+      "title": "A. History of Computing",
+      "parentId": "mr0ujlkzdivbn5",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836036114
+    },
+    {
+      "id": "mr0ujllprw0xbe",
+      "title": "B. Computer Architecture",
+      "parentId": "mr0ujlkzdivbn5",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836036125
+    },
+    {
+      "id": "mr0ujllwykuygv",
+      "title": "C. CPU & Memory",
+      "parentId": "mr0ujlkzdivbn5",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836036132
+    },
+    {
+      "id": "mr0ujlm4usi1kt",
+      "title": "D. Input & Output Systems",
+      "parentId": "mr0ujlkzdivbn5",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836036140
+    },
+    {
+      "id": "mr0ujlmccrxfdq",
+      "title": "E. Storage Systems",
+      "parentId": "mr0ujlkzdivbn5",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836036148
+    },
+    {
+      "id": "mr0ujlmkczps8t",
+      "title": "F. Operating System Fundamentals",
+      "parentId": "mr0ujlkzdivbn5",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836036156
+    },
+    {
+      "id": "mr0ujlmtvij6r6",
+      "title": "G. Computer Performance",
+      "parentId": "mr0ujlkzdivbn5",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836036165
+    },
+    {
+      "id": "mr0ujln245kuh2",
+      "title": "H. Virtualization Basics",
+      "parentId": "mr0ujlkzdivbn5",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836036174
+    },
+    {
+      "id": "mr0ujlnbv221ti",
+      "title": "2.1.3. Data Representation",
+      "parentId": "mr0g92bftw1wn5",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836036183
+    },
+    {
+      "id": "mr0ujlnlaqujav",
+      "title": "A. Binary Number System",
+      "parentId": "mr0ujlnbv221ti",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836036193
+    },
+    {
+      "id": "mr0ujlnx9coism",
+      "title": "B. Number Systems",
+      "parentId": "mr0ujlnbv221ti",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836036205
+    },
+    {
+      "id": "mr0ujlo5q210hd",
+      "title": "C. Data Encoding",
+      "parentId": "mr0ujlnbv221ti",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836036213
+    },
+    {
+      "id": "mr0ujlohioff7v",
+      "title": "D. Characters & Unicode",
+      "parentId": "mr0ujlnbv221ti",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836036225
+    },
+    {
+      "id": "mr0ujlop63b93l",
+      "title": "E. Images & Graphics",
+      "parentId": "mr0ujlnbv221ti",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836036233
+    },
+    {
+      "id": "mr0ujloz4t7qhm",
+      "title": "F. Audio Representation",
+      "parentId": "mr0ujlnbv221ti",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836036243
+    },
+    {
+      "id": "mr0ujlp6uzkfon",
+      "title": "G. Video Representation",
+      "parentId": "mr0ujlnbv221ti",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836036250
+    },
+    {
+      "id": "mr0ujlpilty040",
+      "title": "H. Data Compression",
+      "parentId": "mr0ujlnbv221ti",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836036262
+    },
+    {
+      "id": "mr0ujlpsigx0xr",
+      "title": "2.1.4. Algorithms & Data Structures Fundamentals",
+      "parentId": "mr0g92bftw1wn5",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836036272
+    },
+    {
+      "id": "mr0ujlq0mdf35y",
+      "title": "A. What is an Algorithm?",
+      "parentId": "mr0ujlpsigx0xr",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836036280
+    },
+    {
+      "id": "mr0ujlq9ufn31g",
+      "title": "B. Algorithm Design",
+      "parentId": "mr0ujlpsigx0xr",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836036289
+    },
+    {
+      "id": "mr0ujlqksjg00a",
+      "title": "C. Algorithm Analysis",
+      "parentId": "mr0ujlpsigx0xr",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836036300
+    },
+    {
+      "id": "mr0ujlqry1nb5w",
+      "title": "D. Time Complexity",
+      "parentId": "mr0ujlpsigx0xr",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836036307
+    },
+    {
+      "id": "mr0ujlqyuuv8h6",
+      "title": "E. Space Complexity",
+      "parentId": "mr0ujlpsigx0xr",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836036314
+    },
+    {
+      "id": "mr0ujlr5uzo9ff",
+      "title": "F. Introduction to Data Structures",
+      "parentId": "mr0ujlpsigx0xr",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836036321
+    },
+    {
+      "id": "mr0ujlrdnl1h80",
+      "title": "G. Recursion Fundamentals",
+      "parentId": "mr0ujlpsigx0xr",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836036329
+    },
+    {
+      "id": "mr0ujlrmnykh5y",
+      "title": "H. Algorithmic Problem Solving",
+      "parentId": "mr0ujlpsigx0xr",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836036338
+    },
+    {
+      "id": "mr0ujlrv4oqmfe",
+      "title": "2.1.5. Computer Networks Fundamentals",
+      "parentId": "mr0g92bftw1wn5",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836036347
+    },
+    {
+      "id": "mr0ujls5sx1bky",
+      "title": "A. Networking Basics",
+      "parentId": "mr0ujlrv4oqmfe",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836036357
+    },
+    {
+      "id": "mr0ujlseyrdke0",
+      "title": "B. Internet Architecture",
+      "parentId": "mr0ujlrv4oqmfe",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836036366
+    },
+    {
+      "id": "mr0ujlsmd2hgaj",
+      "title": "C. Network Protocols",
+      "parentId": "mr0ujlrv4oqmfe",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836036374
+    },
+    {
+      "id": "mr0ujlsthkz8h1",
+      "title": "D. IP Addressing",
+      "parentId": "mr0ujlrv4oqmfe",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836036381
+    },
+    {
+      "id": "mr0ujlt1vyeh0j",
+      "title": "E. DNS",
+      "parentId": "mr0ujlrv4oqmfe",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836036389
+    },
+    {
+      "id": "mr0ujlt9111u15",
+      "title": "F. Client-Server Architecture",
+      "parentId": "mr0ujlrv4oqmfe",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836036397
+    },
+    {
+      "id": "mr0ujlthhfzj0j",
+      "title": "G. Cloud Networking Basics",
+      "parentId": "mr0ujlrv4oqmfe",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836036405
+    },
+    {
+      "id": "mr0ujltpt22ke8",
+      "title": "H. Network Security Fundamentals",
+      "parentId": "mr0ujlrv4oqmfe",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836036413
+    },
+    {
+      "id": "mr0ujltz7j1kip",
+      "title": "2.1.6. Software Systems Fundamentals",
+      "parentId": "mr0g92bftw1wn5",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836036423
+    },
+    {
+      "id": "mr0ujlu7w4u7vx",
+      "title": "A. Software Engineering Overview",
+      "parentId": "mr0ujltz7j1kip",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836036431
+    },
+    {
+      "id": "mr0ujluhn8uvfg",
+      "title": "B. Software Development Lifecycle",
+      "parentId": "mr0ujltz7j1kip",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836036441
+    },
+    {
+      "id": "mr0ujlupfu5ciq",
+      "title": "C. Software Architecture",
+      "parentId": "mr0ujltz7j1kip",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836036449
+    },
+    {
+      "id": "mr0ujluyx9ln6x",
+      "title": "D. Version Control Fundamentals",
+      "parentId": "mr0ujltz7j1kip",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836036458
+    },
+    {
+      "id": "mr0ujlv8mksxq6",
+      "title": "E. Software Testing Basics",
+      "parentId": "mr0ujltz7j1kip",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836036468
+    },
+    {
+      "id": "mr0ujlvjj8lk9x",
+      "title": "F. Software Maintenance",
+      "parentId": "mr0ujltz7j1kip",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836036479
+    },
+    {
+      "id": "mr0ujlvtx7zptp",
+      "title": "G. Documentation",
+      "parentId": "mr0ujltz7j1kip",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836036489
+    },
+    {
+      "id": "mr0ujlw4dim5ib",
+      "title": "H. Ethics in Computing",
+      "parentId": "mr0ujltz7j1kip",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836036500
+    },
+    {
+      "id": "mr0umcyhsu63z2",
+      "title": "2.2.1. Programming Fundamentals",
+      "parentId": "mr0g92bnrfyn92",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836164889
+    },
+    {
+      "id": "mr0umcyx9rr0zj",
+      "title": "A. What is Programming?",
+      "parentId": "mr0umcyhsu63z2",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836164905
+    },
+    {
+      "id": "mr0umcz9mddxwv",
+      "title": "B. Programming Languages",
+      "parentId": "mr0umcyhsu63z2",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836164917
+    },
+    {
+      "id": "mr0umczjx5r5s3",
+      "title": "C. Program Structure",
+      "parentId": "mr0umcyhsu63z2",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836164927
+    },
+    {
+      "id": "mr0umczuxb8h8c",
+      "title": "D. Variables & Constants",
+      "parentId": "mr0umcyhsu63z2",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836164938
+    },
+    {
+      "id": "mr0umd0589lmyc",
+      "title": "E. Data Types",
+      "parentId": "mr0umcyhsu63z2",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836164949
+    },
+    {
+      "id": "mr0umd0h62w269",
+      "title": "F. Operators",
+      "parentId": "mr0umcyhsu63z2",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836164961
+    },
+    {
+      "id": "mr0umd0qu2llu8",
+      "title": "G. Expressions",
+      "parentId": "mr0umcyhsu63z2",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836164970
+    },
+    {
+      "id": "mr0umd0zu3pe6d",
+      "title": "H. Input & Output",
+      "parentId": "mr0umcyhsu63z2",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836164979
+    },
+    {
+      "id": "mr0umd16fi9gdk",
+      "title": "2.2.2. Control Flow",
+      "parentId": "mr0g92bnrfyn92",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836164986
+    },
+    {
+      "id": "mr0umd1hw48lv7",
+      "title": "A. Conditional Statements",
+      "parentId": "mr0umd16fi9gdk",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836164997
+    },
+    {
+      "id": "mr0umd1ozy07z7",
+      "title": "B. Loops",
+      "parentId": "mr0umd16fi9gdk",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836165004
+    },
+    {
+      "id": "mr0umd1vunxeah",
+      "title": "C. Nested Control Structures",
+      "parentId": "mr0umd16fi9gdk",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836165011
+    },
+    {
+      "id": "mr0umd222f9qmb",
+      "title": "D. Boolean Logic",
+      "parentId": "mr0umd16fi9gdk",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836165018
+    },
+    {
+      "id": "mr0umd29zu2zt2",
+      "title": "E. Flow Control",
+      "parentId": "mr0umd16fi9gdk",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836165025
+    },
+    {
+      "id": "mr0umd2hrv3nw3",
+      "title": "F. Pattern Generation",
+      "parentId": "mr0umd16fi9gdk",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836165033
+    },
+    {
+      "id": "mr0umd2otmfter",
+      "title": "G. Error Handling Basics",
+      "parentId": "mr0umd16fi9gdk",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836165040
+    },
+    {
+      "id": "mr0umd2var8bod",
+      "title": "H. Debugging Fundamentals",
+      "parentId": "mr0umd16fi9gdk",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836165047
+    },
+    {
+      "id": "mr0umd336113lf",
+      "title": "2.2.3. Modular Programming",
+      "parentId": "mr0g92bnrfyn92",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836165055
+    },
+    {
+      "id": "mr0umd3aq98q7k",
+      "title": "A. Functions",
+      "parentId": "mr0umd336113lf",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836165062
+    },
+    {
+      "id": "mr0umd3iu5y8eo",
+      "title": "B. Parameters & Arguments",
+      "parentId": "mr0umd336113lf",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836165070
+    },
+    {
+      "id": "mr0umd3qp2bobj",
+      "title": "C. Return Values",
+      "parentId": "mr0umd336113lf",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836165078
+    },
+    {
+      "id": "mr0umd3y7fi39s",
+      "title": "D. Variable Scope",
+      "parentId": "mr0umd336113lf",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836165086
+    },
+    {
+      "id": "mr0umd478p37du",
+      "title": "E. Recursion",
+      "parentId": "mr0umd336113lf",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836165095
+    },
+    {
+      "id": "mr0umd4e9hzbbs",
+      "title": "F. Code Reusability",
+      "parentId": "mr0umd336113lf",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836165102
+    },
+    {
+      "id": "mr0umd4msin3tn",
+      "title": "G. Modular Design",
+      "parentId": "mr0umd336113lf",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836165110
+    },
+    {
+      "id": "mr0umd4uhd49jk",
+      "title": "H. Documentation & Comments",
+      "parentId": "mr0umd336113lf",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836165118
+    },
+    {
+      "id": "mr0umd53fqtw79",
+      "title": "2.2.4. Data Structures in Programming",
+      "parentId": "mr0g92bnrfyn92",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836165127
+    },
+    {
+      "id": "mr0umd5by2wz7w",
+      "title": "A. Arrays",
+      "parentId": "mr0umd53fqtw79",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836165135
+    },
+    {
+      "id": "mr0umd5i1rhn46",
+      "title": "B. Strings",
+      "parentId": "mr0umd53fqtw79",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836165142
+    },
+    {
+      "id": "mr0umd5qrgeamy",
+      "title": "C. Lists",
+      "parentId": "mr0umd53fqtw79",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836165150
+    },
+    {
+      "id": "mr0umd5z2191wk",
+      "title": "D. Stacks",
+      "parentId": "mr0umd53fqtw79",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836165159
+    },
+    {
+      "id": "mr0umd6652oeug",
+      "title": "E. Queues",
+      "parentId": "mr0umd53fqtw79",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836165166
+    },
+    {
+      "id": "mr0umd6de19u48",
+      "title": "F. Maps & Dictionaries",
+      "parentId": "mr0umd53fqtw79",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836165173
+    },
+    {
+      "id": "mr0umd6kc55bdp",
+      "title": "G. Sets",
+      "parentId": "mr0umd53fqtw79",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836165180
+    },
+    {
+      "id": "mr0umd6s5gy6q7",
+      "title": "H. Trees & Graphs Overview",
+      "parentId": "mr0umd53fqtw79",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836165188
+    },
+    {
+      "id": "mr0umd6zuq0ba2",
+      "title": "2.2.5. Object-Oriented Programming",
+      "parentId": "mr0g92bnrfyn92",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836165195
+    },
+    {
+      "id": "mr0umd77j340tv",
+      "title": "A. Objects & Classes",
+      "parentId": "mr0umd6zuq0ba2",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836165203
+    },
+    {
+      "id": "mr0umd7f8izxuk",
+      "title": "B. Encapsulation",
+      "parentId": "mr0umd6zuq0ba2",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836165211
+    },
+    {
+      "id": "mr0umd7nq6nap1",
+      "title": "C. Inheritance",
+      "parentId": "mr0umd6zuq0ba2",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836165219
+    },
+    {
+      "id": "mr0umd7vs9epj0",
+      "title": "D. Polymorphism",
+      "parentId": "mr0umd6zuq0ba2",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836165227
+    },
+    {
+      "id": "mr0umd83wzfv21",
+      "title": "E. Abstraction",
+      "parentId": "mr0umd6zuq0ba2",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836165235
+    },
+    {
+      "id": "mr0umd8awrnp71",
+      "title": "F. Interfaces",
+      "parentId": "mr0umd6zuq0ba2",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836165242
+    },
+    {
+      "id": "mr0umd8ivdns16",
+      "title": "G. Composition",
+      "parentId": "mr0umd6zuq0ba2",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836165250
+    },
+    {
+      "id": "mr0umd8qrczi4d",
+      "title": "H. Design Principles",
+      "parentId": "mr0umd6zuq0ba2",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836165258
+    },
+    {
+      "id": "mr0umd8zeiqxmw",
+      "title": "2.2.6. Programming Best Practices",
+      "parentId": "mr0g92bnrfyn92",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836165267
+    },
+    {
+      "id": "mr0umd965ded0b",
+      "title": "A. Coding Standards",
+      "parentId": "mr0umd8zeiqxmw",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836165274
+    },
+    {
+      "id": "mr0umd9g9e1xnh",
+      "title": "B. Clean Code",
+      "parentId": "mr0umd8zeiqxmw",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836165284
+    },
+    {
+      "id": "mr0umd9oo66o5t",
+      "title": "C. Refactoring",
+      "parentId": "mr0umd8zeiqxmw",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836165292
+    },
+    {
+      "id": "mr0umd9x6ei5ob",
+      "title": "D. Testing Fundamentals",
+      "parentId": "mr0umd8zeiqxmw",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836165301
+    },
+    {
+      "id": "mr0umda5vtvn6t",
+      "title": "E. Debugging Techniques",
+      "parentId": "mr0umd8zeiqxmw",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836165309
+    },
+    {
+      "id": "mr0umdafcj4hlg",
+      "title": "F. Performance Optimization",
+      "parentId": "mr0umd8zeiqxmw",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836165319
+    },
+    {
+      "id": "mr0umdasqzyrlu",
+      "title": "G. Version Control in Programming",
+      "parentId": "mr0umd8zeiqxmw",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836165332
+    },
+    {
+      "id": "mr0umdb0c90hjy",
+      "title": "H. Secure Coding Basics",
+      "parentId": "mr0umd8zeiqxmw",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836165340
+    },
+    {
+      "id": "mr0uoc7zbx2ouq",
+      "title": "2.3.1. Operating Systems",
+      "parentId": "mr0g92bvqljwbv",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836257247
+    },
+    {
+      "id": "mr0uoc8o7de9uh",
+      "title": "A. Operating System Fundamentals",
+      "parentId": "mr0uoc7zbx2ouq",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836257272
+    },
+    {
+      "id": "mr0uoc96j3shf4",
+      "title": "B. Process Management",
+      "parentId": "mr0uoc7zbx2ouq",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836257290
+    },
+    {
+      "id": "mr0uoc9psfrvkm",
+      "title": "C. Memory Management",
+      "parentId": "mr0uoc7zbx2ouq",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836257309
+    },
+    {
+      "id": "mr0uoca7aezgja",
+      "title": "D. File Systems",
+      "parentId": "mr0uoc7zbx2ouq",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836257327
+    },
+    {
+      "id": "mr0uocaqzz8se8",
+      "title": "E. Device Management",
+      "parentId": "mr0uoc7zbx2ouq",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836257346
+    },
+    {
+      "id": "mr0uocb3vluczf",
+      "title": "F. Concurrency & Synchronization",
+      "parentId": "mr0uoc7zbx2ouq",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836257359
+    },
+    {
+      "id": "mr0uocbfixg07b",
+      "title": "G. Virtualization",
+      "parentId": "mr0uoc7zbx2ouq",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836257371
+    },
+    {
+      "id": "mr0uocbokinq5a",
+      "title": "H. Linux & Command Line Basics",
+      "parentId": "mr0uoc7zbx2ouq",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836257380
+    },
+    {
+      "id": "mr0uocbxf1fmjy",
+      "title": "2.3.2. Databases",
+      "parentId": "mr0g92bvqljwbv",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836257389
+    },
+    {
+      "id": "mr0uocc6nn0p70",
+      "title": "A. Database Fundamentals",
+      "parentId": "mr0uocbxf1fmjy",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836257398
+    },
+    {
+      "id": "mr0uoccexxmp01",
+      "title": "B. Relational Databases",
+      "parentId": "mr0uocbxf1fmjy",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836257406
+    },
+    {
+      "id": "mr0uoccorf6h2m",
+      "title": "C. SQL Fundamentals",
+      "parentId": "mr0uocbxf1fmjy",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836257416
+    },
+    {
+      "id": "mr0uoccxb1ldhf",
+      "title": "D. Database Design",
+      "parentId": "mr0uocbxf1fmjy",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836257425
+    },
+    {
+      "id": "mr0uocd6fzdwnv",
+      "title": "E. Transactions & ACID",
+      "parentId": "mr0uocbxf1fmjy",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836257434
+    },
+    {
+      "id": "mr0uocdffdffay",
+      "title": "F. NoSQL Databases",
+      "parentId": "mr0uocbxf1fmjy",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836257443
+    },
+    {
+      "id": "mr0uocdpjqqfeu",
+      "title": "G. Database Optimization",
+      "parentId": "mr0uocbxf1fmjy",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836257453
+    },
+    {
+      "id": "mr0uoce1qrdmvg",
+      "title": "H. Database Security",
+      "parentId": "mr0uocbxf1fmjy",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836257465
+    },
+    {
+      "id": "mr0uoceee6pq6t",
+      "title": "2.3.3. Computer Networks",
+      "parentId": "mr0g92bvqljwbv",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836257478
+    },
+    {
+      "id": "mr0uocepm0k9in",
+      "title": "A. Network Architecture",
+      "parentId": "mr0uoceee6pq6t",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836257489
+    },
+    {
+      "id": "mr0uocex9nw8xr",
+      "title": "B. TCP/IP Model",
+      "parentId": "mr0uoceee6pq6t",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836257497
+    },
+    {
+      "id": "mr0uocf6vryflw",
+      "title": "C. Routing & Switching",
+      "parentId": "mr0uoceee6pq6t",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836257506
+    },
+    {
+      "id": "mr0uocfehwa1qb",
+      "title": "D. DNS & DHCP",
+      "parentId": "mr0uoceee6pq6t",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836257514
+    },
+    {
+      "id": "mr0uocfo1noqrd",
+      "title": "E. HTTP & HTTPS",
+      "parentId": "mr0uoceee6pq6t",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836257524
+    },
+    {
+      "id": "mr0uocfyiwg3f5",
+      "title": "F. Wireless Networks",
+      "parentId": "mr0uoceee6pq6t",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836257534
+    },
+    {
+      "id": "mr0uocg655xcuc",
+      "title": "G. Cloud Networking",
+      "parentId": "mr0uoceee6pq6t",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836257542
+    },
+    {
+      "id": "mr0uocgilbimpe",
+      "title": "H. Network Troubleshooting",
+      "parentId": "mr0uoceee6pq6t",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836257554
+    },
+    {
+      "id": "mr0uocgr7c7vkb",
+      "title": "2.3.4. Cybersecurity Fundamentals",
+      "parentId": "mr0g92bvqljwbv",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836257563
+    },
+    {
+      "id": "mr0uocgzv9lhyz",
+      "title": "A. Security Principles",
+      "parentId": "mr0uocgr7c7vkb",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836257571
+    },
+    {
+      "id": "mr0uoch6w23ygb",
+      "title": "B. Authentication & Authorization",
+      "parentId": "mr0uocgr7c7vkb",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836257578
+    },
+    {
+      "id": "mr0uochdhh116c",
+      "title": "C. Cryptography Basics",
+      "parentId": "mr0uocgr7c7vkb",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836257585
+    },
+    {
+      "id": "mr0uochl49t44u",
+      "title": "D. Network Security",
+      "parentId": "mr0uocgr7c7vkb",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836257593
+    },
+    {
+      "id": "mr0uochsaxuuhy",
+      "title": "E. Application Security",
+      "parentId": "mr0uocgr7c7vkb",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836257600
+    },
+    {
+      "id": "mr0uoci0yg2xck",
+      "title": "F. Secure Software Development",
+      "parentId": "mr0uocgr7c7vkb",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836257608
+    },
+    {
+      "id": "mr0uoci8tdudgn",
+      "title": "G. Risk Management",
+      "parentId": "mr0uocgr7c7vkb",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836257616
+    },
+    {
+      "id": "mr0uocif9fu6ce",
+      "title": "H. Incident Response",
+      "parentId": "mr0uocgr7c7vkb",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836257623
+    },
+    {
+      "id": "mr0uocin03hu3h",
+      "title": "2.3.5. Software Engineering",
+      "parentId": "mr0g92bvqljwbv",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836257631
+    },
+    {
+      "id": "mr0uocito44czb",
+      "title": "A. Software Development Lifecycle",
+      "parentId": "mr0uocin03hu3h",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836257637
+    },
+    {
+      "id": "mr0uocj1120714",
+      "title": "B. Software Design Principles",
+      "parentId": "mr0uocin03hu3h",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836257645
+    },
+    {
+      "id": "mr0uocj8d9rokd",
+      "title": "C. Design Patterns",
+      "parentId": "mr0uocin03hu3h",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836257652
+    },
+    {
+      "id": "mr0uocjgbzb77l",
+      "title": "D. Version Control with Git",
+      "parentId": "mr0uocin03hu3h",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836257660
+    },
+    {
+      "id": "mr0uocjo80ulnr",
+      "title": "E. Testing Strategies",
+      "parentId": "mr0uocin03hu3h",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836257668
+    },
+    {
+      "id": "mr0uocjxwdqull",
+      "title": "F. Build & Dependency Management",
+      "parentId": "mr0uocin03hu3h",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836257677
+    },
+    {
+      "id": "mr0uock6znkfyq",
+      "title": "G. CI/CD Fundamentals",
+      "parentId": "mr0uocin03hu3h",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836257686
+    },
+    {
+      "id": "mr0uockem1mzky",
+      "title": "H. Software Documentation",
+      "parentId": "mr0uocin03hu3h",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836257694
+    },
+    {
+      "id": "mr0uockm5v0zrd",
+      "title": "2.3.6. DevOps Fundamentals",
+      "parentId": "mr0g92bvqljwbv",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836257702
+    },
+    {
+      "id": "mr0uockuh81ksn",
+      "title": "A. DevOps Principles",
+      "parentId": "mr0uockm5v0zrd",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836257710
+    },
+    {
+      "id": "mr0uocl36v6thy",
+      "title": "B. Automation",
+      "parentId": "mr0uockm5v0zrd",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836257719
+    },
+    {
+      "id": "mr0uoclcvtbfyr",
+      "title": "C. Infrastructure as Code",
+      "parentId": "mr0uockm5v0zrd",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836257728
+    },
+    {
+      "id": "mr0uoclkxlviyh",
+      "title": "D. Containerization",
+      "parentId": "mr0uockm5v0zrd",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836257736
+    },
+    {
+      "id": "mr0uocltmxfe13",
+      "title": "E. Configuration Management",
+      "parentId": "mr0uockm5v0zrd",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836257745
+    },
+    {
+      "id": "mr0uocm2qdvko2",
+      "title": "F. Monitoring & Logging",
+      "parentId": "mr0uockm5v0zrd",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836257754
+    },
+    {
+      "id": "mr0uocmbig9shu",
+      "title": "G. Deployment Strategies",
+      "parentId": "mr0uockm5v0zrd",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836257763
+    },
+    {
+      "id": "mr0uocmkpdi8i9",
+      "title": "H. Reliability Engineering",
+      "parentId": "mr0uockm5v0zrd",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836257772
+    },
+    {
+      "id": "mr0upnyx6ww9a8",
+      "title": "2.4.1. Artificial Intelligence & Machine Learning",
+      "parentId": "mr0g92c215mrce",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836319129
+    },
+    {
+      "id": "mr0upnz46jbcor",
+      "title": "A. AI Fundamentals",
+      "parentId": "mr0upnyx6ww9a8",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836319136
+    },
+    {
+      "id": "mr0upnzl8a626t",
+      "title": "B. Machine Learning Fundamentals",
+      "parentId": "mr0upnyx6ww9a8",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836319153
+    },
+    {
+      "id": "mr0upo02cb90jm",
+      "title": "C. Deep Learning Fundamentals",
+      "parentId": "mr0upnyx6ww9a8",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836319170
+    },
+    {
+      "id": "mr0upo0qwvnkm8",
+      "title": "D. Natural Language Processing",
+      "parentId": "mr0upnyx6ww9a8",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836319194
+    },
+    {
+      "id": "mr0upo16tsx9h0",
+      "title": "E. Computer Vision",
+      "parentId": "mr0upnyx6ww9a8",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836319210
+    },
+    {
+      "id": "mr0upo1mdhdy08",
+      "title": "F. Generative AI",
+      "parentId": "mr0upnyx6ww9a8",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836319226
+    },
+    {
+      "id": "mr0upo1vr8j3od",
+      "title": "G. AI Ethics & Responsible AI",
+      "parentId": "mr0upnyx6ww9a8",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836319235
+    },
+    {
+      "id": "mr0upo25ifaa48",
+      "title": "H. AI Applications",
+      "parentId": "mr0upnyx6ww9a8",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836319245
+    },
+    {
+      "id": "mr0upo2fgqivzl",
+      "title": "2.4.2. Cloud Computing",
+      "parentId": "mr0g92c215mrce",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836319255
+    },
+    {
+      "id": "mr0upo2nfqqo55",
+      "title": "A. Cloud Fundamentals",
+      "parentId": "mr0upo2fgqivzl",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836319263
+    },
+    {
+      "id": "mr0upo2v5xd1ew",
+      "title": "B. Cloud Service Models",
+      "parentId": "mr0upo2fgqivzl",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836319271
+    },
+    {
+      "id": "mr0upo343gvy0v",
+      "title": "C. Cloud Deployment Models",
+      "parentId": "mr0upo2fgqivzl",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836319280
+    },
+    {
+      "id": "mr0upo3e5ctcab",
+      "title": "D. Virtualization",
+      "parentId": "mr0upo2fgqivzl",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836319290
+    },
+    {
+      "id": "mr0upo3mrxkwur",
+      "title": "E. Containers",
+      "parentId": "mr0upo2fgqivzl",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836319298
+    },
+    {
+      "id": "mr0upo3vtsqjpr",
+      "title": "F. Kubernetes Fundamentals",
+      "parentId": "mr0upo2fgqivzl",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836319307
+    },
+    {
+      "id": "mr0upo43qg2kr7",
+      "title": "G. Serverless Computing",
+      "parentId": "mr0upo2fgqivzl",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836319315
+    },
+    {
+      "id": "mr0upo4cby5cea",
+      "title": "H. Cloud Security",
+      "parentId": "mr0upo2fgqivzl",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836319324
+    },
+    {
+      "id": "mr0upo4kf8cr31",
+      "title": "2.4.3. Data Engineering & Analytics",
+      "parentId": "mr0g92c215mrce",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836319332
+    },
+    {
+      "id": "mr0upo4tndpggk",
+      "title": "A. Data Engineering",
+      "parentId": "mr0upo4kf8cr31",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836319341
+    },
+    {
+      "id": "mr0upo53o0neug",
+      "title": "B. Data Warehousing",
+      "parentId": "mr0upo4kf8cr31",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836319351
+    },
+    {
+      "id": "mr0upo5bzu4t0p",
+      "title": "C. ETL & ELT",
+      "parentId": "mr0upo4kf8cr31",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836319359
+    },
+    {
+      "id": "mr0upo5jrhjurl",
+      "title": "D. Big Data Fundamentals",
+      "parentId": "mr0upo4kf8cr31",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836319367
+    },
+    {
+      "id": "mr0upo5roql4vp",
+      "title": "E. Business Intelligence",
+      "parentId": "mr0upo4kf8cr31",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836319375
+    },
+    {
+      "id": "mr0upo5z6ryfx5",
+      "title": "F. Data Pipelines",
+      "parentId": "mr0upo4kf8cr31",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836319383
+    },
+    {
+      "id": "mr0upo67pezxql",
+      "title": "G. Real-Time Data Processing",
+      "parentId": "mr0upo4kf8cr31",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836319391
+    },
+    {
+      "id": "mr0upo6gvhkv16",
+      "title": "H. Data Analytics Ecosystem",
+      "parentId": "mr0upo4kf8cr31",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836319400
+    },
+    {
+      "id": "mr0upo6puujc2d",
+      "title": "2.4.4. Web & Mobile Technologies",
+      "parentId": "mr0g92c215mrce",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836319409
+    },
+    {
+      "id": "mr0upo6xbopetr",
+      "title": "A. Web Fundamentals",
+      "parentId": "mr0upo6puujc2d",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836319417
+    },
+    {
+      "id": "mr0upo75yzym0q",
+      "title": "B. Frontend Technologies",
+      "parentId": "mr0upo6puujc2d",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836319425
+    },
+    {
+      "id": "mr0upo7ec00r5r",
+      "title": "C. Backend Technologies",
+      "parentId": "mr0upo6puujc2d",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836319434
+    },
+    {
+      "id": "mr0upo7ml20pyu",
+      "title": "D. APIs & Web Services",
+      "parentId": "mr0upo6puujc2d",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836319442
+    },
+    {
+      "id": "mr0upo7uwm3ebe",
+      "title": "E. Mobile Application Development",
+      "parentId": "mr0upo6puujc2d",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836319450
+    },
+    {
+      "id": "mr0upo8418f0yx",
+      "title": "F. Progressive Web Apps",
+      "parentId": "mr0upo6puujc2d",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836319460
+    },
+    {
+      "id": "mr0upo8dhavoec",
+      "title": "G. Cross-Platform Development",
+      "parentId": "mr0upo6puujc2d",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836319469
+    },
+    {
+      "id": "mr0upo8nkf02qx",
+      "title": "H. Modern Web Architecture",
+      "parentId": "mr0upo6puujc2d",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836319479
+    },
+    {
+      "id": "mr0upo8x8jxmrg",
+      "title": "2.4.5. Emerging Computing Technologies",
+      "parentId": "mr0g92c215mrce",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836319489
+    },
+    {
+      "id": "mr0upo94fcow8g",
+      "title": "A. Internet of Things (IoT)",
+      "parentId": "mr0upo8x8jxmrg",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836319496
+    },
+    {
+      "id": "mr0upo9c7wcoft",
+      "title": "B. Edge Computing",
+      "parentId": "mr0upo8x8jxmrg",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836319504
+    },
+    {
+      "id": "mr0upo9kzc3n3q",
+      "title": "C. Blockchain Fundamentals",
+      "parentId": "mr0upo8x8jxmrg",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836319512
+    },
+    {
+      "id": "mr0upo9rgvq7h3",
+      "title": "D. Distributed Systems",
+      "parentId": "mr0upo8x8jxmrg",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836319519
+    },
+    {
+      "id": "mr0upo9y6oknl7",
+      "title": "E. Robotics Fundamentals",
+      "parentId": "mr0upo8x8jxmrg",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836319526
+    },
+    {
+      "id": "mr0upoa51tb9mn",
+      "title": "F. Extended Reality (AR/VR/MR)",
+      "parentId": "mr0upo8x8jxmrg",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836319533
+    },
+    {
+      "id": "mr0upoadesxqio",
+      "title": "G. Quantum Computing Fundamentals",
+      "parentId": "mr0upo8x8jxmrg",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836319541
+    },
+    {
+      "id": "mr0upoaltm0yxn",
+      "title": "H. High Performance Computing",
+      "parentId": "mr0upo8x8jxmrg",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836319549
+    },
+    {
+      "id": "mr0upoavyfwup6",
+      "title": "2.4.6. Modern Software Architecture",
+      "parentId": "mr0g92c215mrce",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836319559
+    },
+    {
+      "id": "mr0upob4scfs9c",
+      "title": "A. Microservices",
+      "parentId": "mr0upoavyfwup6",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782836319568
+    },
+    {
+      "id": "mr0upobcnjss2f",
+      "title": "B. Event-Driven Architecture",
+      "parentId": "mr0upoavyfwup6",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782836319576
+    },
+    {
+      "id": "mr0upobks7rr5t",
+      "title": "C. API-First Design",
+      "parentId": "mr0upoavyfwup6",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782836319584
+    },
+    {
+      "id": "mr0upobwbkbdts",
+      "title": "D. Domain-Driven Design",
+      "parentId": "mr0upoavyfwup6",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782836319596
+    },
+    {
+      "id": "mr0upoc4hqxi58",
+      "title": "E. Scalable Systems",
+      "parentId": "mr0upoavyfwup6",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782836319604
+    },
+    {
+      "id": "mr0upocdb3wj4b",
+      "title": "F. Observability",
+      "parentId": "mr0upoavyfwup6",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782836319613
+    },
+    {
+      "id": "mr0upocmjtbdsw",
+      "title": "G. Platform Engineering",
+      "parentId": "mr0upoavyfwup6",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782836319622
+    },
+    {
+      "id": "mr0upocuezrscw",
+      "title": "H. Modern Engineering Trends",
+      "parentId": "mr0upoavyfwup6",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782836319630
     }
   ],
   "pages": {
