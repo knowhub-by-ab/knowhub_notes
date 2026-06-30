@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T15:08:45.196Z",
+  "exportedAt": "2026-06-30T15:13:12.956Z",
   "nodes": [
     {
       "createdAt": 1781381483824,
@@ -2076,7 +2076,7 @@
     },
     {
       "id": "mr0g92adtr8ecp",
-      "title": "Digital Literacy",
+      "title": "1.2. Digital Literacy",
       "parentId": "mr0g92a5xmcn48",
       "status": "pending",
       "order": 2,
@@ -2084,7 +2084,7 @@
     },
     {
       "id": "mr0g92akn6breq",
-      "title": "Business Literacy",
+      "title": "1.3. Business Literacy",
       "parentId": "mr0g92a5xmcn48",
       "status": "pending",
       "order": 3,
@@ -2092,7 +2092,7 @@
     },
     {
       "id": "mr0g92ar5mxlpp",
-      "title": "Data Literacy",
+      "title": "1.4. Data Literacy",
       "parentId": "mr0g92a5xmcn48",
       "status": "pending",
       "order": 4,
@@ -2100,7 +2100,7 @@
     },
     {
       "id": "mr0g92aycpttsf",
-      "title": "Communication & Professional Skills",
+      "title": "1.5. Communication & Professional Skills",
       "parentId": "mr0g92a5xmcn48",
       "status": "pending",
       "order": 5,
@@ -2113,46 +2113,6 @@
       "status": "pending",
       "order": 1,
       "createdAt": 1782825784460
-    },
-    {
-      "id": "mr0pn2zopvy6f2",
-      "title": "Foundations of Learning Science",
-      "parentId": "mr0g92a5xmcn48",
-      "status": "pending",
-      "order": 5,
-      "createdAt": 1782827800548
-    },
-    {
-      "id": "mr0pn2zu5u43jg",
-      "title": "Memory & Cognitive Processes",
-      "parentId": "mr0g92a5xmcn48",
-      "status": "pending",
-      "order": 6,
-      "createdAt": 1782827800554
-    },
-    {
-      "id": "mr0pn3038j7v7z",
-      "title": "Effective Study & Practice",
-      "parentId": "mr0g92a5xmcn48",
-      "status": "pending",
-      "order": 7,
-      "createdAt": 1782827800563
-    },
-    {
-      "id": "mr0pn30cjb3y5n",
-      "title": "Knowledge Acquisition & Management",
-      "parentId": "mr0g92a5xmcn48",
-      "status": "pending",
-      "order": 8,
-      "createdAt": 1782827800572
-    },
-    {
-      "id": "mr0pn30mkrvojx",
-      "title": "Self-Directed & Lifelong Learning",
-      "parentId": "mr0g92a5xmcn48",
-      "status": "pending",
-      "order": 9,
-      "createdAt": 1782827800582
     },
     {
       "id": "mr0r2pejniw9o8",
