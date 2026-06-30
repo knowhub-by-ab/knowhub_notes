@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T18:38:44.920Z",
+  "exportedAt": "2026-06-30T18:44:29.345Z",
   "nodes": [
     {
       "id": "mr0g929r44x4tu",
@@ -5409,6 +5409,294 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1782843904542
+    },
+    {
+      "id": "mr0zt9r66pmgjb",
+      "title": "4.1.1. Leadership Foundations",
+      "parentId": "mr0g92daucimly",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782844885410
+    },
+    {
+      "id": "mr0zt9r7p5yoaf",
+      "title": "4.1.2. Self Leadership",
+      "parentId": "mr0g92daucimly",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782844885411
+    },
+    {
+      "id": "mr0zt9r8m10u8q",
+      "title": "4.1.3. Team Leadership",
+      "parentId": "mr0g92daucimly",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782844885412
+    },
+    {
+      "id": "mr0zt9r9tvqrmr",
+      "title": "4.1.4. People Management",
+      "parentId": "mr0g92daucimly",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782844885413
+    },
+    {
+      "id": "mr0zt9raoq8azr",
+      "title": "4.1.5. Organizational Leadership",
+      "parentId": "mr0g92daucimly",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782844885414
+    },
+    {
+      "id": "mr0zt9rakeiyzg",
+      "title": "4.1.6. Strategic Leadership",
+      "parentId": "mr0g92daucimly",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782844885414
+    },
+    {
+      "id": "mr0zt9rbtzj6f1",
+      "title": "4.1.7. Change Management",
+      "parentId": "mr0g92daucimly",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782844885415
+    },
+    {
+      "id": "mr0zt9rcfep4m1",
+      "title": "4.1.8. Conflict Resolution & Negotiation",
+      "parentId": "mr0g92daucimly",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782844885416
+    },
+    {
+      "id": "mr0zt9rd840fkg",
+      "title": "4.1.9. Coaching & Talent Development",
+      "parentId": "mr0g92daucimly",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782844885417
+    },
+    {
+      "id": "mr0zt9retkb2iz",
+      "title": "4.1.10. Executive Leadership",
+      "parentId": "mr0g92daucimly",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782844885418
+    },
+    {
+      "id": "mr0zt9rf0p3yal",
+      "title": "4.1.11. Leadership Communication",
+      "parentId": "mr0g92daucimly",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782844885419
+    },
+    {
+      "id": "mr0zt9rfd6v7a9",
+      "title": "4.1.12. Leadership in Practice",
+      "parentId": "mr0g92daucimly",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782844885420
+    },
+    {
+      "id": "mr0zu2uzwl6jwv",
+      "title": "4.2.1. Innovation Foundations",
+      "parentId": "mr0g92diotvd38",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782844923131
+    },
+    {
+      "id": "mr0zu2v1fcwj08",
+      "title": "4.2.2. Creative Thinking",
+      "parentId": "mr0g92diotvd38",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782844923133
+    },
+    {
+      "id": "mr0zu2v2n1inay",
+      "title": "4.2.3. Design Thinking",
+      "parentId": "mr0g92diotvd38",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782844923134
+    },
+    {
+      "id": "mr0zu2v23rmkup",
+      "title": "4.2.4. Opportunity Identification",
+      "parentId": "mr0g92diotvd38",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782844923134
+    },
+    {
+      "id": "mr0zu2v4zwxw0s",
+      "title": "4.2.5. Entrepreneurship",
+      "parentId": "mr0g92diotvd38",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782844923136
+    },
+    {
+      "id": "mr0zu2v5bjve07",
+      "title": "4.2.6. Startup Development",
+      "parentId": "mr0g92diotvd38",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782844923137
+    },
+    {
+      "id": "mr0zu2v60oui9c",
+      "title": "4.2.7. Product Innovation",
+      "parentId": "mr0g92diotvd38",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782844923138
+    },
+    {
+      "id": "mr0zu2v7qcdro6",
+      "title": "4.2.8. Business Model Innovation",
+      "parentId": "mr0g92diotvd38",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782844923139
+    },
+    {
+      "id": "mr0zu2v813km3v",
+      "title": "4.2.9. Venture Finance & Fundraising",
+      "parentId": "mr0g92diotvd38",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782844923140
+    },
+    {
+      "id": "mr0zu2vaui5tbn",
+      "title": "4.2.10. Innovation Strategy",
+      "parentId": "mr0g92diotvd38",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782844923142
+    },
+    {
+      "id": "mr0zu2vcm304le",
+      "title": "4.2.11. Scaling Organizations",
+      "parentId": "mr0g92diotvd38",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782844923144
+    },
+    {
+      "id": "mr0zu2vdzbh024",
+      "title": "4.2.12. Entrepreneurial Leadership",
+      "parentId": "mr0g92diotvd38",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782844923145
+    },
+    {
+      "id": "mr0zuhxp0a91x0",
+      "title": "4.3.1. Strategic Thinking Foundations",
+      "parentId": "mr0v787nho2y5p",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782844942669
+    },
+    {
+      "id": "mr0zuhxtnqh4u4",
+      "title": "4.3.2. Systems Thinking",
+      "parentId": "mr0v787nho2y5p",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782844942673
+    },
+    {
+      "id": "mr0zuhxucvqu7p",
+      "title": "4.3.3. Critical Thinking",
+      "parentId": "mr0v787nho2y5p",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782844942674
+    },
+    {
+      "id": "mr0zuhxvrc50kx",
+      "title": "4.3.4. Analytical Decision Making",
+      "parentId": "mr0v787nho2y5p",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782844942675
+    },
+    {
+      "id": "mr0zuhxxg5mzzt",
+      "title": "4.3.5. Problem Solving",
+      "parentId": "mr0v787nho2y5p",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782844942677
+    },
+    {
+      "id": "mr0zuhxzbf3d6o",
+      "title": "4.3.6. Decision Science",
+      "parentId": "mr0v787nho2y5p",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782844942679
+    },
+    {
+      "id": "mr0zuhy0wv7qqg",
+      "title": "4.3.7. Risk Assessment",
+      "parentId": "mr0v787nho2y5p",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782844942680
+    },
+    {
+      "id": "mr0zuhy2tch7iz",
+      "title": "4.3.8. Scenario Planning",
+      "parentId": "mr0v787nho2y5p",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782844942682
+    },
+    {
+      "id": "mr0zuhy5l3hqwq",
+      "title": "4.3.9. Strategic Planning",
+      "parentId": "mr0v787nho2y5p",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782844942685
+    },
+    {
+      "id": "mr0zuhy607ek1m",
+      "title": "4.3.10. Business Strategy",
+      "parentId": "mr0v787nho2y5p",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782844942686
+    },
+    {
+      "id": "mr0zuhy7jrb7px",
+      "title": "4.3.11. Execution & Performance Management",
+      "parentId": "mr0v787nho2y5p",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782844942687
+    },
+    {
+      "id": "mr0zuhy8tvsr20",
+      "title": "4.3.12. Strategic Leadership",
+      "parentId": "mr0v787nho2y5p",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782844942688
     }
   ],
   "pages": {},
