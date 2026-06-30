@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T14:38:18.191Z",
+  "exportedAt": "2026-06-30T14:43:45.075Z",
   "nodes": [
     {
       "createdAt": 1781381483824,
@@ -2108,7 +2108,7 @@
     },
     {
       "id": "mr0ofvd87ol1di",
-      "title": "Learning Foundation",
+      "title": "1.1. Learning Foundation",
       "parentId": "mr0g92a5xmcn48",
       "status": "pending",
       "order": 1,
@@ -2156,7 +2156,7 @@
     },
     {
       "id": "mr0r2pejniw9o8",
-      "title": "Learning Science & Cognition",
+      "title": "A. Learning Science & Cognition",
       "parentId": "mr0ofvd87ol1di",
       "status": "pending",
       "order": 0,
@@ -2265,6 +2265,30 @@
       "status": "pending",
       "order": 12,
       "createdAt": 1782830209154
+    },
+    {
+      "id": "mr0q6h9hy7jhpe",
+      "title": "Effective Study Strategies",
+      "parentId": "mr0ofvd87ol1di",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782828705509
+    },
+    {
+      "id": "mr0q6h9pxp0nh0",
+      "title": "Skill Development & Mastery",
+      "parentId": "mr0ofvd87ol1di",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782828705517
+    },
+    {
+      "id": "mr0q6h9wxlhlq7",
+      "title": "Sustaining Learning & Growth",
+      "parentId": "mr0ofvd87ol1di",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782828705524
     }
   ],
   "pages": {
