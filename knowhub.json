@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T13:33:29.613Z",
+  "exportedAt": "2026-06-30T13:38:17.322Z",
   "nodes": [
     {
       "createdAt": 1781381483824,
@@ -1964,7 +1964,7 @@
     },
     {
       "id": "mr0g92b7lfh561",
-      "title": "Technical Foundations",
+      "title": "2. Technical Foundations",
       "parentId": "mr0g929r44x4tu",
       "status": "pending",
       "order": 2,
@@ -2004,7 +2004,7 @@
     },
     {
       "id": "mr0g92ca1jhaui",
-      "title": "Professional Development",
+      "title": "3. Professional Development",
       "parentId": "mr0g929r44x4tu",
       "status": "pending",
       "order": 3,
@@ -2036,7 +2036,7 @@
     },
     {
       "id": "mr0g92d3r1r2y8",
-      "title": "Professional Growth",
+      "title": "4. Professional Growth",
       "parentId": "mr0g929r44x4tu",
       "status": "pending",
       "order": 4,
@@ -2068,7 +2068,7 @@
     },
     {
       "id": "mr0g92a5xmcn48",
-      "title": "Universal Foundations",
+      "title": "1. Universal Foundations",
       "parentId": "mr0g929r44x4tu",
       "status": "pending",
       "order": 0,
