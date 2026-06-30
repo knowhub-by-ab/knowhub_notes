@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T16:59:00.121Z",
+  "exportedAt": "2026-06-30T17:03:45.063Z",
   "nodes": [
     {
       "id": "mr0g929r44x4tu",
@@ -4809,6 +4809,102 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1782837987786
+    },
+    {
+      "id": "mr0wbilgd9kklt",
+      "title": "3.1. Software Engineering",
+      "parentId": "mr0g92chzjmz36",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782839018212
+    },
+    {
+      "id": "mr0wbilhbjlcl2",
+      "title": "3.2. Artificial Intelligence & Data",
+      "parentId": "mr0g92chzjmz36",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782839018213
+    },
+    {
+      "id": "mr0wbilio4g464",
+      "title": "3.3. Cloud, Infrastructure & Cybersecurity",
+      "parentId": "mr0g92chzjmz36",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782839018214
+    },
+    {
+      "id": "mr0wbiljrs7zpw",
+      "title": "3.4. Business, Product & Enterprise Technology",
+      "parentId": "mr0g92chzjmz36",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782839018215
+    },
+    {
+      "id": "mr0wbilkeq6b13",
+      "title": "3.5. Design & Creative Technology",
+      "parentId": "mr0g92chzjmz36",
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1782839018216
+    },
+    {
+      "id": "mr0wbilkwjxep7",
+      "title": "3.6. Finance, Economics & Quantitative Computing",
+      "parentId": "mr0g92chzjmz36",
+      "status": "pending",
+      "order": 13,
+      "createdAt": 1782839018216
+    },
+    {
+      "id": "mr0wbillfautd6",
+      "title": "3.7. Scientific Computing & Engineering",
+      "parentId": "mr0g92chzjmz36",
+      "status": "pending",
+      "order": 14,
+      "createdAt": 1782839018217
+    },
+    {
+      "id": "mr0wbilm4ybeye",
+      "title": "3.8. Customer, Solutions & Consulting",
+      "parentId": "mr0g92chzjmz36",
+      "status": "pending",
+      "order": 15,
+      "createdAt": 1782839018218
+    },
+    {
+      "id": "mr0wbiln1s7tef",
+      "title": "3.9. Developer Relations, Developer Experience & Technical Communication",
+      "parentId": "mr0g92chzjmz36",
+      "status": "pending",
+      "order": 16,
+      "createdAt": 1782839018219
+    },
+    {
+      "id": "mr0wbiln8b6zvr",
+      "title": "3.10. Marketing, Sales & Business Growth",
+      "parentId": "mr0g92chzjmz36",
+      "status": "pending",
+      "order": 17,
+      "createdAt": 1782839018219
+    },
+    {
+      "id": "mr0wbilorsz4o7",
+      "title": "3.11. Research & Academia",
+      "parentId": "mr0g92chzjmz36",
+      "status": "pending",
+      "order": 18,
+      "createdAt": 1782839018220
+    },
+    {
+      "id": "mr0wbilqw0kold",
+      "title": "3.12. Industry & Domain Applications",
+      "parentId": "mr0g92chzjmz36",
+      "status": "pending",
+      "order": 19,
+      "createdAt": 1782839018222
     }
   ],
   "pages": {},
