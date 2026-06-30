@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T13:53:16.843Z",
+  "exportedAt": "2026-06-30T13:58:17.394Z",
   "nodes": [
     {
       "createdAt": 1781381483824,
       "id": "mqcsjhv4on2duq",
       "status": "in_progress",
       "parentId": null,
-      "title": "Professional Career Development",
+      "title": "Professional Career Development Pathway",
       "order": 0
     },
     {
@@ -2113,6 +2113,46 @@
       "status": "pending",
       "order": 1,
       "createdAt": 1782825784460
+    },
+    {
+      "id": "mr0pn2zopvy6f2",
+      "title": "Foundations of Learning Science",
+      "parentId": "mr0g92a5xmcn48",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782827800548
+    },
+    {
+      "id": "mr0pn2zu5u43jg",
+      "title": "Memory & Cognitive Processes",
+      "parentId": "mr0g92a5xmcn48",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782827800554
+    },
+    {
+      "id": "mr0pn3038j7v7z",
+      "title": "Effective Study & Practice",
+      "parentId": "mr0g92a5xmcn48",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782827800563
+    },
+    {
+      "id": "mr0pn30cjb3y5n",
+      "title": "Knowledge Acquisition & Management",
+      "parentId": "mr0g92a5xmcn48",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782827800572
+    },
+    {
+      "id": "mr0pn30mkrvojx",
+      "title": "Self-Directed & Lifelong Learning",
+      "parentId": "mr0g92a5xmcn48",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782827800582
     }
   ],
   "pages": {
