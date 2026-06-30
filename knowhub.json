@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T18:54:21.947Z",
+  "exportedAt": "2026-06-30T18:58:45.035Z",
   "nodes": [
     {
       "id": "mr0g929r44x4tu",
@@ -4059,27 +4059,11 @@
       "createdAt": 1782837138515
     },
     {
-      "id": "mr0v788uww82mo",
-      "title": "4.5. Research, Creativity & Knowledge Creation",
-      "parentId": "mr0g92d3r1r2y8",
-      "status": "pending",
-      "order": 4,
-      "createdAt": 1782837138558
-    },
-    {
-      "id": "mr0v789ayhjobb",
-      "title": "4.6. Ethics, Sustainability & Global Responsibility",
-      "parentId": "mr0g92d3r1r2y8",
-      "status": "pending",
-      "order": 6,
-      "createdAt": 1782837138574
-    },
-    {
       "id": "mr0v789he5194k",
       "title": "4.7. Lifelong Learning & Continuous Improvement",
       "parentId": "mr0g92d3r1r2y8",
       "status": "pending",
-      "order": 7,
+      "order": 6,
       "createdAt": 1782837138581
     },
     {
@@ -4087,7 +4071,7 @@
       "title": "4.8. Legacy, Mentorship & Influence",
       "parentId": "mr0g92d3r1r2y8",
       "status": "pending",
-      "order": 8,
+      "order": 7,
       "createdAt": 1782837138589
     },
     {
@@ -5793,6 +5777,414 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1782845158325
+    },
+    {
+      "id": "mr10blgymxm52w",
+      "title": "4.5. Research, Creativity & Knowledge Creation",
+      "parentId": "mr0g92d3r1r2y8",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782845740402
+    },
+    {
+      "id": "mr10blh0a5fgbz",
+      "title": "4.5.1. Creativity Foundations",
+      "parentId": "mr10blgymxm52w",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782845740404
+    },
+    {
+      "id": "mr10blh1u5coiz",
+      "title": "4.5.2. Creative Problem Solving",
+      "parentId": "mr10blgymxm52w",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782845740405
+    },
+    {
+      "id": "mr10blh29m6grg",
+      "title": "4.5.3. Design Thinking",
+      "parentId": "mr10blgymxm52w",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782845740406
+    },
+    {
+      "id": "mr10blh54ffdrx",
+      "title": "4.5.4. Innovation Methods",
+      "parentId": "mr10blgymxm52w",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782845740409
+    },
+    {
+      "id": "mr10blh6t2v91n",
+      "title": "4.5.5. Knowledge Management",
+      "parentId": "mr10blgymxm52w",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782845740410
+    },
+    {
+      "id": "mr10blh7klih35",
+      "title": "4.5.6. Research & Discovery",
+      "parentId": "mr10blgymxm52w",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782845740411
+    },
+    {
+      "id": "mr10blhagixw5n",
+      "title": "4.5.7. Critical Inquiry",
+      "parentId": "mr10blgymxm52w",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782845740414
+    },
+    {
+      "id": "mr10blhc16okjl",
+      "title": "4.5.8. Idea Generation & Validation",
+      "parentId": "mr10blgymxm52w",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782845740416
+    },
+    {
+      "id": "mr10blheny3wc3",
+      "title": "4.5.9. Writing, Publishing & Knowledge Sharing",
+      "parentId": "mr10blgymxm52w",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782845740418
+    },
+    {
+      "id": "mr10blhg5mfit2",
+      "title": "4.5.10. Intellectual Property & Innovation",
+      "parentId": "mr10blgymxm52w",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782845740420
+    },
+    {
+      "id": "mr10blhk3t7ea8",
+      "title": "4.5.11. Cross-Disciplinary Thinking",
+      "parentId": "mr10blgymxm52w",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782845740424
+    },
+    {
+      "id": "mr10blhlwi5dem",
+      "title": "4.5.12. Knowledge Creation in Practice",
+      "parentId": "mr10blgymxm52w",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782845740425
+    },
+    {
+      "id": "mr10d95cywtqj7",
+      "title": "4.6. Ethics, Sustainability & Global Responsibility",
+      "parentId": "mr0g92d3r1r2y8",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782845817744
+    },
+    {
+      "id": "mr10d95enn2bra",
+      "title": "4.6.1. Ethics Foundations",
+      "parentId": "mr10d95cywtqj7",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782845817746
+    },
+    {
+      "id": "mr10d95fm4175c",
+      "title": "4.6.2. Professional Ethics",
+      "parentId": "mr10d95cywtqj7",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782845817747
+    },
+    {
+      "id": "mr10d95gb2f17p",
+      "title": "4.6.3. Technology Ethics",
+      "parentId": "mr10d95cywtqj7",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782845817748
+    },
+    {
+      "id": "mr10d95ittvyt5",
+      "title": "4.6.4. Responsible Innovation",
+      "parentId": "mr10d95cywtqj7",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782845817750
+    },
+    {
+      "id": "mr10d95klsm2db",
+      "title": "4.6.5. Sustainability Principles",
+      "parentId": "mr10d95cywtqj7",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782845817752
+    },
+    {
+      "id": "mr10d95l2f8q6e",
+      "title": "4.6.6. Environmental Responsibility",
+      "parentId": "mr10d95cywtqj7",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782845817753
+    },
+    {
+      "id": "mr10d95nz1w31f",
+      "title": "4.6.7. Social Responsibility",
+      "parentId": "mr10d95cywtqj7",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782845817755
+    },
+    {
+      "id": "mr10d95n888nqj",
+      "title": "4.6.8. Diversity, Equity & Inclusion",
+      "parentId": "mr10d95cywtqj7",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782845817755
+    },
+    {
+      "id": "mr10d95ou1aapo",
+      "title": "4.6.9. Global Citizenship",
+      "parentId": "mr10d95cywtqj7",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782845817756
+    },
+    {
+      "id": "mr10d95pct4iai",
+      "title": "4.6.10. Governance & Compliance",
+      "parentId": "mr10d95cywtqj7",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782845817757
+    },
+    {
+      "id": "mr10d95qzblgn4",
+      "title": "4.6.11. Ethical Leadership",
+      "parentId": "mr10d95cywtqj7",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782845817758
+    },
+    {
+      "id": "mr10d95qwxnrn3",
+      "title": "4.6.12. Sustainable Development Practice",
+      "parentId": "mr10d95cywtqj7",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782845817758
+    },
+    {
+      "id": "mr10esykyu24l8",
+      "title": "4.7. Lifelong Learning & Continuous Improvement",
+      "parentId": "mr0v789he5194k",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782845890076
+    },
+    {
+      "id": "mr10esym8vtps4",
+      "title": "4.7.1. Lifelong Learning Foundations",
+      "parentId": "mr10esykyu24l8",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782845890078
+    },
+    {
+      "id": "mr10esyn55e8br",
+      "title": "4.7.2. Continuous Improvement Mindset",
+      "parentId": "mr10esykyu24l8",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782845890079
+    },
+    {
+      "id": "mr10esyo3ml6hj",
+      "title": "4.7.3. Self-Directed Learning",
+      "parentId": "mr10esykyu24l8",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782845890080
+    },
+    {
+      "id": "mr10esyp2pc8no",
+      "title": "4.7.4. Learning Agility",
+      "parentId": "mr10esykyu24l8",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782845890081
+    },
+    {
+      "id": "mr10esyqwraz26",
+      "title": "4.7.5. Reflective Practice",
+      "parentId": "mr10esykyu24l8",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782845890082
+    },
+    {
+      "id": "mr10esyrfrq0ka",
+      "title": "4.7.6. Personal Knowledge Management",
+      "parentId": "mr10esykyu24l8",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782845890083
+    },
+    {
+      "id": "mr10esyte7l0df",
+      "title": "4.7.7. Skill Renewal & Upskilling",
+      "parentId": "mr10esykyu24l8",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782845890085
+    },
+    {
+      "id": "mr10esytno01n9",
+      "title": "4.7.8. Career Adaptability",
+      "parentId": "mr10esykyu24l8",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782845890085
+    },
+    {
+      "id": "mr10esyug9khmo",
+      "title": "4.7.9. Learning Technologies & AI",
+      "parentId": "mr10esykyu24l8",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782845890086
+    },
+    {
+      "id": "mr10esyvirmk8b",
+      "title": "4.7.10. Future Readiness",
+      "parentId": "mr10esykyu24l8",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782845890087
+    },
+    {
+      "id": "mr10esyvn948id",
+      "title": "4.7.11. Continuous Professional Development",
+      "parentId": "mr10esykyu24l8",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782845890087
+    },
+    {
+      "id": "mr10esywe71aqz",
+      "title": "4.7.12. Learning as a Lifestyle",
+      "parentId": "mr10esykyu24l8",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782845890088
+    },
+    {
+      "id": "mr10fe43p18bc5",
+      "title": "4.8.1. Mentorship Foundations",
+      "parentId": "mr0v789pipen4j",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782845917491
+    },
+    {
+      "id": "mr10fe45hy33cp",
+      "title": "4.8.2. Coaching Skills",
+      "parentId": "mr0v789pipen4j",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782845917493
+    },
+    {
+      "id": "mr10fe46pam232",
+      "title": "4.8.3. Teaching & Knowledge Transfer",
+      "parentId": "mr0v789pipen4j",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782845917494
+    },
+    {
+      "id": "mr10fe487sutjd",
+      "title": "4.8.4. Community Building",
+      "parentId": "mr0v789pipen4j",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782845917496
+    },
+    {
+      "id": "mr10fe4aqw76rm",
+      "title": "4.8.5. Networking & Relationship Building",
+      "parentId": "mr0v789pipen4j",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782845917498
+    },
+    {
+      "id": "mr10fe4b9qyzlg",
+      "title": "4.8.6. Influence & Persuasion",
+      "parentId": "mr0v789pipen4j",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782845917499
+    },
+    {
+      "id": "mr10fe4cavxef7",
+      "title": "4.8.7. Public Speaking & Thought Leadership",
+      "parentId": "mr0v789pipen4j",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782845917500
+    },
+    {
+      "id": "mr10fe4duxjmwr",
+      "title": "4.8.8. Personal Legacy",
+      "parentId": "mr0v789pipen4j",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782845917501
+    },
+    {
+      "id": "mr10fe4ebhnwbg",
+      "title": "4.8.9. Organizational Impact",
+      "parentId": "mr0v789pipen4j",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782845917502
+    },
+    {
+      "id": "mr10fe4ft9y72b",
+      "title": "4.8.10. Social Impact & Service",
+      "parentId": "mr0v789pipen4j",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782845917503
+    },
+    {
+      "id": "mr10fe4go766r6",
+      "title": "4.8.11. Leadership Through Influence",
+      "parentId": "mr0v789pipen4j",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782845917504
+    },
+    {
+      "id": "mr10fe4hh4q1ga",
+      "title": "4.8.12. Legacy in Practice",
+      "parentId": "mr0v789pipen4j",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782845917505
     }
   ],
   "pages": {},
