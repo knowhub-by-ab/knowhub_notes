@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T16:03:44.971Z",
+  "exportedAt": "2026-06-30T16:08:45.221Z",
   "nodes": [
     {
       "createdAt": 1781381483824,
@@ -3001,6 +3001,438 @@
       "status": "pending",
       "order": 7,
       "createdAt": 1782834239275
+    },
+    {
+      "id": "mr0u6xlrlfhm1k",
+      "title": "1.3.1. Business Fundamentals",
+      "parentId": "mr0g92akn6breq",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782835445151
+    },
+    {
+      "id": "mr0u6xmizvhst9",
+      "title": "A. What is Business?",
+      "parentId": "mr0u6xlrlfhm1k",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782835445178
+    },
+    {
+      "id": "mr0u6xn93untqu",
+      "title": "B. Types of Businesses",
+      "parentId": "mr0u6xlrlfhm1k",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782835445205
+    },
+    {
+      "id": "mr0u6xo5tzpo09",
+      "title": "C. Business Models",
+      "parentId": "mr0u6xlrlfhm1k",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782835445237
+    },
+    {
+      "id": "mr0u6xp2aqh007",
+      "title": "D. Value Creation",
+      "parentId": "mr0u6xlrlfhm1k",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782835445270
+    },
+    {
+      "id": "mr0u6xpjb43i93",
+      "title": "E. Products & Services",
+      "parentId": "mr0u6xlrlfhm1k",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782835445287
+    },
+    {
+      "id": "mr0u6xq0yex3eh",
+      "title": "F. Customers & Markets",
+      "parentId": "mr0u6xlrlfhm1k",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782835445304
+    },
+    {
+      "id": "mr0u6xqdoef8f1",
+      "title": "G. Supply & Demand",
+      "parentId": "mr0u6xlrlfhm1k",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782835445317
+    },
+    {
+      "id": "mr0u6xqoyzn5pf",
+      "title": "H. Business Ecosystems",
+      "parentId": "mr0u6xlrlfhm1k",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782835445328
+    },
+    {
+      "id": "mr0u6xr6cqvn64",
+      "title": "1.3.2. Organizational Structure & Operations",
+      "parentId": "mr0g92akn6breq",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782835445346
+    },
+    {
+      "id": "mr0u6xruph2w0d",
+      "title": "A. Organizational Structures",
+      "parentId": "mr0u6xr6cqvn64",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782835445370
+    },
+    {
+      "id": "mr0u6xs5u15u9f",
+      "title": "B. Business Functions",
+      "parentId": "mr0u6xr6cqvn64",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782835445381
+    },
+    {
+      "id": "mr0u6xsksq8w3i",
+      "title": "C. Business Processes",
+      "parentId": "mr0u6xr6cqvn64",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782835445396
+    },
+    {
+      "id": "mr0u6xsw9dayct",
+      "title": "D. Operations Management",
+      "parentId": "mr0u6xr6cqvn64",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782835445408
+    },
+    {
+      "id": "mr0u6xtaz9dbjs",
+      "title": "E. Supply Chain Basics",
+      "parentId": "mr0u6xr6cqvn64",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782835445422
+    },
+    {
+      "id": "mr0u6xtvci7957",
+      "title": "F. Quality Management",
+      "parentId": "mr0u6xr6cqvn64",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782835445443
+    },
+    {
+      "id": "mr0u6xuiw4fspc",
+      "title": "G. Project Management Fundamentals",
+      "parentId": "mr0u6xr6cqvn64",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782835445466
+    },
+    {
+      "id": "mr0u6xv5a2daty",
+      "title": "H. Business Documentation",
+      "parentId": "mr0u6xr6cqvn64",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782835445489
+    },
+    {
+      "id": "mr0u6xvkc9qsx4",
+      "title": "1.3.3. Finance & Economics Fundamentals",
+      "parentId": "mr0g92akn6breq",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782835445504
+    },
+    {
+      "id": "mr0u6xvyat8k79",
+      "title": "A. Financial Literacy",
+      "parentId": "mr0u6xvkc9qsx4",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782835445518
+    },
+    {
+      "id": "mr0u6xw9ykw9p7",
+      "title": "B. Revenue, Cost & Profit",
+      "parentId": "mr0u6xvkc9qsx4",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782835445529
+    },
+    {
+      "id": "mr0u6xwjvu0olk",
+      "title": "C. Budgeting",
+      "parentId": "mr0u6xvkc9qsx4",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782835445539
+    },
+    {
+      "id": "mr0u6xws76jukv",
+      "title": "D. Financial Statements",
+      "parentId": "mr0u6xvkc9qsx4",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782835445548
+    },
+    {
+      "id": "mr0u6xx3dwtj9z",
+      "title": "E. Investment Basics",
+      "parentId": "mr0u6xvkc9qsx4",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782835445559
+    },
+    {
+      "id": "mr0u6xxelae7mu",
+      "title": "F. Economic Principles",
+      "parentId": "mr0u6xvkc9qsx4",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782835445570
+    },
+    {
+      "id": "mr0u6xxqdq1dvv",
+      "title": "G. Inflation & Interest Rates",
+      "parentId": "mr0u6xvkc9qsx4",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782835445582
+    },
+    {
+      "id": "mr0u6xxzfuayju",
+      "title": "H. Business Metrics & KPIs",
+      "parentId": "mr0u6xvkc9qsx4",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782835445591
+    },
+    {
+      "id": "mr0u6xy71yyc46",
+      "title": "1.3.4. Marketing & Sales Fundamentals",
+      "parentId": "mr0g92akn6breq",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782835445599
+    },
+    {
+      "id": "mr0u6xyfvd1l05",
+      "title": "A. Marketing Principles",
+      "parentId": "mr0u6xy71yyc46",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782835445607
+    },
+    {
+      "id": "mr0u6xynl46ktl",
+      "title": "B. Branding",
+      "parentId": "mr0u6xy71yyc46",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782835445615
+    },
+    {
+      "id": "mr0u6xyvuiu6za",
+      "title": "C. Market Research",
+      "parentId": "mr0u6xy71yyc46",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782835445623
+    },
+    {
+      "id": "mr0u6xz7mfdn3g",
+      "title": "D. Customer Segmentation",
+      "parentId": "mr0u6xy71yyc46",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782835445635
+    },
+    {
+      "id": "mr0u6xziins4po",
+      "title": "E. Sales Fundamentals",
+      "parentId": "mr0u6xy71yyc46",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782835445646
+    },
+    {
+      "id": "mr0u6xzqdze0wx",
+      "title": "F. Customer Relationship Management (CRM)",
+      "parentId": "mr0u6xy71yyc46",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782835445654
+    },
+    {
+      "id": "mr0u6xzz15ofaa",
+      "title": "G. Digital Marketing Basics",
+      "parentId": "mr0u6xy71yyc46",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782835445663
+    },
+    {
+      "id": "mr0u6y096woel9",
+      "title": "H. Customer Experience",
+      "parentId": "mr0u6xy71yyc46",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782835445673
+    },
+    {
+      "id": "mr0u6y0g213y3g",
+      "title": "1.3.5. Business Strategy & Innovation",
+      "parentId": "mr0g92akn6breq",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782835445680
+    },
+    {
+      "id": "mr0u6y0pkahdi3",
+      "title": "A. Strategic Thinking",
+      "parentId": "mr0u6y0g213y3g",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782835445689
+    },
+    {
+      "id": "mr0u6y0yo9qblk",
+      "title": "B. Competitive Advantage",
+      "parentId": "mr0u6y0g213y3g",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782835445698
+    },
+    {
+      "id": "mr0u6y17eblusp",
+      "title": "C. Business Strategy",
+      "parentId": "mr0u6y0g213y3g",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782835445707
+    },
+    {
+      "id": "mr0u6y1f4shjgo",
+      "title": "D. Innovation Fundamentals",
+      "parentId": "mr0u6y0g213y3g",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782835445715
+    },
+    {
+      "id": "mr0u6y1mpqo6qv",
+      "title": "E. Entrepreneurship Basics",
+      "parentId": "mr0u6y0g213y3g",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782835445722
+    },
+    {
+      "id": "mr0u6y1vhr6qp7",
+      "title": "F. Business Decision Making",
+      "parentId": "mr0u6y0g213y3g",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782835445731
+    },
+    {
+      "id": "mr0u6y23wyotl8",
+      "title": "G. Risk Management",
+      "parentId": "mr0u6y0g213y3g",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782835445739
+    },
+    {
+      "id": "mr0u6y2c7db3l7",
+      "title": "H. Business Ethics",
+      "parentId": "mr0u6y0g213y3g",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782835445748
+    },
+    {
+      "id": "mr0u6y2k02z7d6",
+      "title": "1.3.6. Modern Business & Digital Transformation",
+      "parentId": "mr0g92akn6breq",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782835445756
+    },
+    {
+      "id": "mr0u6y2srcscwi",
+      "title": "A. Digital Business",
+      "parentId": "mr0u6y2k02z7d6",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782835445764
+    },
+    {
+      "id": "mr0u6y305nq743",
+      "title": "B. Data-Driven Decision Making",
+      "parentId": "mr0u6y2k02z7d6",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782835445772
+    },
+    {
+      "id": "mr0u6y3939icbt",
+      "title": "C. AI in Business",
+      "parentId": "mr0u6y2k02z7d6",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782835445781
+    },
+    {
+      "id": "mr0u6y3hmlnsw1",
+      "title": "D. Business Automation",
+      "parentId": "mr0u6y2k02z7d6",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782835445789
+    },
+    {
+      "id": "mr0u6y3qpuok9m",
+      "title": "E. Remote & Hybrid Work",
+      "parentId": "mr0u6y2k02z7d6",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782835445798
+    },
+    {
+      "id": "mr0u6y3ygrvwn5",
+      "title": "F. Sustainability & ESG",
+      "parentId": "mr0u6y2k02z7d6",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782835445806
+    },
+    {
+      "id": "mr0u6y475llr73",
+      "title": "G. Global Business",
+      "parentId": "mr0u6y2k02z7d6",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782835445815
+    },
+    {
+      "id": "mr0u6y4gyrjg9o",
+      "title": "H. Future of Work",
+      "parentId": "mr0u6y2k02z7d6",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782835445824
     }
   ],
   "pages": {
