@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T18:44:29.345Z",
+  "exportedAt": "2026-06-30T18:48:45.195Z",
   "nodes": [
     {
       "id": "mr0g929r44x4tu",
@@ -4055,23 +4055,15 @@
       "title": "4.3. Strategic Thinking & Decision Making",
       "parentId": "mr0g92d3r1r2y8",
       "status": "pending",
-      "order": 3,
+      "order": 2,
       "createdAt": 1782837138515
-    },
-    {
-      "id": "mr0v788g63b05l",
-      "title": "4.4. Personal Effectiveness & Wellbeing",
-      "parentId": "mr0g92d3r1r2y8",
-      "status": "pending",
-      "order": 4,
-      "createdAt": 1782837138544
     },
     {
       "id": "mr0v788uww82mo",
       "title": "4.5. Research, Creativity & Knowledge Creation",
       "parentId": "mr0g92d3r1r2y8",
       "status": "pending",
-      "order": 5,
+      "order": 3,
       "createdAt": 1782837138558
     },
     {
@@ -4079,7 +4071,7 @@
       "title": "4.6. Ethics, Sustainability & Global Responsibility",
       "parentId": "mr0g92d3r1r2y8",
       "status": "pending",
-      "order": 6,
+      "order": 4,
       "createdAt": 1782837138574
     },
     {
@@ -4087,7 +4079,7 @@
       "title": "4.7. Lifelong Learning & Continuous Improvement",
       "parentId": "mr0g92d3r1r2y8",
       "status": "pending",
-      "order": 7,
+      "order": 6,
       "createdAt": 1782837138581
     },
     {
@@ -4095,7 +4087,7 @@
       "title": "4.8. Legacy, Mentorship & Influence",
       "parentId": "mr0g92d3r1r2y8",
       "status": "pending",
-      "order": 8,
+      "order": 7,
       "createdAt": 1782837138589
     },
     {
@@ -5697,6 +5689,110 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1782844942688
+    },
+    {
+      "id": "mr0zz4blk5abgs",
+      "title": "4.4. Personal Effectiveness & Wellbeing",
+      "parentId": "mr0v787nho2y5p",
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1782845158305
+    },
+    {
+      "id": "mr0zz4boi76rwz",
+      "title": "4.4.1. Self-Awareness & Emotional Intelligence",
+      "parentId": "mr0zz4blk5abgs",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782845158308
+    },
+    {
+      "id": "mr0zz4bqvq8w8p",
+      "title": "4.4.2. Time Management & Productivity",
+      "parentId": "mr0zz4blk5abgs",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782845158310
+    },
+    {
+      "id": "mr0zz4btu6780t",
+      "title": "4.4.3. Goal Setting & Personal Planning",
+      "parentId": "mr0zz4blk5abgs",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782845158313
+    },
+    {
+      "id": "mr0zz4bvgwrk6m",
+      "title": "4.4.4. Habits, Discipline & Self-Mastery",
+      "parentId": "mr0zz4blk5abgs",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782845158315
+    },
+    {
+      "id": "mr0zz4bwnxfvrv",
+      "title": "4.4.5. Communication & Interpersonal Effectiveness",
+      "parentId": "mr0zz4blk5abgs",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782845158316
+    },
+    {
+      "id": "mr0zz4bxc8edwy",
+      "title": "4.4.6. Stress Management & Resilience",
+      "parentId": "mr0zz4blk5abgs",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782845158317
+    },
+    {
+      "id": "mr0zz4bz8ky6b8",
+      "title": "4.4.7. Physical & Mental Wellbeing",
+      "parentId": "mr0zz4blk5abgs",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782845158319
+    },
+    {
+      "id": "mr0zz4c0s5abh1",
+      "title": "4.4.8. Work-Life Integration",
+      "parentId": "mr0zz4blk5abgs",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782845158320
+    },
+    {
+      "id": "mr0zz4c1e4qad9",
+      "title": "4.4.9. Adaptability & Growth Mindset",
+      "parentId": "mr0zz4blk5abgs",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782845158321
+    },
+    {
+      "id": "mr0zz4c29yn6ko",
+      "title": "4.4.10. Confidence & Executive Presence",
+      "parentId": "mr0zz4blk5abgs",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782845158322
+    },
+    {
+      "id": "mr0zz4c38l6s6z",
+      "title": "4.4.11. Personal Values & Purpose",
+      "parentId": "mr0zz4blk5abgs",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782845158323
+    },
+    {
+      "id": "mr0zz4c5n5hko7",
+      "title": "4.4.12. Personal Performance Optimization",
+      "parentId": "mr0zz4blk5abgs",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782845158325
     }
   ],
   "pages": {},
