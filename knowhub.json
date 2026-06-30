@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T12:18:29.842Z",
+  "exportedAt": "2026-06-30T12:23:00.798Z",
   "nodes": [
     {
       "createdAt": 1781381483824,
@@ -1956,7 +1956,7 @@
     },
     {
       "id": "mr0g929r44x4tu",
-      "title": "Professional Career Development Path",
+      "title": "Professional Career Development",
       "parentId": null,
       "status": "pending",
       "order": 2,
