@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T18:23:47.104Z",
+  "exportedAt": "2026-06-30T18:29:29.266Z",
   "nodes": [
     {
       "id": "mr0g929r44x4tu",
@@ -5129,6 +5129,294 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1782843824289
+    },
+    {
+      "id": "mr0z7g50lolxha",
+      "title": "3.10.1. Marketing Foundations",
+      "parentId": "mr0wbiln8b6zvr",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782843867252
+    },
+    {
+      "id": "mr0z7g56ojovtd",
+      "title": "3.10.2. Digital Marketing",
+      "parentId": "mr0wbiln8b6zvr",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782843867258
+    },
+    {
+      "id": "mr0z7g5cq7no1t",
+      "title": "3.10.3. Content Marketing",
+      "parentId": "mr0wbiln8b6zvr",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782843867264
+    },
+    {
+      "id": "mr0z7g5g5dvprr",
+      "title": "3.10.4. Search Engine Optimization (SEO) & Search Engine Marketing (SEM)",
+      "parentId": "mr0wbiln8b6zvr",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782843867268
+    },
+    {
+      "id": "mr0z7g5i9l4igl",
+      "title": "3.10.5. Social Media & Community Marketing",
+      "parentId": "mr0wbiln8b6zvr",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782843867270
+    },
+    {
+      "id": "mr0z7g5k433cf0",
+      "title": "3.10.6. Product Marketing",
+      "parentId": "mr0wbiln8b6zvr",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782843867272
+    },
+    {
+      "id": "mr0z7g5monyxj9",
+      "title": "3.10.7. Brand Management & Communications",
+      "parentId": "mr0wbiln8b6zvr",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782843867274
+    },
+    {
+      "id": "mr0z7g5u0vbhhu",
+      "title": "3.10.8. Sales & Account Management",
+      "parentId": "mr0wbiln8b6zvr",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782843867282
+    },
+    {
+      "id": "mr0z7g5vit3lpi",
+      "title": "3.10.9. Business Development & Partnerships",
+      "parentId": "mr0wbiln8b6zvr",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782843867283
+    },
+    {
+      "id": "mr0z7g5x9mdfcs",
+      "title": "3.10.10. Growth Marketing & Revenue Operations",
+      "parentId": "mr0wbiln8b6zvr",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782843867285
+    },
+    {
+      "id": "mr0z7g5zndf3y1",
+      "title": "3.10.11. Customer Relationship Management (CRM)",
+      "parentId": "mr0wbiln8b6zvr",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782843867287
+    },
+    {
+      "id": "mr0z7g61n3ba7f",
+      "title": "3.10.12. Go-to-Market Strategy",
+      "parentId": "mr0wbiln8b6zvr",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782843867289
+    },
+    {
+      "id": "mr0z7r39v08vat",
+      "title": "3.11.1. Research Methodology",
+      "parentId": "mr0wbilorsz4o7",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782843881445
+    },
+    {
+      "id": "mr0z7r3b50d1qp",
+      "title": "3.11.2. Literature Review & Knowledge Discovery",
+      "parentId": "mr0wbilorsz4o7",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782843881447
+    },
+    {
+      "id": "mr0z7r3bno9p9g",
+      "title": "3.11.3. Experimental Design",
+      "parentId": "mr0wbilorsz4o7",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782843881447
+    },
+    {
+      "id": "mr0z7r3c14dapf",
+      "title": "3.11.4. Quantitative Research Methods",
+      "parentId": "mr0wbilorsz4o7",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782843881448
+    },
+    {
+      "id": "mr0z7r3etm80jf",
+      "title": "3.11.5. Qualitative Research Methods",
+      "parentId": "mr0wbilorsz4o7",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782843881450
+    },
+    {
+      "id": "mr0z7r3fhwsx11",
+      "title": "3.11.6. Statistical Analysis",
+      "parentId": "mr0wbilorsz4o7",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782843881451
+    },
+    {
+      "id": "mr0z7r3gshbwj4",
+      "title": "3.11.7. Scientific Writing & Academic Publishing",
+      "parentId": "mr0wbilorsz4o7",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782843881452
+    },
+    {
+      "id": "mr0z7r3htbq22r",
+      "title": "3.11.8. Research Ethics & Integrity",
+      "parentId": "mr0wbilorsz4o7",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782843881453
+    },
+    {
+      "id": "mr0z7r3if4ql37",
+      "title": "3.11.9. Teaching, Learning & Pedagogy",
+      "parentId": "mr0wbilorsz4o7",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782843881454
+    },
+    {
+      "id": "mr0z7r3jcm3oq2",
+      "title": "3.11.10. Research Project Management",
+      "parentId": "mr0wbilorsz4o7",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782843881455
+    },
+    {
+      "id": "mr0z7r3k8s4hc0",
+      "title": "3.11.11. Innovation, Intellectual Property & Technology Transfer",
+      "parentId": "mr0wbilorsz4o7",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782843881456
+    },
+    {
+      "id": "mr0z7r3ll4qv9j",
+      "title": "3.11.12. Academic & Industrial Research Careers",
+      "parentId": "mr0wbilorsz4o7",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782843881457
+    },
+    {
+      "id": "mr0z88wg3e5bk4",
+      "title": "3.12.1. Healthcare & Health Informatics",
+      "parentId": "mr0wbilqw0kold",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782843904528
+    },
+    {
+      "id": "mr0z88wh88hskx",
+      "title": "3.12.2. Biotechnology & Life Sciences",
+      "parentId": "mr0wbilqw0kold",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782843904529
+    },
+    {
+      "id": "mr0z88wihdndcc",
+      "title": "3.12.3. Financial Services & Insurance",
+      "parentId": "mr0wbilqw0kold",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782843904530
+    },
+    {
+      "id": "mr0z88wjuh7pwc",
+      "title": "3.12.4. Manufacturing & Industry 4.0",
+      "parentId": "mr0wbilqw0kold",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782843904531
+    },
+    {
+      "id": "mr0z88wls7gvli",
+      "title": "3.12.5. Retail, E-Commerce & Consumer Technology",
+      "parentId": "mr0wbilqw0kold",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782843904533
+    },
+    {
+      "id": "mr0z88wml2yrxm",
+      "title": "3.12.6. Supply Chain, Logistics & Transportation",
+      "parentId": "mr0wbilqw0kold",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782843904534
+    },
+    {
+      "id": "mr0z88wni08l9g",
+      "title": "3.12.7. Energy, Utilities & Sustainability",
+      "parentId": "mr0wbilqw0kold",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782843904535
+    },
+    {
+      "id": "mr0z88wpsvkbzf",
+      "title": "3.12.8. Government, Public Policy & Smart Cities",
+      "parentId": "mr0wbilqw0kold",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782843904537
+    },
+    {
+      "id": "mr0z88wqma02g0",
+      "title": "3.12.9. Education Technology (EdTech)",
+      "parentId": "mr0wbilqw0kold",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782843904538
+    },
+    {
+      "id": "mr0z88wrrna00k",
+      "title": "3.12.10. Legal Technology (LegalTech)",
+      "parentId": "mr0wbilqw0kold",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782843904539
+    },
+    {
+      "id": "mr0z88wsjsfbi0",
+      "title": "3.12.11. Media, Entertainment & Sports Technology",
+      "parentId": "mr0wbilqw0kold",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782843904540
+    },
+    {
+      "id": "mr0z88wucc9onv",
+      "title": "3.12.12. Aerospace, Space & Defense Technology",
+      "parentId": "mr0wbilqw0kold",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782843904542
     }
   ],
   "pages": {},
