@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T18:48:45.195Z",
+  "exportedAt": "2026-06-30T18:54:21.947Z",
   "nodes": [
     {
       "id": "mr0g929r44x4tu",
@@ -4063,7 +4063,7 @@
       "title": "4.5. Research, Creativity & Knowledge Creation",
       "parentId": "mr0g92d3r1r2y8",
       "status": "pending",
-      "order": 3,
+      "order": 4,
       "createdAt": 1782837138558
     },
     {
@@ -4071,7 +4071,7 @@
       "title": "4.6. Ethics, Sustainability & Global Responsibility",
       "parentId": "mr0g92d3r1r2y8",
       "status": "pending",
-      "order": 4,
+      "order": 6,
       "createdAt": 1782837138574
     },
     {
@@ -4079,7 +4079,7 @@
       "title": "4.7. Lifelong Learning & Continuous Improvement",
       "parentId": "mr0g92d3r1r2y8",
       "status": "pending",
-      "order": 6,
+      "order": 7,
       "createdAt": 1782837138581
     },
     {
@@ -4087,7 +4087,7 @@
       "title": "4.8. Legacy, Mentorship & Influence",
       "parentId": "mr0g92d3r1r2y8",
       "status": "pending",
-      "order": 7,
+      "order": 8,
       "createdAt": 1782837138589
     },
     {
@@ -5693,9 +5693,9 @@
     {
       "id": "mr0zz4blk5abgs",
       "title": "4.4. Personal Effectiveness & Wellbeing",
-      "parentId": "mr0v787nho2y5p",
+      "parentId": "mr0g92d3r1r2y8",
       "status": "pending",
-      "order": 12,
+      "order": 3,
       "createdAt": 1782845158305
     },
     {
