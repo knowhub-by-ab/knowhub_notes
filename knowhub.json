@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T18:19:13.732Z",
+  "exportedAt": "2026-06-30T18:23:47.104Z",
   "nodes": [
     {
       "id": "mr0g929r44x4tu",
@@ -4553,6 +4553,582 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1782840912087
+    },
+    {
+      "id": "mr0z2novwprhii",
+      "title": "3.4.1. Product Management",
+      "parentId": "mr0wbiljrs7zpw",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782843643759
+    },
+    {
+      "id": "mr0z2nowaqelgw",
+      "title": "3.4.2. Product Operations",
+      "parentId": "mr0wbiljrs7zpw",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782843643760
+    },
+    {
+      "id": "mr0z2nox8rkwbt",
+      "title": "3.4.3. Project & Program Management",
+      "parentId": "mr0wbiljrs7zpw",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782843643761
+    },
+    {
+      "id": "mr0z2noy2veo8a",
+      "title": "3.4.4. Business Analysis",
+      "parentId": "mr0wbiljrs7zpw",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782843643762
+    },
+    {
+      "id": "mr0z2noznkomb1",
+      "title": "3.4.5. Solution Architecture",
+      "parentId": "mr0wbiljrs7zpw",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782843643763
+    },
+    {
+      "id": "mr0z2nozakcvxo",
+      "title": "3.4.6. Enterprise Architecture",
+      "parentId": "mr0wbiljrs7zpw",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782843643763
+    },
+    {
+      "id": "mr0z2np001wi3h",
+      "title": "3.4.7. ERP & Enterprise Systems",
+      "parentId": "mr0wbiljrs7zpw",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782843643764
+    },
+    {
+      "id": "mr0z2np1siw00k",
+      "title": "3.4.8. CRM & Customer Platforms",
+      "parentId": "mr0wbiljrs7zpw",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782843643765
+    },
+    {
+      "id": "mr0z2np23dl45u",
+      "title": "3.4.9. Business Intelligence",
+      "parentId": "mr0wbiljrs7zpw",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782843643766
+    },
+    {
+      "id": "mr0z2np2c7jlhz",
+      "title": "3.4.10. Digital Transformation",
+      "parentId": "mr0wbiljrs7zpw",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782843643766
+    },
+    {
+      "id": "mr0z2np3sa5hyt",
+      "title": "3.4.11. Technology Consulting",
+      "parentId": "mr0wbiljrs7zpw",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782843643767
+    },
+    {
+      "id": "mr0z2np4dhgoey",
+      "title": "3.4.12. IT Service Management & Governance",
+      "parentId": "mr0wbiljrs7zpw",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782843643768
+    },
+    {
+      "id": "mr0z3d4sk0lo3h",
+      "title": "3.5.1. UI Design",
+      "parentId": "mr0wbilkeq6b13",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782843676732
+    },
+    {
+      "id": "mr0z3d4ukwm3p4",
+      "title": "3.5.2. UX Design",
+      "parentId": "mr0wbilkeq6b13",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782843676734
+    },
+    {
+      "id": "mr0z3d4ubyx2bx",
+      "title": "3.5.3. UX Research",
+      "parentId": "mr0wbilkeq6b13",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782843676734
+    },
+    {
+      "id": "mr0z3d4w77o8gh",
+      "title": "3.5.4. Product Design",
+      "parentId": "mr0wbilkeq6b13",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782843676736
+    },
+    {
+      "id": "mr0z3d4xndqe7c",
+      "title": "3.5.5. Interaction Design",
+      "parentId": "mr0wbilkeq6b13",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782843676737
+    },
+    {
+      "id": "mr0z3d4yadl6p9",
+      "title": "3.5.6. Visual Communication & Graphic Design",
+      "parentId": "mr0wbilkeq6b13",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782843676738
+    },
+    {
+      "id": "mr0z3d4z154h74",
+      "title": "3.5.7. Motion Graphics & Animation",
+      "parentId": "mr0wbilkeq6b13",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782843676739
+    },
+    {
+      "id": "mr0z3d4zq36j15",
+      "title": "3.5.8. 3D Design & Visualization",
+      "parentId": "mr0wbilkeq6b13",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782843676739
+    },
+    {
+      "id": "mr0z3d50287zsr",
+      "title": "3.5.9. Game Art & Game Design",
+      "parentId": "mr0wbilkeq6b13",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782843676740
+    },
+    {
+      "id": "mr0z3d51r32gks",
+      "title": "3.5.10. AR/VR/XR Design",
+      "parentId": "mr0wbilkeq6b13",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782843676741
+    },
+    {
+      "id": "mr0z3d51vobdsm",
+      "title": "3.5.11. Design Systems & Accessibility",
+      "parentId": "mr0wbilkeq6b13",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782843676741
+    },
+    {
+      "id": "mr0z3d527cwu7p",
+      "title": "3.5.12. Creative Technology",
+      "parentId": "mr0wbilkeq6b13",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782843676742
+    },
+    {
+      "id": "mr0z4agdzjixo1",
+      "title": "3.6.1. Economics",
+      "parentId": "mr0wbilkwjxep7",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782843719917
+    },
+    {
+      "id": "mr0z4age1pygc2",
+      "title": "3.6.2. Financial Markets & Instruments",
+      "parentId": "mr0wbilkwjxep7",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782843719918
+    },
+    {
+      "id": "mr0z4agffxmvmn",
+      "title": "3.6.3. Investment Management",
+      "parentId": "mr0wbilkwjxep7",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782843719919
+    },
+    {
+      "id": "mr0z4aggvw8ebd",
+      "title": "3.6.4. Corporate Finance",
+      "parentId": "mr0wbilkwjxep7",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782843719920
+    },
+    {
+      "id": "mr0z4agg9lqtbp",
+      "title": "3.6.5. Quantitative Finance",
+      "parentId": "mr0wbilkwjxep7",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782843719920
+    },
+    {
+      "id": "mr0z4aghkppeds",
+      "title": "3.6.6. Financial Engineering",
+      "parentId": "mr0wbilkwjxep7",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782843719921
+    },
+    {
+      "id": "mr0z4agh1vryx6",
+      "title": "3.6.7. Algorithmic Trading",
+      "parentId": "mr0wbilkwjxep7",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782843719921
+    },
+    {
+      "id": "mr0z4agi3d3vxj",
+      "title": "3.6.8. Risk Management",
+      "parentId": "mr0wbilkwjxep7",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782843719922
+    },
+    {
+      "id": "mr0z4agjj9h9s3",
+      "title": "3.6.9. Financial Econometrics",
+      "parentId": "mr0wbilkwjxep7",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782843719923
+    },
+    {
+      "id": "mr0z4agj4uryr0",
+      "title": "3.6.10. Computational Finance",
+      "parentId": "mr0wbilkwjxep7",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782843719923
+    },
+    {
+      "id": "mr0z4agk2h9wkb",
+      "title": "3.6.11. FinTech & Digital Finance",
+      "parentId": "mr0wbilkwjxep7",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782843719924
+    },
+    {
+      "id": "mr0z4agk38fyl8",
+      "title": "3.6.12. Quantitative Research",
+      "parentId": "mr0wbilkwjxep7",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782843719924
+    },
+    {
+      "id": "mr0z5pdid1s1hi",
+      "title": "3.7.1. Scientific Programming",
+      "parentId": "mr0wbillfautd6",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782843785910
+    },
+    {
+      "id": "mr0z5pdjl2pi0u",
+      "title": "3.7.2. Numerical Computing",
+      "parentId": "mr0wbillfautd6",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782843785911
+    },
+    {
+      "id": "mr0z5pdjcyccav",
+      "title": "3.7.3. High Performance Computing",
+      "parentId": "mr0wbillfautd6",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782843785911
+    },
+    {
+      "id": "mr0z5pdk11ur6r",
+      "title": "3.7.4. Computational Mathematics",
+      "parentId": "mr0wbillfautd6",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782843785912
+    },
+    {
+      "id": "mr0z5pdlvobbrx",
+      "title": "3.7.5. Computational Physics",
+      "parentId": "mr0wbillfautd6",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782843785913
+    },
+    {
+      "id": "mr0z5pdm8f9ovg",
+      "title": "3.7.6. Computational Chemistry",
+      "parentId": "mr0wbillfautd6",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782843785914
+    },
+    {
+      "id": "mr0z5pdngr1f5g",
+      "title": "3.7.7. Computational Biology & Bioinformatics",
+      "parentId": "mr0wbillfautd6",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782843785915
+    },
+    {
+      "id": "mr0z5pdp9jf9zk",
+      "title": "3.7.8. Robotics Engineering",
+      "parentId": "mr0wbillfautd6",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782843785917
+    },
+    {
+      "id": "mr0z5pdqmtrej5",
+      "title": "3.7.9. Simulation & Modeling",
+      "parentId": "mr0wbillfautd6",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782843785918
+    },
+    {
+      "id": "mr0z5pdrriw2ho",
+      "title": "3.7.10. Control Systems",
+      "parentId": "mr0wbillfautd6",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782843785919
+    },
+    {
+      "id": "mr0z5pds3wyukc",
+      "title": "3.7.11. Geospatial Computing & GIS",
+      "parentId": "mr0wbillfautd6",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782843785920
+    },
+    {
+      "id": "mr0z5pdtmioki5",
+      "title": "3.7.12. Digital Engineering",
+      "parentId": "mr0wbillfautd6",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782843785921
+    },
+    {
+      "id": "mr0z64mw1n3hrn",
+      "title": "3.8.1. Customer Success",
+      "parentId": "mr0wbilm4ybeye",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782843805688
+    },
+    {
+      "id": "mr0z64mx0uhgc7",
+      "title": "3.8.2. Solutions Engineering",
+      "parentId": "mr0wbilm4ybeye",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782843805689
+    },
+    {
+      "id": "mr0z64mxzh6ybf",
+      "title": "3.8.3. Solutions Architecture",
+      "parentId": "mr0wbilm4ybeye",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782843805689
+    },
+    {
+      "id": "mr0z64myw6c1zc",
+      "title": "3.8.4. Technical Consulting",
+      "parentId": "mr0wbilm4ybeye",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782843805690
+    },
+    {
+      "id": "mr0z64mzg0h5ku",
+      "title": "3.8.5. Technology Advisory",
+      "parentId": "mr0wbilm4ybeye",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782843805691
+    },
+    {
+      "id": "mr0z64mzqauy8k",
+      "title": "3.8.6. Implementation Consulting",
+      "parentId": "mr0wbilm4ybeye",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782843805691
+    },
+    {
+      "id": "mr0z64n0wlrczo",
+      "title": "3.8.7. Professional Services",
+      "parentId": "mr0wbilm4ybeye",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782843805692
+    },
+    {
+      "id": "mr0z64n5pzsidk",
+      "title": "3.8.8. Pre-Sales Engineering",
+      "parentId": "mr0wbilm4ybeye",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782843805697
+    },
+    {
+      "id": "mr0z64n6djydcg",
+      "title": "3.8.9. Sales Engineering",
+      "parentId": "mr0wbilm4ybeye",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782843805698
+    },
+    {
+      "id": "mr0z64n8vck1lm",
+      "title": "3.8.10. Enterprise Customer Strategy",
+      "parentId": "mr0wbilm4ybeye",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782843805700
+    },
+    {
+      "id": "mr0z64n8utmouu",
+      "title": "3.8.11. Customer Enablement",
+      "parentId": "mr0wbilm4ybeye",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782843805700
+    },
+    {
+      "id": "mr0z64n9xljkzn",
+      "title": "3.8.12. Customer Experience Technology",
+      "parentId": "mr0wbilm4ybeye",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782843805701
+    },
+    {
+      "id": "mr0z6iyzi9oi7w",
+      "title": "3.9.1. Developer Relations",
+      "parentId": "mr0wbiln1s7tef",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782843824267
+    },
+    {
+      "id": "mr0z6iz2121k3j",
+      "title": "3.9.2. Developer Experience",
+      "parentId": "mr0wbiln1s7tef",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782843824270
+    },
+    {
+      "id": "mr0z6iz4vgdal0",
+      "title": "3.9.3. Technical Writing",
+      "parentId": "mr0wbiln1s7tef",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782843824272
+    },
+    {
+      "id": "mr0z6iz5mtzxxi",
+      "title": "3.9.4. Documentation Engineering",
+      "parentId": "mr0wbiln1s7tef",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782843824273
+    },
+    {
+      "id": "mr0z6iz9n8namf",
+      "title": "3.9.5. API Documentation",
+      "parentId": "mr0wbiln1s7tef",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782843824277
+    },
+    {
+      "id": "mr0z6izcxajc7f",
+      "title": "3.9.6. Developer Education",
+      "parentId": "mr0wbiln1s7tef",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782843824280
+    },
+    {
+      "id": "mr0z6izeawowm3",
+      "title": "3.9.7. Technical Evangelism",
+      "parentId": "mr0wbiln1s7tef",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782843824282
+    },
+    {
+      "id": "mr0z6izg53o818",
+      "title": "3.9.8. Community Building",
+      "parentId": "mr0wbiln1s7tef",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782843824284
+    },
+    {
+      "id": "mr0z6izh2skh9h",
+      "title": "3.9.9. Open Source Programs",
+      "parentId": "mr0wbiln1s7tef",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782843824285
+    },
+    {
+      "id": "mr0z6iziclzbnx",
+      "title": "3.9.10. Developer Advocacy",
+      "parentId": "mr0wbiln1s7tef",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782843824286
+    },
+    {
+      "id": "mr0z6izkc5rxtl",
+      "title": "3.9.11. Technical Content Creation",
+      "parentId": "mr0wbiln1s7tef",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782843824288
+    },
+    {
+      "id": "mr0z6izl6g099r",
+      "title": "3.9.12. Community Leadership",
+      "parentId": "mr0wbiln1s7tef",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782843824289
     }
   ],
   "pages": {},
