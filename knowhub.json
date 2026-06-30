@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T18:29:29.266Z",
+  "exportedAt": "2026-06-30T18:38:44.920Z",
   "nodes": [
     {
       "id": "mr0g929r44x4tu",
@@ -89,14 +89,6 @@
       "status": "pending",
       "order": 1,
       "createdAt": 1782812030022
-    },
-    {
-      "id": "mr0g92do3zib1j",
-      "title": "4.3. Lifelong Professional Growth",
-      "parentId": "mr0g92d3r1r2y8",
-      "status": "pending",
-      "order": 2,
-      "createdAt": 1782812030028
     },
     {
       "id": "mr0g92a5xmcn48",
