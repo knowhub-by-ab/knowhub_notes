@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T15:13:12.956Z",
+  "exportedAt": "2026-06-30T15:18:47.345Z",
   "nodes": [
     {
       "createdAt": 1781381483824,
@@ -1972,7 +1972,7 @@
     },
     {
       "id": "mr0g92bftw1wn5",
-      "title": "Computer Science Foundations",
+      "title": "2.1. Computer Science Foundations",
       "parentId": "mr0g92b7lfh561",
       "status": "pending",
       "order": 0,
@@ -1980,7 +1980,7 @@
     },
     {
       "id": "mr0g92bnrfyn92",
-      "title": "Programming Foundations",
+      "title": "2.2. Programming Foundations",
       "parentId": "mr0g92b7lfh561",
       "status": "pending",
       "order": 1,
@@ -1988,7 +1988,7 @@
     },
     {
       "id": "mr0g92bvqljwbv",
-      "title": "Core Technical Foundations",
+      "title": "2.3. Core Technical Foundations",
       "parentId": "mr0g92b7lfh561",
       "status": "pending",
       "order": 2,
@@ -1996,7 +1996,7 @@
     },
     {
       "id": "mr0g92c215mrce",
-      "title": "Modern Technology Foundations",
+      "title": "2.4. Modern Technology Foundations",
       "parentId": "mr0g92b7lfh561",
       "status": "pending",
       "order": 3,
@@ -2012,7 +2012,7 @@
     },
     {
       "id": "mr0g92chzjmz36",
-      "title": "Career Domains",
+      "title": "3.1. Career Domains",
       "parentId": "mr0g92ca1jhaui",
       "status": "pending",
       "order": 0,
@@ -2020,7 +2020,7 @@
     },
     {
       "id": "mr0g92cpdewm6s",
-      "title": "Career Development",
+      "title": "3.2. Career Development",
       "parentId": "mr0g92ca1jhaui",
       "status": "pending",
       "order": 1,
@@ -2028,7 +2028,7 @@
     },
     {
       "id": "mr0g92cv63sa7j",
-      "title": "Professional Practice",
+      "title": "3.3. Professional Practice",
       "parentId": "mr0g92ca1jhaui",
       "status": "pending",
       "order": 2,
