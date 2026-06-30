@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T17:33:45.069Z",
+  "exportedAt": "2026-06-30T17:39:29.393Z",
   "nodes": [
     {
       "id": "mr0g929r44x4tu",
@@ -4361,6 +4361,198 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1782839987164
+    },
+    {
+      "id": "mr0xfgd5ob0o83",
+      "title": "3.2.1. Data Science",
+      "parentId": "mr0wbilhbjlcl2",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782840881561
+    },
+    {
+      "id": "mr0xfgd8fblz9q",
+      "title": "3.2.2. Data Analytics",
+      "parentId": "mr0wbilhbjlcl2",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782840881564
+    },
+    {
+      "id": "mr0xfgd92evgjr",
+      "title": "3.2.3. Data Engineering",
+      "parentId": "mr0wbilhbjlcl2",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782840881565
+    },
+    {
+      "id": "mr0xfgdbz7j6x7",
+      "title": "3.2.4. Machine Learning Engineering",
+      "parentId": "mr0wbilhbjlcl2",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782840881567
+    },
+    {
+      "id": "mr0xfgdew3pfbw",
+      "title": "3.2.5. Artificial Intelligence Engineering",
+      "parentId": "mr0wbilhbjlcl2",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782840881570
+    },
+    {
+      "id": "mr0xfgdgq0see1",
+      "title": "3.2.6. Deep Learning",
+      "parentId": "mr0wbilhbjlcl2",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782840881572
+    },
+    {
+      "id": "mr0xfgdhv6l779",
+      "title": "3.2.7. Natural Language Processing",
+      "parentId": "mr0wbilhbjlcl2",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782840881573
+    },
+    {
+      "id": "mr0xfgdjtlg4nq",
+      "title": "3.2.8. Computer Vision",
+      "parentId": "mr0wbilhbjlcl2",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782840881575
+    },
+    {
+      "id": "mr0xfgdlwhc1mz",
+      "title": "3.2.9. Generative AI Engineering",
+      "parentId": "mr0wbilhbjlcl2",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782840881577
+    },
+    {
+      "id": "mr0xfgdnqlfecs",
+      "title": "3.2.10. AI Agents & Agentic Systems",
+      "parentId": "mr0wbilhbjlcl2",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782840881579
+    },
+    {
+      "id": "mr0xfgdqorn7di",
+      "title": "3.2.11. MLOps & AI Infrastructure",
+      "parentId": "mr0wbilhbjlcl2",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782840881582
+    },
+    {
+      "id": "mr0xfgdt7btja6",
+      "title": "3.2.12. Responsible AI & AI Research",
+      "parentId": "mr0wbilhbjlcl2",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782840881585
+    },
+    {
+      "id": "mr0xg3wucb5e7a",
+      "title": "3.3.1. Cloud Engineering",
+      "parentId": "mr0wbilio4g464",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782840912078
+    },
+    {
+      "id": "mr0xg3wvs6722g",
+      "title": "3.3.2. Cloud Architecture",
+      "parentId": "mr0wbilio4g464",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782840912079
+    },
+    {
+      "id": "mr0xg3wwkbbjgs",
+      "title": "3.3.3. Infrastructure Engineering",
+      "parentId": "mr0wbilio4g464",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782840912080
+    },
+    {
+      "id": "mr0xg3wwls3zm5",
+      "title": "3.3.4. DevOps Engineering",
+      "parentId": "mr0wbilio4g464",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782840912080
+    },
+    {
+      "id": "mr0xg3wyha1gzn",
+      "title": "3.3.5. Platform Engineering",
+      "parentId": "mr0wbilio4g464",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782840912082
+    },
+    {
+      "id": "mr0xg3wz7cvgmx",
+      "title": "3.3.6. Site Reliability Engineering",
+      "parentId": "mr0wbilio4g464",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782840912083
+    },
+    {
+      "id": "mr0xg3wzccvh0b",
+      "title": "3.3.7. Network Engineering",
+      "parentId": "mr0wbilio4g464",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782840912083
+    },
+    {
+      "id": "mr0xg3x15sryyy",
+      "title": "3.3.8. Systems Administration",
+      "parentId": "mr0wbilio4g464",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782840912085
+    },
+    {
+      "id": "mr0xg3x1njvywe",
+      "title": "3.3.9. Cybersecurity Engineering",
+      "parentId": "mr0wbilio4g464",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782840912085
+    },
+    {
+      "id": "mr0xg3x2eiv6o2",
+      "title": "3.3.10. Cloud Security",
+      "parentId": "mr0wbilio4g464",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782840912086
+    },
+    {
+      "id": "mr0xg3x2kk07aq",
+      "title": "3.3.11. Governance, Risk & Compliance",
+      "parentId": "mr0wbilio4g464",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782840912086
+    },
+    {
+      "id": "mr0xg3x3pfve9t",
+      "title": "3.3.12. Digital Forensics & Incident Response",
+      "parentId": "mr0wbilio4g464",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782840912087
     }
   ],
   "pages": {},
