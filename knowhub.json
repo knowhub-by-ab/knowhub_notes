@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T19:34:29.263Z",
+  "exportedAt": "2026-06-30T19:38:45.278Z",
   "nodes": [
     {
       "id": "mr0g929r44x4tu",
@@ -6185,6 +6185,310 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1782845917505
+    },
+    {
+      "id": "mr11txgx4zsfui",
+      "title": "5.1. Career Exploration & Planning",
+      "parentId": "mr0vc8slmsvprp",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782848275377
+    },
+    {
+      "id": "mr11txgzo6r2ls",
+      "title": "5.1.1. Self-Assessment & Career Discovery",
+      "parentId": "mr11txgx4zsfui",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782848275379
+    },
+    {
+      "id": "mr11txh1u09gb4",
+      "title": "5.1.2. Career Research & Industry Exploration",
+      "parentId": "mr11txgx4zsfui",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782848275381
+    },
+    {
+      "id": "mr11txh26xkeek",
+      "title": "5.1.3. Career Pathways & Roadmaps",
+      "parentId": "mr11txgx4zsfui",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782848275382
+    },
+    {
+      "id": "mr11txh4f7g3fh",
+      "title": "5.1.4. Goal Setting & Career Planning",
+      "parentId": "mr11txgx4zsfui",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782848275384
+    },
+    {
+      "id": "mr11txh5qwezv1",
+      "title": "5.1.5. Skills Gap Analysis",
+      "parentId": "mr11txgx4zsfui",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782848275385
+    },
+    {
+      "id": "mr11txh7vn7vpu",
+      "title": "5.1.6. Career Decision Making",
+      "parentId": "mr11txgx4zsfui",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782848275387
+    },
+    {
+      "id": "mr11txh90ikz8e",
+      "title": "5.1.7. Career Experimentation",
+      "parentId": "mr11txgx4zsfui",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782848275389
+    },
+    {
+      "id": "mr11txhbzo2web",
+      "title": "5.1.8. Mentorship & Career Guidance",
+      "parentId": "mr11txgx4zsfui",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782848275391
+    },
+    {
+      "id": "mr11txhcuaof3r",
+      "title": "5.1.9. Career Planning Tools & Frameworks",
+      "parentId": "mr11txgx4zsfui",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782848275392
+    },
+    {
+      "id": "mr11txhe1rglx9",
+      "title": "5.1.10. Career Risk Management",
+      "parentId": "mr11txgx4zsfui",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782848275394
+    },
+    {
+      "id": "mr11txhf7ghmux",
+      "title": "5.1.11. Future Career Trends",
+      "parentId": "mr11txgx4zsfui",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782848275395
+    },
+    {
+      "id": "mr11txhhftsoem",
+      "title": "5.1.12. Personal Career Strategy",
+      "parentId": "mr11txgx4zsfui",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782848275397
+    },
+    {
+      "id": "mr11uclheois96",
+      "title": "5.2.1. Education Pathways",
+      "parentId": "mr0vc8snnjw1st",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782848294981
+    },
+    {
+      "id": "mr11ucljod9tqp",
+      "title": "5.2.2. Degree Programs",
+      "parentId": "mr0vc8snnjw1st",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782848294983
+    },
+    {
+      "id": "mr11ucll695z1s",
+      "title": "5.2.3. Professional Certifications",
+      "parentId": "mr0vc8snnjw1st",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782848294985
+    },
+    {
+      "id": "mr11uclmdav8al",
+      "title": "5.2.4. Online Learning Platforms",
+      "parentId": "mr0vc8snnjw1st",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782848294986
+    },
+    {
+      "id": "mr11ucln1dppg7",
+      "title": "5.2.5. Micro-Credentials & Digital Badges",
+      "parentId": "mr0vc8snnjw1st",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782848294987
+    },
+    {
+      "id": "mr11uclq3jdi2v",
+      "title": "5.2.6. Continuing Professional Education",
+      "parentId": "mr0vc8snnjw1st",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782848294990
+    },
+    {
+      "id": "mr11uclrbg1gxy",
+      "title": "5.2.7. Academic Planning",
+      "parentId": "mr0vc8snnjw1st",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782848294991
+    },
+    {
+      "id": "mr11uclsajge9r",
+      "title": "5.2.8. Certification Preparation Strategies",
+      "parentId": "mr0vc8snnjw1st",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782848294992
+    },
+    {
+      "id": "mr11uclt94ujth",
+      "title": "5.2.9. Scholarship & Financial Aid",
+      "parentId": "mr0vc8snnjw1st",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782848294993
+    },
+    {
+      "id": "mr11uclvhv0v0r",
+      "title": "5.2.10. Credential Evaluation & Recognition",
+      "parentId": "mr0vc8snnjw1st",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782848294995
+    },
+    {
+      "id": "mr11uclw3v1qvk",
+      "title": "5.2.11. Building a Learning Portfolio",
+      "parentId": "mr0vc8snnjw1st",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782848294996
+    },
+    {
+      "id": "mr11uclx8kx2l0",
+      "title": "5.2.12. Lifelong Credential Management",
+      "parentId": "mr0vc8snnjw1st",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782848294997
+    },
+    {
+      "id": "mr11us7era24kt",
+      "title": "5.3. Personal Branding & Professional Presence",
+      "parentId": "mr0vc8sp5uvu7z",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782848315210
+    },
+    {
+      "id": "mr11us7gpyilv2",
+      "title": "5.3.1. Personal Branding Foundations",
+      "parentId": "mr11us7era24kt",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782848315212
+    },
+    {
+      "id": "mr11us7hgf5d01",
+      "title": "5.3.2. Professional Identity",
+      "parentId": "mr11us7era24kt",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782848315213
+    },
+    {
+      "id": "mr11us7jr22z8x",
+      "title": "5.3.3. Resume & Curriculum Vitae (CV)",
+      "parentId": "mr11us7era24kt",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782848315215
+    },
+    {
+      "id": "mr11us7kx1vi8z",
+      "title": "5.3.4. Cover Letters & Professional Writing",
+      "parentId": "mr11us7era24kt",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782848315216
+    },
+    {
+      "id": "mr11us7m24vvse",
+      "title": "5.3.5. Portfolio Development",
+      "parentId": "mr11us7era24kt",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782848315218
+    },
+    {
+      "id": "mr11us7oexrh3x",
+      "title": "5.3.6. LinkedIn & Professional Networking Platforms",
+      "parentId": "mr11us7era24kt",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782848315220
+    },
+    {
+      "id": "mr11us7ps86whc",
+      "title": "5.3.7. Personal Websites & Digital Portfolios",
+      "parentId": "mr11us7era24kt",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782848315221
+    },
+    {
+      "id": "mr11us7q9qbx2h",
+      "title": "5.3.8. Public Speaking & Professional Communication",
+      "parentId": "mr11us7era24kt",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782848315222
+    },
+    {
+      "id": "mr11us7rh6qq84",
+      "title": "5.3.9. Professional Networking",
+      "parentId": "mr11us7era24kt",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782848315223
+    },
+    {
+      "id": "mr11us7sg42hnk",
+      "title": "5.3.10. Thought Leadership & Content Creation",
+      "parentId": "mr11us7era24kt",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782848315224
+    },
+    {
+      "id": "mr11us7sjdtlcc",
+      "title": "5.3.11. Online Reputation Management",
+      "parentId": "mr11us7era24kt",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782848315224
+    },
+    {
+      "id": "mr11us7u5xpe65",
+      "title": "5.3.12. Building Professional Credibility",
+      "parentId": "mr11us7era24kt",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782848315226
     }
   ],
   "pages": {},
