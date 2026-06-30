@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T15:28:45.199Z",
+  "exportedAt": "2026-06-30T15:34:29.503Z",
   "nodes": [
     {
       "createdAt": 1781381483824,
@@ -2228,7 +2228,7 @@
     },
     {
       "id": "mr0q6h9hy7jhpe",
-      "title": "1.1.2. Effective Study Strategies",
+      "title": "1.1.2. Learning Strategies & Study Skills",
       "parentId": "mr0ofvd87ol1di",
       "status": "pending",
       "order": 1,
@@ -2244,7 +2244,7 @@
     },
     {
       "id": "mr0q6h9wxlhlq7",
-      "title": "1.1.4. Sustaining Learning & Growth",
+      "title": "1.1.4. Self-Directed & Lifelong Learning",
       "parentId": "mr0ofvd87ol1di",
       "status": "pending",
       "order": 3,
