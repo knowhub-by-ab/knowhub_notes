@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T14:08:31.381Z",
+  "exportedAt": "2026-06-30T14:13:17.545Z",
   "nodes": [
     {
       "createdAt": 1781381483824,
@@ -2115,44 +2115,36 @@
       "createdAt": 1782825784460
     },
     {
-      "id": "mr0pn2zopvy6f2",
-      "title": "Foundations of Learning Science",
-      "parentId": "mr0g92a5xmcn48",
+      "id": "mr0q6h9b5skro5",
+      "title": "Learning Science & Cognition",
+      "parentId": "mr0ofvd87ol1di",
       "status": "pending",
-      "order": 5,
-      "createdAt": 1782827800548
+      "order": 0,
+      "createdAt": 1782828705503
     },
     {
-      "id": "mr0pn2zu5u43jg",
-      "title": "Memory & Cognitive Processes",
-      "parentId": "mr0g92a5xmcn48",
+      "id": "mr0q6h9hy7jhpe",
+      "title": "Effective Study Strategies",
+      "parentId": "mr0ofvd87ol1di",
       "status": "pending",
-      "order": 6,
-      "createdAt": 1782827800554
+      "order": 1,
+      "createdAt": 1782828705509
     },
     {
-      "id": "mr0pn3038j7v7z",
-      "title": "Effective Study & Practice",
-      "parentId": "mr0g92a5xmcn48",
+      "id": "mr0q6h9pxp0nh0",
+      "title": "Skill Development & Mastery",
+      "parentId": "mr0ofvd87ol1di",
       "status": "pending",
-      "order": 7,
-      "createdAt": 1782827800563
+      "order": 2,
+      "createdAt": 1782828705517
     },
     {
-      "id": "mr0pn30cjb3y5n",
-      "title": "Knowledge Acquisition & Management",
-      "parentId": "mr0g92a5xmcn48",
+      "id": "mr0q6h9wxlhlq7",
+      "title": "Sustaining Learning & Growth",
+      "parentId": "mr0ofvd87ol1di",
       "status": "pending",
-      "order": 8,
-      "createdAt": 1782827800572
-    },
-    {
-      "id": "mr0pn30mkrvojx",
-      "title": "Self-Directed & Lifelong Learning",
-      "parentId": "mr0g92a5xmcn48",
-      "status": "pending",
-      "order": 9,
-      "createdAt": 1782827800582
+      "order": 3,
+      "createdAt": 1782828705524
     }
   ],
   "pages": {
