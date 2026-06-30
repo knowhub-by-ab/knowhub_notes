@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T17:19:25.485Z",
+  "exportedAt": "2026-06-30T17:23:45.058Z",
   "nodes": [
     {
       "id": "mr0g929r44x4tu",
@@ -4265,6 +4265,102 @@
       "status": "pending",
       "order": 19,
       "createdAt": 1782839018222
+    },
+    {
+      "id": "mr0wwa8fadhxyc",
+      "title": "3.1.1. Software Engineering Foundations",
+      "parentId": "mr0wbilgd9kklt",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782839987151
+    },
+    {
+      "id": "mr0wwa8izna9rl",
+      "title": "3.1.2. Frontend Engineering",
+      "parentId": "mr0wbilgd9kklt",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782839987154
+    },
+    {
+      "id": "mr0wwa8k6f72n3",
+      "title": "3.1.3. Backend Engineering",
+      "parentId": "mr0wbilgd9kklt",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782839987156
+    },
+    {
+      "id": "mr0wwa8l9uj6uj",
+      "title": "3.1.4. Full Stack Engineering",
+      "parentId": "mr0wbilgd9kklt",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782839987157
+    },
+    {
+      "id": "mr0wwa8mfhaonp",
+      "title": "3.1.5. Mobile Application Development",
+      "parentId": "mr0wbilgd9kklt",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782839987158
+    },
+    {
+      "id": "mr0wwa8n5s4wo8",
+      "title": "3.1.6. Desktop Application Development",
+      "parentId": "mr0wbilgd9kklt",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782839987159
+    },
+    {
+      "id": "mr0wwa8okkpwxn",
+      "title": "3.1.7. Game Development",
+      "parentId": "mr0wbilgd9kklt",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782839987160
+    },
+    {
+      "id": "mr0wwa8q8gn8is",
+      "title": "3.1.8. Embedded Systems & IoT Development",
+      "parentId": "mr0wbilgd9kklt",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782839987162
+    },
+    {
+      "id": "mr0wwa8qvhrvj0",
+      "title": "3.1.9. API & Integration Engineering",
+      "parentId": "mr0wbilgd9kklt",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782839987162
+    },
+    {
+      "id": "mr0wwa8ryoitjb",
+      "title": "3.1.10. Software Architecture & Design",
+      "parentId": "mr0wbilgd9kklt",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782839987163
+    },
+    {
+      "id": "mr0wwa8so3i39w",
+      "title": "3.1.11. Software Quality Engineering",
+      "parentId": "mr0wbilgd9kklt",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782839987164
+    },
+    {
+      "id": "mr0wwa8sxlh7d4",
+      "title": "3.1.12. Software Delivery, DevOps & Platform Engineering",
+      "parentId": "mr0wbilgd9kklt",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782839987164
     }
   ],
   "pages": {},
