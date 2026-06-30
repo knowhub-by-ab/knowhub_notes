@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T16:18:47.108Z",
+  "exportedAt": "2026-06-30T16:28:45.295Z",
   "nodes": [
     {
       "createdAt": 1781381483824,
@@ -1967,7 +1967,7 @@
       "title": "2. Technical Foundations",
       "parentId": "mr0g929r44x4tu",
       "status": "pending",
-      "order": 2,
+      "order": 1,
       "createdAt": 1782812029939
     },
     {
@@ -2004,42 +2004,26 @@
     },
     {
       "id": "mr0g92ca1jhaui",
-      "title": "3. Professional Development",
+      "title": "5. Career Development",
       "parentId": "mr0g929r44x4tu",
       "status": "pending",
-      "order": 3,
+      "order": 4,
       "createdAt": 1782812029978
     },
     {
       "id": "mr0g92chzjmz36",
-      "title": "3.1. Career Domains",
-      "parentId": "mr0g92ca1jhaui",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1782812029985
-    },
-    {
-      "id": "mr0g92cpdewm6s",
-      "title": "3.2. Career Development",
-      "parentId": "mr0g92ca1jhaui",
-      "status": "pending",
-      "order": 1,
-      "createdAt": 1782812029993
-    },
-    {
-      "id": "mr0g92cv63sa7j",
-      "title": "3.3. Professional Practice",
-      "parentId": "mr0g92ca1jhaui",
+      "title": "3. Career Domains",
+      "parentId": "mr0g929r44x4tu",
       "status": "pending",
       "order": 2,
-      "createdAt": 1782812029999
+      "createdAt": 1782812029985
     },
     {
       "id": "mr0g92d3r1r2y8",
       "title": "4. Professional Growth",
       "parentId": "mr0g929r44x4tu",
       "status": "pending",
-      "order": 4,
+      "order": 3,
       "createdAt": 1782812030007
     },
     {
