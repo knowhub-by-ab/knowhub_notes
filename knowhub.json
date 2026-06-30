@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-06-30T19:38:45.278Z",
+  "exportedAt": "2026-06-30T19:43:45.460Z",
   "nodes": [
     {
       "id": "mr0g929r44x4tu",
@@ -4075,28 +4075,12 @@
       "createdAt": 1782837138589
     },
     {
-      "id": "mr0vc8slmsvprp",
-      "title": "5.1. Career Exploration & Planning",
-      "parentId": "mr0g92ca1jhaui",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1782837372549
-    },
-    {
       "id": "mr0vc8snnjw1st",
       "title": "5.2. Education, Certifications & Credentials",
       "parentId": "mr0g92ca1jhaui",
       "status": "pending",
       "order": 1,
       "createdAt": 1782837372551
-    },
-    {
-      "id": "mr0vc8sp5uvu7z",
-      "title": "5.3. Personal Branding & Professional Presence",
-      "parentId": "mr0g92ca1jhaui",
-      "status": "pending",
-      "order": 2,
-      "createdAt": 1782837372553
     },
     {
       "id": "mr0vc8ss2ilvcg",
@@ -4113,22 +4097,6 @@
       "status": "pending",
       "order": 4,
       "createdAt": 1782837372560
-    },
-    {
-      "id": "mr0vc8t3c4o06s",
-      "title": "5.6. Freelancing, Consulting & Independent Careers",
-      "parentId": "mr0g92ca1jhaui",
-      "status": "pending",
-      "order": 5,
-      "createdAt": 1782837372567
-    },
-    {
-      "id": "mr0vc8t769fu9l",
-      "title": "5.7. Global Careers & Remote Work",
-      "parentId": "mr0g92ca1jhaui",
-      "status": "pending",
-      "order": 6,
-      "createdAt": 1782837372571
     },
     {
       "id": "mr0vc8taz2vnwr",
@@ -6189,7 +6157,7 @@
     {
       "id": "mr11txgx4zsfui",
       "title": "5.1. Career Exploration & Planning",
-      "parentId": "mr0vc8slmsvprp",
+      "parentId": "mr0g92ca1jhaui",
       "status": "pending",
       "order": 0,
       "createdAt": 1782848275377
@@ -6389,9 +6357,9 @@
     {
       "id": "mr11us7era24kt",
       "title": "5.3. Personal Branding & Professional Presence",
-      "parentId": "mr0vc8sp5uvu7z",
+      "parentId": "mr0g92ca1jhaui",
       "status": "pending",
-      "order": 0,
+      "order": 2,
       "createdAt": 1782848315210
     },
     {
@@ -6489,6 +6457,502 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1782848315226
+    },
+    {
+      "id": "mr11vaofh4af65",
+      "title": "5.4.1. Job Search Foundations",
+      "parentId": "mr0vc8ss2ilvcg",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782848339151
+    },
+    {
+      "id": "mr11vaoji2ejab",
+      "title": "5.4.2. Job Market Research",
+      "parentId": "mr0vc8ss2ilvcg",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782848339155
+    },
+    {
+      "id": "mr11vaok3kbir2",
+      "title": "5.4.3. Job Search Strategies",
+      "parentId": "mr0vc8ss2ilvcg",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782848339156
+    },
+    {
+      "id": "mr11vaomyl7pus",
+      "title": "5.4.4. Applicant Tracking Systems (ATS)",
+      "parentId": "mr0vc8ss2ilvcg",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782848339158
+    },
+    {
+      "id": "mr11vaont6klhm",
+      "title": "5.4.5. Resume & Application Optimization",
+      "parentId": "mr0vc8ss2ilvcg",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782848339159
+    },
+    {
+      "id": "mr11vaopf5c6fb",
+      "title": "5.4.6. Interview Preparation",
+      "parentId": "mr0vc8ss2ilvcg",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782848339161
+    },
+    {
+      "id": "mr11vaoq41qex8",
+      "title": "5.4.7. Technical Interviews & Assessments",
+      "parentId": "mr0vc8ss2ilvcg",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782848339162
+    },
+    {
+      "id": "mr11vaorx4n8q8",
+      "title": "5.4.8. Behavioral Interviews",
+      "parentId": "mr0vc8ss2ilvcg",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782848339163
+    },
+    {
+      "id": "mr11vaosri6v62",
+      "title": "5.4.9. Salary Negotiation & Offer Evaluation",
+      "parentId": "mr0vc8ss2ilvcg",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782848339164
+    },
+    {
+      "id": "mr11vaotus44qn",
+      "title": "5.4.10. Recruitment Processes",
+      "parentId": "mr0vc8ss2ilvcg",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782848339165
+    },
+    {
+      "id": "mr11vaouastyyu",
+      "title": "5.4.11. Onboarding & First 90 Days",
+      "parentId": "mr0vc8ss2ilvcg",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782848339166
+    },
+    {
+      "id": "mr11vaovgkg78l",
+      "title": "5.4.12. Job Search Success Strategies",
+      "parentId": "mr0vc8ss2ilvcg",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782848339167
+    },
+    {
+      "id": "mr11xxsnhh0bx5",
+      "title": "5.5.1. Professional Excellence",
+      "parentId": "mr0vc8swwjzl4q",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782848462423
+    },
+    {
+      "id": "mr11xxsple0wrp",
+      "title": "5.5.2. Workplace Performance",
+      "parentId": "mr0vc8swwjzl4q",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782848462425
+    },
+    {
+      "id": "mr11xxsqffjwyd",
+      "title": "5.5.3. Career Progression & Promotions",
+      "parentId": "mr0vc8swwjzl4q",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782848462426
+    },
+    {
+      "id": "mr11xxss85i2jj",
+      "title": "5.5.4. Performance Reviews & Feedback",
+      "parentId": "mr0vc8swwjzl4q",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782848462428
+    },
+    {
+      "id": "mr11xxsu6mhtag",
+      "title": "5.5.5. Stakeholder & Relationship Management",
+      "parentId": "mr0vc8swwjzl4q",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782848462430
+    },
+    {
+      "id": "mr11xxsvwk2j8c",
+      "title": "5.5.6. Workplace Communication",
+      "parentId": "mr0vc8swwjzl4q",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782848462431
+    },
+    {
+      "id": "mr11xxswdi4k9l",
+      "title": "5.5.7. Cross-Functional Collaboration",
+      "parentId": "mr0vc8swwjzl4q",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782848462432
+    },
+    {
+      "id": "mr11xxsxlltg6l",
+      "title": "5.5.8. Workplace Politics & Organizational Dynamics",
+      "parentId": "mr0vc8swwjzl4q",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782848462433
+    },
+    {
+      "id": "mr11xxsy2c6i2d",
+      "title": "5.5.9. Leadership Readiness",
+      "parentId": "mr0vc8swwjzl4q",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782848462434
+    },
+    {
+      "id": "mr11xxszg5yqh6",
+      "title": "5.5.10. Career Resilience",
+      "parentId": "mr0vc8swwjzl4q",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782848462435
+    },
+    {
+      "id": "mr11xxt1mb20mc",
+      "title": "5.5.11. Long-Term Career Strategy",
+      "parentId": "mr0vc8swwjzl4q",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782848462437
+    },
+    {
+      "id": "mr11xxt2pm8ucz",
+      "title": "5.5.12. Professional Success Framework",
+      "parentId": "mr0vc8swwjzl4q",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782848462438
+    },
+    {
+      "id": "mr11yr2ooqfq5f",
+      "title": "5.6. Freelancing, Consulting & Independent Careers",
+      "parentId": "mr0g92ca1jhaui",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782848500368
+    },
+    {
+      "id": "mr11yr2rm9jxy5",
+      "title": "5.6.1. Freelancing Foundations",
+      "parentId": "mr11yr2ooqfq5f",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782848500371
+    },
+    {
+      "id": "mr11yr2spgzdbm",
+      "title": "5.6.2. Consulting Foundations",
+      "parentId": "mr11yr2ooqfq5f",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782848500372
+    },
+    {
+      "id": "mr11yr2uaylju6",
+      "title": "5.6.3. Building an Independent Business",
+      "parentId": "mr11yr2ooqfq5f",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782848500374
+    },
+    {
+      "id": "mr11yr2w6xi90m",
+      "title": "5.6.4. Personal Branding for Independent Professionals",
+      "parentId": "mr11yr2ooqfq5f",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782848500376
+    },
+    {
+      "id": "mr11yr2xlgdxnh",
+      "title": "5.6.5. Client Acquisition & Sales",
+      "parentId": "mr11yr2ooqfq5f",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782848500377
+    },
+    {
+      "id": "mr11yr2zvvytx5",
+      "title": "5.6.6. Proposal Writing & Contracts",
+      "parentId": "mr11yr2ooqfq5f",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782848500379
+    },
+    {
+      "id": "mr11yr304trm1k",
+      "title": "5.6.7. Pricing & Financial Management",
+      "parentId": "mr11yr2ooqfq5f",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782848500380
+    },
+    {
+      "id": "mr11yr318r8y07",
+      "title": "5.6.8. Client Delivery & Relationship Management",
+      "parentId": "mr11yr2ooqfq5f",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782848500381
+    },
+    {
+      "id": "mr11yr315h4r1i",
+      "title": "5.6.9. Legal, Tax & Compliance",
+      "parentId": "mr11yr2ooqfq5f",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782848500381
+    },
+    {
+      "id": "mr11yr32u4okci",
+      "title": "5.6.10. Scaling an Independent Career",
+      "parentId": "mr11yr2ooqfq5f",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782848500382
+    },
+    {
+      "id": "mr11yr330o2zdz",
+      "title": "5.6.11. Remote Business Operations",
+      "parentId": "mr11yr2ooqfq5f",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782848500383
+    },
+    {
+      "id": "mr11yr34wnlv9m",
+      "title": "5.6.12. Sustainable Independent Success",
+      "parentId": "mr11yr2ooqfq5f",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782848500384
+    },
+    {
+      "id": "mr11zy8o4geig1",
+      "title": "5.7. Global Careers & Remote Work",
+      "parentId": "mr0g92ca1jhaui",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782848556312
+    },
+    {
+      "id": "mr11zy8qu26r74",
+      "title": "5.7.1. Global Career Foundations",
+      "parentId": "mr11zy8o4geig1",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782848556314
+    },
+    {
+      "id": "mr11zy8rrmtdjb",
+      "title": "5.7.2. International Job Markets",
+      "parentId": "mr11zy8o4geig1",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782848556315
+    },
+    {
+      "id": "mr11zy8ta9cqif",
+      "title": "5.7.3. Remote Work Fundamentals",
+      "parentId": "mr11zy8o4geig1",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782848556317
+    },
+    {
+      "id": "mr11zy8v8o9s74",
+      "title": "5.7.4. Hybrid Work Practices",
+      "parentId": "mr11zy8o4geig1",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782848556319
+    },
+    {
+      "id": "mr11zy8yzpcit5",
+      "title": "5.7.5. Cross-Cultural Communication",
+      "parentId": "mr11zy8o4geig1",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782848556322
+    },
+    {
+      "id": "mr11zy8z31295t",
+      "title": "5.7.6. Distributed Team Collaboration",
+      "parentId": "mr11zy8o4geig1",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782848556323
+    },
+    {
+      "id": "mr11zy91r2wfop",
+      "title": "5.7.7. International Recruitment & Mobility",
+      "parentId": "mr11zy8o4geig1",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782848556325
+    },
+    {
+      "id": "mr11zy933cky2n",
+      "title": "5.7.8. Global Employment Laws & Compliance",
+      "parentId": "mr11zy8o4geig1",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782848556327
+    },
+    {
+      "id": "mr11zy94rvu476",
+      "title": "5.7.9. Digital Nomad Careers",
+      "parentId": "mr11zy8o4geig1",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782848556328
+    },
+    {
+      "id": "mr11zy96jzvas1",
+      "title": "5.7.10. Global Networking",
+      "parentId": "mr11zy8o4geig1",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782848556330
+    },
+    {
+      "id": "mr11zy98a2ds07",
+      "title": "5.7.11. International Career Planning",
+      "parentId": "mr11zy8o4geig1",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782848556332
+    },
+    {
+      "id": "mr11zy9a9h0155",
+      "title": "5.7.12. Future of Global Work",
+      "parentId": "mr11zy8o4geig1",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782848556334
+    },
+    {
+      "id": "mr12176vnrmcov",
+      "title": "5.8.1. Career Transition Foundations",
+      "parentId": "mr0vc8taz2vnwr",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1782848614567
+    },
+    {
+      "id": "mr12177fe5ttoz",
+      "title": "5.8.2. Career Change Strategies",
+      "parentId": "mr0vc8taz2vnwr",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1782848614587
+    },
+    {
+      "id": "mr12177v4v9193",
+      "title": "5.8.3. Industry Transitions",
+      "parentId": "mr0vc8taz2vnwr",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1782848614603
+    },
+    {
+      "id": "mr12178zrv6ne1",
+      "title": "5.8.4. Functional Role Transitions",
+      "parentId": "mr0vc8taz2vnwr",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1782848614643
+    },
+    {
+      "id": "mr12179susw9y6",
+      "title": "5.8.5. Mid-Career Reinvention",
+      "parentId": "mr0vc8taz2vnwr",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1782848614672
+    },
+    {
+      "id": "mr1217aqlqvtg2",
+      "title": "5.8.6. Portfolio Careers",
+      "parentId": "mr0vc8taz2vnwr",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1782848614706
+    },
+    {
+      "id": "mr1217b34g5av7",
+      "title": "5.8.7. Future Skills & Workforce Trends",
+      "parentId": "mr0vc8taz2vnwr",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1782848614719
+    },
+    {
+      "id": "mr1217bdm4a9is",
+      "title": "5.8.8. AI & Automation in Careers",
+      "parentId": "mr0vc8taz2vnwr",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1782848614729
+    },
+    {
+      "id": "mr1217bnphm3is",
+      "title": "5.8.9. Career Risk Management",
+      "parentId": "mr0vc8taz2vnwr",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1782848614739
+    },
+    {
+      "id": "mr1217btxnozzi",
+      "title": "5.8.10. Retirement & Second Careers",
+      "parentId": "mr0vc8taz2vnwr",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1782848614745
+    },
+    {
+      "id": "mr1217c2s5v79f",
+      "title": "5.8.11. Designing a Future-Ready Career",
+      "parentId": "mr0vc8taz2vnwr",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1782848614755
+    },
+    {
+      "id": "mr1217caslg7dh",
+      "title": "5.8.12. Lifelong Career Management",
+      "parentId": "mr0vc8taz2vnwr",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1782848614762
     }
   ],
   "pages": {},
