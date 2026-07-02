@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-02T20:33:32.503Z",
+  "exportedAt": "2026-07-02T20:38:34.760Z",
   "nodes": [
     {
       "order": 2,
@@ -665,150 +665,6 @@
       "title": "H. Business Ecosystems",
       "status": "pending",
       "parentId": "mr0u6xlrlfhm1k"
-    },
-    {
-      "createdAt": 1782835445346,
-      "id": "mr0u6xr6cqvn64",
-      "order": 1,
-      "status": "pending",
-      "title": "1.3.2. Organizational Structure & Operations",
-      "parentId": "mr0g92akn6breq"
-    },
-    {
-      "status": "pending",
-      "title": "A. Organizational Structures",
-      "parentId": "mr0u6xr6cqvn64",
-      "id": "mr0u6xruph2w0d",
-      "createdAt": 1782835445370,
-      "order": 0
-    },
-    {
-      "parentId": "mr0u6xr6cqvn64",
-      "status": "pending",
-      "title": "B. Business Functions",
-      "order": 1,
-      "id": "mr0u6xs5u15u9f",
-      "createdAt": 1782835445381
-    },
-    {
-      "order": 2,
-      "createdAt": 1782835445396,
-      "id": "mr0u6xsksq8w3i",
-      "parentId": "mr0u6xr6cqvn64",
-      "title": "C. Business Processes",
-      "status": "pending"
-    },
-    {
-      "title": "D. Operations Management",
-      "status": "pending",
-      "parentId": "mr0u6xr6cqvn64",
-      "createdAt": 1782835445408,
-      "id": "mr0u6xsw9dayct",
-      "order": 3
-    },
-    {
-      "order": 4,
-      "createdAt": 1782835445422,
-      "id": "mr0u6xtaz9dbjs",
-      "parentId": "mr0u6xr6cqvn64",
-      "status": "pending",
-      "title": "E. Supply Chain Basics"
-    },
-    {
-      "title": "F. Quality Management",
-      "status": "pending",
-      "parentId": "mr0u6xr6cqvn64",
-      "id": "mr0u6xtvci7957",
-      "createdAt": 1782835445443,
-      "order": 5
-    },
-    {
-      "parentId": "mr0u6xr6cqvn64",
-      "title": "G. Project Management Fundamentals",
-      "status": "pending",
-      "order": 6,
-      "id": "mr0u6xuiw4fspc",
-      "createdAt": 1782835445466
-    },
-    {
-      "parentId": "mr0u6xr6cqvn64",
-      "title": "H. Business Documentation",
-      "status": "pending",
-      "order": 7,
-      "id": "mr0u6xv5a2daty",
-      "createdAt": 1782835445489
-    },
-    {
-      "createdAt": 1782835445504,
-      "id": "mr0u6xvkc9qsx4",
-      "order": 2,
-      "title": "1.3.3. Finance & Economics Fundamentals",
-      "status": "pending",
-      "parentId": "mr0g92akn6breq"
-    },
-    {
-      "order": 0,
-      "createdAt": 1782835445518,
-      "id": "mr0u6xvyat8k79",
-      "parentId": "mr0u6xvkc9qsx4",
-      "title": "A. Financial Literacy",
-      "status": "pending"
-    },
-    {
-      "parentId": "mr0u6xvkc9qsx4",
-      "title": "B. Revenue, Cost & Profit",
-      "status": "pending",
-      "order": 1,
-      "createdAt": 1782835445529,
-      "id": "mr0u6xw9ykw9p7"
-    },
-    {
-      "id": "mr0u6xwjvu0olk",
-      "createdAt": 1782835445539,
-      "order": 2,
-      "status": "pending",
-      "title": "C. Budgeting",
-      "parentId": "mr0u6xvkc9qsx4"
-    },
-    {
-      "parentId": "mr0u6xvkc9qsx4",
-      "title": "D. Financial Statements",
-      "status": "pending",
-      "order": 3,
-      "id": "mr0u6xws76jukv",
-      "createdAt": 1782835445548
-    },
-    {
-      "id": "mr0u6xx3dwtj9z",
-      "createdAt": 1782835445559,
-      "order": 4,
-      "title": "E. Investment Basics",
-      "status": "pending",
-      "parentId": "mr0u6xvkc9qsx4"
-    },
-    {
-      "parentId": "mr0u6xvkc9qsx4",
-      "status": "pending",
-      "title": "F. Economic Principles",
-      "order": 5,
-      "createdAt": 1782835445570,
-      "id": "mr0u6xxelae7mu"
-    },
-    {
-      "createdAt": 1782835445582,
-      "id": "mr0u6xxqdq1dvv",
-      "order": 6,
-      "title": "G. Inflation & Interest Rates",
-      "status": "pending",
-      "parentId": "mr0u6xvkc9qsx4"
-    },
-    {
-      "title": "H. Business Metrics & KPIs",
-      "status": "pending",
-      "parentId": "mr0u6xvkc9qsx4",
-      "id": "mr0u6xxzfuayju",
-      "createdAt": 1782835445591,
-      "order": 7
     },
     {
       "order": 3,
@@ -7175,7 +7031,7 @@
       "title": "1.3.2. Economics & Markets",
       "parentId": "mr0g92akn6breq",
       "status": "pending",
-      "order": 6,
+      "order": 1,
       "createdAt": 1783023214988
     },
     {
@@ -7279,7 +7135,7 @@
       "title": "1.3.3. Finance for Professionals",
       "parentId": "mr0g92akn6breq",
       "status": "pending",
-      "order": 7,
+      "order": 2,
       "createdAt": 1783023215108
     },
     {
@@ -7415,7 +7271,7 @@
       "title": "1.3.5. Strategy & Operations",
       "parentId": "mr0g92akn6breq",
       "status": "pending",
-      "order": 8,
+      "order": 6,
       "createdAt": 1783023215260
     },
     {
@@ -7519,7 +7375,7 @@
       "title": "1.3.6. Business Ethics & Governance",
       "parentId": "mr0g92akn6breq",
       "status": "pending",
-      "order": 9,
+      "order": 7,
       "createdAt": 1783023215384
     },
     {
