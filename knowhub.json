@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-02T20:43:34.032Z",
+  "exportedAt": "2026-07-02T20:48:32.936Z",
   "nodes": [
     {
       "order": 2,
@@ -8425,6 +8425,150 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1783023216936
+    },
+    {
+      "order": 4,
+      "id": "mr0u6y0g213y3g",
+      "createdAt": 1782835445680,
+      "parentId": "mr0g92akn6breq",
+      "title": "1.3.5. Business Strategy & Innovation",
+      "status": "pending"
+    },
+    {
+      "id": "mr0u6y0pkahdi3",
+      "createdAt": 1782835445689,
+      "order": 0,
+      "status": "pending",
+      "title": "A. Strategic Thinking",
+      "parentId": "mr0u6y0g213y3g"
+    },
+    {
+      "id": "mr0u6y0yo9qblk",
+      "createdAt": 1782835445698,
+      "order": 1,
+      "title": "B. Competitive Advantage",
+      "status": "pending",
+      "parentId": "mr0u6y0g213y3g"
+    },
+    {
+      "order": 2,
+      "createdAt": 1782835445707,
+      "id": "mr0u6y17eblusp",
+      "parentId": "mr0u6y0g213y3g",
+      "status": "pending",
+      "title": "C. Business Strategy"
+    },
+    {
+      "order": 3,
+      "createdAt": 1782835445715,
+      "id": "mr0u6y1f4shjgo",
+      "parentId": "mr0u6y0g213y3g",
+      "status": "pending",
+      "title": "D. Innovation Fundamentals"
+    },
+    {
+      "id": "mr0u6y1mpqo6qv",
+      "createdAt": 1782835445722,
+      "order": 4,
+      "title": "E. Entrepreneurship Basics",
+      "status": "pending",
+      "parentId": "mr0u6y0g213y3g"
+    },
+    {
+      "title": "F. Business Decision Making",
+      "status": "pending",
+      "parentId": "mr0u6y0g213y3g",
+      "createdAt": 1782835445731,
+      "id": "mr0u6y1vhr6qp7",
+      "order": 5
+    },
+    {
+      "id": "mr0u6y23wyotl8",
+      "createdAt": 1782835445739,
+      "order": 6,
+      "title": "G. Risk Management",
+      "status": "pending",
+      "parentId": "mr0u6y0g213y3g"
+    },
+    {
+      "parentId": "mr0u6y0g213y3g",
+      "title": "H. Business Ethics",
+      "status": "pending",
+      "order": 7,
+      "id": "mr0u6y2c7db3l7",
+      "createdAt": 1782835445748
+    },
+    {
+      "parentId": "mr0g92akn6breq",
+      "title": "1.3.6. Modern Business & Digital Transformation",
+      "status": "pending",
+      "order": 5,
+      "id": "mr0u6y2k02z7d6",
+      "createdAt": 1782835445756
+    },
+    {
+      "title": "A. Digital Business",
+      "status": "pending",
+      "parentId": "mr0u6y2k02z7d6",
+      "createdAt": 1782835445764,
+      "id": "mr0u6y2srcscwi",
+      "order": 0
+    },
+    {
+      "order": 1,
+      "id": "mr0u6y305nq743",
+      "createdAt": 1782835445772,
+      "parentId": "mr0u6y2k02z7d6",
+      "status": "pending",
+      "title": "B. Data-Driven Decision Making"
+    },
+    {
+      "status": "pending",
+      "title": "C. AI in Business",
+      "parentId": "mr0u6y2k02z7d6",
+      "createdAt": 1782835445781,
+      "id": "mr0u6y3939icbt",
+      "order": 2
+    },
+    {
+      "title": "D. Business Automation",
+      "status": "pending",
+      "parentId": "mr0u6y2k02z7d6",
+      "id": "mr0u6y3hmlnsw1",
+      "createdAt": 1782835445789,
+      "order": 3
+    },
+    {
+      "title": "E. Remote & Hybrid Work",
+      "status": "pending",
+      "parentId": "mr0u6y2k02z7d6",
+      "createdAt": 1782835445798,
+      "id": "mr0u6y3qpuok9m",
+      "order": 4
+    },
+    {
+      "id": "mr0u6y3ygrvwn5",
+      "createdAt": 1782835445806,
+      "order": 5,
+      "title": "F. Sustainability & ESG",
+      "status": "pending",
+      "parentId": "mr0u6y2k02z7d6"
+    },
+    {
+      "createdAt": 1782835445815,
+      "id": "mr0u6y475llr73",
+      "order": 6,
+      "title": "G. Global Business",
+      "status": "pending",
+      "parentId": "mr0u6y2k02z7d6"
+    },
+    {
+      "id": "mr0u6y4gyrjg9o",
+      "createdAt": 1782835445824,
+      "order": 7,
+      "status": "pending",
+      "title": "H. Future of Work",
+      "parentId": "mr0u6y2k02z7d6"
     }
   ],
   "pages": {
