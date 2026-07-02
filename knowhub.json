@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-02T20:48:32.936Z",
+  "exportedAt": "2026-07-02T23:39:22.328Z",
   "nodes": [
     {
       "order": 2,
@@ -771,7 +771,7 @@
       "title": "C. Data Sources"
     },
     {
-      "title": "D. Data Lifecycle",
+      "title": "D. Data Collection",
       "status": "pending",
       "parentId": "mr0uept5kclb1d",
       "createdAt": 1782835808364,
@@ -780,7 +780,7 @@
     },
     {
       "status": "pending",
-      "title": "E. Structured vs Unstructured Data",
+      "title": "E. Data Quality",
       "parentId": "mr0uept5kclb1d",
       "id": "mr0uepvc079pet",
       "createdAt": 1782835808376,
@@ -788,7 +788,7 @@
     },
     {
       "status": "pending",
-      "title": "F. Data Quality",
+      "title": "F. Data Lifecycle",
       "parentId": "mr0uept5kclb1d",
       "createdAt": 1782835808384,
       "id": "mr0uepvkk5ohac",
@@ -797,14 +797,14 @@
     {
       "parentId": "mr0uept5kclb1d",
       "status": "pending",
-      "title": "G. Metadata",
+      "title": "G. Structured vs Unstructured Data",
       "order": 6,
       "createdAt": 1782835808395,
       "id": "mr0uepvvhelqba"
     },
     {
       "parentId": "mr0uept5kclb1d",
-      "title": "H. Data Standards",
+      "title": "H. Metadata",
       "status": "pending",
       "order": 7,
       "createdAt": 1782835808411,
@@ -7332,7 +7332,7 @@
     },
     {
       "id": "mr3xzi5769x7el",
-      "title": "D. Data Collection",
+      "title": "I. Data Standards",
       "parentId": "mr0uept5kclb1d",
       "status": "pending",
       "order": 8,
