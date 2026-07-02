@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-02T19:08:32.579Z",
+  "exportedAt": "2026-07-02T19:13:33.612Z",
   "nodes": [
     {
       "order": 2,
@@ -4061,14 +4061,6 @@
     {
       "parentId": "mr0g92d3r1r2y8",
       "status": "pending",
-      "title": "4.7. Lifelong Learning & Continuous Improvement",
-      "order": 6,
-      "createdAt": 1782837138581,
-      "id": "mr0v789he5194k"
-    },
-    {
-      "parentId": "mr0g92d3r1r2y8",
-      "status": "pending",
       "title": "4.8. Legacy, Mentorship & Influence",
       "order": 7,
       "createdAt": 1782837138589,
@@ -5957,10 +5949,10 @@
     {
       "id": "mr10esykyu24l8",
       "createdAt": 1782845890076,
-      "order": 0,
+      "order": 6,
       "title": "4.7. Lifelong Learning & Continuous Improvement",
       "status": "pending",
-      "parentId": "mr0v789he5194k"
+      "parentId": "mr0g92d3r1r2y8"
     },
     {
       "parentId": "mr10esykyu24l8",
