@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-02T20:13:32.512Z",
+  "exportedAt": "2026-07-02T20:18:32.500Z",
   "nodes": [
     {
       "order": 2,
@@ -6945,6 +6945,2206 @@
       "id": "mr1217caslg7dh",
       "createdAt": 1782848614762,
       "order": 11
+    },
+    {
+      "id": "mr3xzh52lg11h2",
+      "title": "1.2.1. Digital Fundamentals",
+      "parentId": "mr0g92adtr8ecp",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023214214
+    },
+    {
+      "id": "mr3xzh5gi52pyk",
+      "title": "A. Digital World & Digital Transformation",
+      "parentId": "mr3xzh52lg11h2",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783023214228
+    },
+    {
+      "id": "mr3xzh5s27g93r",
+      "title": "B. Digital Devices & Computing Ecosystem",
+      "parentId": "mr3xzh52lg11h2",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783023214240
+    },
+    {
+      "id": "mr3xzh62lisbjm",
+      "title": "C. Operating Systems",
+      "parentId": "mr3xzh52lg11h2",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783023214250
+    },
+    {
+      "id": "mr3xzh6caglgq8",
+      "title": "D. File Systems & Digital Storage",
+      "parentId": "mr3xzh52lg11h2",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783023214260
+    },
+    {
+      "id": "mr3xzh6nud27sd",
+      "title": "E. Internet Fundamentals",
+      "parentId": "mr3xzh52lg11h2",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783023214271
+    },
+    {
+      "id": "mr3xzh6vrzdu2a",
+      "title": "F. Web Browsers & Search",
+      "parentId": "mr3xzh52lg11h2",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783023214279
+    },
+    {
+      "id": "mr3xzh75foqf6q",
+      "title": "G. Digital Communication",
+      "parentId": "mr3xzh52lg11h2",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023214289
+    },
+    {
+      "id": "mr3xzh7fqi012p",
+      "title": "H. Digital Citizenship",
+      "parentId": "mr3xzh52lg11h2",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023214299
+    },
+    {
+      "id": "mr3xzh7puorqv3",
+      "title": "I. Digital Ethics",
+      "parentId": "mr3xzh52lg11h2",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023214309
+    },
+    {
+      "id": "mr3xzh7zxew6e3",
+      "title": "J. Digital Accessibility",
+      "parentId": "mr3xzh52lg11h2",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023214319
+    },
+    {
+      "id": "mr3xzh8aexvwrv",
+      "title": "K. Digital Health & Wellbeing",
+      "parentId": "mr3xzh52lg11h2",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023214330
+    },
+    {
+      "id": "mr3xzh8jrcj79w",
+      "title": "L. Digital Trends & Future Technologies",
+      "parentId": "mr3xzh52lg11h2",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023214339
+    },
+    {
+      "id": "mr3xzh8r6ern8z",
+      "title": "1.2.2. Digital Productivity",
+      "parentId": "mr0g92adtr8ecp",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023214347
+    },
+    {
+      "id": "mr3xzh91qhp7ig",
+      "title": "A. Productivity Mindset",
+      "parentId": "mr3xzh8r6ern8z",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783023214357
+    },
+    {
+      "id": "mr3xzh9ar170ih",
+      "title": "B. Document Creation",
+      "parentId": "mr3xzh8r6ern8z",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783023214366
+    },
+    {
+      "id": "mr3xzh9ketgrsw",
+      "title": "C. Spreadsheets",
+      "parentId": "mr3xzh8r6ern8z",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783023214376
+    },
+    {
+      "id": "mr3xzh9tojxuhh",
+      "title": "D. Presentations",
+      "parentId": "mr3xzh8r6ern8z",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783023214385
+    },
+    {
+      "id": "mr3xzha13mea9i",
+      "title": "E. Note-Taking & Knowledge Management",
+      "parentId": "mr3xzh8r6ern8z",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783023214393
+    },
+    {
+      "id": "mr3xzhabkrbv65",
+      "title": "F. Calendars & Task Management",
+      "parentId": "mr3xzh8r6ern8z",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783023214403
+    },
+    {
+      "id": "mr3xzhaka19pc3",
+      "title": "G. Email Management",
+      "parentId": "mr3xzh8r6ern8z",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023214412
+    },
+    {
+      "id": "mr3xzhat5b5bxx",
+      "title": "H. Collaboration Platforms",
+      "parentId": "mr3xzh8r6ern8z",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023214421
+    },
+    {
+      "id": "mr3xzhb07odh96",
+      "title": "I. Cloud Productivity Suites",
+      "parentId": "mr3xzh8r6ern8z",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023214428
+    },
+    {
+      "id": "mr3xzhb9c8rnps",
+      "title": "J. Workflow Automation",
+      "parentId": "mr3xzh8r6ern8z",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023214437
+    },
+    {
+      "id": "mr3xzhbizxpu8k",
+      "title": "K. AI Productivity Tools",
+      "parentId": "mr3xzh8r6ern8z",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023214446
+    },
+    {
+      "id": "mr3xzhbswn29km",
+      "title": "L. Personal Digital Organization",
+      "parentId": "mr3xzh8r6ern8z",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023214456
+    },
+    {
+      "id": "mr3xzhc24oyyxl",
+      "title": "1.2.3. Information & Media Literacy",
+      "parentId": "mr0g92adtr8ecp",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023214466
+    },
+    {
+      "id": "mr3xzhcbofwui2",
+      "title": "A. Information Literacy",
+      "parentId": "mr3xzhc24oyyxl",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783023214475
+    },
+    {
+      "id": "mr3xzhck8grd2a",
+      "title": "B. Search Strategies",
+      "parentId": "mr3xzhc24oyyxl",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783023214484
+    },
+    {
+      "id": "mr3xzhct92lg5t",
+      "title": "C. Evaluating Information",
+      "parentId": "mr3xzhc24oyyxl",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783023214493
+    },
+    {
+      "id": "mr3xzhd0o4vny2",
+      "title": "D. Misinformation & Disinformation",
+      "parentId": "mr3xzhc24oyyxl",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783023214500
+    },
+    {
+      "id": "mr3xzhd9f7todi",
+      "title": "E. Media Literacy",
+      "parentId": "mr3xzhc24oyyxl",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783023214509
+    },
+    {
+      "id": "mr3xzhdiv6xi8v",
+      "title": "F. Digital Content Consumption",
+      "parentId": "mr3xzhc24oyyxl",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783023214518
+    },
+    {
+      "id": "mr3xzhdsgva4vn",
+      "title": "G. Digital Content Creation",
+      "parentId": "mr3xzhc24oyyxl",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023214528
+    },
+    {
+      "id": "mr3xzhe1owwwu8",
+      "title": "H. Copyright & Fair Use",
+      "parentId": "mr3xzhc24oyyxl",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023214537
+    },
+    {
+      "id": "mr3xzhe93zmbhb",
+      "title": "I. Creative Commons",
+      "parentId": "mr3xzhc24oyyxl",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023214545
+    },
+    {
+      "id": "mr3xzhejyx6q42",
+      "title": "J. Digital Publishing",
+      "parentId": "mr3xzhc24oyyxl",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023214555
+    },
+    {
+      "id": "mr3xzheubrauvc",
+      "title": "K. Online Reputation",
+      "parentId": "mr3xzhc24oyyxl",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023214566
+    },
+    {
+      "id": "mr3xzhf69ico49",
+      "title": "L. Responsible Digital Participation",
+      "parentId": "mr3xzhc24oyyxl",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023214578
+    },
+    {
+      "id": "mr3xzhffqvj7ic",
+      "title": "1.2.4. Digital Security & Privacy",
+      "parentId": "mr0g92adtr8ecp",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023214587
+    },
+    {
+      "id": "mr3xzhfn9j645x",
+      "title": "A. Cyber Hygiene",
+      "parentId": "mr3xzhffqvj7ic",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783023214595
+    },
+    {
+      "id": "mr3xzhfwz8j82d",
+      "title": "B. Password Management",
+      "parentId": "mr3xzhffqvj7ic",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783023214604
+    },
+    {
+      "id": "mr3xzhg5nlz6ty",
+      "title": "C. Multi-Factor Authentication",
+      "parentId": "mr3xzhffqvj7ic",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783023214613
+    },
+    {
+      "id": "mr3xzhgeyfkav1",
+      "title": "D. Digital Identity",
+      "parentId": "mr3xzhffqvj7ic",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783023214622
+    },
+    {
+      "id": "mr3xzhgnmeyubx",
+      "title": "E. Privacy Fundamentals",
+      "parentId": "mr3xzhffqvj7ic",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783023214631
+    },
+    {
+      "id": "mr3xzhgyvdqrzr",
+      "title": "F. Safe Internet Practices",
+      "parentId": "mr3xzhffqvj7ic",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783023214642
+    },
+    {
+      "id": "mr3xzhh86u5l8p",
+      "title": "G. Online Fraud & Scams",
+      "parentId": "mr3xzhffqvj7ic",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023214652
+    },
+    {
+      "id": "mr3xzhhiaj7aaa",
+      "title": "H. Malware Awareness",
+      "parentId": "mr3xzhffqvj7ic",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023214662
+    },
+    {
+      "id": "mr3xzhhroola6o",
+      "title": "I. Data Backup & Recovery",
+      "parentId": "mr3xzhffqvj7ic",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023214671
+    },
+    {
+      "id": "mr3xzhi1e10i6x",
+      "title": "J. Secure Cloud Usage",
+      "parentId": "mr3xzhffqvj7ic",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023214681
+    },
+    {
+      "id": "mr3xzhiayhhuks",
+      "title": "K. Device Security",
+      "parentId": "mr3xzhffqvj7ic",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023214690
+    },
+    {
+      "id": "mr3xzhijmtkibp",
+      "title": "L. Incident Response Basics",
+      "parentId": "mr3xzhffqvj7ic",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023214699
+    },
+    {
+      "id": "mr3xzhis52xrb6",
+      "title": "1.2.5. Cloud & Collaboration",
+      "parentId": "mr0g92adtr8ecp",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023214708
+    },
+    {
+      "id": "mr3xzhj2s8epyw",
+      "title": "A. Cloud Computing Basics",
+      "parentId": "mr3xzhis52xrb6",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783023214718
+    },
+    {
+      "id": "mr3xzhjc0qazdk",
+      "title": "B. Cloud Storage",
+      "parentId": "mr3xzhis52xrb6",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783023214728
+    },
+    {
+      "id": "mr3xzhjloyy3wp",
+      "title": "C. File Sharing",
+      "parentId": "mr3xzhis52xrb6",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783023214737
+    },
+    {
+      "id": "mr3xzhjvd11xik",
+      "title": "D. Real-Time Collaboration",
+      "parentId": "mr3xzhis52xrb6",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783023214747
+    },
+    {
+      "id": "mr3xzhk4moiica",
+      "title": "E. Remote Work",
+      "parentId": "mr3xzhis52xrb6",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783023214756
+    },
+    {
+      "id": "mr3xzhkdh3o3i2",
+      "title": "F. Virtual Meetings",
+      "parentId": "mr3xzhis52xrb6",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783023214765
+    },
+    {
+      "id": "mr3xzhkmi8endd",
+      "title": "G. Team Communication",
+      "parentId": "mr3xzhis52xrb6",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023214774
+    },
+    {
+      "id": "mr3xzhkvt9bdpe",
+      "title": "H. Shared Knowledge Management",
+      "parentId": "mr3xzhis52xrb6",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023214783
+    },
+    {
+      "id": "mr3xzhl5sfcl4y",
+      "title": "I. Version Management",
+      "parentId": "mr3xzhis52xrb6",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023214793
+    },
+    {
+      "id": "mr3xzhlgrxfwmf",
+      "title": "J. Digital Workflow Collaboration",
+      "parentId": "mr3xzhis52xrb6",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023214804
+    },
+    {
+      "id": "mr3xzhlr85ws39",
+      "title": "K. Cross-Platform Synchronization",
+      "parentId": "mr3xzhis52xrb6",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023214815
+    },
+    {
+      "id": "mr3xzhlzrlf7ry",
+      "title": "L. Collaborative Best Practices",
+      "parentId": "mr3xzhis52xrb6",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023214823
+    },
+    {
+      "id": "mr3xzhm8c57fet",
+      "title": "1.2.6. AI Literacy",
+      "parentId": "mr0g92adtr8ecp",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023214832
+    },
+    {
+      "id": "mr3xzhmhynzxwm",
+      "title": "A. Artificial Intelligence Fundamentals",
+      "parentId": "mr3xzhm8c57fet",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783023214841
+    },
+    {
+      "id": "mr3xzhmqko250q",
+      "title": "B. Generative AI",
+      "parentId": "mr3xzhm8c57fet",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783023214850
+    },
+    {
+      "id": "mr3xzhmyit1vuz",
+      "title": "C. Prompt Engineering Fundamentals",
+      "parentId": "mr3xzhm8c57fet",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783023214858
+    },
+    {
+      "id": "mr3xzhn72uk2hn",
+      "title": "D. AI-Assisted Productivity",
+      "parentId": "mr3xzhm8c57fet",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783023214867
+    },
+    {
+      "id": "mr3xzhnibxcvg6",
+      "title": "E. AI Content Creation",
+      "parentId": "mr3xzhm8c57fet",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783023214878
+    },
+    {
+      "id": "mr3xzhnrpov64z",
+      "title": "F. AI for Learning",
+      "parentId": "mr3xzhm8c57fet",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783023214887
+    },
+    {
+      "id": "mr3xzho0fd4jq1",
+      "title": "G. AI for Research",
+      "parentId": "mr3xzhm8c57fet",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023214896
+    },
+    {
+      "id": "mr3xzhoat9vbw3",
+      "title": "H. AI Ethics",
+      "parentId": "mr3xzhm8c57fet",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023214906
+    },
+    {
+      "id": "mr3xzhojs20fmr",
+      "title": "I. AI Risks & Limitations",
+      "parentId": "mr3xzhm8c57fet",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023214915
+    },
+    {
+      "id": "mr3xzhosvgfeok",
+      "title": "J. Human-AI Collaboration",
+      "parentId": "mr3xzhm8c57fet",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023214924
+    },
+    {
+      "id": "mr3xzhp1be9s5s",
+      "title": "K. Evaluating AI Outputs",
+      "parentId": "mr3xzhm8c57fet",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023214933
+    },
+    {
+      "id": "mr3xzhpap2olix",
+      "title": "L. Future of AI",
+      "parentId": "mr3xzhm8c57fet",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023214942
+    },
+    {
+      "id": "mr3xzhpj6w478p",
+      "title": "I. Organizational Structures",
+      "parentId": "mr0u6xlrlfhm1k",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023214951
+    },
+    {
+      "id": "mr3xzhps7n206y",
+      "title": "J. Business Functions",
+      "parentId": "mr0u6xlrlfhm1k",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023214960
+    },
+    {
+      "id": "mr3xzhq1sks3jf",
+      "title": "K. Business Life Cycle",
+      "parentId": "mr0u6xlrlfhm1k",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023214969
+    },
+    {
+      "id": "mr3xzhqb2nuvly",
+      "title": "L. Business Terminology",
+      "parentId": "mr0u6xlrlfhm1k",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023214979
+    },
+    {
+      "id": "mr3xzhqko824du",
+      "title": "1.3.2. Economics & Markets",
+      "parentId": "mr0g92akn6breq",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023214988
+    },
+    {
+      "id": "mr3xzhquvctma7",
+      "title": "A. Basic Economics",
+      "parentId": "mr3xzhqko824du",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783023214998
+    },
+    {
+      "id": "mr3xzhr3yrh4ri",
+      "title": "B. Supply & Demand",
+      "parentId": "mr3xzhqko824du",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783023215007
+    },
+    {
+      "id": "mr3xzhrclgud6q",
+      "title": "C. Market Structures",
+      "parentId": "mr3xzhqko824du",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783023215016
+    },
+    {
+      "id": "mr3xzhrlsq162d",
+      "title": "D. Competition",
+      "parentId": "mr3xzhqko824du",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783023215025
+    },
+    {
+      "id": "mr3xzhrv35gbo1",
+      "title": "E. Pricing Fundamentals",
+      "parentId": "mr3xzhqko824du",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783023215035
+    },
+    {
+      "id": "mr3xzhs3xfptms",
+      "title": "F. Inflation & Interest Rates",
+      "parentId": "mr3xzhqko824du",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783023215043
+    },
+    {
+      "id": "mr3xzhsc7oqctx",
+      "title": "G. Global Economy",
+      "parentId": "mr3xzhqko824du",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023215052
+    },
+    {
+      "id": "mr3xzhsl2ntfa1",
+      "title": "H. Economic Indicators",
+      "parentId": "mr3xzhqko824du",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023215061
+    },
+    {
+      "id": "mr3xzhsuvyixcw",
+      "title": "I. Business Cycles",
+      "parentId": "mr3xzhqko824du",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023215070
+    },
+    {
+      "id": "mr3xzht34mja48",
+      "title": "J. International Trade",
+      "parentId": "mr3xzhqko824du",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023215079
+    },
+    {
+      "id": "mr3xzhte2fcx2u",
+      "title": "K. Government & Regulation",
+      "parentId": "mr3xzhqko824du",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023215090
+    },
+    {
+      "id": "mr3xzhtog6yhmi",
+      "title": "L. Macroeconomic Trends",
+      "parentId": "mr3xzhqko824du",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023215100
+    },
+    {
+      "id": "mr3xzhtwzey93x",
+      "title": "1.3.3. Finance for Professionals",
+      "parentId": "mr0g92akn6breq",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023215108
+    },
+    {
+      "id": "mr3xzhu4xvod5k",
+      "title": "A. Financial Literacy",
+      "parentId": "mr3xzhtwzey93x",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783023215116
+    },
+    {
+      "id": "mr3xzhudlnu7qp",
+      "title": "B. Revenue, Cost & Profit",
+      "parentId": "mr3xzhtwzey93x",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783023215125
+    },
+    {
+      "id": "mr3xzhunl9fc7e",
+      "title": "C. Budgeting",
+      "parentId": "mr3xzhtwzey93x",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783023215135
+    },
+    {
+      "id": "mr3xzhuwrxga8i",
+      "title": "D. Cash Flow",
+      "parentId": "mr3xzhtwzey93x",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783023215144
+    },
+    {
+      "id": "mr3xzhv6avfiu8",
+      "title": "E. Financial Statements",
+      "parentId": "mr3xzhtwzey93x",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783023215154
+    },
+    {
+      "id": "mr3xzhvfy20m8s",
+      "title": "F. Investment Fundamentals",
+      "parentId": "mr3xzhtwzey93x",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783023215163
+    },
+    {
+      "id": "mr3xzhvosrqt80",
+      "title": "G. Business Valuation Basics",
+      "parentId": "mr3xzhtwzey93x",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023215172
+    },
+    {
+      "id": "mr3xzhvwvgeo2x",
+      "title": "H. Taxes & Compliance",
+      "parentId": "mr3xzhtwzey93x",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023215180
+    },
+    {
+      "id": "mr3xzhw5iva96w",
+      "title": "I. Risk & Return",
+      "parentId": "mr3xzhtwzey93x",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023215189
+    },
+    {
+      "id": "mr3xzhwdjy3a9e",
+      "title": "J. Capital & Funding",
+      "parentId": "mr3xzhtwzey93x",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023215197
+    },
+    {
+      "id": "mr3xzhwmuhtmiz",
+      "title": "K. Financial Decision Making",
+      "parentId": "mr3xzhtwzey93x",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023215206
+    },
+    {
+      "id": "mr3xzhwvxblo7v",
+      "title": "L. Personal Finance for Professionals",
+      "parentId": "mr3xzhtwzey93x",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023215215
+    },
+    {
+      "id": "mr3xzhx3jsp19n",
+      "title": "I. Customer Retention",
+      "parentId": "mr0u6xy71yyc46",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023215223
+    },
+    {
+      "id": "mr3xzhxcrhwfa3",
+      "title": "J. Business Communication",
+      "parentId": "mr0u6xy71yyc46",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023215232
+    },
+    {
+      "id": "mr3xzhxm1ctnou",
+      "title": "K. Negotiation Fundamentals",
+      "parentId": "mr0u6xy71yyc46",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023215242
+    },
+    {
+      "id": "mr3xzhxugdxzix",
+      "title": "L. Growth Strategies",
+      "parentId": "mr0u6xy71yyc46",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023215250
+    },
+    {
+      "id": "mr3xzhy4o14af3",
+      "title": "1.3.5. Strategy & Operations",
+      "parentId": "mr0g92akn6breq",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023215260
+    },
+    {
+      "id": "mr3xzhydt5nlfm",
+      "title": "A. Business Strategy",
+      "parentId": "mr3xzhy4o14af3",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783023215269
+    },
+    {
+      "id": "mr3xzhyn709hyc",
+      "title": "B. Strategic Planning",
+      "parentId": "mr3xzhy4o14af3",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783023215279
+    },
+    {
+      "id": "mr3xzhyvty0agw",
+      "title": "C. Business Operations",
+      "parentId": "mr3xzhy4o14af3",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783023215287
+    },
+    {
+      "id": "mr3xzhz4p6qln6",
+      "title": "D. Process Management",
+      "parentId": "mr3xzhy4o14af3",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783023215297
+    },
+    {
+      "id": "mr3xzhzjqfhh19",
+      "title": "E. Quality Management",
+      "parentId": "mr3xzhy4o14af3",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783023215311
+    },
+    {
+      "id": "mr3xzhzuc8uei3",
+      "title": "F. Supply Chain Fundamentals",
+      "parentId": "mr3xzhy4o14af3",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783023215322
+    },
+    {
+      "id": "mr3xzi057vh8oo",
+      "title": "G. Project Fundamentals",
+      "parentId": "mr3xzhy4o14af3",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023215333
+    },
+    {
+      "id": "mr3xzi0e090y2g",
+      "title": "H. Decision Making",
+      "parentId": "mr3xzhy4o14af3",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023215342
+    },
+    {
+      "id": "mr3xzi0nc8zcvr",
+      "title": "I. Performance Measurement",
+      "parentId": "mr3xzhy4o14af3",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023215351
+    },
+    {
+      "id": "mr3xzi0vblsmpu",
+      "title": "J. Business Analytics",
+      "parentId": "mr3xzhy4o14af3",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023215359
+    },
+    {
+      "id": "mr3xzi134vbnf3",
+      "title": "K. Continuous Improvement",
+      "parentId": "mr3xzhy4o14af3",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023215367
+    },
+    {
+      "id": "mr3xzi1b5imdm1",
+      "title": "L. Change Management",
+      "parentId": "mr3xzhy4o14af3",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023215375
+    },
+    {
+      "id": "mr3xzi1k6nby2e",
+      "title": "1.3.6. Business Ethics & Governance",
+      "parentId": "mr0g92akn6breq",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023215384
+    },
+    {
+      "id": "mr3xzi1s8k12ii",
+      "title": "A. Business Ethics",
+      "parentId": "mr3xzi1k6nby2e",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783023215392
+    },
+    {
+      "id": "mr3xzi21y3055z",
+      "title": "B. Corporate Governance",
+      "parentId": "mr3xzi1k6nby2e",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783023215401
+    },
+    {
+      "id": "mr3xzi2cslk8qd",
+      "title": "C. Legal Fundamentals",
+      "parentId": "mr3xzi1k6nby2e",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783023215412
+    },
+    {
+      "id": "mr3xzi2mc17p4z",
+      "title": "D. Compliance",
+      "parentId": "mr3xzi1k6nby2e",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783023215422
+    },
+    {
+      "id": "mr3xzi2wiasfrk",
+      "title": "E. Corporate Social Responsibility",
+      "parentId": "mr3xzi1k6nby2e",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783023215432
+    },
+    {
+      "id": "mr3xzi38il27x1",
+      "title": "F. Sustainability",
+      "parentId": "mr3xzi1k6nby2e",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783023215444
+    },
+    {
+      "id": "mr3xzi3i3dfo2y",
+      "title": "G. Stakeholder Management",
+      "parentId": "mr3xzi1k6nby2e",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023215454
+    },
+    {
+      "id": "mr3xzi3s0ysvct",
+      "title": "H. Risk Management",
+      "parentId": "mr3xzi1k6nby2e",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023215464
+    },
+    {
+      "id": "mr3xzi425yxgqm",
+      "title": "I. Data Ethics",
+      "parentId": "mr3xzi1k6nby2e",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023215474
+    },
+    {
+      "id": "mr3xzi4bfeqyy7",
+      "title": "J. Professional Responsibility",
+      "parentId": "mr3xzi1k6nby2e",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023215483
+    },
+    {
+      "id": "mr3xzi4kqd14ce",
+      "title": "K. Global Business Practices",
+      "parentId": "mr3xzi1k6nby2e",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023215492
+    },
+    {
+      "id": "mr3xzi4w8z5ee5",
+      "title": "L. Future of Business",
+      "parentId": "mr3xzi1k6nby2e",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023215504
+    },
+    {
+      "id": "mr3xzi5769x7el",
+      "title": "D. Data Collection",
+      "parentId": "mr0uept5kclb1d",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023215515
+    },
+    {
+      "id": "mr3xzi5h31duih",
+      "title": "J. Data Ecosystems",
+      "parentId": "mr0uept5kclb1d",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023215525
+    },
+    {
+      "id": "mr3xzi5ruw3x1e",
+      "title": "K. Data-Driven Thinking",
+      "parentId": "mr0uept5kclb1d",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023215535
+    },
+    {
+      "id": "mr3xzi61kemdz7",
+      "title": "L. Data Terminology",
+      "parentId": "mr0uept5kclb1d",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023215545
+    },
+    {
+      "id": "mr3xzi6bbgvrfa",
+      "title": "1.4.2. Data Analysis & Interpretation",
+      "parentId": "mr0g92ar5mxlpp",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023215555
+    },
+    {
+      "id": "mr3xzi6kkpdzx0",
+      "title": "A. Data Exploration",
+      "parentId": "mr3xzi6bbgvrfa",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783023215564
+    },
+    {
+      "id": "mr3xzi6t26fnie",
+      "title": "B. Descriptive Statistics",
+      "parentId": "mr3xzi6bbgvrfa",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783023215574
+    },
+    {
+      "id": "mr3xzi75zwdvtb",
+      "title": "C. Data Visualization Fundamentals",
+      "parentId": "mr3xzi6bbgvrfa",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783023215585
+    },
+    {
+      "id": "mr3xzi7egqb23r",
+      "title": "D. Charts & Graph Selection",
+      "parentId": "mr3xzi6bbgvrfa",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783023215594
+    },
+    {
+      "id": "mr3xzi7p4i08w4",
+      "title": "E. Identifying Trends & Patterns",
+      "parentId": "mr3xzi6bbgvrfa",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783023215605
+    },
+    {
+      "id": "mr3xzi7xorvfx5",
+      "title": "F. Correlation vs Causation",
+      "parentId": "mr3xzi6bbgvrfa",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783023215613
+    },
+    {
+      "id": "mr3xzi88x4bql2",
+      "title": "G. Interpreting Results",
+      "parentId": "mr3xzi6bbgvrfa",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023215624
+    },
+    {
+      "id": "mr3xzi8h4pvpjr",
+      "title": "H. Data Storytelling",
+      "parentId": "mr3xzi6bbgvrfa",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023215633
+    },
+    {
+      "id": "mr3xzi8r03t85w",
+      "title": "I. Critical Thinking with Data",
+      "parentId": "mr3xzi6bbgvrfa",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023215643
+    },
+    {
+      "id": "mr3xzi90f39al4",
+      "title": "J. Common Data Mistakes",
+      "parentId": "mr3xzi6bbgvrfa",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023215652
+    },
+    {
+      "id": "mr3xzi9dpy50th",
+      "title": "K. Evidence-Based Decision Making",
+      "parentId": "mr3xzi6bbgvrfa",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023215665
+    },
+    {
+      "id": "mr3xzi9o400onk",
+      "title": "L. Communicating Data Insights",
+      "parentId": "mr3xzi6bbgvrfa",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023215676
+    },
+    {
+      "id": "mr3xzi9zrmnq01",
+      "title": "1.4.3. Data Management",
+      "parentId": "mr0g92ar5mxlpp",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023215687
+    },
+    {
+      "id": "mr3xzia85b2xta",
+      "title": "A. Data Organization",
+      "parentId": "mr3xzi9zrmnq01",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783023215696
+    },
+    {
+      "id": "mr3xziak1askqb",
+      "title": "B. Data Storage",
+      "parentId": "mr3xzi9zrmnq01",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783023215708
+    },
+    {
+      "id": "mr3xziatgg3yzn",
+      "title": "C. Data Cleaning",
+      "parentId": "mr3xzi9zrmnq01",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783023215717
+    },
+    {
+      "id": "mr3xzib36s9hdx",
+      "title": "D. Data Integration",
+      "parentId": "mr3xzi9zrmnq01",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783023215727
+    },
+    {
+      "id": "mr3xzibdcaz07h",
+      "title": "E. Data Governance",
+      "parentId": "mr3xzi9zrmnq01",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783023215737
+    },
+    {
+      "id": "mr3xzibn0ytsms",
+      "title": "F. Data Security",
+      "parentId": "mr3xzi9zrmnq01",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783023215747
+    },
+    {
+      "id": "mr3xzibwv033kt",
+      "title": "G. Data Privacy",
+      "parentId": "mr3xzi9zrmnq01",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023215756
+    },
+    {
+      "id": "mr3xzic683e0t6",
+      "title": "H. Data Backup & Recovery",
+      "parentId": "mr3xzi9zrmnq01",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023215766
+    },
+    {
+      "id": "mr3xzicgcg8k05",
+      "title": "I. Data Documentation",
+      "parentId": "mr3xzi9zrmnq01",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023215776
+    },
+    {
+      "id": "mr3xzics875a92",
+      "title": "J. Data Sharing",
+      "parentId": "mr3xzi9zrmnq01",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023215788
+    },
+    {
+      "id": "mr3xzid3efg6zx",
+      "title": "K. Data Lifecycle Management",
+      "parentId": "mr3xzi9zrmnq01",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023215799
+    },
+    {
+      "id": "mr3xziddcp9v7z",
+      "title": "L. Data Stewardship",
+      "parentId": "mr3xzi9zrmnq01",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023215809
+    },
+    {
+      "id": "mr3xzidnqsmg4h",
+      "title": "1.4.4. Data Tools & Productivity",
+      "parentId": "mr0g92ar5mxlpp",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023215819
+    },
+    {
+      "id": "mr3xzidx6u6ksk",
+      "title": "A. Spreadsheet Fundamentals",
+      "parentId": "mr3xzidnqsmg4h",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783023215829
+    },
+    {
+      "id": "mr3xzie6ik5b26",
+      "title": "B. Spreadsheet Analysis",
+      "parentId": "mr3xzidnqsmg4h",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783023215838
+    },
+    {
+      "id": "mr3xzieggj3dmr",
+      "title": "C. Data Visualization Tools",
+      "parentId": "mr3xzidnqsmg4h",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783023215848
+    },
+    {
+      "id": "mr3xzieq9zusqx",
+      "title": "D. Dashboard Fundamentals",
+      "parentId": "mr3xzidnqsmg4h",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783023215858
+    },
+    {
+      "id": "mr3xzif14v392y",
+      "title": "E. Business Intelligence Basics",
+      "parentId": "mr3xzidnqsmg4h",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783023215869
+    },
+    {
+      "id": "mr3xzifb0y0xuq",
+      "title": "F. Database Fundamentals",
+      "parentId": "mr3xzidnqsmg4h",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783023215879
+    },
+    {
+      "id": "mr3xzifoswgoom",
+      "title": "G. Cloud Data Tools",
+      "parentId": "mr3xzidnqsmg4h",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023215892
+    },
+    {
+      "id": "mr3xzifxy0duqm",
+      "title": "H. AI for Data Analysis",
+      "parentId": "mr3xzidnqsmg4h",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023215901
+    },
+    {
+      "id": "mr3xzig7z9qb0f",
+      "title": "I. Automation with Data",
+      "parentId": "mr3xzidnqsmg4h",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023215911
+    },
+    {
+      "id": "mr3xzigj99083x",
+      "title": "J. Reporting Tools",
+      "parentId": "mr3xzidnqsmg4h",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023215923
+    },
+    {
+      "id": "mr3xzigue7f3mw",
+      "title": "K. Collaboration with Data",
+      "parentId": "mr3xzidnqsmg4h",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023215934
+    },
+    {
+      "id": "mr3xzih5d7cu01",
+      "title": "L. Personal Data Productivity",
+      "parentId": "mr3xzidnqsmg4h",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023215945
+    },
+    {
+      "id": "mr3xzihfdpwp8s",
+      "title": "1.4.5. Data Ethics & Responsible Data Use",
+      "parentId": "mr0g92ar5mxlpp",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023215955
+    },
+    {
+      "id": "mr3xzihoseg4sf",
+      "title": "A. Data Ethics",
+      "parentId": "mr3xzihfdpwp8s",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783023215964
+    },
+    {
+      "id": "mr3xzii01iq3yv",
+      "title": "B. Responsible Data Collection",
+      "parentId": "mr3xzihfdpwp8s",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783023215976
+    },
+    {
+      "id": "mr3xziib4kuidx",
+      "title": "C. Privacy & Consent",
+      "parentId": "mr3xzihfdpwp8s",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783023215987
+    },
+    {
+      "id": "mr3xziilz8r1xw",
+      "title": "D. Data Ownership",
+      "parentId": "mr3xzihfdpwp8s",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783023215997
+    },
+    {
+      "id": "mr3xziivo928fz",
+      "title": "E. Bias in Data",
+      "parentId": "mr3xzihfdpwp8s",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783023216007
+    },
+    {
+      "id": "mr3xzij6vg02fy",
+      "title": "F. Fairness in Data",
+      "parentId": "mr3xzihfdpwp8s",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783023216018
+    },
+    {
+      "id": "mr3xzijg5ezl8b",
+      "title": "G. Transparency",
+      "parentId": "mr3xzihfdpwp8s",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023216028
+    },
+    {
+      "id": "mr3xzijrmirwsx",
+      "title": "H. Data Compliance",
+      "parentId": "mr3xzihfdpwp8s",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023216039
+    },
+    {
+      "id": "mr3xzik3iwp6my",
+      "title": "I. Responsible AI & Data",
+      "parentId": "mr3xzihfdpwp8s",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023216051
+    },
+    {
+      "id": "mr3xzikdx2jlg6",
+      "title": "J. Ethical Decision Making",
+      "parentId": "mr3xzihfdpwp8s",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023216061
+    },
+    {
+      "id": "mr3xziknn0kjzt",
+      "title": "K. Trustworthy Data Practices",
+      "parentId": "mr3xzihfdpwp8s",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023216071
+    },
+    {
+      "id": "mr3xziky5xvw5r",
+      "title": "L. Future of Data",
+      "parentId": "mr3xzihfdpwp8s",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023216082
+    },
+    {
+      "id": "mr3xzil7lre2bj",
+      "title": "1.4.6. Data-Driven Organizations",
+      "parentId": "mr0g92ar5mxlpp",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023216091
+    },
+    {
+      "id": "mr3xzili9g8m4k",
+      "title": "A. Data Culture",
+      "parentId": "mr3xzil7lre2bj",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783023216102
+    },
+    {
+      "id": "mr3xzilsagp7lz",
+      "title": "B. Data-Driven Decision Making",
+      "parentId": "mr3xzil7lre2bj",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783023216112
+    },
+    {
+      "id": "mr3xzim3lnsuy2",
+      "title": "C. Data Strategy",
+      "parentId": "mr3xzil7lre2bj",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783023216123
+    },
+    {
+      "id": "mr3xzimc6qbuue",
+      "title": "D. Key Performance Indicators (KPIs)",
+      "parentId": "mr3xzil7lre2bj",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783023216132
+    },
+    {
+      "id": "mr3xzimneafw8i",
+      "title": "E. Metrics & Measurement",
+      "parentId": "mr3xzil7lre2bj",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783023216143
+    },
+    {
+      "id": "mr3xzimyo0xwee",
+      "title": "F. Business Analytics",
+      "parentId": "mr3xzil7lre2bj",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783023216154
+    },
+    {
+      "id": "mr3xzin9er2mx3",
+      "title": "G. Digital Transformation with Data",
+      "parentId": "mr3xzil7lre2bj",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023216165
+    },
+    {
+      "id": "mr3xzinjufalu8",
+      "title": "H. Data Innovation",
+      "parentId": "mr3xzil7lre2bj",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023216175
+    },
+    {
+      "id": "mr3xzinu4nl5of",
+      "title": "I. Cross-Functional Data Collaboration",
+      "parentId": "mr3xzil7lre2bj",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023216186
+    },
+    {
+      "id": "mr3xzio3rxspau",
+      "title": "J. Data Leadership",
+      "parentId": "mr3xzil7lre2bj",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023216195
+    },
+    {
+      "id": "mr3xziodbsg5do",
+      "title": "K. Data Maturity",
+      "parentId": "mr3xzil7lre2bj",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023216205
+    },
+    {
+      "id": "mr3xzionv1tobg",
+      "title": "L. Future of Data-Driven Organizations",
+      "parentId": "mr3xzil7lre2bj",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023216215
+    },
+    {
+      "id": "mr3xzioy6tvkmx",
+      "title": "B. Communication Models",
+      "parentId": "mr0uhmklfhpbff",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023216226
+    },
+    {
+      "id": "mr3xzip8q71dxr",
+      "title": "G. Listening Skills",
+      "parentId": "mr0uhmklfhpbff",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023216236
+    },
+    {
+      "id": "mr3xzipi59zhtn",
+      "title": "H. Questioning Techniques",
+      "parentId": "mr0uhmklfhpbff",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023216246
+    },
+    {
+      "id": "mr3xzipsy70tij",
+      "title": "I. Feedback & Feedforward",
+      "parentId": "mr0uhmklfhpbff",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023216256
+    },
+    {
+      "id": "mr3xziq2a7iwya",
+      "title": "J. Interpersonal Communication",
+      "parentId": "mr0uhmklfhpbff",
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1783023216266
+    },
+    {
+      "id": "mr3xziqcvhmi8a",
+      "title": "K. Cross-Cultural Communication",
+      "parentId": "mr0uhmklfhpbff",
+      "status": "pending",
+      "order": 13,
+      "createdAt": 1783023216276
+    },
+    {
+      "id": "mr3xziqmnvfyb3",
+      "title": "L. Communication Ethics",
+      "parentId": "mr0uhmklfhpbff",
+      "status": "pending",
+      "order": 14,
+      "createdAt": 1783023216286
+    },
+    {
+      "id": "mr3xziqv8dhn16",
+      "title": "1.5.2. Professional Writing",
+      "parentId": "mr0g92aycpttsf",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023216295
+    },
+    {
+      "id": "mr3xzir5zohraf",
+      "title": "A. Business Writing",
+      "parentId": "mr3xziqv8dhn16",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783023216305
+    },
+    {
+      "id": "mr3xzirf88c0uq",
+      "title": "B. Email Communication",
+      "parentId": "mr3xziqv8dhn16",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783023216315
+    },
+    {
+      "id": "mr3xzirqytfiij",
+      "title": "C. Reports & Documentation",
+      "parentId": "mr3xziqv8dhn16",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783023216326
+    },
+    {
+      "id": "mr3xzis0lvvtab",
+      "title": "D. Technical Writing",
+      "parentId": "mr3xziqv8dhn16",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783023216336
+    },
+    {
+      "id": "mr3xzish6ugry8",
+      "title": "E. Proposal Writing",
+      "parentId": "mr3xziqv8dhn16",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783023216353
+    },
+    {
+      "id": "mr3xzisqzstc6v",
+      "title": "F. Executive Summaries",
+      "parentId": "mr3xziqv8dhn16",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783023216362
+    },
+    {
+      "id": "mr3xziszgn2gy0",
+      "title": "G. Meeting Minutes",
+      "parentId": "mr3xziqv8dhn16",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023216371
+    },
+    {
+      "id": "mr3xzit9ng69b9",
+      "title": "H. Documentation Standards",
+      "parentId": "mr3xziqv8dhn16",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023216381
+    },
+    {
+      "id": "mr3xzitjaj9mwe",
+      "title": "I. Writing with AI",
+      "parentId": "mr3xziqv8dhn16",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023216391
+    },
+    {
+      "id": "mr3xzittlm5kfw",
+      "title": "J. Editing & Proofreading",
+      "parentId": "mr3xziqv8dhn16",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023216401
+    },
+    {
+      "id": "mr3xziu7nrmlrg",
+      "title": "K. Writing for Different Audiences",
+      "parentId": "mr3xziqv8dhn16",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023216415
+    },
+    {
+      "id": "mr3xziuim4inlu",
+      "title": "L. Professional Writing Best Practices",
+      "parentId": "mr3xziqv8dhn16",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023216426
+    },
+    {
+      "id": "mr3xziuvgcqpha",
+      "title": "1.5.3. Presentation & Public Speaking",
+      "parentId": "mr0g92aycpttsf",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023216439
+    },
+    {
+      "id": "mr3xziv9iq5iyr",
+      "title": "A. Presentation Fundamentals",
+      "parentId": "mr3xziuvgcqpha",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783023216453
+    },
+    {
+      "id": "mr3xzivjpepsju",
+      "title": "B. Storytelling",
+      "parentId": "mr3xziuvgcqpha",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783023216463
+    },
+    {
+      "id": "mr3xzivug1kipa",
+      "title": "C. Presentation Design",
+      "parentId": "mr3xziuvgcqpha",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783023216474
+    },
+    {
+      "id": "mr3xziw7cgf6y5",
+      "title": "D. Slide Design",
+      "parentId": "mr3xziuvgcqpha",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783023216487
+    },
+    {
+      "id": "mr3xziwhnf6i5e",
+      "title": "E. Public Speaking",
+      "parentId": "mr3xziuvgcqpha",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783023216497
+    },
+    {
+      "id": "mr3xziwrfn8obs",
+      "title": "F. Voice & Delivery",
+      "parentId": "mr3xziuvgcqpha",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783023216507
+    },
+    {
+      "id": "mr3xzix1d9z6wm",
+      "title": "G. Body Language",
+      "parentId": "mr3xziuvgcqpha",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023216517
+    },
+    {
+      "id": "mr3xzixaw6b5c6",
+      "title": "H. Audience Engagement",
+      "parentId": "mr3xziuvgcqpha",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023216526
+    },
+    {
+      "id": "mr3xzixlkp1uvb",
+      "title": "I. Demonstrations & Live Sessions",
+      "parentId": "mr3xziuvgcqpha",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023216537
+    },
+    {
+      "id": "mr3xzixuo20s8g",
+      "title": "J. Virtual Presentations",
+      "parentId": "mr3xziuvgcqpha",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023216546
+    },
+    {
+      "id": "mr3xziy33spvd7",
+      "title": "K. Handling Questions",
+      "parentId": "mr3xziuvgcqpha",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023216555
+    },
+    {
+      "id": "mr3xziye7yjn8v",
+      "title": "L. Presentation Improvement",
+      "parentId": "mr3xziuvgcqpha",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023216566
+    },
+    {
+      "id": "mr3xziynwi34zp",
+      "title": "A. Teamwork Fundamentals",
+      "parentId": "mr0uhmp93yi4nx",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023216575
+    },
+    {
+      "id": "mr3xziyy2ypsq6",
+      "title": "B. Team Roles & Responsibilities",
+      "parentId": "mr0uhmp93yi4nx",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023216586
+    },
+    {
+      "id": "mr3xziz9as4u69",
+      "title": "D. Workplace Communication",
+      "parentId": "mr0uhmp93yi4nx",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023216597
+    },
+    {
+      "id": "mr3xzizjhx2nn3",
+      "title": "G. Building Trust",
+      "parentId": "mr0uhmp93yi4nx",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023216607
+    },
+    {
+      "id": "mr3xzizttm46na",
+      "title": "H. Giving & Receiving Feedback",
+      "parentId": "mr0uhmp93yi4nx",
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1783023216617
+    },
+    {
+      "id": "mr3xzj021korld",
+      "title": "I. Cross-Functional Collaboration",
+      "parentId": "mr0uhmp93yi4nx",
+      "status": "pending",
+      "order": 13,
+      "createdAt": 1783023216626
+    },
+    {
+      "id": "mr3xzj0cqlhtwd",
+      "title": "J. Remote Collaboration",
+      "parentId": "mr0uhmp93yi4nx",
+      "status": "pending",
+      "order": 14,
+      "createdAt": 1783023216636
+    },
+    {
+      "id": "mr3xzj0m5yr70b",
+      "title": "K. Meeting Effectiveness",
+      "parentId": "mr0uhmp93yi4nx",
+      "status": "pending",
+      "order": 15,
+      "createdAt": 1783023216646
+    },
+    {
+      "id": "mr3xzj0w58yuxt",
+      "title": "L. Team Productivity",
+      "parentId": "mr0uhmp93yi4nx",
+      "status": "pending",
+      "order": 16,
+      "createdAt": 1783023216656
+    },
+    {
+      "id": "mr3xzj17sedyw4",
+      "title": "1.5.5. Professionalism",
+      "parentId": "mr0g92aycpttsf",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023216667
+    },
+    {
+      "id": "mr3xzj1h9h2ctk",
+      "title": "A. Professional Ethics",
+      "parentId": "mr3xzj17sedyw4",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783023216677
+    },
+    {
+      "id": "mr3xzj1siemyt2",
+      "title": "B. Professional Conduct",
+      "parentId": "mr3xzj17sedyw4",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783023216688
+    },
+    {
+      "id": "mr3xzj23z2y14q",
+      "title": "C. Workplace Etiquette",
+      "parentId": "mr3xzj17sedyw4",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783023216699
+    },
+    {
+      "id": "mr3xzj2fvf6hed",
+      "title": "D. Accountability",
+      "parentId": "mr3xzj17sedyw4",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783023216711
+    },
+    {
+      "id": "mr3xzj2otup7vt",
+      "title": "E. Ownership Mindset",
+      "parentId": "mr3xzj17sedyw4",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783023216720
+    },
+    {
+      "id": "mr3xzj2xpu8ypn",
+      "title": "F. Reliability",
+      "parentId": "mr3xzj17sedyw4",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783023216729
+    },
+    {
+      "id": "mr3xzj389y71ge",
+      "title": "G. Adaptability",
+      "parentId": "mr3xzj17sedyw4",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023216740
+    },
+    {
+      "id": "mr3xzj3j6pmid6",
+      "title": "H. Emotional Intelligence",
+      "parentId": "mr3xzj17sedyw4",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023216751
+    },
+    {
+      "id": "mr3xzj3tfgftns",
+      "title": "I. Professional Relationships",
+      "parentId": "mr3xzj17sedyw4",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023216761
+    },
+    {
+      "id": "mr3xzj43tfrjr6",
+      "title": "J. Networking Fundamentals",
+      "parentId": "mr3xzj17sedyw4",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023216771
+    },
+    {
+      "id": "mr3xzj4dtzkoxm",
+      "title": "K. Professional Reputation",
+      "parentId": "mr3xzj17sedyw4",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023216781
+    },
+    {
+      "id": "mr3xzj4p9dsaec",
+      "title": "L. Workplace Diversity & Inclusion",
+      "parentId": "mr3xzj17sedyw4",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023216793
+    },
+    {
+      "id": "mr3xzj51vqg89h",
+      "title": "1.5.6. Leadership Communication",
+      "parentId": "mr0g92aycpttsf",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023216805
+    },
+    {
+      "id": "mr3xzj5c55fnyc",
+      "title": "A. Influencing Skills",
+      "parentId": "mr3xzj51vqg89h",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783023216816
+    },
+    {
+      "id": "mr3xzj5nnkemls",
+      "title": "B. Persuasion",
+      "parentId": "mr3xzj51vqg89h",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783023216827
+    },
+    {
+      "id": "mr3xzj5yz8z0zk",
+      "title": "C. Coaching Conversations",
+      "parentId": "mr3xzj51vqg89h",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783023216838
+    },
+    {
+      "id": "mr3xzj6bf9rje2",
+      "title": "D. Mentoring Skills",
+      "parentId": "mr3xzj51vqg89h",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783023216851
+    },
+    {
+      "id": "mr3xzj6mbafv4r",
+      "title": "E. Difficult Conversations",
+      "parentId": "mr3xzj51vqg89h",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783023216862
+    },
+    {
+      "id": "mr3xzj6wevxe9x",
+      "title": "F. Decision Communication",
+      "parentId": "mr3xzj51vqg89h",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783023216872
+    },
+    {
+      "id": "mr3xzj76k2ceyq",
+      "title": "G. Crisis Communication",
+      "parentId": "mr3xzj51vqg89h",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783023216882
+    },
+    {
+      "id": "mr3xzj7iroqmu6",
+      "title": "H. Stakeholder Communication",
+      "parentId": "mr3xzj51vqg89h",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783023216894
+    },
+    {
+      "id": "mr3xzj7s6yen2m",
+      "title": "I. Executive Communication",
+      "parentId": "mr3xzj51vqg89h",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783023216904
+    },
+    {
+      "id": "mr3xzj82txpztx",
+      "title": "J. Change Communication",
+      "parentId": "mr3xzj51vqg89h",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783023216914
+    },
+    {
+      "id": "mr3xzj8dt4xvju",
+      "title": "K. Vision Communication",
+      "parentId": "mr3xzj51vqg89h",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783023216925
+    },
+    {
+      "id": "mr3xzj8on77dt6",
+      "title": "L. Leadership Presence",
+      "parentId": "mr3xzj51vqg89h",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783023216936
     }
   ],
   "pages": {
