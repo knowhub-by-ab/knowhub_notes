@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-03T01:48:22.404Z",
+  "exportedAt": "2026-07-03T01:53:22.533Z",
   "nodes": [
     {
       "order": 2,
@@ -832,18 +832,18 @@
       "createdAt": 1782835944101,
       "parentId": "mr0uhmklfhpbff",
       "status": "pending",
-      "title": "B. Verbal Communication"
+      "title": "B. Communication Models"
     },
     {
       "order": 2,
       "id": "mr0uhmlseu2ii3",
       "createdAt": 1782835944112,
       "parentId": "mr0uhmklfhpbff",
-      "title": "C. Non-Verbal Communication",
+      "title": "C. Verbal Communication",
       "status": "pending"
     },
     {
-      "title": "D. Written Communication",
+      "title": "D. Non-Verbal Communication",
       "status": "pending",
       "parentId": "mr0uhmklfhpbff",
       "createdAt": 1782835944121,
@@ -855,7 +855,7 @@
       "createdAt": 1782835944128,
       "order": 4,
       "status": "pending",
-      "title": "E. Visual Communication",
+      "title": "E. Written Communication",
       "parentId": "mr0uhmklfhpbff"
     },
     {
@@ -863,7 +863,7 @@
       "id": "mr0uhmmi0frx25",
       "order": 5,
       "status": "pending",
-      "title": "F. Digital Communication",
+      "title": "F. Visual Communication",
       "parentId": "mr0uhmklfhpbff"
     },
     {
@@ -871,88 +871,16 @@
       "createdAt": 1782835944145,
       "order": 6,
       "status": "pending",
-      "title": "G. Active Listening",
+      "title": "G. Listening Skills",
       "parentId": "mr0uhmklfhpbff"
     },
     {
-      "title": "H. Constructive Feedback",
+      "title": "H. Questioning Techniques",
       "status": "pending",
       "parentId": "mr0uhmklfhpbff",
       "id": "mr0uhmmxzdg73k",
       "createdAt": 1782835944153,
       "order": 7
-    },
-    {
-      "parentId": "mr0g92aycpttsf",
-      "status": "pending",
-      "title": "1.5.2. Professional Communication",
-      "order": 1,
-      "createdAt": 1782835944161,
-      "id": "mr0uhmn577bv9m"
-    },
-    {
-      "createdAt": 1782835944170,
-      "id": "mr0uhmnemiqchl",
-      "order": 0,
-      "status": "pending",
-      "title": "A. Professional Etiquette",
-      "parentId": "mr0uhmn577bv9m"
-    },
-    {
-      "id": "mr0uhmnnh1tidm",
-      "createdAt": 1782835944179,
-      "order": 1,
-      "status": "pending",
-      "title": "B. Business Writing",
-      "parentId": "mr0uhmn577bv9m"
-    },
-    {
-      "title": "C. Email Communication",
-      "status": "pending",
-      "parentId": "mr0uhmn577bv9m",
-      "createdAt": 1782835944189,
-      "id": "mr0uhmnxo2san7",
-      "order": 2
-    },
-    {
-      "order": 3,
-      "createdAt": 1782835944196,
-      "id": "mr0uhmo45uoyph",
-      "parentId": "mr0uhmn577bv9m",
-      "title": "D. Meeting Management",
-      "status": "pending"
-    },
-    {
-      "title": "E. Presentation Skills",
-      "status": "pending",
-      "parentId": "mr0uhmn577bv9m",
-      "id": "mr0uhmobcewuua",
-      "createdAt": 1782835944203,
-      "order": 4
-    },
-    {
-      "id": "mr0uhmojmedbz9",
-      "createdAt": 1782835944211,
-      "order": 5,
-      "title": "F. Public Speaking",
-      "status": "pending",
-      "parentId": "mr0uhmn577bv9m"
-    },
-    {
-      "order": 6,
-      "createdAt": 1782835944219,
-      "id": "mr0uhmoraqmabr",
-      "parentId": "mr0uhmn577bv9m",
-      "status": "pending",
-      "title": "G. Stakeholder Communication"
-    },
-    {
-      "order": 7,
-      "id": "mr0uhmp0q3hz3o",
-      "createdAt": 1782835944228,
-      "parentId": "mr0uhmn577bv9m",
-      "title": "H. Cross-Cultural Communication",
-      "status": "pending"
     },
     {
       "order": 2,
@@ -7523,30 +7451,6 @@
       "createdAt": 1783023216215
     },
     {
-      "id": "mr3xzioy6tvkmx",
-      "title": "B. Communication Models",
-      "parentId": "mr0uhmklfhpbff",
-      "status": "pending",
-      "order": 8,
-      "createdAt": 1783023216226
-    },
-    {
-      "id": "mr3xzip8q71dxr",
-      "title": "G. Listening Skills",
-      "parentId": "mr0uhmklfhpbff",
-      "status": "pending",
-      "order": 9,
-      "createdAt": 1783023216236
-    },
-    {
-      "id": "mr3xzipi59zhtn",
-      "title": "H. Questioning Techniques",
-      "parentId": "mr0uhmklfhpbff",
-      "status": "pending",
-      "order": 10,
-      "createdAt": 1783023216246
-    },
-    {
       "id": "mr3xzipsy70tij",
       "title": "I. Feedback & Feedforward",
       "parentId": "mr0uhmklfhpbff",
@@ -7583,7 +7487,7 @@
       "title": "1.5.2. Professional Writing",
       "parentId": "mr0g92aycpttsf",
       "status": "pending",
-      "order": 6,
+      "order": 1,
       "createdAt": 1783023216295
     },
     {
@@ -7687,7 +7591,7 @@
       "title": "1.5.3. Presentation & Public Speaking",
       "parentId": "mr0g92aycpttsf",
       "status": "pending",
-      "order": 7,
+      "order": 6,
       "createdAt": 1783023216439
     },
     {
@@ -7863,7 +7767,7 @@
       "title": "1.5.5. Professionalism",
       "parentId": "mr0g92aycpttsf",
       "status": "pending",
-      "order": 8,
+      "order": 7,
       "createdAt": 1783023216667
     },
     {
@@ -7967,7 +7871,7 @@
       "title": "1.5.6. Leadership Communication",
       "parentId": "mr0g92aycpttsf",
       "status": "pending",
-      "order": 9,
+      "order": 8,
       "createdAt": 1783023216805
     },
     {
