@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-03T01:43:22.658Z",
+  "exportedAt": "2026-07-03T01:48:22.404Z",
   "nodes": [
     {
       "order": 2,
@@ -809,294 +809,6 @@
       "order": 7,
       "createdAt": 1782835808411,
       "id": "mr0uepwbasgor4"
-    },
-    {
-      "order": 2,
-      "id": "mr0ueq08lzah5m",
-      "createdAt": 1782835808552,
-      "parentId": "mr0g92ar5mxlpp",
-      "status": "pending",
-      "title": "1.4.3. Data Analysis & Interpretation"
-    },
-    {
-      "id": "mr0ueq0lrpf3x2",
-      "createdAt": 1782835808565,
-      "order": 0,
-      "status": "pending",
-      "title": "A. Exploratory Data Analysis",
-      "parentId": "mr0ueq08lzah5m"
-    },
-    {
-      "order": 1,
-      "createdAt": 1782835808577,
-      "id": "mr0ueq0xkvsxcr",
-      "parentId": "mr0ueq08lzah5m",
-      "title": "B. Descriptive Statistics",
-      "status": "pending"
-    },
-    {
-      "status": "pending",
-      "title": "C. Data Visualization",
-      "parentId": "mr0ueq08lzah5m",
-      "createdAt": 1782835808588,
-      "id": "mr0ueq181j0krz",
-      "order": 2
-    },
-    {
-      "title": "D. Pattern Recognition",
-      "status": "pending",
-      "parentId": "mr0ueq08lzah5m",
-      "createdAt": 1782835808598,
-      "id": "mr0ueq1is351ru",
-      "order": 3
-    },
-    {
-      "order": 4,
-      "createdAt": 1782835808607,
-      "id": "mr0ueq1rbqfece",
-      "parentId": "mr0ueq08lzah5m",
-      "title": "E. Correlation vs Causation",
-      "status": "pending"
-    },
-    {
-      "title": "F. Critical Data Interpretation",
-      "status": "pending",
-      "parentId": "mr0ueq08lzah5m",
-      "id": "mr0ueq21jhggxw",
-      "createdAt": 1782835808617,
-      "order": 5
-    },
-    {
-      "status": "pending",
-      "title": "G. Bias & Uncertainty",
-      "parentId": "mr0ueq08lzah5m",
-      "createdAt": 1782835808626,
-      "id": "mr0ueq2a65c5qm",
-      "order": 6
-    },
-    {
-      "createdAt": 1782835808634,
-      "id": "mr0ueq2i94cofq",
-      "order": 7,
-      "status": "pending",
-      "title": "H. Data-Driven Decision Making",
-      "parentId": "mr0ueq08lzah5m"
-    },
-    {
-      "title": "1.4.4. Data Communication & Storytelling",
-      "status": "pending",
-      "parentId": "mr0g92ar5mxlpp",
-      "id": "mr0ueq2pb9rpz7",
-      "createdAt": 1782835808641,
-      "order": 3
-    },
-    {
-      "parentId": "mr0ueq2pb9rpz7",
-      "title": "A. Data Storytelling",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1782835808650,
-      "id": "mr0ueq2yz9gwt7"
-    },
-    {
-      "status": "pending",
-      "title": "B. Data Presentation",
-      "parentId": "mr0ueq2pb9rpz7",
-      "id": "mr0ueq36b6ewp4",
-      "createdAt": 1782835808658,
-      "order": 1
-    },
-    {
-      "id": "mr0ueq3fplpwsr",
-      "createdAt": 1782835808667,
-      "order": 2,
-      "status": "pending",
-      "title": "C. Charts & Graphs",
-      "parentId": "mr0ueq2pb9rpz7"
-    },
-    {
-      "title": "D. Dashboards",
-      "status": "pending",
-      "parentId": "mr0ueq2pb9rpz7",
-      "createdAt": 1782835808675,
-      "id": "mr0ueq3nxwthzu",
-      "order": 3
-    },
-    {
-      "title": "E. Reports",
-      "status": "pending",
-      "parentId": "mr0ueq2pb9rpz7",
-      "createdAt": 1782835808683,
-      "id": "mr0ueq3vbkss0k",
-      "order": 4
-    },
-    {
-      "createdAt": 1782835808691,
-      "id": "mr0ueq4357ym2r",
-      "order": 5,
-      "title": "F. Communicating Insights",
-      "status": "pending",
-      "parentId": "mr0ueq2pb9rpz7"
-    },
-    {
-      "title": "G. Audience-Centric Communication",
-      "status": "pending",
-      "parentId": "mr0ueq2pb9rpz7",
-      "createdAt": 1782835808701,
-      "id": "mr0ueq4dmpmfek",
-      "order": 6
-    },
-    {
-      "id": "mr0ueq4l6b8ggv",
-      "createdAt": 1782835808709,
-      "order": 7,
-      "status": "pending",
-      "title": "H. Data Visualization Best Practices",
-      "parentId": "mr0ueq2pb9rpz7"
-    },
-    {
-      "order": 4,
-      "id": "mr0ueq4uzknabl",
-      "createdAt": 1782835808718,
-      "parentId": "mr0g92ar5mxlpp",
-      "status": "pending",
-      "title": "1.4.5. Data Tools & Technologies"
-    },
-    {
-      "title": "A. Spreadsheets",
-      "status": "pending",
-      "parentId": "mr0ueq4uzknabl",
-      "createdAt": 1782835808726,
-      "id": "mr0ueq52ktpjfa",
-      "order": 0
-    },
-    {
-      "createdAt": 1782835808734,
-      "id": "mr0ueq5a0n9d4c",
-      "order": 1,
-      "status": "pending",
-      "title": "B. Databases",
-      "parentId": "mr0ueq4uzknabl"
-    },
-    {
-      "parentId": "mr0ueq4uzknabl",
-      "title": "C. SQL Fundamentals",
-      "status": "pending",
-      "order": 2,
-      "id": "mr0ueq5itldjtb",
-      "createdAt": 1782835808742
-    },
-    {
-      "status": "pending",
-      "title": "D. Business Intelligence Tools",
-      "parentId": "mr0ueq4uzknabl",
-      "createdAt": 1782835808752,
-      "id": "mr0ueq5s1idfqc",
-      "order": 3
-    },
-    {
-      "order": 4,
-      "id": "mr0ueq61c77lfa",
-      "createdAt": 1782835808761,
-      "parentId": "mr0ueq4uzknabl",
-      "status": "pending",
-      "title": "E. Data Analytics Platforms"
-    },
-    {
-      "id": "mr0ueq6ag17tdk",
-      "createdAt": 1782835808770,
-      "order": 5,
-      "title": "F. Cloud Data Platforms",
-      "status": "pending",
-      "parentId": "mr0ueq4uzknabl"
-    },
-    {
-      "id": "mr0ueq6l9xrcw0",
-      "createdAt": 1782835808781,
-      "order": 6,
-      "status": "pending",
-      "title": "G. AI-Assisted Data Analysis",
-      "parentId": "mr0ueq4uzknabl"
-    },
-    {
-      "status": "pending",
-      "title": "H. Automation & Data Workflows",
-      "parentId": "mr0ueq4uzknabl",
-      "id": "mr0ueq6uqbi8o1",
-      "createdAt": 1782835808790,
-      "order": 7
-    },
-    {
-      "status": "pending",
-      "title": "1.4.6. Modern Data Literacy",
-      "parentId": "mr0g92ar5mxlpp",
-      "id": "mr0ueq72secewl",
-      "createdAt": 1782835808798,
-      "order": 5
-    },
-    {
-      "parentId": "mr0ueq72secewl",
-      "status": "pending",
-      "title": "A. Big Data Fundamentals",
-      "order": 0,
-      "createdAt": 1782835808808,
-      "id": "mr0ueq7cx1ao8s"
-    },
-    {
-      "title": "B. Open Data",
-      "status": "pending",
-      "parentId": "mr0ueq72secewl",
-      "id": "mr0ueq7lw3agkf",
-      "createdAt": 1782835808817,
-      "order": 1
-    },
-    {
-      "title": "C. Data in Business",
-      "status": "pending",
-      "parentId": "mr0ueq72secewl",
-      "createdAt": 1782835808827,
-      "id": "mr0ueq7vcps6ff",
-      "order": 2
-    },
-    {
-      "parentId": "mr0ueq72secewl",
-      "status": "pending",
-      "title": "D. Data in Science",
-      "order": 3,
-      "createdAt": 1782835808836,
-      "id": "mr0ueq84z6xk7p"
-    },
-    {
-      "id": "mr0ueq8e9sxsdp",
-      "createdAt": 1782835808846,
-      "order": 4,
-      "title": "E. Data in Artificial Intelligence",
-      "status": "pending",
-      "parentId": "mr0ueq72secewl"
-    },
-    {
-      "id": "mr0ueq8mgg1doh",
-      "createdAt": 1782835808854,
-      "order": 5,
-      "status": "pending",
-      "title": "F. Responsible Data Usage",
-      "parentId": "mr0ueq72secewl"
-    },
-    {
-      "id": "mr0ueq8wzxqlcu",
-      "createdAt": 1782835808864,
-      "order": 6,
-      "status": "pending",
-      "title": "G. Data-Driven Culture",
-      "parentId": "mr0ueq72secewl"
-    },
-    {
-      "title": "H. Future of Data",
-      "status": "pending",
-      "parentId": "mr0ueq72secewl",
-      "id": "mr0ueq98d9yr2z",
-      "createdAt": 1782835808876,
-      "order": 7
     },
     {
       "id": "mr0uhmklfhpbff",
@@ -7399,7 +7111,7 @@
       "title": "1.4.3. Data Management",
       "parentId": "mr0g92ar5mxlpp",
       "status": "pending",
-      "order": 6,
+      "order": 2,
       "createdAt": 1783023215687
     },
     {
@@ -7503,7 +7215,7 @@
       "title": "1.4.4. Data Tools & Productivity",
       "parentId": "mr0g92ar5mxlpp",
       "status": "pending",
-      "order": 7,
+      "order": 3,
       "createdAt": 1783023215819
     },
     {
@@ -7607,7 +7319,7 @@
       "title": "1.4.5. Data Ethics & Responsible Data Use",
       "parentId": "mr0g92ar5mxlpp",
       "status": "pending",
-      "order": 8,
+      "order": 4,
       "createdAt": 1783023215955
     },
     {
@@ -7711,7 +7423,7 @@
       "title": "1.4.6. Data-Driven Organizations",
       "parentId": "mr0g92ar5mxlpp",
       "status": "pending",
-      "order": 9,
+      "order": 6,
       "createdAt": 1783023216091
     },
     {
