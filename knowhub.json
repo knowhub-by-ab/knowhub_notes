@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-03T02:28:48.616Z",
+  "exportedAt": "2026-07-03T02:33:24.456Z",
   "nodes": [
     {
       "order": 2,
@@ -6461,9 +6461,9 @@
     {
       "id": "mr4bd9m3ho926x",
       "title": "3. Career Domains",
-      "parentId": null,
+      "parentId": "mr0g929r44x4tu",
       "status": "pending",
-      "order": 1,
+      "order": 2,
       "createdAt": 1783045692652
     },
     {
