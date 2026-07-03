@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-03T01:58:22.427Z",
+  "exportedAt": "2026-07-03T02:03:24.454Z",
   "nodes": [
     {
       "order": 2,
@@ -889,150 +889,6 @@
       "parentId": "mr0g92aycpttsf",
       "title": "1.5.4. Collaboration & Teamwork",
       "status": "pending"
-    },
-    {
-      "order": 4,
-      "createdAt": 1782835944368,
-      "id": "mr0uhmsw4fdp42",
-      "parentId": "mr0g92aycpttsf",
-      "title": "1.5.5. Professional Effectiveness",
-      "status": "pending"
-    },
-    {
-      "parentId": "mr0uhmsw4fdp42",
-      "title": "A. Time Management",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1782835944375,
-      "id": "mr0uhmt3chzkgu"
-    },
-    {
-      "title": "B. Personal Productivity",
-      "status": "pending",
-      "parentId": "mr0uhmsw4fdp42",
-      "createdAt": 1782835944384,
-      "id": "mr0uhmtcq9u423",
-      "order": 1
-    },
-    {
-      "order": 2,
-      "createdAt": 1782835944393,
-      "id": "mr0uhmtlpwhnyv",
-      "parentId": "mr0uhmsw4fdp42",
-      "status": "pending",
-      "title": "C. Organization Skills"
-    },
-    {
-      "parentId": "mr0uhmsw4fdp42",
-      "title": "D. Adaptability",
-      "status": "pending",
-      "order": 3,
-      "id": "mr0uhmtuvqsna0",
-      "createdAt": 1782835944402
-    },
-    {
-      "parentId": "mr0uhmsw4fdp42",
-      "title": "E. Resilience",
-      "status": "pending",
-      "order": 4,
-      "id": "mr0uhmu132phmy",
-      "createdAt": 1782835944409
-    },
-    {
-      "id": "mr0uhmu8d7rt3b",
-      "createdAt": 1782835944416,
-      "order": 5,
-      "title": "F. Accountability",
-      "status": "pending",
-      "parentId": "mr0uhmsw4fdp42"
-    },
-    {
-      "createdAt": 1782835944424,
-      "id": "mr0uhmugglg28m",
-      "order": 6,
-      "status": "pending",
-      "title": "G. Professional Ethics",
-      "parentId": "mr0uhmsw4fdp42"
-    },
-    {
-      "parentId": "mr0uhmsw4fdp42",
-      "title": "H. Continuous Improvement",
-      "status": "pending",
-      "order": 7,
-      "id": "mr0uhmupypzyqg",
-      "createdAt": 1782835944433
-    },
-    {
-      "order": 5,
-      "createdAt": 1782835944441,
-      "id": "mr0uhmux5w3ro6",
-      "parentId": "mr0g92aycpttsf",
-      "status": "pending",
-      "title": "1.5.6. Career Readiness"
-    },
-    {
-      "order": 0,
-      "createdAt": 1782835944449,
-      "id": "mr0uhmv5z8lrp6",
-      "parentId": "mr0uhmux5w3ro6",
-      "status": "pending",
-      "title": "A. Professional Mindset"
-    },
-    {
-      "parentId": "mr0uhmux5w3ro6",
-      "status": "pending",
-      "title": "B. Workplace Behaviour",
-      "order": 1,
-      "id": "mr0uhmvcs2gtu1",
-      "createdAt": 1782835944456
-    },
-    {
-      "createdAt": 1782835944463,
-      "id": "mr0uhmvjpr8uli",
-      "order": 2,
-      "status": "pending",
-      "title": "C. Personal Branding",
-      "parentId": "mr0uhmux5w3ro6"
-    },
-    {
-      "order": 3,
-      "createdAt": 1782835944473,
-      "id": "mr0uhmvtbav601",
-      "parentId": "mr0uhmux5w3ro6",
-      "title": "D. Interview Communication",
-      "status": "pending"
-    },
-    {
-      "status": "pending",
-      "title": "E. Workplace Collaboration Tools",
-      "parentId": "mr0uhmux5w3ro6",
-      "createdAt": 1782835944481,
-      "id": "mr0uhmw1egp7v0",
-      "order": 4
-    },
-    {
-      "createdAt": 1782835944487,
-      "id": "mr0uhmw7l43dy8",
-      "order": 5,
-      "title": "F. Remote & Hybrid Work Skills",
-      "status": "pending",
-      "parentId": "mr0uhmux5w3ro6"
-    },
-    {
-      "title": "G. Career Networking",
-      "status": "pending",
-      "parentId": "mr0uhmux5w3ro6",
-      "id": "mr0uhmwfom19uc",
-      "createdAt": 1782835944495,
-      "order": 6
-    },
-    {
-      "parentId": "mr0uhmux5w3ro6",
-      "title": "H. Professional Development Planning",
-      "status": "pending",
-      "order": 7,
-      "createdAt": 1782835944503,
-      "id": "mr0uhmwnbxqwlo"
     },
     {
       "title": "2.1.1. Computational Thinking",
@@ -7559,7 +7415,7 @@
       "title": "1.5.5. Professionalism",
       "parentId": "mr0g92aycpttsf",
       "status": "pending",
-      "order": 6,
+      "order": 4,
       "createdAt": 1783023216667
     },
     {
@@ -7663,7 +7519,7 @@
       "title": "1.5.6. Leadership Communication",
       "parentId": "mr0g92aycpttsf",
       "status": "pending",
-      "order": 7,
+      "order": 6,
       "createdAt": 1783023216805
     },
     {
@@ -7767,7 +7623,7 @@
       "title": "A. Teamwork Fundamentals",
       "parentId": "mr0uhmr2sbmcwp",
       "status": "pending",
-      "order": 8,
+      "order": 0,
       "createdAt": 1783043821324
     },
     {
@@ -7775,7 +7631,7 @@
       "title": "B. Team Roles & Responsibilities",
       "parentId": "mr0uhmr2sbmcwp",
       "status": "pending",
-      "order": 9,
+      "order": 1,
       "createdAt": 1783043821335
     },
     {
@@ -7783,48 +7639,80 @@
       "title": "C. Collaboration Skills",
       "parentId": "mr0uhmr2sbmcwp",
       "status": "pending",
-      "order": 10,
+      "order": 2,
       "createdAt": 1783043821344
     },
     {
       "id": "mr4a95pkiagt0x",
-      "title": "Conflict Resolution",
+      "title": "E. Conflict Resolution",
       "parentId": "mr0uhmr2sbmcwp",
       "status": "pending",
-      "order": 11,
+      "order": 4,
       "createdAt": 1783043821352
     },
     {
       "id": "mr4a95pun4isil",
-      "title": "Negotiation Skills",
+      "title": "F. Negotiation Skills",
       "parentId": "mr0uhmr2sbmcwp",
       "status": "pending",
-      "order": 12,
+      "order": 5,
       "createdAt": 1783043821362
     },
     {
       "id": "mr4a95q2uhjth6",
-      "title": "Building Trust",
+      "title": "G. Building Trust",
       "parentId": "mr0uhmr2sbmcwp",
       "status": "pending",
-      "order": 13,
+      "order": 6,
       "createdAt": 1783043821370
     },
     {
       "id": "mr4a95qb9a79g7",
-      "title": "Meeting Effectiveness",
+      "title": "K. Meeting Effectiveness",
       "parentId": "mr0uhmr2sbmcwp",
       "status": "pending",
-      "order": 14,
+      "order": 10,
       "createdAt": 1783043821379
     },
     {
       "id": "mr4a95qknep452",
-      "title": "Team Productivity",
+      "title": "L. Team Productivity",
       "parentId": "mr0uhmr2sbmcwp",
       "status": "pending",
-      "order": 15,
+      "order": 11,
       "createdAt": 1783043821388
+    },
+    {
+      "id": "mr4abqfbod5eo0",
+      "title": "D. Workplace Communication",
+      "parentId": "mr0uhmr2sbmcwp",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783043941511
+    },
+    {
+      "id": "mr4ad1ic7mu68p",
+      "title": "H. Giving & Receiving Feedback",
+      "parentId": "mr0uhmr2sbmcwp",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783044002532
+    },
+    {
+      "id": "mr4add6t75owct",
+      "title": "I. Cross-Functional Collaboration",
+      "parentId": "mr0uhmr2sbmcwp",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783044017669
+    },
+    {
+      "id": "mr4adt732kbnsj",
+      "title": "J. Remote Collaboration",
+      "parentId": "mr0uhmr2sbmcwp",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783044038415
     }
   ],
   "pages": {
