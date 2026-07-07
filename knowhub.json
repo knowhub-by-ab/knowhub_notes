@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-07T19:12:55.619Z",
+  "exportedAt": "2026-07-07T19:17:53.396Z",
   "nodes": [
     {
       "order": 2,
@@ -26145,6 +26145,2310 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1783451258924
+    },
+    {
+      "id": "mrb10y39mrlr5n",
+      "title": "A. Creativity Fundamentals",
+      "parentId": "mr10blh0a5fgbz",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451584917
+    },
+    {
+      "id": "mrb10y3jmonyya",
+      "title": "B. Creative Mindsets",
+      "parentId": "mr10blh0a5fgbz",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451584927
+    },
+    {
+      "id": "mrb10y3yegmll9",
+      "title": "C. Imagination",
+      "parentId": "mr10blh0a5fgbz",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451584942
+    },
+    {
+      "id": "mrb10y4a756e6o",
+      "title": "D. Curiosity",
+      "parentId": "mr10blh0a5fgbz",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451584954
+    },
+    {
+      "id": "mrb10y4mvc43er",
+      "title": "E. Creative Confidence",
+      "parentId": "mr10blh0a5fgbz",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451584966
+    },
+    {
+      "id": "mrb10y4x0g3u6n",
+      "title": "F. Barriers to Creativity",
+      "parentId": "mr10blh0a5fgbz",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451584977
+    },
+    {
+      "id": "mrb10y5b4zij00",
+      "title": "G. Creative Habits",
+      "parentId": "mr10blh0a5fgbz",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451584991
+    },
+    {
+      "id": "mrb10y5sc5v2wf",
+      "title": "H. Inspiration & Observation",
+      "parentId": "mr10blh0a5fgbz",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451585008
+    },
+    {
+      "id": "mrb10y68isrt0o",
+      "title": "I. Creative Environments",
+      "parentId": "mr10blh0a5fgbz",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451585024
+    },
+    {
+      "id": "mrb10y6k6stcn5",
+      "title": "J. Everyday Creativity",
+      "parentId": "mr10blh0a5fgbz",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451585036
+    },
+    {
+      "id": "mrb10y6wyatv4l",
+      "title": "K. Measuring Creativity",
+      "parentId": "mr10blh0a5fgbz",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451585048
+    },
+    {
+      "id": "mrb10y78mhb1k3",
+      "title": "L. Lifelong Creative Development",
+      "parentId": "mr10blh0a5fgbz",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451585060
+    },
+    {
+      "id": "mrb10y7kca2sba",
+      "title": "A. Problem Identification",
+      "parentId": "mr10blh1u5coiz",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451585072
+    },
+    {
+      "id": "mrb10y7u0a93n4",
+      "title": "B. Problem Framing",
+      "parentId": "mr10blh1u5coiz",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451585082
+    },
+    {
+      "id": "mrb10y8812sbmb",
+      "title": "C. Divergent Thinking",
+      "parentId": "mr10blh1u5coiz",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451585096
+    },
+    {
+      "id": "mrb10y8lgslgv7",
+      "title": "D. Convergent Thinking",
+      "parentId": "mr10blh1u5coiz",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451585109
+    },
+    {
+      "id": "mrb10y8wcevrlo",
+      "title": "E. Brainstorming Methods",
+      "parentId": "mr10blh1u5coiz",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451585120
+    },
+    {
+      "id": "mrb10y98ezd9q6",
+      "title": "F. Lateral Thinking",
+      "parentId": "mr10blh1u5coiz",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451585132
+    },
+    {
+      "id": "mrb10y9kdg3t6g",
+      "title": "G. Root Cause Analysis",
+      "parentId": "mr10blh1u5coiz",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451585144
+    },
+    {
+      "id": "mrb10y9uc75esi",
+      "title": "H. Solution Evaluation",
+      "parentId": "mr10blh1u5coiz",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451585154
+    },
+    {
+      "id": "mrb10ya69c89n6",
+      "title": "I. Innovation Through Constraints",
+      "parentId": "mr10blh1u5coiz",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451585166
+    },
+    {
+      "id": "mrb10yahcn3mcg",
+      "title": "J. Collaborative Problem Solving",
+      "parentId": "mr10blh1u5coiz",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451585177
+    },
+    {
+      "id": "mrb10yare31rg9",
+      "title": "K. Complex Problem Solving",
+      "parentId": "mr10blh1u5coiz",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451585187
+    },
+    {
+      "id": "mrb10yb2y8f2ow",
+      "title": "L. Creative Decision Making",
+      "parentId": "mr10blh1u5coiz",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451585198
+    },
+    {
+      "id": "mrb10ybe7ap9fu",
+      "title": "A. Design Thinking Fundamentals",
+      "parentId": "mr10blh29m6grg",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451585210
+    },
+    {
+      "id": "mrb10yboaspk74",
+      "title": "B. Empathy",
+      "parentId": "mr10blh29m6grg",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451585220
+    },
+    {
+      "id": "mrb10ybzgs1hjn",
+      "title": "C. User Research",
+      "parentId": "mr10blh29m6grg",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451585231
+    },
+    {
+      "id": "mrb10ycc0bwm80",
+      "title": "D. Problem Definition",
+      "parentId": "mr10blh29m6grg",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451585244
+    },
+    {
+      "id": "mrb10yco8ihdg5",
+      "title": "E. Ideation",
+      "parentId": "mr10blh29m6grg",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451585256
+    },
+    {
+      "id": "mrb10yczl1a2nx",
+      "title": "F. Rapid Prototyping",
+      "parentId": "mr10blh29m6grg",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451585267
+    },
+    {
+      "id": "mrb10ydaawhnpg",
+      "title": "G. Testing & Validation",
+      "parentId": "mr10blh29m6grg",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451585278
+    },
+    {
+      "id": "mrb10ydm61tiof",
+      "title": "H. Iterative Design",
+      "parentId": "mr10blh29m6grg",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451585290
+    },
+    {
+      "id": "mrb10ydzoqla0q",
+      "title": "I. Human-Centered Design",
+      "parentId": "mr10blh29m6grg",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451585303
+    },
+    {
+      "id": "mrb10yebrty7aw",
+      "title": "J. Service Design",
+      "parentId": "mr10blh29m6grg",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451585315
+    },
+    {
+      "id": "mrb10yemx18e7k",
+      "title": "K. Organizational Design Thinking",
+      "parentId": "mr10blh29m6grg",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451585326
+    },
+    {
+      "id": "mrb10yex50fyd0",
+      "title": "L. Design Thinking Leadership",
+      "parentId": "mr10blh29m6grg",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451585337
+    },
+    {
+      "id": "mrb10yfaijlfj0",
+      "title": "A. Innovation Frameworks",
+      "parentId": "mr10blh54ffdrx",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451585350
+    },
+    {
+      "id": "mrb10yfmttt2xi",
+      "title": "B. Lean Innovation",
+      "parentId": "mr10blh54ffdrx",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451585362
+    },
+    {
+      "id": "mrb10yfyody83h",
+      "title": "C. Agile Innovation",
+      "parentId": "mr10blh54ffdrx",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451585374
+    },
+    {
+      "id": "mrb10yga5vnnap",
+      "title": "D. Open Innovation",
+      "parentId": "mr10blh54ffdrx",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451585386
+    },
+    {
+      "id": "mrb10yglw1qrld",
+      "title": "E. Blue Ocean Strategy",
+      "parentId": "mr10blh54ffdrx",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451585397
+    },
+    {
+      "id": "mrb10ygwe0i4pt",
+      "title": "F. TRIZ",
+      "parentId": "mr10blh54ffdrx",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451585408
+    },
+    {
+      "id": "mrb10yh9v9i99c",
+      "title": "G. Design Sprint",
+      "parentId": "mr10blh54ffdrx",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451585421
+    },
+    {
+      "id": "mrb10yhme2am8e",
+      "title": "H. Experimentation",
+      "parentId": "mr10blh54ffdrx",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451585434
+    },
+    {
+      "id": "mrb10yhydbd69q",
+      "title": "I. Innovation Portfolio",
+      "parentId": "mr10blh54ffdrx",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451585446
+    },
+    {
+      "id": "mrb10yi9938bny",
+      "title": "J. Continuous Innovation",
+      "parentId": "mr10blh54ffdrx",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451585457
+    },
+    {
+      "id": "mrb10yiky3qziv",
+      "title": "K. Enterprise Innovation",
+      "parentId": "mr10blh54ffdrx",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451585468
+    },
+    {
+      "id": "mrb10yix2w0fri",
+      "title": "L. Innovation Excellence",
+      "parentId": "mr10blh54ffdrx",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451585481
+    },
+    {
+      "id": "mrb10yj9dghvni",
+      "title": "A. Knowledge Fundamentals",
+      "parentId": "mr10blh6t2v91n",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451585493
+    },
+    {
+      "id": "mrb10yjl4xf54d",
+      "title": "B. Explicit & Tacit Knowledge",
+      "parentId": "mr10blh6t2v91n",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451585505
+    },
+    {
+      "id": "mrb10yjxdxl6wt",
+      "title": "C. Knowledge Capture",
+      "parentId": "mr10blh6t2v91n",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451585517
+    },
+    {
+      "id": "mrb10yk90fa4sf",
+      "title": "D. Knowledge Organization",
+      "parentId": "mr10blh6t2v91n",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451585529
+    },
+    {
+      "id": "mrb10yklaxgutr",
+      "title": "E. Knowledge Storage",
+      "parentId": "mr10blh6t2v91n",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451585541
+    },
+    {
+      "id": "mrb10yky8zkcki",
+      "title": "F. Knowledge Retrieval",
+      "parentId": "mr10blh6t2v91n",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451585554
+    },
+    {
+      "id": "mrb10ylajvlyb0",
+      "title": "G. Knowledge Sharing",
+      "parentId": "mr10blh6t2v91n",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451585566
+    },
+    {
+      "id": "mrb10ylmlgzmgs",
+      "title": "H. Knowledge Reuse",
+      "parentId": "mr10blh6t2v91n",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451585578
+    },
+    {
+      "id": "mrb10ylx9bofmk",
+      "title": "I. Organizational Knowledge",
+      "parentId": "mr10blh6t2v91n",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451585589
+    },
+    {
+      "id": "mrb10ym8vnf4ys",
+      "title": "J. Digital Knowledge Systems",
+      "parentId": "mr10blh6t2v91n",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451585600
+    },
+    {
+      "id": "mrb10ymjolzpb8",
+      "title": "K. Personal Knowledge Management",
+      "parentId": "mr10blh6t2v91n",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451585611
+    },
+    {
+      "id": "mrb10ymuotmpw4",
+      "title": "L. Knowledge Ecosystems",
+      "parentId": "mr10blh6t2v91n",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451585622
+    },
+    {
+      "id": "mrb10yn58setdp",
+      "title": "A. Research Fundamentals",
+      "parentId": "mr10blh7klih35",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451585633
+    },
+    {
+      "id": "mrb10ynfbxr1q0",
+      "title": "B. Research Questions",
+      "parentId": "mr10blh7klih35",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451585643
+    },
+    {
+      "id": "mrb10ynqop82x9",
+      "title": "C. Information Discovery",
+      "parentId": "mr10blh7klih35",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451585654
+    },
+    {
+      "id": "mrb10yo2ov9v93",
+      "title": "D. Literature Exploration",
+      "parentId": "mr10blh7klih35",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451585666
+    },
+    {
+      "id": "mrb10yodvniuzz",
+      "title": "E. Evidence Collection",
+      "parentId": "mr10blh7klih35",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451585677
+    },
+    {
+      "id": "mrb10yopo3nss6",
+      "title": "F. Research Planning",
+      "parentId": "mr10blh7klih35",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451585689
+    },
+    {
+      "id": "mrb10yp0f2dkbp",
+      "title": "G. Data Collection",
+      "parentId": "mr10blh7klih35",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451585700
+    },
+    {
+      "id": "mrb10ypcli8m3n",
+      "title": "H. Observation Techniques",
+      "parentId": "mr10blh7klih35",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451585712
+    },
+    {
+      "id": "mrb10ypqvzeyif",
+      "title": "I. Exploratory Research",
+      "parentId": "mr10blh7klih35",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451585726
+    },
+    {
+      "id": "mrb10yq1cimwis",
+      "title": "J. Applied Research",
+      "parentId": "mr10blh7klih35",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451585737
+    },
+    {
+      "id": "mrb10yqb7xd5lz",
+      "title": "K. Research Projects",
+      "parentId": "mr10blh7klih35",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451585747
+    },
+    {
+      "id": "mrb10yqmnj348p",
+      "title": "L. Research Excellence",
+      "parentId": "mr10blh7klih35",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451585758
+    },
+    {
+      "id": "mrb10yqyfz22kr",
+      "title": "A. Inquiry Fundamentals",
+      "parentId": "mr10blhagixw5n",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451585770
+    },
+    {
+      "id": "mrb10yr9426fdy",
+      "title": "B. Asking Better Questions",
+      "parentId": "mr10blhagixw5n",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451585781
+    },
+    {
+      "id": "mrb10yrj6060a0",
+      "title": "C. Logical Inquiry",
+      "parentId": "mr10blhagixw5n",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451585791
+    },
+    {
+      "id": "mrb10yru8t8ma3",
+      "title": "D. Evidence Evaluation",
+      "parentId": "mr10blhagixw5n",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451585802
+    },
+    {
+      "id": "mrb10ys4u0a915",
+      "title": "E. Critical Analysis",
+      "parentId": "mr10blhagixw5n",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451585812
+    },
+    {
+      "id": "mrb10ysinfgqpc",
+      "title": "F. Argument Evaluation",
+      "parentId": "mr10blhagixw5n",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451585826
+    },
+    {
+      "id": "mrb10ysu037fxh",
+      "title": "G. Bias Identification",
+      "parentId": "mr10blhagixw5n",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451585838
+    },
+    {
+      "id": "mrb10yt61y23gq",
+      "title": "H. Reflective Inquiry",
+      "parentId": "mr10blhagixw5n",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451585850
+    },
+    {
+      "id": "mrb10ytg31oixw",
+      "title": "I. Scientific Inquiry",
+      "parentId": "mr10blhagixw5n",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451585860
+    },
+    {
+      "id": "mrb10ytreicbam",
+      "title": "J. Ethical Inquiry",
+      "parentId": "mr10blhagixw5n",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451585871
+    },
+    {
+      "id": "mrb10yu22dmiwt",
+      "title": "K. Interdisciplinary Inquiry",
+      "parentId": "mr10blhagixw5n",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451585882
+    },
+    {
+      "id": "mrb10yue1lpa2h",
+      "title": "L. Advanced Critical Inquiry",
+      "parentId": "mr10blhagixw5n",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451585894
+    },
+    {
+      "id": "mrb10yupdb57vs",
+      "title": "A. Idea Generation",
+      "parentId": "mr10blhc16okjl",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451585905
+    },
+    {
+      "id": "mrb10yv1e1i0hp",
+      "title": "B. Opportunity Discovery",
+      "parentId": "mr10blhc16okjl",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451585917
+    },
+    {
+      "id": "mrb10yvb1q60of",
+      "title": "C. Brainstorming Systems",
+      "parentId": "mr10blhc16okjl",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451585927
+    },
+    {
+      "id": "mrb10yvls9opz2",
+      "title": "D. Concept Development",
+      "parentId": "mr10blhc16okjl",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451585937
+    },
+    {
+      "id": "mrb10yvxhi1hp6",
+      "title": "E. Idea Prioritization",
+      "parentId": "mr10blhc16okjl",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451585949
+    },
+    {
+      "id": "mrb10yw957c7l2",
+      "title": "F. Hypothesis Formation",
+      "parentId": "mr10blhc16okjl",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451585961
+    },
+    {
+      "id": "mrb10ywllu5gur",
+      "title": "G. Validation Methods",
+      "parentId": "mr10blhc16okjl",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451585973
+    },
+    {
+      "id": "mrb10ywzvua04r",
+      "title": "H. Customer Validation",
+      "parentId": "mr10blhc16okjl",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451585987
+    },
+    {
+      "id": "mrb10yxdinb3bw",
+      "title": "I. Rapid Experimentation",
+      "parentId": "mr10blhc16okjl",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451586001
+    },
+    {
+      "id": "mrb10yxo29mdtm",
+      "title": "J. Minimum Viable Concepts",
+      "parentId": "mr10blhc16okjl",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451586012
+    },
+    {
+      "id": "mrb10yxzf82ap0",
+      "title": "K. Innovation Validation",
+      "parentId": "mr10blhc16okjl",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451586023
+    },
+    {
+      "id": "mrb10yybz877tm",
+      "title": "L. Idea Portfolio Management",
+      "parentId": "mr10blhc16okjl",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451586035
+    },
+    {
+      "id": "mrb10yynn0f5ht",
+      "title": "A. Professional Writing",
+      "parentId": "mr10blheny3wc3",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451586047
+    },
+    {
+      "id": "mrb10yyx3j1zmr",
+      "title": "B. Technical Writing",
+      "parentId": "mr10blheny3wc3",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451586057
+    },
+    {
+      "id": "mrb10yz9p1adic",
+      "title": "C. Academic Writing",
+      "parentId": "mr10blheny3wc3",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451586069
+    },
+    {
+      "id": "mrb10yzmjrvzff",
+      "title": "D. Research Documentation",
+      "parentId": "mr10blheny3wc3",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451586082
+    },
+    {
+      "id": "mrb10z011tjrkw",
+      "title": "E. Scientific Publishing",
+      "parentId": "mr10blheny3wc3",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451586097
+    },
+    {
+      "id": "mrb10z0cz4c7u8",
+      "title": "F. Digital Publishing",
+      "parentId": "mr10blheny3wc3",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451586108
+    },
+    {
+      "id": "mrb10z0qhm6o49",
+      "title": "G. Knowledge Communication",
+      "parentId": "mr10blheny3wc3",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451586122
+    },
+    {
+      "id": "mrb10z13t5dnnj",
+      "title": "H. Storytelling",
+      "parentId": "mr10blheny3wc3",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451586135
+    },
+    {
+      "id": "mrb10z1f99n5ol",
+      "title": "I. Educational Content Creation",
+      "parentId": "mr10blheny3wc3",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451586147
+    },
+    {
+      "id": "mrb10z1rptmxil",
+      "title": "J. Open Knowledge",
+      "parentId": "mr10blheny3wc3",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451586159
+    },
+    {
+      "id": "mrb10z24c1wfo4",
+      "title": "K. Thought Leadership",
+      "parentId": "mr10blheny3wc3",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451586172
+    },
+    {
+      "id": "mrb10z2fqnrycu",
+      "title": "L. Knowledge Dissemination",
+      "parentId": "mr10blheny3wc3",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451586183
+    },
+    {
+      "id": "mrb10z2s4mdmk0",
+      "title": "A. Intellectual Property Fundamentals",
+      "parentId": "mr10blhg5mfit2",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451586196
+    },
+    {
+      "id": "mrb10z32ppxucv",
+      "title": "B. Copyright",
+      "parentId": "mr10blhg5mfit2",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451586206
+    },
+    {
+      "id": "mrb10z3eaps1z7",
+      "title": "C. Patents",
+      "parentId": "mr10blhg5mfit2",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451586218
+    },
+    {
+      "id": "mrb10z3rv8vshp",
+      "title": "D. Trademarks",
+      "parentId": "mr10blhg5mfit2",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451586231
+    },
+    {
+      "id": "mrb10z43v40c6j",
+      "title": "E. Trade Secrets",
+      "parentId": "mr10blhg5mfit2",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451586243
+    },
+    {
+      "id": "mrb10z4hb6uchf",
+      "title": "F. Licensing",
+      "parentId": "mr10blhg5mfit2",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451586257
+    },
+    {
+      "id": "mrb10z4tz9tgec",
+      "title": "G. Innovation Protection",
+      "parentId": "mr10blhg5mfit2",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451586269
+    },
+    {
+      "id": "mrb10z54jkljye",
+      "title": "H. Commercialization",
+      "parentId": "mr10blhg5mfit2",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451586280
+    },
+    {
+      "id": "mrb10z5ghrb5ol",
+      "title": "I. Technology Transfer",
+      "parentId": "mr10blhg5mfit2",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451586292
+    },
+    {
+      "id": "mrb10z5sajdhvg",
+      "title": "J. Open Innovation",
+      "parentId": "mr10blhg5mfit2",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451586304
+    },
+    {
+      "id": "mrb10z65156h96",
+      "title": "K. IP Strategy",
+      "parentId": "mr10blhg5mfit2",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451586317
+    },
+    {
+      "id": "mrb10z6haay5cb",
+      "title": "L. Innovation Governance",
+      "parentId": "mr10blhg5mfit2",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451586329
+    },
+    {
+      "id": "mrb10z6tt6kxku",
+      "title": "A. Interdisciplinary Thinking",
+      "parentId": "mr10blhk3t7ea8",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451586341
+    },
+    {
+      "id": "mrb10z79bpunls",
+      "title": "B. Systems Integration",
+      "parentId": "mr10blhk3t7ea8",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451586357
+    },
+    {
+      "id": "mrb10z7nvvihs7",
+      "title": "C. Knowledge Synthesis",
+      "parentId": "mr10blhk3t7ea8",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451586371
+    },
+    {
+      "id": "mrb10z817160zk",
+      "title": "D. Analogical Thinking",
+      "parentId": "mr10blhk3t7ea8",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451586385
+    },
+    {
+      "id": "mrb10z8cqxxlte",
+      "title": "E. Cross-Domain Learning",
+      "parentId": "mr10blhk3t7ea8",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451586396
+    },
+    {
+      "id": "mrb10z8q4pdkgt",
+      "title": "F. Holistic Thinking",
+      "parentId": "mr10blhk3t7ea8",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451586410
+    },
+    {
+      "id": "mrb10z912q5148",
+      "title": "G. Complex Systems",
+      "parentId": "mr10blhk3t7ea8",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451586421
+    },
+    {
+      "id": "mrb10z9clmirx2",
+      "title": "H. Integrative Reasoning",
+      "parentId": "mr10blhk3t7ea8",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451586432
+    },
+    {
+      "id": "mrb10z9oulqcls",
+      "title": "I. Collaborative Innovation",
+      "parentId": "mr10blhk3t7ea8",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451586444
+    },
+    {
+      "id": "mrb10za1lczmx8",
+      "title": "J. Boundary-Spanning Skills",
+      "parentId": "mr10blhk3t7ea8",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451586457
+    },
+    {
+      "id": "mrb10zacefe2xs",
+      "title": "K. Multidisciplinary Research",
+      "parentId": "mr10blhk3t7ea8",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451586468
+    },
+    {
+      "id": "mrb10zantuqd6d",
+      "title": "L. Interdisciplinary Leadership",
+      "parentId": "mr10blhk3t7ea8",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451586479
+    },
+    {
+      "id": "mrb10zayvgg887",
+      "title": "A. Applied Creativity",
+      "parentId": "mr10blhlwi5dem",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451586490
+    },
+    {
+      "id": "mrb10zbb9rsozi",
+      "title": "B. Applied Research",
+      "parentId": "mr10blhlwi5dem",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451586503
+    },
+    {
+      "id": "mrb10zbmvo921g",
+      "title": "C. Knowledge Building",
+      "parentId": "mr10blhlwi5dem",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451586514
+    },
+    {
+      "id": "mrb10zbxe4wh30",
+      "title": "D. Innovation Projects",
+      "parentId": "mr10blhlwi5dem",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451586525
+    },
+    {
+      "id": "mrb10zc9q1vwvl",
+      "title": "E. Problem-Driven Research",
+      "parentId": "mr10blhlwi5dem",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451586537
+    },
+    {
+      "id": "mrb10zclrnb7dx",
+      "title": "F. Organizational Learning",
+      "parentId": "mr10blhlwi5dem",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451586549
+    },
+    {
+      "id": "mrb10zcy96ll3r",
+      "title": "G. Community Knowledge Creation",
+      "parentId": "mr10blhlwi5dem",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451586562
+    },
+    {
+      "id": "mrb10zdab9lz0x",
+      "title": "H. Evidence-Based Practice",
+      "parentId": "mr10blhlwi5dem",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451586574
+    },
+    {
+      "id": "mrb10zdm1sydx8",
+      "title": "I. Continuous Knowledge Improvement",
+      "parentId": "mr10blhlwi5dem",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451586586
+    },
+    {
+      "id": "mrb10ze0970vcg",
+      "title": "J. Knowledge Leadership",
+      "parentId": "mr10blhlwi5dem",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451586600
+    },
+    {
+      "id": "mrb10zebrihei5",
+      "title": "K. Societal Impact",
+      "parentId": "mr10blhlwi5dem",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451586611
+    },
+    {
+      "id": "mrb10zep3m6453",
+      "title": "L. Lifelong Knowledge Creation",
+      "parentId": "mr10blhlwi5dem",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451586625
+    },
+    {
+      "id": "mrb14n3hbvvk6p",
+      "title": "A. Ethics Fundamentals",
+      "parentId": "mr10d95enn2bra",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451757293
+    },
+    {
+      "id": "mrb14n3rwg4c2r",
+      "title": "B. Moral Philosophy",
+      "parentId": "mr10d95enn2bra",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451757303
+    },
+    {
+      "id": "mrb14n420c9azb",
+      "title": "C. Ethical Reasoning",
+      "parentId": "mr10d95enn2bra",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451757314
+    },
+    {
+      "id": "mrb14n4dzhvu57",
+      "title": "D. Ethical Decision Making",
+      "parentId": "mr10d95enn2bra",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451757325
+    },
+    {
+      "id": "mrb14n4qcpnhhk",
+      "title": "E. Ethical Frameworks",
+      "parentId": "mr10d95enn2bra",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451757338
+    },
+    {
+      "id": "mrb14n53q4j9h8",
+      "title": "F. Personal Ethics",
+      "parentId": "mr10d95enn2bra",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451757351
+    },
+    {
+      "id": "mrb14n5h01rzvh",
+      "title": "G. Professional Ethics",
+      "parentId": "mr10d95enn2bra",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451757365
+    },
+    {
+      "id": "mrb14n5uged345",
+      "title": "H. Ethical Dilemmas",
+      "parentId": "mr10d95enn2bra",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451757378
+    },
+    {
+      "id": "mrb14n66kwrys2",
+      "title": "I. Integrity",
+      "parentId": "mr10d95enn2bra",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451757390
+    },
+    {
+      "id": "mrb14n6hpgyzvo",
+      "title": "J. Accountability",
+      "parentId": "mr10d95enn2bra",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451757401
+    },
+    {
+      "id": "mrb14n6t3fluns",
+      "title": "K. Ethics in Everyday Life",
+      "parentId": "mr10d95enn2bra",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451757413
+    },
+    {
+      "id": "mrb14n76mk1e4b",
+      "title": "L. Ethical Leadership Foundations",
+      "parentId": "mr10d95enn2bra",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451757426
+    },
+    {
+      "id": "mrb14n7i41b939",
+      "title": "A. Professional Conduct",
+      "parentId": "mr10d95fm4175c",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451757438
+    },
+    {
+      "id": "mrb14n7t3z8g3f",
+      "title": "B. Codes of Ethics",
+      "parentId": "mr10d95fm4175c",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451757449
+    },
+    {
+      "id": "mrb14n85t8gsb2",
+      "title": "C. Professional Responsibility",
+      "parentId": "mr10d95fm4175c",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451757461
+    },
+    {
+      "id": "mrb14n8gp5532k",
+      "title": "D. Professional Integrity",
+      "parentId": "mr10d95fm4175c",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451757472
+    },
+    {
+      "id": "mrb14n8sg9kmt6",
+      "title": "E. Workplace Ethics",
+      "parentId": "mr10d95fm4175c",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451757484
+    },
+    {
+      "id": "mrb14n93p96p67",
+      "title": "F. Ethical Communication",
+      "parentId": "mr10d95fm4175c",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451757495
+    },
+    {
+      "id": "mrb14n9hn928ha",
+      "title": "G. Ethical Decision Making",
+      "parentId": "mr10d95fm4175c",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451757509
+    },
+    {
+      "id": "mrb14n9sg7fs4m",
+      "title": "H. Conflicts of Interest",
+      "parentId": "mr10d95fm4175c",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451757520
+    },
+    {
+      "id": "mrb14na6q0dnj0",
+      "title": "I. Confidentiality",
+      "parentId": "mr10d95fm4175c",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451757534
+    },
+    {
+      "id": "mrb14naj16lg0g",
+      "title": "J. Professional Accountability",
+      "parentId": "mr10d95fm4175c",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451757547
+    },
+    {
+      "id": "mrb14navkiaujm",
+      "title": "K. Ethical Case Studies",
+      "parentId": "mr10d95fm4175c",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451757559
+    },
+    {
+      "id": "mrb14nb97mlfm8",
+      "title": "L. Ethics in Professional Practice",
+      "parentId": "mr10d95fm4175c",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451757573
+    },
+    {
+      "id": "mrb14nbkylh05e",
+      "title": "A. Digital Ethics",
+      "parentId": "mr10d95gb2f17p",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451757584
+    },
+    {
+      "id": "mrb14nbwnkmn3g",
+      "title": "B. AI Ethics",
+      "parentId": "mr10d95gb2f17p",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451757596
+    },
+    {
+      "id": "mrb14nc8yrz5t2",
+      "title": "C. Data Ethics",
+      "parentId": "mr10d95gb2f17p",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451757608
+    },
+    {
+      "id": "mrb14ncm4ldd38",
+      "title": "D. Privacy & Data Protection",
+      "parentId": "mr10d95gb2f17p",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451757622
+    },
+    {
+      "id": "mrb14ncyg4jycw",
+      "title": "E. Algorithmic Bias",
+      "parentId": "mr10d95gb2f17p",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451757634
+    },
+    {
+      "id": "mrb14nd96l2lre",
+      "title": "F. Fairness & Transparency",
+      "parentId": "mr10d95gb2f17p",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451757645
+    },
+    {
+      "id": "mrb14ndlnp7w5x",
+      "title": "G. Responsible AI",
+      "parentId": "mr10d95gb2f17p",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451757657
+    },
+    {
+      "id": "mrb14ndx86wl0p",
+      "title": "H. Cyber Ethics",
+      "parentId": "mr10d95gb2f17p",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451757669
+    },
+    {
+      "id": "mrb14ne9m7rg85",
+      "title": "I. Emerging Technology Ethics",
+      "parentId": "mr10d95gb2f17p",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451757681
+    },
+    {
+      "id": "mrb14nel2qfico",
+      "title": "J. Human-Centered Technology",
+      "parentId": "mr10d95gb2f17p",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451757693
+    },
+    {
+      "id": "mrb14newqhxyz3",
+      "title": "K. Technology Governance",
+      "parentId": "mr10d95gb2f17p",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451757704
+    },
+    {
+      "id": "mrb14nf90os68x",
+      "title": "L. Future Technology Ethics",
+      "parentId": "mr10d95gb2f17p",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451757717
+    },
+    {
+      "id": "mrb14nfmd3wzz2",
+      "title": "A. Responsible Innovation Foundations",
+      "parentId": "mr10d95ittvyt5",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451757730
+    },
+    {
+      "id": "mrb14nfy672plz",
+      "title": "B. Human-Centered Innovation",
+      "parentId": "mr10d95ittvyt5",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451757742
+    },
+    {
+      "id": "mrb14ng9wovkp5",
+      "title": "C. Ethical Product Design",
+      "parentId": "mr10d95ittvyt5",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451757753
+    },
+    {
+      "id": "mrb14ngkezzka2",
+      "title": "D. Innovation Risk Assessment",
+      "parentId": "mr10d95ittvyt5",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451757764
+    },
+    {
+      "id": "mrb14ngxo6gx5r",
+      "title": "E. Sustainable Innovation",
+      "parentId": "mr10d95ittvyt5",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451757777
+    },
+    {
+      "id": "mrb14nh9h8eci2",
+      "title": "F. Inclusive Innovation",
+      "parentId": "mr10d95ittvyt5",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451757789
+    },
+    {
+      "id": "mrb14nhmg2mp2d",
+      "title": "G. Innovation Governance",
+      "parentId": "mr10d95ittvyt5",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451757802
+    },
+    {
+      "id": "mrb14nhztubq70",
+      "title": "H. Social Innovation",
+      "parentId": "mr10d95ittvyt5",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451757815
+    },
+    {
+      "id": "mrb14nib6tnhtd",
+      "title": "I. Technology Assessment",
+      "parentId": "mr10d95ittvyt5",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451757827
+    },
+    {
+      "id": "mrb14niouex5zb",
+      "title": "J. Innovation Impact Evaluation",
+      "parentId": "mr10d95ittvyt5",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451757840
+    },
+    {
+      "id": "mrb14nizhk9gpu",
+      "title": "K. Responsible Entrepreneurship",
+      "parentId": "mr10d95ittvyt5",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451757851
+    },
+    {
+      "id": "mrb14njeusbjfd",
+      "title": "L. Innovation Stewardship",
+      "parentId": "mr10d95ittvyt5",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451757867
+    },
+    {
+      "id": "mrb14njqxfieoy",
+      "title": "A. Sustainability Fundamentals",
+      "parentId": "mr10d95klsm2db",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451757878
+    },
+    {
+      "id": "mrb14nk1tcgq7j",
+      "title": "B. Sustainable Development",
+      "parentId": "mr10d95klsm2db",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451757889
+    },
+    {
+      "id": "mrb14nkdyy1s4v",
+      "title": "C. Triple Bottom Line",
+      "parentId": "mr10d95klsm2db",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451757902
+    },
+    {
+      "id": "mrb14nkqts8gue",
+      "title": "D. ESG Fundamentals",
+      "parentId": "mr10d95klsm2db",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451757914
+    },
+    {
+      "id": "mrb14nl1rjznfs",
+      "title": "E. Circular Economy",
+      "parentId": "mr10d95klsm2db",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451757925
+    },
+    {
+      "id": "mrb14nlcvyy8e6",
+      "title": "F. Sustainable Business",
+      "parentId": "mr10d95klsm2db",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451757936
+    },
+    {
+      "id": "mrb14nln3gesnv",
+      "title": "G. Sustainable Innovation",
+      "parentId": "mr10d95klsm2db",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451757947
+    },
+    {
+      "id": "mrb14nm1z7045u",
+      "title": "H. Resource Efficiency",
+      "parentId": "mr10d95klsm2db",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451757961
+    },
+    {
+      "id": "mrb14nme4izmka",
+      "title": "I. Sustainable Consumption",
+      "parentId": "mr10d95klsm2db",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451757974
+    },
+    {
+      "id": "mrb14nmsoux13v",
+      "title": "J. Sustainability Metrics",
+      "parentId": "mr10d95klsm2db",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451757988
+    },
+    {
+      "id": "mrb14nn4kzjufd",
+      "title": "K. Corporate Sustainability",
+      "parentId": "mr10d95klsm2db",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451758000
+    },
+    {
+      "id": "mrb14nnglj1zzj",
+      "title": "L. Future Sustainability",
+      "parentId": "mr10d95klsm2db",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451758012
+    },
+    {
+      "id": "mrb14nnsapbimk",
+      "title": "A. Environmental Science Basics",
+      "parentId": "mr10d95l2f8q6e",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451758024
+    },
+    {
+      "id": "mrb14no6pennli",
+      "title": "B. Climate Change",
+      "parentId": "mr10d95l2f8q6e",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451758038
+    },
+    {
+      "id": "mrb14nolliyl1s",
+      "title": "C. Carbon Management",
+      "parentId": "mr10d95l2f8q6e",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451758053
+    },
+    {
+      "id": "mrb14nozwo3ake",
+      "title": "D. Renewable Energy",
+      "parentId": "mr10d95l2f8q6e",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451758067
+    },
+    {
+      "id": "mrb14npas6v75j",
+      "title": "E. Resource Conservation",
+      "parentId": "mr10d95l2f8q6e",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451758078
+    },
+    {
+      "id": "mrb14nplcs1zdc",
+      "title": "F. Waste Management",
+      "parentId": "mr10d95l2f8q6e",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451758089
+    },
+    {
+      "id": "mrb14nq2cvtwkv",
+      "title": "G. Pollution Control",
+      "parentId": "mr10d95l2f8q6e",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451758106
+    },
+    {
+      "id": "mrb14nqdd71t2l",
+      "title": "H. Biodiversity",
+      "parentId": "mr10d95l2f8q6e",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451758117
+    },
+    {
+      "id": "mrb14nqpnxdat2",
+      "title": "I. Environmental Policy",
+      "parentId": "mr10d95l2f8q6e",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451758129
+    },
+    {
+      "id": "mrb14nr1g8me6r",
+      "title": "J. Green Technology",
+      "parentId": "mr10d95l2f8q6e",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451758141
+    },
+    {
+      "id": "mrb14nrey7iakq",
+      "title": "K. Environmental Risk Management",
+      "parentId": "mr10d95l2f8q6e",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451758154
+    },
+    {
+      "id": "mrb14nrpjn4gug",
+      "title": "L. Environmental Stewardship",
+      "parentId": "mr10d95l2f8q6e",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451758165
+    },
+    {
+      "id": "mrb14ns2jmrscl",
+      "title": "A. Social Responsibility Foundations",
+      "parentId": "mr10d95nz1w31f",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451758178
+    },
+    {
+      "id": "mrb14nsdah9gm5",
+      "title": "B. Corporate Social Responsibility",
+      "parentId": "mr10d95nz1w31f",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451758189
+    },
+    {
+      "id": "mrb14nsp7qfwp7",
+      "title": "C. Community Development",
+      "parentId": "mr10d95nz1w31f",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451758201
+    },
+    {
+      "id": "mrb14nt1w8ar1a",
+      "title": "D. Human Rights",
+      "parentId": "mr10d95nz1w31f",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451758213
+    },
+    {
+      "id": "mrb14ntcu7hksl",
+      "title": "E. Social Justice",
+      "parentId": "mr10d95nz1w31f",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451758224
+    },
+    {
+      "id": "mrb14ntp0txsks",
+      "title": "F. Ethical Supply Chains",
+      "parentId": "mr10d95nz1w31f",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451758237
+    },
+    {
+      "id": "mrb14nu1xlxh8l",
+      "title": "G. Stakeholder Responsibility",
+      "parentId": "mr10d95nz1w31f",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451758249
+    },
+    {
+      "id": "mrb14nucea63ha",
+      "title": "H. Philanthropy",
+      "parentId": "mr10d95nz1w31f",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451758260
+    },
+    {
+      "id": "mrb14nunv0dr3w",
+      "title": "I. Social Impact Measurement",
+      "parentId": "mr10d95nz1w31f",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451758271
+    },
+    {
+      "id": "mrb14nuz3zadrn",
+      "title": "J. Responsible Business Practices",
+      "parentId": "mr10d95nz1w31f",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451758283
+    },
+    {
+      "id": "mrb14nvbaqharh",
+      "title": "K. Inclusive Growth",
+      "parentId": "mr10d95nz1w31f",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451758295
+    },
+    {
+      "id": "mrb14nvm0z2og0",
+      "title": "L. Social Value Creation",
+      "parentId": "mr10d95nz1w31f",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451758306
+    },
+    {
+      "id": "mrb14nw0w7ojo7",
+      "title": "A. Diversity Fundamentals",
+      "parentId": "mr10d95n888nqj",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451758320
+    },
+    {
+      "id": "mrb14nwbwsjsec",
+      "title": "B. Equity Principles",
+      "parentId": "mr10d95n888nqj",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451758331
+    },
+    {
+      "id": "mrb14nwn0soxca",
+      "title": "C. Inclusion Practices",
+      "parentId": "mr10d95n888nqj",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451758343
+    },
+    {
+      "id": "mrb14nwyyjq0f0",
+      "title": "D. Unconscious Bias",
+      "parentId": "mr10d95n888nqj",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451758354
+    },
+    {
+      "id": "mrb14nxakn0mew",
+      "title": "E. Cultural Intelligence",
+      "parentId": "mr10d95n888nqj",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451758366
+    },
+    {
+      "id": "mrb14nxv6ucm07",
+      "title": "F. Inclusive Leadership",
+      "parentId": "mr10d95n888nqj",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451758387
+    },
+    {
+      "id": "mrb14ny6fsyfbi",
+      "title": "G. Accessibility",
+      "parentId": "mr10d95n888nqj",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451758398
+    },
+    {
+      "id": "mrb14nyi4ispxu",
+      "title": "H. Belonging",
+      "parentId": "mr10d95n888nqj",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451758410
+    },
+    {
+      "id": "mrb14nyxafatil",
+      "title": "I. Cross-Cultural Collaboration",
+      "parentId": "mr10d95n888nqj",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451758425
+    },
+    {
+      "id": "mrb14nz86ipmac",
+      "title": "J. Global Workforce Inclusion",
+      "parentId": "mr10d95n888nqj",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451758436
+    },
+    {
+      "id": "mrb14nzkgupaaj",
+      "title": "K. Inclusive Organizations",
+      "parentId": "mr10d95n888nqj",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451758448
+    },
+    {
+      "id": "mrb14nzvxmvblg",
+      "title": "L. DEI Strategy",
+      "parentId": "mr10d95n888nqj",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451758459
+    },
+    {
+      "id": "mrb14o063vkqoz",
+      "title": "A. Global Citizenship Foundations",
+      "parentId": "mr10d95ou1aapo",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451758470
+    },
+    {
+      "id": "mrb14o0lq0ah3h",
+      "title": "B. Cultural Awareness",
+      "parentId": "mr10d95ou1aapo",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451758485
+    },
+    {
+      "id": "mrb14o0w0m9y8q",
+      "title": "C. Global Perspectives",
+      "parentId": "mr10d95ou1aapo",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451758496
+    },
+    {
+      "id": "mrb14o18xxas9x",
+      "title": "D. International Collaboration",
+      "parentId": "mr10d95ou1aapo",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451758508
+    },
+    {
+      "id": "mrb14o1jk0p756",
+      "title": "E. Cross-Cultural Communication",
+      "parentId": "mr10d95ou1aapo",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451758519
+    },
+    {
+      "id": "mrb14o1uio28d5",
+      "title": "F. Sustainable Development Goals",
+      "parentId": "mr10d95ou1aapo",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451758530
+    },
+    {
+      "id": "mrb14o2725liuh",
+      "title": "G. Global Challenges",
+      "parentId": "mr10d95ou1aapo",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451758543
+    },
+    {
+      "id": "mrb14o2jayms7u",
+      "title": "H. Responsible Global Leadership",
+      "parentId": "mr10d95ou1aapo",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451758555
+    },
+    {
+      "id": "mrb14o2tgcl1pe",
+      "title": "I. Global Ethics",
+      "parentId": "mr10d95ou1aapo",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451758565
+    },
+    {
+      "id": "mrb14o36ntae0o",
+      "title": "J. International Relations Awareness",
+      "parentId": "mr10d95ou1aapo",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451758578
+    },
+    {
+      "id": "mrb14o3jf90rv2",
+      "title": "K. Global Innovation",
+      "parentId": "mr10d95ou1aapo",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451758591
+    },
+    {
+      "id": "mrb14o3vc3i4wi",
+      "title": "L. Global Impact",
+      "parentId": "mr10d95ou1aapo",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451758603
+    },
+    {
+      "id": "mrb14o45i94x1b",
+      "title": "A. Governance Fundamentals",
+      "parentId": "mr10d95pct4iai",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451758613
+    },
+    {
+      "id": "mrb14o4gt2th1i",
+      "title": "B. Corporate Governance",
+      "parentId": "mr10d95pct4iai",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451758624
+    },
+    {
+      "id": "mrb14o4qwe8atk",
+      "title": "C. Regulatory Compliance",
+      "parentId": "mr10d95pct4iai",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451758634
+    },
+    {
+      "id": "mrb14o52bohpw5",
+      "title": "D. Risk & Compliance",
+      "parentId": "mr10d95pct4iai",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451758646
+    },
+    {
+      "id": "mrb14o5d1gsfmw",
+      "title": "E. Internal Controls",
+      "parentId": "mr10d95pct4iai",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451758657
+    },
+    {
+      "id": "mrb14o5p1o8olx",
+      "title": "F. Audit Fundamentals",
+      "parentId": "mr10d95pct4iai",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451758669
+    },
+    {
+      "id": "mrb14o621v5ed4",
+      "title": "G. Policy Development",
+      "parentId": "mr10d95pct4iai",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451758682
+    },
+    {
+      "id": "mrb14o6d8w7ttg",
+      "title": "H. Compliance Programs",
+      "parentId": "mr10d95pct4iai",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451758693
+    },
+    {
+      "id": "mrb14o6n9p8490",
+      "title": "I. Ethics & Compliance",
+      "parentId": "mr10d95pct4iai",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451758703
+    },
+    {
+      "id": "mrb14o7316cew9",
+      "title": "J. Governance Frameworks",
+      "parentId": "mr10d95pct4iai",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451758719
+    },
+    {
+      "id": "mrb14o7ee7o5ee",
+      "title": "K. Enterprise Governance",
+      "parentId": "mr10d95pct4iai",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451758730
+    },
+    {
+      "id": "mrb14o7povrpat",
+      "title": "L. Governance Excellence",
+      "parentId": "mr10d95pct4iai",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451758741
+    },
+    {
+      "id": "mrb14o80610sn6",
+      "title": "A. Ethical Leadership Foundations",
+      "parentId": "mr10d95qzblgn4",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451758752
+    },
+    {
+      "id": "mrb14o8ba1l7xp",
+      "title": "B. Values-Based Leadership",
+      "parentId": "mr10d95qzblgn4",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451758763
+    },
+    {
+      "id": "mrb14o8mnn8pzj",
+      "title": "C. Trust Building",
+      "parentId": "mr10d95qzblgn4",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451758774
+    },
+    {
+      "id": "mrb14o8yxjodu2",
+      "title": "D. Responsible Decision Making",
+      "parentId": "mr10d95qzblgn4",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451758786
+    },
+    {
+      "id": "mrb14o98r5zk9a",
+      "title": "E. Ethical Influence",
+      "parentId": "mr10d95qzblgn4",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451758796
+    },
+    {
+      "id": "mrb14o9jklk5b4",
+      "title": "F. Transparent Leadership",
+      "parentId": "mr10d95qzblgn4",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451758807
+    },
+    {
+      "id": "mrb14o9vbrimzv",
+      "title": "G. Leading with Integrity",
+      "parentId": "mr10d95qzblgn4",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451758819
+    },
+    {
+      "id": "mrb14oa7ejc2xk",
+      "title": "H. Ethical Organizational Culture",
+      "parentId": "mr10d95qzblgn4",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451758831
+    },
+    {
+      "id": "mrb14oakp22g97",
+      "title": "I. Stakeholder Leadership",
+      "parentId": "mr10d95qzblgn4",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451758844
+    },
+    {
+      "id": "mrb14oaxcwlp35",
+      "title": "J. Ethical Crisis Management",
+      "parentId": "mr10d95qzblgn4",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451758857
+    },
+    {
+      "id": "mrb14ob9vv3nzu",
+      "title": "K. Ethical Transformation",
+      "parentId": "mr10d95qzblgn4",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451758869
+    },
+    {
+      "id": "mrb14objs1eyjh",
+      "title": "L. Ethical Leadership Excellence",
+      "parentId": "mr10d95qzblgn4",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451758879
+    },
+    {
+      "id": "mrb14obuk7gp8k",
+      "title": "A. Sustainable Development Fundamentals",
+      "parentId": "mr10d95qwxnrn3",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451758890
+    },
+    {
+      "id": "mrb14oc6ftejeo",
+      "title": "B. Sustainable Project Management",
+      "parentId": "mr10d95qwxnrn3",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451758902
+    },
+    {
+      "id": "mrb14oci8bxtb9",
+      "title": "C. Green Innovation",
+      "parentId": "mr10d95qwxnrn3",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451758914
+    },
+    {
+      "id": "mrb14ocu9gt2l9",
+      "title": "D. Sustainable Operations",
+      "parentId": "mr10d95qwxnrn3",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451758926
+    },
+    {
+      "id": "mrb14od4yck0fi",
+      "title": "E. ESG Implementation",
+      "parentId": "mr10d95qwxnrn3",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451758936
+    },
+    {
+      "id": "mrb14odfpa2avc",
+      "title": "F. Sustainable Technology",
+      "parentId": "mr10d95qwxnrn3",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451758947
+    },
+    {
+      "id": "mrb14odsbi12wz",
+      "title": "G. Responsible Investment",
+      "parentId": "mr10d95qwxnrn3",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451758960
+    },
+    {
+      "id": "mrb14oe4o8ao30",
+      "title": "H. Climate Action",
+      "parentId": "mr10d95qwxnrn3",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451758972
+    },
+    {
+      "id": "mrb14oefgrykgb",
+      "title": "I. Community Sustainability",
+      "parentId": "mr10d95qwxnrn3",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451758983
+    },
+    {
+      "id": "mrb14oeqlha6rb",
+      "title": "J. Measuring Sustainability Outcomes",
+      "parentId": "mr10d95qwxnrn3",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451758994
+    },
+    {
+      "id": "mrb14of2cbzyii",
+      "title": "K. Sustainable Organizational Strategy",
+      "parentId": "mr10d95qwxnrn3",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451759006
+    },
+    {
+      "id": "mrb14ofdpr3bka",
+      "title": "L. Sustainable Leadership Practice",
+      "parentId": "mr10d95qwxnrn3",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451759017
     }
   ],
   "pages": {
