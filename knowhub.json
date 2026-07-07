@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-07T18:52:53.398Z",
+  "exportedAt": "2026-07-07T18:57:53.594Z",
   "nodes": [
     {
       "order": 2,
@@ -2753,102 +2753,6 @@
       "status": "pending",
       "title": "4.1.12. Leadership in Practice",
       "parentId": "mr0g92daucimly"
-    },
-    {
-      "title": "4.2.1. Innovation Foundations",
-      "status": "pending",
-      "parentId": "mr0g92diotvd38",
-      "createdAt": 1782844923131,
-      "id": "mr0zu2uzwl6jwv",
-      "order": 0
-    },
-    {
-      "order": 1,
-      "createdAt": 1782844923133,
-      "id": "mr0zu2v1fcwj08",
-      "parentId": "mr0g92diotvd38",
-      "status": "pending",
-      "title": "4.2.2. Creative Thinking"
-    },
-    {
-      "id": "mr0zu2v2n1inay",
-      "createdAt": 1782844923134,
-      "order": 2,
-      "title": "4.2.3. Design Thinking",
-      "status": "pending",
-      "parentId": "mr0g92diotvd38"
-    },
-    {
-      "id": "mr0zu2v23rmkup",
-      "createdAt": 1782844923134,
-      "order": 3,
-      "title": "4.2.4. Opportunity Identification",
-      "status": "pending",
-      "parentId": "mr0g92diotvd38"
-    },
-    {
-      "parentId": "mr0g92diotvd38",
-      "status": "pending",
-      "title": "4.2.5. Entrepreneurship",
-      "order": 4,
-      "id": "mr0zu2v4zwxw0s",
-      "createdAt": 1782844923136
-    },
-    {
-      "order": 5,
-      "createdAt": 1782844923137,
-      "id": "mr0zu2v5bjve07",
-      "parentId": "mr0g92diotvd38",
-      "status": "pending",
-      "title": "4.2.6. Startup Development"
-    },
-    {
-      "createdAt": 1782844923138,
-      "id": "mr0zu2v60oui9c",
-      "order": 6,
-      "status": "pending",
-      "title": "4.2.7. Product Innovation",
-      "parentId": "mr0g92diotvd38"
-    },
-    {
-      "title": "4.2.8. Business Model Innovation",
-      "status": "pending",
-      "parentId": "mr0g92diotvd38",
-      "id": "mr0zu2v7qcdro6",
-      "createdAt": 1782844923139,
-      "order": 7
-    },
-    {
-      "title": "4.2.9. Venture Finance & Fundraising",
-      "status": "pending",
-      "parentId": "mr0g92diotvd38",
-      "id": "mr0zu2v813km3v",
-      "createdAt": 1782844923140,
-      "order": 8
-    },
-    {
-      "parentId": "mr0g92diotvd38",
-      "title": "4.2.10. Innovation Strategy",
-      "status": "pending",
-      "order": 9,
-      "createdAt": 1782844923142,
-      "id": "mr0zu2vaui5tbn"
-    },
-    {
-      "parentId": "mr0g92diotvd38",
-      "status": "pending",
-      "title": "4.2.11. Scaling Organizations",
-      "order": 10,
-      "id": "mr0zu2vcm304le",
-      "createdAt": 1782844923144
-    },
-    {
-      "status": "pending",
-      "title": "4.2.12. Entrepreneurial Leadership",
-      "parentId": "mr0g92diotvd38",
-      "createdAt": 1782844923145,
-      "id": "mr0zu2vdzbh024",
-      "order": 11
     },
     {
       "status": "pending",
@@ -22797,9 +22701,9 @@
     {
       "id": "mrb0ai7aycnn95",
       "title": "4.2.2. Creative Thinking",
-      "parentId": "mr0zu2v1fcwj08",
+      "parentId": "mr0g92diotvd38",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783450351270
     },
     {
@@ -22901,9 +22805,9 @@
     {
       "id": "mrb0aibkt3gon7",
       "title": "4.2.3. Design Thinking",
-      "parentId": "mr0zu2v2n1inay",
+      "parentId": "mr0g92diotvd38",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783450351424
     },
     {
@@ -23005,9 +22909,9 @@
     {
       "id": "mrb0aifq509nks",
       "title": "4.2.4. Opportunity Identification",
-      "parentId": "mr0zu2v23rmkup",
+      "parentId": "mr0g92diotvd38",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783450351574
     },
     {
@@ -23109,9 +23013,9 @@
     {
       "id": "mrb0aijuklwevo",
       "title": "4.2.5. Entrepreneurship",
-      "parentId": "mr0zu2v4zwxw0s",
+      "parentId": "mr0g92diotvd38",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783450351722
     },
     {
@@ -23213,9 +23117,9 @@
     {
       "id": "mrb0ainudskl4k",
       "title": "4.2.6. Startup Development",
-      "parentId": "mr0zu2v5bjve07",
+      "parentId": "mr0g92diotvd38",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783450351866
     },
     {
@@ -23317,9 +23221,9 @@
     {
       "id": "mrb0airzg5v994",
       "title": "4.2.7. Product Innovation",
-      "parentId": "mr0zu2v60oui9c",
+      "parentId": "mr0g92diotvd38",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783450352015
     },
     {
@@ -23421,9 +23325,9 @@
     {
       "id": "mrb0aiw3zk6cfo",
       "title": "4.2.8. Business Model Innovation",
-      "parentId": "mr0zu2v7qcdro6",
+      "parentId": "mr0g92diotvd38",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783450352163
     },
     {
@@ -23525,9 +23429,9 @@
     {
       "id": "mrb0aj0ilc7zel",
       "title": "4.2.9. Venture Finance & Fundraising",
-      "parentId": "mr0zu2v813km3v",
+      "parentId": "mr0g92diotvd38",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783450352322
     },
     {
@@ -23629,9 +23533,9 @@
     {
       "id": "mrb0aj4j044gt2",
       "title": "4.2.10. Innovation Strategy",
-      "parentId": "mr0zu2vaui5tbn",
+      "parentId": "mr0g92diotvd38",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783450352467
     },
     {
@@ -23733,9 +23637,9 @@
     {
       "id": "mrb0aj8rc59tsn",
       "title": "4.2.11. Scaling Organizations",
-      "parentId": "mr0zu2vcm304le",
+      "parentId": "mr0g92diotvd38",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783450352619
     },
     {
@@ -23837,9 +23741,9 @@
     {
       "id": "mrb0ajd2t3ots5",
       "title": "4.2.12. Entrepreneurial Leadership",
-      "parentId": "mr0zu2vdzbh024",
+      "parentId": "mr0g92diotvd38",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783450352774
     },
     {
