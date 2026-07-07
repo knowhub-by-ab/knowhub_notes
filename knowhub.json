@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-07T20:09:21.835Z",
+  "exportedAt": "2026-07-07T20:14:21.386Z",
   "nodes": [
     {
       "order": 2,
@@ -36513,6 +36513,1158 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1783454493202
+    },
+    {
+      "id": "mrb330p3bi331t",
+      "title": "A. Freelancing Fundamentals",
+      "parentId": "mr11yr2rm9jxy5",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455040839
+    },
+    {
+      "id": "mrb330pg9dpsvz",
+      "title": "B. Freelance Career Models",
+      "parentId": "mr11yr2rm9jxy5",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455040852
+    },
+    {
+      "id": "mrb330psk7fol5",
+      "title": "C. Choosing a Niche",
+      "parentId": "mr11yr2rm9jxy5",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455040864
+    },
+    {
+      "id": "mrb330q47rfxaa",
+      "title": "D. Building Service Offerings",
+      "parentId": "mr11yr2rm9jxy5",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455040876
+    },
+    {
+      "id": "mrb330qnvtpa8x",
+      "title": "E. Freelance Mindset",
+      "parentId": "mr11yr2rm9jxy5",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455040895
+    },
+    {
+      "id": "mrb330r0z4592n",
+      "title": "F. Setting Up Your Business",
+      "parentId": "mr11yr2rm9jxy5",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455040908
+    },
+    {
+      "id": "mrb330rm1bbwzu",
+      "title": "G. Freelance Workflows",
+      "parentId": "mr11yr2rm9jxy5",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455040930
+    },
+    {
+      "id": "mrb330savlmkij",
+      "title": "H. Professional Ethics",
+      "parentId": "mr11yr2rm9jxy5",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455040954
+    },
+    {
+      "id": "mrb330svj54af0",
+      "title": "I. Managing Client Expectations",
+      "parentId": "mr11yr2rm9jxy5",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455040975
+    },
+    {
+      "id": "mrb330t70wx8um",
+      "title": "J. Common Freelancing Mistakes",
+      "parentId": "mr11yr2rm9jxy5",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455040987
+    },
+    {
+      "id": "mrb330tsw516zw",
+      "title": "K. Freelance Career Planning",
+      "parentId": "mr11yr2rm9jxy5",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455041008
+    },
+    {
+      "id": "mrb330udgn71r7",
+      "title": "L. Sustainable Freelancing",
+      "parentId": "mr11yr2rm9jxy5",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455041029
+    },
+    {
+      "id": "mrb330urclho8i",
+      "title": "A. Consulting Fundamentals",
+      "parentId": "mr11yr2spgzdbm",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455041043
+    },
+    {
+      "id": "mrb330v5n7w4ed",
+      "title": "B. Types of Consulting",
+      "parentId": "mr11yr2spgzdbm",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455041057
+    },
+    {
+      "id": "mrb330vu1ql1mr",
+      "title": "C. Consulting Mindset",
+      "parentId": "mr11yr2spgzdbm",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455041082
+    },
+    {
+      "id": "mrb330wedc436c",
+      "title": "D. Consulting Frameworks",
+      "parentId": "mr11yr2spgzdbm",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455041102
+    },
+    {
+      "id": "mrb330wusfp59v",
+      "title": "E. Client Discovery",
+      "parentId": "mr11yr2spgzdbm",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455041118
+    },
+    {
+      "id": "mrb330xl5u9qwv",
+      "title": "F. Problem Diagnosis",
+      "parentId": "mr11yr2spgzdbm",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455041145
+    },
+    {
+      "id": "mrb330ybdx2p1l",
+      "title": "G. Solution Development",
+      "parentId": "mr11yr2spgzdbm",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455041171
+    },
+    {
+      "id": "mrb330yq0i2ccz",
+      "title": "H. Advisory Skills",
+      "parentId": "mr11yr2spgzdbm",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455041186
+    },
+    {
+      "id": "mrb330z4lq2ssw",
+      "title": "I. Executive Communication",
+      "parentId": "mr11yr2spgzdbm",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455041200
+    },
+    {
+      "id": "mrb330zvytzebb",
+      "title": "J. Delivering Business Value",
+      "parentId": "mr11yr2spgzdbm",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455041227
+    },
+    {
+      "id": "mrb33109d2v8oi",
+      "title": "K. Consulting Engagement Lifecycle",
+      "parentId": "mr11yr2spgzdbm",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455041241
+    },
+    {
+      "id": "mrb3310xiww83x",
+      "title": "L. Becoming a Trusted Advisor",
+      "parentId": "mr11yr2spgzdbm",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455041265
+    },
+    {
+      "id": "mrb3311k50oxxb",
+      "title": "A. Business Foundations",
+      "parentId": "mr11yr2uaylju6",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455041288
+    },
+    {
+      "id": "mrb33123rj0ktr",
+      "title": "B. Business Models",
+      "parentId": "mr11yr2uaylju6",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455041307
+    },
+    {
+      "id": "mrb3312u0u0n5k",
+      "title": "C. Defining Services",
+      "parentId": "mr11yr2uaylju6",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455041334
+    },
+    {
+      "id": "mrb33138mx56t7",
+      "title": "D. Market Positioning",
+      "parentId": "mr11yr2uaylju6",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455041348
+    },
+    {
+      "id": "mrb3313wcwuznd",
+      "title": "E. Business Planning",
+      "parentId": "mr11yr2uaylju6",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455041372
+    },
+    {
+      "id": "mrb3314m2hi3jo",
+      "title": "F. Operations Management",
+      "parentId": "mr11yr2uaylju6",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455041398
+    },
+    {
+      "id": "mrb33151x1wjpi",
+      "title": "G. Financial Planning",
+      "parentId": "mr11yr2uaylju6",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455041413
+    },
+    {
+      "id": "mrb3315deui9f0",
+      "title": "H. Growth Strategy",
+      "parentId": "mr11yr2uaylju6",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455041425
+    },
+    {
+      "id": "mrb331619266f4",
+      "title": "I. Risk Management",
+      "parentId": "mr11yr2uaylju6",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455041449
+    },
+    {
+      "id": "mrb3316ktxjzal",
+      "title": "J. Business Systems",
+      "parentId": "mr11yr2uaylju6",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455041468
+    },
+    {
+      "id": "mrb3316zsb2buj",
+      "title": "K. Business Sustainability",
+      "parentId": "mr11yr2uaylju6",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455041483
+    },
+    {
+      "id": "mrb3317ev16st3",
+      "title": "L. Building a Scalable Independent Business",
+      "parentId": "mr11yr2uaylju6",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455041498
+    },
+    {
+      "id": "mrb33184lrf996",
+      "title": "A. Independent Brand Fundamentals",
+      "parentId": "mr11yr2w6xi90m",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455041524
+    },
+    {
+      "id": "mrb3318omhiav3",
+      "title": "B. Professional Positioning",
+      "parentId": "mr11yr2w6xi90m",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455041544
+    },
+    {
+      "id": "mrb33192maz0lu",
+      "title": "C. Authority Building",
+      "parentId": "mr11yr2w6xi90m",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455041558
+    },
+    {
+      "id": "mrb3319q4o9ekq",
+      "title": "D. Online Presence",
+      "parentId": "mr11yr2w6xi90m",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455041582
+    },
+    {
+      "id": "mrb331a5p7kww7",
+      "title": "E. Portfolio Development",
+      "parentId": "mr11yr2w6xi90m",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455041597
+    },
+    {
+      "id": "mrb331akagmaa5",
+      "title": "F. Thought Leadership",
+      "parentId": "mr11yr2w6xi90m",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455041612
+    },
+    {
+      "id": "mrb331b1yo9h59",
+      "title": "G. Content Marketing",
+      "parentId": "mr11yr2w6xi90m",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455041629
+    },
+    {
+      "id": "mrb331bdednd47",
+      "title": "H. Reputation Management",
+      "parentId": "mr11yr2w6xi90m",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455041641
+    },
+    {
+      "id": "mrb331bsdkc0kq",
+      "title": "I. Referral Strategy",
+      "parentId": "mr11yr2w6xi90m",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455041656
+    },
+    {
+      "id": "mrb331c5whkt64",
+      "title": "J. Trust Building",
+      "parentId": "mr11yr2w6xi90m",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455041669
+    },
+    {
+      "id": "mrb331ci63md9d",
+      "title": "K. Brand Growth",
+      "parentId": "mr11yr2w6xi90m",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455041682
+    },
+    {
+      "id": "mrb331cxpiofgm",
+      "title": "L. Becoming a Recognized Expert",
+      "parentId": "mr11yr2w6xi90m",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455041697
+    },
+    {
+      "id": "mrb331daat8bpr",
+      "title": "A. Client Acquisition Fundamentals",
+      "parentId": "mr11yr2xlgdxnh",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455041710
+    },
+    {
+      "id": "mrb331dmpg68o8",
+      "title": "B. Identifying Ideal Clients",
+      "parentId": "mr11yr2xlgdxnh",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455041722
+    },
+    {
+      "id": "mrb331dz4rse21",
+      "title": "C. Prospecting",
+      "parentId": "mr11yr2xlgdxnh",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455041735
+    },
+    {
+      "id": "mrb331edveepsf",
+      "title": "D. Lead Generation",
+      "parentId": "mr11yr2xlgdxnh",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455041749
+    },
+    {
+      "id": "mrb331eug9l2bp",
+      "title": "E. Networking for Clients",
+      "parentId": "mr11yr2xlgdxnh",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455041766
+    },
+    {
+      "id": "mrb331f85snhiy",
+      "title": "F. Sales Conversations",
+      "parentId": "mr11yr2xlgdxnh",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455041780
+    },
+    {
+      "id": "mrb331fk63g4rk",
+      "title": "G. Discovery Calls",
+      "parentId": "mr11yr2xlgdxnh",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455041792
+    },
+    {
+      "id": "mrb331fzfjvxsa",
+      "title": "H. Closing Deals",
+      "parentId": "mr11yr2xlgdxnh",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455041807
+    },
+    {
+      "id": "mrb331gdwyh6u6",
+      "title": "I. Referral Marketing",
+      "parentId": "mr11yr2xlgdxnh",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455041821
+    },
+    {
+      "id": "mrb331gq40o4e5",
+      "title": "J. Client Retention",
+      "parentId": "mr11yr2xlgdxnh",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455041834
+    },
+    {
+      "id": "mrb331h6g06erj",
+      "title": "K. Sales Pipeline Management",
+      "parentId": "mr11yr2xlgdxnh",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455041850
+    },
+    {
+      "id": "mrb331hj6we7b1",
+      "title": "L. Predictable Client Acquisition",
+      "parentId": "mr11yr2xlgdxnh",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455041863
+    },
+    {
+      "id": "mrb331hwce4o6u",
+      "title": "A. Proposal Fundamentals",
+      "parentId": "mr11yr2zvvytx5",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455041876
+    },
+    {
+      "id": "mrb331i92boci6",
+      "title": "B. Requirement Analysis",
+      "parentId": "mr11yr2zvvytx5",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455041889
+    },
+    {
+      "id": "mrb331inhuttop",
+      "title": "C. Scope Definition",
+      "parentId": "mr11yr2zvvytx5",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455041903
+    },
+    {
+      "id": "mrb331j1wiw4fm",
+      "title": "D. Proposal Writing",
+      "parentId": "mr11yr2zvvytx5",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455041917
+    },
+    {
+      "id": "mrb331jek3o3ri",
+      "title": "E. Pricing Proposals",
+      "parentId": "mr11yr2zvvytx5",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455041930
+    },
+    {
+      "id": "mrb331jqj3tfdl",
+      "title": "F. Contract Essentials",
+      "parentId": "mr11yr2zvvytx5",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455041942
+    },
+    {
+      "id": "mrb331k4yakz88",
+      "title": "G. Negotiation",
+      "parentId": "mr11yr2zvvytx5",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455041956
+    },
+    {
+      "id": "mrb331khscjja6",
+      "title": "H. Legal Clauses",
+      "parentId": "mr11yr2zvvytx5",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455041969
+    },
+    {
+      "id": "mrb331ktelbquj",
+      "title": "I. Managing Revisions",
+      "parentId": "mr11yr2zvvytx5",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455041981
+    },
+    {
+      "id": "mrb331l77vw6i7",
+      "title": "J. Contract Administration",
+      "parentId": "mr11yr2zvvytx5",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455041995
+    },
+    {
+      "id": "mrb331lkpuxmlr",
+      "title": "K. Avoiding Disputes",
+      "parentId": "mr11yr2zvvytx5",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455042008
+    },
+    {
+      "id": "mrb331lxlwl6rn",
+      "title": "L. Professional Proposal Excellence",
+      "parentId": "mr11yr2zvvytx5",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455042021
+    },
+    {
+      "id": "mrb331mhft6x4a",
+      "title": "A. Pricing Fundamentals",
+      "parentId": "mr11yr304trm1k",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455042041
+    },
+    {
+      "id": "mrb331mvijqabb",
+      "title": "B. Value-Based Pricing",
+      "parentId": "mr11yr304trm1k",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455042055
+    },
+    {
+      "id": "mrb331nccjhfaj",
+      "title": "C. Hourly vs Fixed Pricing",
+      "parentId": "mr11yr304trm1k",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455042072
+    },
+    {
+      "id": "mrb331nzoms85k",
+      "title": "D. Retainers",
+      "parentId": "mr11yr304trm1k",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455042095
+    },
+    {
+      "id": "mrb331og3oiich",
+      "title": "E. Revenue Planning",
+      "parentId": "mr11yr304trm1k",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455042112
+    },
+    {
+      "id": "mrb331os2vkupn",
+      "title": "F. Budgeting",
+      "parentId": "mr11yr304trm1k",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455042124
+    },
+    {
+      "id": "mrb331phzeq0we",
+      "title": "G. Cash Flow Management",
+      "parentId": "mr11yr304trm1k",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455042149
+    },
+    {
+      "id": "mrb331q2gaf02l",
+      "title": "H. Taxes & Accounting",
+      "parentId": "mr11yr304trm1k",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455042170
+    },
+    {
+      "id": "mrb331qgtmdyai",
+      "title": "I. Financial Forecasting",
+      "parentId": "mr11yr304trm1k",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455042184
+    },
+    {
+      "id": "mrb331qwlnq4zo",
+      "title": "J. Profitability Analysis",
+      "parentId": "mr11yr304trm1k",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455042200
+    },
+    {
+      "id": "mrb331rj7s536e",
+      "title": "K. Financial Risk Management",
+      "parentId": "mr11yr304trm1k",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455042223
+    },
+    {
+      "id": "mrb331s3pvysga",
+      "title": "L. Building Financial Stability",
+      "parentId": "mr11yr304trm1k",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455042243
+    },
+    {
+      "id": "mrb331sjsatpwh",
+      "title": "A. Client Delivery Fundamentals",
+      "parentId": "mr11yr318r8y07",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455042259
+    },
+    {
+      "id": "mrb331svirwdo7",
+      "title": "B. Project Kickoff",
+      "parentId": "mr11yr318r8y07",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455042271
+    },
+    {
+      "id": "mrb331tf4hqoxj",
+      "title": "C. Expectation Management",
+      "parentId": "mr11yr318r8y07",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455042291
+    },
+    {
+      "id": "mrb331txs2sxu2",
+      "title": "D. Communication Planning",
+      "parentId": "mr11yr318r8y07",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455042309
+    },
+    {
+      "id": "mrb331u9erhj8m",
+      "title": "E. Delivering Quality Work",
+      "parentId": "mr11yr318r8y07",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455042321
+    },
+    {
+      "id": "mrb331uye6ooc4",
+      "title": "F. Managing Feedback",
+      "parentId": "mr11yr318r8y07",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455042346
+    },
+    {
+      "id": "mrb331vewkb3ko",
+      "title": "G. Handling Difficult Clients",
+      "parentId": "mr11yr318r8y07",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455042362
+    },
+    {
+      "id": "mrb331vrx4tkv0",
+      "title": "H. Building Long-Term Relationships",
+      "parentId": "mr11yr318r8y07",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455042375
+    },
+    {
+      "id": "mrb331wc38efv2",
+      "title": "I. Client Satisfaction",
+      "parentId": "mr11yr318r8y07",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455042396
+    },
+    {
+      "id": "mrb331wt96ta54",
+      "title": "J. Repeat Business",
+      "parentId": "mr11yr318r8y07",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455042413
+    },
+    {
+      "id": "mrb331x7suprag",
+      "title": "K. Client Success Strategy",
+      "parentId": "mr11yr318r8y07",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455042427
+    },
+    {
+      "id": "mrb331xoezg1jn",
+      "title": "L. Exceptional Client Experience",
+      "parentId": "mr11yr318r8y07",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455042444
+    },
+    {
+      "id": "mrb331y1o5hoyq",
+      "title": "A. Legal Fundamentals",
+      "parentId": "mr11yr315h4r1i",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455042457
+    },
+    {
+      "id": "mrb331yexg73jc",
+      "title": "B. Business Registration",
+      "parentId": "mr11yr315h4r1i",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455042470
+    },
+    {
+      "id": "mrb331yqwcsl8o",
+      "title": "C. Contracts & Agreements",
+      "parentId": "mr11yr315h4r1i",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455042482
+    },
+    {
+      "id": "mrb331z4x0uv77",
+      "title": "D. Intellectual Property",
+      "parentId": "mr11yr315h4r1i",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455042496
+    },
+    {
+      "id": "mrb331zhjgdkv4",
+      "title": "E. Tax Fundamentals",
+      "parentId": "mr11yr315h4r1i",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455042509
+    },
+    {
+      "id": "mrb331zu86p8ln",
+      "title": "F. Invoicing & Record Keeping",
+      "parentId": "mr11yr315h4r1i",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455042522
+    },
+    {
+      "id": "mrb33206chtcv7",
+      "title": "G. Data Privacy",
+      "parentId": "mr11yr315h4r1i",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455042534
+    },
+    {
+      "id": "mrb3320im2q1k8",
+      "title": "H. Regulatory Compliance",
+      "parentId": "mr11yr315h4r1i",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455042546
+    },
+    {
+      "id": "mrb3320vkou76s",
+      "title": "I. Insurance",
+      "parentId": "mr11yr315h4r1i",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455042559
+    },
+    {
+      "id": "mrb33219jqbkcz",
+      "title": "J. Risk Management",
+      "parentId": "mr11yr315h4r1i",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455042573
+    },
+    {
+      "id": "mrb3321onnqk2l",
+      "title": "K. International Compliance",
+      "parentId": "mr11yr315h4r1i",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455042588
+    },
+    {
+      "id": "mrb332212asez3",
+      "title": "L. Building a Legally Sound Business",
+      "parentId": "mr11yr315h4r1i",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455042601
+    },
+    {
+      "id": "mrb3322g6q9k65",
+      "title": "A. Growth Fundamentals",
+      "parentId": "mr11yr32u4okci",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455042616
+    },
+    {
+      "id": "mrb3322us4q8ys",
+      "title": "B. Increasing Revenue",
+      "parentId": "mr11yr32u4okci",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455042630
+    },
+    {
+      "id": "mrb3323b8o240k",
+      "title": "C. Productizing Services",
+      "parentId": "mr11yr32u4okci",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455042647
+    },
+    {
+      "id": "mrb3323o5z9sep",
+      "title": "D. Hiring Contractors",
+      "parentId": "mr11yr32u4okci",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455042660
+    },
+    {
+      "id": "mrb33240oewvgf",
+      "title": "E. Building Teams",
+      "parentId": "mr11yr32u4okci",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455042672
+    },
+    {
+      "id": "mrb3324dybz95j",
+      "title": "F. Process Automation",
+      "parentId": "mr11yr32u4okci",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455042685
+    },
+    {
+      "id": "mrb3324qwehsz1",
+      "title": "G. Delegation",
+      "parentId": "mr11yr32u4okci",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455042698
+    },
+    {
+      "id": "mrb33253aqlnvk",
+      "title": "H. Expanding Service Lines",
+      "parentId": "mr11yr32u4okci",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455042711
+    },
+    {
+      "id": "mrb3325gg4r1rd",
+      "title": "I. Strategic Partnerships",
+      "parentId": "mr11yr32u4okci",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455042724
+    },
+    {
+      "id": "mrb3325uugxf9x",
+      "title": "J. Business Expansion",
+      "parentId": "mr11yr32u4okci",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455042738
+    },
+    {
+      "id": "mrb3326711pb7z",
+      "title": "K. Scaling Operations",
+      "parentId": "mr11yr32u4okci",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455042751
+    },
+    {
+      "id": "mrb3326lbssr9v",
+      "title": "L. Building a Sustainable Firm",
+      "parentId": "mr11yr32u4okci",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455042765
+    },
+    {
+      "id": "mrb3326zgfub48",
+      "title": "A. Remote Business Fundamentals",
+      "parentId": "mr11yr330o2zdz",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455042779
+    },
+    {
+      "id": "mrb3327cji2gjl",
+      "title": "B. Remote Productivity",
+      "parentId": "mr11yr330o2zdz",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455042792
+    },
+    {
+      "id": "mrb3327pbpfikd",
+      "title": "C. Collaboration Tools",
+      "parentId": "mr11yr330o2zdz",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455042805
+    },
+    {
+      "id": "mrb33282jst7w3",
+      "title": "D. Project Management",
+      "parentId": "mr11yr330o2zdz",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455042818
+    },
+    {
+      "id": "mrb3328gd7qayd",
+      "title": "E. Virtual Meetings",
+      "parentId": "mr11yr330o2zdz",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455042832
+    },
+    {
+      "id": "mrb3328thhoe4h",
+      "title": "F. Digital Workflows",
+      "parentId": "mr11yr330o2zdz",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455042845
+    },
+    {
+      "id": "mrb33297wivn5e",
+      "title": "G. Remote Client Communication",
+      "parentId": "mr11yr330o2zdz",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455042859
+    },
+    {
+      "id": "mrb3329kyan6md",
+      "title": "H. Cybersecurity",
+      "parentId": "mr11yr330o2zdz",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455042872
+    },
+    {
+      "id": "mrb3329x70rr7z",
+      "title": "I. Cloud Operations",
+      "parentId": "mr11yr330o2zdz",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455042885
+    },
+    {
+      "id": "mrb332aa2egjjc",
+      "title": "J. Global Collaboration",
+      "parentId": "mr11yr330o2zdz",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455042898
+    },
+    {
+      "id": "mrb332aos1unjm",
+      "title": "K. Remote Business Systems",
+      "parentId": "mr11yr330o2zdz",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455042912
+    },
+    {
+      "id": "mrb332b142rofz",
+      "title": "L. Operating a World-Class Remote Business",
+      "parentId": "mr11yr330o2zdz",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455042925
+    },
+    {
+      "id": "mrb332beyy0ute",
+      "title": "A. Long-Term Success Fundamentals",
+      "parentId": "mr11yr34wnlv9m",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455042938
+    },
+    {
+      "id": "mrb332bqn1cvjt",
+      "title": "B. Work-Life Integration",
+      "parentId": "mr11yr34wnlv9m",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455042950
+    },
+    {
+      "id": "mrb332c3pqvi82",
+      "title": "C. Burnout Prevention",
+      "parentId": "mr11yr34wnlv9m",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455042963
+    },
+    {
+      "id": "mrb332cfkyzb9w",
+      "title": "D. Continuous Learning",
+      "parentId": "mr11yr34wnlv9m",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455042975
+    },
+    {
+      "id": "mrb332cs0uvzxm",
+      "title": "E. Personal Branding Growth",
+      "parentId": "mr11yr34wnlv9m",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455042988
+    },
+    {
+      "id": "mrb332d43d5jdl",
+      "title": "F. Financial Independence",
+      "parentId": "mr11yr34wnlv9m",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455043000
+    },
+    {
+      "id": "mrb332dh9dbazy",
+      "title": "G. Career Diversification",
+      "parentId": "mr11yr34wnlv9m",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455043013
+    },
+    {
+      "id": "mrb332dt17zrmo",
+      "title": "H. Business Resilience",
+      "parentId": "mr11yr34wnlv9m",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455043025
+    },
+    {
+      "id": "mrb332e6hdk9u5",
+      "title": "I. Professional Legacy",
+      "parentId": "mr11yr34wnlv9m",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455043038
+    },
+    {
+      "id": "mrb332em71ea1n",
+      "title": "J. Long-Term Client Relationships",
+      "parentId": "mr11yr34wnlv9m",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455043054
+    },
+    {
+      "id": "mrb332f0zph7hp",
+      "title": "K. Future-Proofing an Independent Career",
+      "parentId": "mr11yr34wnlv9m",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455043068
+    },
+    {
+      "id": "mrb332fe0e4jm5",
+      "title": "L. Building a Lifetime Independent Profession",
+      "parentId": "mr11yr34wnlv9m",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455043082
     }
   ],
   "pages": {
