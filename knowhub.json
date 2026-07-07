@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-07T19:34:23.784Z",
+  "exportedAt": "2026-07-07T19:39:23.699Z",
   "nodes": [
     {
       "order": 2,
@@ -3465,46 +3465,6 @@
       "title": "5.1.12. Personal Career Strategy",
       "status": "pending",
       "parentId": "mr11txgx4zsfui"
-    },
-    {
-      "order": 1,
-      "id": "mr11ucljod9tqp",
-      "createdAt": 1782848294983,
-      "parentId": "mr0vc8snnjw1st",
-      "title": "5.2.2. Degree Programs",
-      "status": "pending"
-    },
-    {
-      "title": "5.2.3. Professional Certifications",
-      "status": "pending",
-      "parentId": "mr0vc8snnjw1st",
-      "createdAt": 1782848294985,
-      "id": "mr11ucll695z1s",
-      "order": 2
-    },
-    {
-      "id": "mr11uclmdav8al",
-      "createdAt": 1782848294986,
-      "order": 3,
-      "title": "5.2.4. Online Learning Platforms",
-      "status": "pending",
-      "parentId": "mr0vc8snnjw1st"
-    },
-    {
-      "id": "mr11ucln1dppg7",
-      "createdAt": 1782848294987,
-      "order": 4,
-      "title": "5.2.5. Micro-Credentials & Digital Badges",
-      "status": "pending",
-      "parentId": "mr0vc8snnjw1st"
-    },
-    {
-      "status": "pending",
-      "title": "5.2.6. Continuing Professional Education",
-      "parentId": "mr0vc8snnjw1st",
-      "id": "mr11uclq3jdi2v",
-      "createdAt": 1782848294990,
-      "order": 5
     },
     {
       "order": 6,
@@ -32005,9 +31965,9 @@
     {
       "id": "mrb1pdi6hy7k5v",
       "title": "5.2.2. Degree Programs",
-      "parentId": "mr11ucljod9tqp",
+      "parentId": "mr0vc8snnjw1st",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783452724638
     },
     {
@@ -32109,9 +32069,9 @@
     {
       "id": "mrb1pdmkr8ncxi",
       "title": "5.2.3. Professional Certifications",
-      "parentId": "mr11ucll695z1s",
+      "parentId": "mr0vc8snnjw1st",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783452724796
     },
     {
@@ -32213,9 +32173,9 @@
     {
       "id": "mrb1pdr4bfsem4",
       "title": "5.2.4. Online Learning Platforms",
-      "parentId": "mr11uclmdav8al",
+      "parentId": "mr0vc8snnjw1st",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783452724960
     },
     {
@@ -32317,9 +32277,9 @@
     {
       "id": "mrb1pdvsryf3u9",
       "title": "5.2.5. Micro-Credentials & Digital Badges",
-      "parentId": "mr11ucln1dppg7",
+      "parentId": "mr0vc8snnjw1st",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783452725128
     },
     {
@@ -32421,9 +32381,9 @@
     {
       "id": "mrb1pe06f2j4wu",
       "title": "5.2.6. Continuing Professional Education",
-      "parentId": "mr11uclq3jdi2v",
+      "parentId": "mr0vc8snnjw1st",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783452725286
     },
     {
