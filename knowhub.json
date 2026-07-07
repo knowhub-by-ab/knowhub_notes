@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-07T19:39:23.699Z",
+  "exportedAt": "2026-07-07T19:44:21.414Z",
   "nodes": [
     {
       "order": 2,
@@ -3465,30 +3465,6 @@
       "title": "5.1.12. Personal Career Strategy",
       "status": "pending",
       "parentId": "mr11txgx4zsfui"
-    },
-    {
-      "order": 6,
-      "createdAt": 1782848294991,
-      "id": "mr11uclrbg1gxy",
-      "parentId": "mr0vc8snnjw1st",
-      "title": "5.2.7. Academic Planning",
-      "status": "pending"
-    },
-    {
-      "order": 7,
-      "id": "mr11uclsajge9r",
-      "createdAt": 1782848294992,
-      "parentId": "mr0vc8snnjw1st",
-      "title": "5.2.8. Certification Preparation Strategies",
-      "status": "pending"
-    },
-    {
-      "title": "5.2.9. Scholarship & Financial Aid",
-      "status": "pending",
-      "parentId": "mr0vc8snnjw1st",
-      "id": "mr11uclt94ujth",
-      "createdAt": 1782848294993,
-      "order": 8
     },
     {
       "order": 9,
@@ -32485,9 +32461,9 @@
     {
       "id": "mrb1pe4k1lxfkm",
       "title": "5.2.7. Academic Planning",
-      "parentId": "mr11uclrbg1gxy",
+      "parentId": "mr0vc8snnjw1st",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783452725444
     },
     {
@@ -32589,9 +32565,9 @@
     {
       "id": "mrb1pe9jpya4ki",
       "title": "5.2.8. Certification Preparation Strategies",
-      "parentId": "mr11uclsajge9r",
+      "parentId": "mr0vc8snnjw1st",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783452725623
     },
     {
@@ -32693,9 +32669,9 @@
     {
       "id": "mrb1pee20haslm",
       "title": "5.2.9. Scholarship & Financial Aid",
-      "parentId": "mr11uclt94ujth",
+      "parentId": "mr0vc8snnjw1st",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783452725786
     },
     {
