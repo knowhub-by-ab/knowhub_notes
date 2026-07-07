@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-07T19:02:55.527Z",
+  "exportedAt": "2026-07-07T19:07:55.475Z",
   "nodes": [
     {
       "order": 2,
@@ -24429,89 +24429,89 @@
     {
       "id": "mrb0hkqrg4faj2",
       "title": "B. Risk Identification",
-      "parentId": "mrb0hkqd27bvw0",
+      "parentId": "mr0zuhy0wv7qqg",
       "status": "pending",
-      "order": 0,
+      "order": 1,
       "createdAt": 1783450681155
     },
     {
       "id": "mrb0hkr800e1hq",
       "title": "C. Risk Analysis",
-      "parentId": "mrb0hkqd27bvw0",
+      "parentId": "mr0zuhy0wv7qqg",
       "status": "pending",
-      "order": 1,
+      "order": 2,
       "createdAt": 1783450681172
     },
     {
       "id": "mrb0hkrq3zi41u",
       "title": "D. Risk Quantification",
-      "parentId": "mrb0hkqd27bvw0",
+      "parentId": "mr0zuhy0wv7qqg",
       "status": "pending",
-      "order": 2,
+      "order": 3,
       "createdAt": 1783450681190
     },
     {
       "id": "mrb0hks9t4w3es",
       "title": "E. Risk Prioritization",
-      "parentId": "mrb0hkqd27bvw0",
+      "parentId": "mr0zuhy0wv7qqg",
       "status": "pending",
-      "order": 3,
+      "order": 4,
       "createdAt": 1783450681209
     },
     {
       "id": "mrb0hksplr0gqv",
       "title": "F. Risk Mitigation",
-      "parentId": "mrb0hkqd27bvw0",
+      "parentId": "mr0zuhy0wv7qqg",
       "status": "pending",
-      "order": 4,
+      "order": 5,
       "createdAt": 1783450681225
     },
     {
       "id": "mrb0hkt4nz643d",
       "title": "G. Enterprise Risk Management",
-      "parentId": "mrb0hkqd27bvw0",
+      "parentId": "mr0zuhy0wv7qqg",
       "status": "pending",
-      "order": 5,
+      "order": 6,
       "createdAt": 1783450681241
     },
     {
       "id": "mrb0hktkgt23ck",
       "title": "H. Operational Risk",
-      "parentId": "mrb0hkqd27bvw0",
+      "parentId": "mr0zuhy0wv7qqg",
       "status": "pending",
-      "order": 6,
+      "order": 7,
       "createdAt": 1783450681256
     },
     {
       "id": "mrb0hku0erelnc",
       "title": "I. Strategic Risk",
-      "parentId": "mrb0hkqd27bvw0",
+      "parentId": "mr0zuhy0wv7qqg",
       "status": "pending",
-      "order": 7,
+      "order": 8,
       "createdAt": 1783450681272
     },
     {
       "id": "mrb0hkui2huvde",
       "title": "J. Crisis Risk",
-      "parentId": "mrb0hkqd27bvw0",
+      "parentId": "mr0zuhy0wv7qqg",
       "status": "pending",
-      "order": 8,
+      "order": 9,
       "createdAt": 1783450681290
     },
     {
       "id": "mrb0hkuz8x0sav",
       "title": "K. Risk Governance",
-      "parentId": "mrb0hkqd27bvw0",
+      "parentId": "mr0zuhy0wv7qqg",
       "status": "pending",
-      "order": 9,
+      "order": 10,
       "createdAt": 1783450681307
     },
     {
       "id": "mrb0hkverbth5r",
       "title": "L. Resilient Organizations",
-      "parentId": "mrb0hkqd27bvw0",
+      "parentId": "mr0zuhy0wv7qqg",
       "status": "pending",
-      "order": 10,
+      "order": 11,
       "createdAt": 1783450681322
     },
     {
@@ -24525,89 +24525,89 @@
     {
       "id": "mrb0hkwd9czt1g",
       "title": "B. Environmental Scanning",
-      "parentId": "mrb0hkvxr8v57f",
+      "parentId": "mr0zuhy2tch7iz",
       "status": "pending",
-      "order": 0,
+      "order": 1,
       "createdAt": 1783450681357
     },
     {
       "id": "mrb0hkwsjwluh4",
       "title": "C. Trend Analysis",
-      "parentId": "mrb0hkvxr8v57f",
+      "parentId": "mr0zuhy2tch7iz",
       "status": "pending",
-      "order": 1,
+      "order": 2,
       "createdAt": 1783450681372
     },
     {
       "id": "mrb0hkx76f5uiu",
       "title": "D. Forecasting",
-      "parentId": "mrb0hkvxr8v57f",
+      "parentId": "mr0zuhy2tch7iz",
       "status": "pending",
-      "order": 2,
+      "order": 3,
       "createdAt": 1783450681387
     },
     {
       "id": "mrb0hkxm8zjx9s",
       "title": "E. Future Scenarios",
-      "parentId": "mrb0hkvxr8v57f",
+      "parentId": "mr0zuhy2tch7iz",
       "status": "pending",
-      "order": 3,
+      "order": 4,
       "createdAt": 1783450681402
     },
     {
       "id": "mrb0hky4a0n2f1",
       "title": "F. Strategic Alternatives",
-      "parentId": "mrb0hkvxr8v57f",
+      "parentId": "mr0zuhy2tch7iz",
       "status": "pending",
-      "order": 4,
+      "order": 5,
       "createdAt": 1783450681420
     },
     {
       "id": "mrb0hkyovbtbbt",
       "title": "G. Uncertainty Analysis",
-      "parentId": "mrb0hkvxr8v57f",
+      "parentId": "mr0zuhy2tch7iz",
       "status": "pending",
-      "order": 5,
+      "order": 6,
       "createdAt": 1783450681440
     },
     {
       "id": "mrb0hkz5uws4mq",
       "title": "H. Contingency Planning",
-      "parentId": "mrb0hkvxr8v57f",
+      "parentId": "mr0zuhy2tch7iz",
       "status": "pending",
-      "order": 6,
+      "order": 7,
       "createdAt": 1783450681457
     },
     {
       "id": "mrb0hkzl0473or",
       "title": "I. Strategic Flexibility",
-      "parentId": "mrb0hkvxr8v57f",
+      "parentId": "mr0zuhy2tch7iz",
       "status": "pending",
-      "order": 7,
+      "order": 8,
       "createdAt": 1783450681473
     },
     {
       "id": "mrb0hl036exsd2",
       "title": "J. Resilience Planning",
-      "parentId": "mrb0hkvxr8v57f",
+      "parentId": "mr0zuhy2tch7iz",
       "status": "pending",
-      "order": 8,
+      "order": 9,
       "createdAt": 1783450681491
     },
     {
       "id": "mrb0hl0qdgrha1",
       "title": "K. Enterprise Scenario Planning",
-      "parentId": "mrb0hkvxr8v57f",
+      "parentId": "mr0zuhy2tch7iz",
       "status": "pending",
-      "order": 9,
+      "order": 10,
       "createdAt": 1783450681514
     },
     {
       "id": "mrb0hl16x2jbhx",
       "title": "L. Futures Thinking",
-      "parentId": "mrb0hkvxr8v57f",
+      "parentId": "mr0zuhy2tch7iz",
       "status": "pending",
-      "order": 10,
+      "order": 11,
       "createdAt": 1783450681530
     },
     {
@@ -24621,89 +24621,89 @@
     {
       "id": "mrb0hl25hld2bj",
       "title": "B. Vision & Mission Planning",
-      "parentId": "mrb0hl1o0lbbnd",
+      "parentId": "mr0zuhy5l3hqwq",
       "status": "pending",
-      "order": 0,
+      "order": 1,
       "createdAt": 1783450681565
     },
     {
       "id": "mrb0hl2o1rrx3v",
       "title": "C. Strategic Goals",
-      "parentId": "mrb0hl1o0lbbnd",
+      "parentId": "mr0zuhy5l3hqwq",
       "status": "pending",
-      "order": 1,
+      "order": 2,
       "createdAt": 1783450681584
     },
     {
       "id": "mrb0hl33qt9sav",
       "title": "D. Strategic Objectives",
-      "parentId": "mrb0hl1o0lbbnd",
+      "parentId": "mr0zuhy5l3hqwq",
       "status": "pending",
-      "order": 2,
+      "order": 3,
       "createdAt": 1783450681599
     },
     {
       "id": "mrb0hl3nrbigez",
       "title": "E. Strategic Initiatives",
-      "parentId": "mrb0hl1o0lbbnd",
+      "parentId": "mr0zuhy5l3hqwq",
       "status": "pending",
-      "order": 3,
+      "order": 4,
       "createdAt": 1783450681619
     },
     {
       "id": "mrb0hl43ha0xn1",
       "title": "F. Roadmapping",
-      "parentId": "mrb0hl1o0lbbnd",
+      "parentId": "mr0zuhy5l3hqwq",
       "status": "pending",
-      "order": 4,
+      "order": 5,
       "createdAt": 1783450681635
     },
     {
       "id": "mrb0hl4k8ic7oz",
       "title": "G. Resource Allocation",
-      "parentId": "mrb0hl1o0lbbnd",
+      "parentId": "mr0zuhy5l3hqwq",
       "status": "pending",
-      "order": 5,
+      "order": 6,
       "createdAt": 1783450681652
     },
     {
       "id": "mrb0hl527ybiqh",
       "title": "H. Strategic Alignment",
-      "parentId": "mrb0hl1o0lbbnd",
+      "parentId": "mr0zuhy5l3hqwq",
       "status": "pending",
-      "order": 6,
+      "order": 7,
       "createdAt": 1783450681670
     },
     {
       "id": "mrb0hl5legbie8",
       "title": "I. Performance Measurement",
-      "parentId": "mrb0hl1o0lbbnd",
+      "parentId": "mr0zuhy5l3hqwq",
       "status": "pending",
-      "order": 7,
+      "order": 8,
       "createdAt": 1783450681689
     },
     {
       "id": "mrb0hl6220v5hf",
       "title": "J. Strategic Review",
-      "parentId": "mrb0hl1o0lbbnd",
+      "parentId": "mr0zuhy5l3hqwq",
       "status": "pending",
-      "order": 8,
+      "order": 9,
       "createdAt": 1783450681706
     },
     {
       "id": "mrb0hl6j3kc1i5",
       "title": "K. Organizational Strategy Execution",
-      "parentId": "mrb0hl1o0lbbnd",
+      "parentId": "mr0zuhy5l3hqwq",
       "status": "pending",
-      "order": 9,
+      "order": 10,
       "createdAt": 1783450681723
     },
     {
       "id": "mrb0hl709i3nej",
       "title": "L. Continuous Strategic Planning",
-      "parentId": "mrb0hl1o0lbbnd",
+      "parentId": "mr0zuhy5l3hqwq",
       "status": "pending",
-      "order": 10,
+      "order": 11,
       "createdAt": 1783450681740
     },
     {
@@ -24717,89 +24717,89 @@
     {
       "id": "mrb0hl80z1nfxw",
       "title": "B. Competitive Advantage",
-      "parentId": "mrb0hl7jzj68qn",
+      "parentId": "mr0zuhy607ek1m",
       "status": "pending",
-      "order": 0,
+      "order": 1,
       "createdAt": 1783450681776
     },
     {
       "id": "mrb0hl8g9l396m",
       "title": "C. Market Positioning",
-      "parentId": "mrb0hl7jzj68qn",
+      "parentId": "mr0zuhy607ek1m",
       "status": "pending",
-      "order": 1,
+      "order": 2,
       "createdAt": 1783450681792
     },
     {
       "id": "mrb0hl8wiat5m8",
       "title": "D. Industry Analysis",
-      "parentId": "mrb0hl7jzj68qn",
+      "parentId": "mr0zuhy607ek1m",
       "status": "pending",
-      "order": 2,
+      "order": 3,
       "createdAt": 1783450681808
     },
     {
       "id": "mrb0hl9hcxz30n",
       "title": "E. Business Models",
-      "parentId": "mrb0hl7jzj68qn",
+      "parentId": "mr0zuhy607ek1m",
       "status": "pending",
-      "order": 3,
+      "order": 4,
       "createdAt": 1783450681829
     },
     {
       "id": "mrb0hl9z9iq89f",
       "title": "F. Growth Strategies",
-      "parentId": "mrb0hl7jzj68qn",
+      "parentId": "mr0zuhy607ek1m",
       "status": "pending",
-      "order": 4,
+      "order": 5,
       "createdAt": 1783450681847
     },
     {
       "id": "mrb0hlajqudtis",
       "title": "G. Diversification",
-      "parentId": "mrb0hl7jzj68qn",
+      "parentId": "mr0zuhy607ek1m",
       "status": "pending",
-      "order": 5,
+      "order": 6,
       "createdAt": 1783450681867
     },
     {
       "id": "mrb0hlazkusu1q",
       "title": "H. Digital Strategy",
-      "parentId": "mrb0hl7jzj68qn",
+      "parentId": "mr0zuhy607ek1m",
       "status": "pending",
-      "order": 6,
+      "order": 7,
       "createdAt": 1783450681884
     },
     {
       "id": "mrb0hlbfvx67d6",
       "title": "I. Global Strategy",
-      "parentId": "mrb0hl7jzj68qn",
+      "parentId": "mr0zuhy607ek1m",
       "status": "pending",
-      "order": 7,
+      "order": 8,
       "createdAt": 1783450681899
     },
     {
       "id": "mrb0hlbwu6ntpl",
       "title": "J. Strategic Innovation",
-      "parentId": "mrb0hl7jzj68qn",
+      "parentId": "mr0zuhy607ek1m",
       "status": "pending",
-      "order": 8,
+      "order": 9,
       "createdAt": 1783450681916
     },
     {
       "id": "mrb0hlcf2f1a8y",
       "title": "K. Enterprise Business Strategy",
-      "parentId": "mrb0hl7jzj68qn",
+      "parentId": "mr0zuhy607ek1m",
       "status": "pending",
-      "order": 9,
+      "order": 10,
       "createdAt": 1783450681935
     },
     {
       "id": "mrb0hlcuvcxuqu",
       "title": "L. Sustainable Competitive Advantage",
-      "parentId": "mrb0hl7jzj68qn",
+      "parentId": "mr0zuhy607ek1m",
       "status": "pending",
-      "order": 10,
+      "order": 11,
       "createdAt": 1783450681950
     },
     {
@@ -24813,89 +24813,89 @@
     {
       "id": "mrb0hldr8hqqk5",
       "title": "B. Operational Excellence",
-      "parentId": "mrb0hldawht1db",
+      "parentId": "mr0zuhy7jrb7px",
       "status": "pending",
-      "order": 0,
+      "order": 1,
       "createdAt": 1783450681983
     },
     {
       "id": "mrb0hle9yteyfh",
       "title": "C. OKRs & KPIs",
-      "parentId": "mrb0hldawht1db",
+      "parentId": "mr0zuhy7jrb7px",
       "status": "pending",
-      "order": 1,
+      "order": 2,
       "createdAt": 1783450682001
     },
     {
       "id": "mrb0hlepzxikbr",
       "title": "D. Balanced Scorecards",
-      "parentId": "mrb0hldawht1db",
+      "parentId": "mr0zuhy7jrb7px",
       "status": "pending",
-      "order": 2,
+      "order": 3,
       "createdAt": 1783450682017
     },
     {
       "id": "mrb0hlf4fr3buq",
       "title": "E. Performance Measurement",
-      "parentId": "mrb0hldawht1db",
+      "parentId": "mr0zuhy7jrb7px",
       "status": "pending",
-      "order": 3,
+      "order": 4,
       "createdAt": 1783450682032
     },
     {
       "id": "mrb0hlflsaiwd1",
       "title": "F. Performance Reviews",
-      "parentId": "mrb0hldawht1db",
+      "parentId": "mr0zuhy7jrb7px",
       "status": "pending",
-      "order": 4,
+      "order": 5,
       "createdAt": 1783450682049
     },
     {
       "id": "mrb0hlg0nm4avp",
       "title": "G. Strategic Execution",
-      "parentId": "mrb0hldawht1db",
+      "parentId": "mr0zuhy7jrb7px",
       "status": "pending",
-      "order": 5,
+      "order": 6,
       "createdAt": 1783450682064
     },
     {
       "id": "mrb0hlgfijck3q",
       "title": "H. Accountability Systems",
-      "parentId": "mrb0hldawht1db",
+      "parentId": "mr0zuhy7jrb7px",
       "status": "pending",
-      "order": 6,
+      "order": 7,
       "createdAt": 1783450682079
     },
     {
       "id": "mrb0hlgunrkpnh",
       "title": "I. Operational Agility",
-      "parentId": "mrb0hldawht1db",
+      "parentId": "mr0zuhy7jrb7px",
       "status": "pending",
-      "order": 7,
+      "order": 8,
       "createdAt": 1783450682094
     },
     {
       "id": "mrb0hlhb15cdyd",
       "title": "J. Continuous Improvement",
-      "parentId": "mrb0hldawht1db",
+      "parentId": "mr0zuhy7jrb7px",
       "status": "pending",
-      "order": 8,
+      "order": 9,
       "createdAt": 1783450682111
     },
     {
       "id": "mrb0hlhqqw7qxx",
       "title": "K. Enterprise Performance Management",
-      "parentId": "mrb0hldawht1db",
+      "parentId": "mr0zuhy7jrb7px",
       "status": "pending",
-      "order": 9,
+      "order": 10,
       "createdAt": 1783450682126
     },
     {
       "id": "mrb0hli6qw2nnk",
       "title": "L. High-Performance Organizations",
-      "parentId": "mrb0hldawht1db",
+      "parentId": "mr0zuhy7jrb7px",
       "status": "pending",
-      "order": 10,
+      "order": 11,
       "createdAt": 1783450682142
     },
     {
@@ -24909,90 +24909,1242 @@
     {
       "id": "mrb0hlj66iolnc",
       "title": "B. Visionary Leadership",
-      "parentId": "mrb0hlipwiql4b",
+      "parentId": "mr0zuhy8tvsr20",
       "status": "pending",
-      "order": 0,
+      "order": 1,
       "createdAt": 1783450682178
     },
     {
       "id": "mrb0hljmywrbdk",
       "title": "C. Enterprise Leadership",
-      "parentId": "mrb0hlipwiql4b",
+      "parentId": "mr0zuhy8tvsr20",
       "status": "pending",
-      "order": 1,
+      "order": 2,
       "createdAt": 1783450682194
     },
     {
       "id": "mrb0hlk2by58f7",
       "title": "D. Executive Decision Making",
-      "parentId": "mrb0hlipwiql4b",
+      "parentId": "mr0zuhy8tvsr20",
       "status": "pending",
-      "order": 2,
+      "order": 3,
       "createdAt": 1783450682210
     },
     {
       "id": "mrb0hlkivgxic7",
       "title": "E. Leading Organizational Change",
-      "parentId": "mrb0hlipwiql4b",
+      "parentId": "mr0zuhy8tvsr20",
       "status": "pending",
-      "order": 3,
+      "order": 4,
       "createdAt": 1783450682226
     },
     {
       "id": "mrb0hlkx5g78tk",
       "title": "F. Strategic Communication",
-      "parentId": "mrb0hlipwiql4b",
+      "parentId": "mr0zuhy8tvsr20",
       "status": "pending",
-      "order": 4,
+      "order": 5,
       "createdAt": 1783450682241
     },
     {
       "id": "mrb0hllcglie1d",
       "title": "G. Stakeholder Leadership",
-      "parentId": "mrb0hlipwiql4b",
+      "parentId": "mr0zuhy8tvsr20",
       "status": "pending",
-      "order": 5,
+      "order": 6,
       "createdAt": 1783450682256
     },
     {
       "id": "mrb0hlls3j4q2b",
       "title": "H. Adaptive Leadership",
-      "parentId": "mrb0hlipwiql4b",
+      "parentId": "mr0zuhy8tvsr20",
       "status": "pending",
-      "order": 6,
+      "order": 7,
       "createdAt": 1783450682272
     },
     {
       "id": "mrb0hlm9eusuyr",
       "title": "I. Innovation Leadership",
-      "parentId": "mrb0hlipwiql4b",
+      "parentId": "mr0zuhy8tvsr20",
       "status": "pending",
-      "order": 7,
+      "order": 8,
       "createdAt": 1783450682289
     },
     {
       "id": "mrb0hlmopnhxkz",
       "title": "J. Global Strategic Leadership",
-      "parentId": "mrb0hlipwiql4b",
+      "parentId": "mr0zuhy8tvsr20",
       "status": "pending",
-      "order": 8,
+      "order": 9,
       "createdAt": 1783450682304
     },
     {
       "id": "mrb0hln3gdggdq",
       "title": "K. Leadership During Uncertainty",
-      "parentId": "mrb0hlipwiql4b",
+      "parentId": "mr0zuhy8tvsr20",
       "status": "pending",
-      "order": 9,
+      "order": 10,
       "createdAt": 1783450682319
     },
     {
       "id": "mrb0hlnjnmtra9",
       "title": "L. Strategic Leadership Excellence",
-      "parentId": "mrb0hlipwiql4b",
+      "parentId": "mr0zuhy8tvsr20",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783450682335
+    },
+    {
+      "id": "mrb0tx8toip3mo",
+      "title": "A. Self-Awareness Fundamentals",
+      "parentId": "mr0zz4boi76rwz",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451257229
+    },
+    {
+      "id": "mrb0tx93wuzfly",
+      "title": "B. Emotional Intelligence",
+      "parentId": "mr0zz4boi76rwz",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451257239
+    },
+    {
+      "id": "mrb0tx9e7aclgp",
+      "title": "C. Emotional Regulation",
+      "parentId": "mr0zz4boi76rwz",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451257250
+    },
+    {
+      "id": "mrb0tx9uzgktr4",
+      "title": "D. Self-Reflection",
+      "parentId": "mr0zz4boi76rwz",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451257267
+    },
+    {
+      "id": "mrb0txa8tuscfj",
+      "title": "E. Personality & Behavioral Styles",
+      "parentId": "mr0zz4boi76rwz",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451257280
+    },
+    {
+      "id": "mrb0txaji6b7ct",
+      "title": "F. Strengths Assessment",
+      "parentId": "mr0zz4boi76rwz",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451257291
+    },
+    {
+      "id": "mrb0txauw2ds5e",
+      "title": "G. Values & Beliefs",
+      "parentId": "mr0zz4boi76rwz",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451257302
+    },
+    {
+      "id": "mrb0txb69761nb",
+      "title": "H. Emotional Resilience",
+      "parentId": "mr0zz4boi76rwz",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451257314
+    },
+    {
+      "id": "mrb0txbjxjoxsz",
+      "title": "I. Self-Confidence",
+      "parentId": "mr0zz4boi76rwz",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451257327
+    },
+    {
+      "id": "mrb0txbuvhugpq",
+      "title": "J. Empathy",
+      "parentId": "mr0zz4boi76rwz",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451257338
+    },
+    {
+      "id": "mrb0txc5ina0b7",
+      "title": "K. Social Awareness",
+      "parentId": "mr0zz4boi76rwz",
       "status": "pending",
       "order": 10,
-      "createdAt": 1783450682335
+      "createdAt": 1783451257349
+    },
+    {
+      "id": "mrb0txchynpj5g",
+      "title": "L. Emotional Mastery",
+      "parentId": "mr0zz4boi76rwz",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451257361
+    },
+    {
+      "id": "mrb0txcvvrvjq3",
+      "title": "A. Time Management Fundamentals",
+      "parentId": "mr0zz4bqvq8w8p",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451257375
+    },
+    {
+      "id": "mrb0txd6fn68i4",
+      "title": "B. Goal Prioritization",
+      "parentId": "mr0zz4bqvq8w8p",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451257386
+    },
+    {
+      "id": "mrb0txdg6oe3gp",
+      "title": "C. Planning Systems",
+      "parentId": "mr0zz4bqvq8w8p",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451257396
+    },
+    {
+      "id": "mrb0txdszefnqi",
+      "title": "D. Scheduling Techniques",
+      "parentId": "mr0zz4bqvq8w8p",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451257408
+    },
+    {
+      "id": "mrb0txe3fg138o",
+      "title": "E. Focus Management",
+      "parentId": "mr0zz4bqvq8w8p",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451257419
+    },
+    {
+      "id": "mrb0txeenypzeq",
+      "title": "F. Deep Work",
+      "parentId": "mr0zz4bqvq8w8p",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451257430
+    },
+    {
+      "id": "mrb0txerach9h0",
+      "title": "G. Productivity Systems",
+      "parentId": "mr0zz4bqvq8w8p",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451257443
+    },
+    {
+      "id": "mrb0txf5ltt18d",
+      "title": "H. Task Management",
+      "parentId": "mr0zz4bqvq8w8p",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451257457
+    },
+    {
+      "id": "mrb0txfm14gcdm",
+      "title": "I. Digital Productivity",
+      "parentId": "mr0zz4bqvq8w8p",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451257474
+    },
+    {
+      "id": "mrb0txfzv8dapj",
+      "title": "J. Avoiding Procrastination",
+      "parentId": "mr0zz4bqvq8w8p",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451257487
+    },
+    {
+      "id": "mrb0txga20rgm9",
+      "title": "K. Personal Efficiency",
+      "parentId": "mr0zz4bqvq8w8p",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451257498
+    },
+    {
+      "id": "mrb0txgns3agwz",
+      "title": "L. Sustainable Productivity",
+      "parentId": "mr0zz4bqvq8w8p",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451257511
+    },
+    {
+      "id": "mrb0txgyy2j08s",
+      "title": "A. Goal Setting Fundamentals",
+      "parentId": "mr0zz4btu6780t",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451257522
+    },
+    {
+      "id": "mrb0txh98okeij",
+      "title": "B. SMART Goals",
+      "parentId": "mr0zz4btu6780t",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451257533
+    },
+    {
+      "id": "mrb0txhnq7xkkz",
+      "title": "C. Vision Planning",
+      "parentId": "mr0zz4btu6780t",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451257547
+    },
+    {
+      "id": "mrb0txhzy1syrb",
+      "title": "D. Life Planning",
+      "parentId": "mr0zz4btu6780t",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451257559
+    },
+    {
+      "id": "mrb0txiaoi7tu3",
+      "title": "E. Career Planning",
+      "parentId": "mr0zz4btu6780t",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451257570
+    },
+    {
+      "id": "mrb0txim5s06cg",
+      "title": "F. Strategic Personal Planning",
+      "parentId": "mr0zz4btu6780t",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451257582
+    },
+    {
+      "id": "mrb0txiz99r37t",
+      "title": "G. Milestone Planning",
+      "parentId": "mr0zz4btu6780t",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451257595
+    },
+    {
+      "id": "mrb0txjb3066bm",
+      "title": "H. Progress Tracking",
+      "parentId": "mr0zz4btu6780t",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451257607
+    },
+    {
+      "id": "mrb0txjnrd1dg3",
+      "title": "I. Accountability Systems",
+      "parentId": "mr0zz4btu6780t",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451257619
+    },
+    {
+      "id": "mrb0txk0kidwul",
+      "title": "J. Goal Review",
+      "parentId": "mr0zz4btu6780t",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451257632
+    },
+    {
+      "id": "mrb0txkd2cwuo5",
+      "title": "K. Long-Term Success Planning",
+      "parentId": "mr0zz4btu6780t",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451257645
+    },
+    {
+      "id": "mrb0txkosf0k4w",
+      "title": "L. Personal Achievement Systems",
+      "parentId": "mr0zz4btu6780t",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451257656
+    },
+    {
+      "id": "mrb0txl0jomtll",
+      "title": "A. Habit Formation",
+      "parentId": "mr0zz4bvgwrk6m",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451257668
+    },
+    {
+      "id": "mrb0txlc9ao7i0",
+      "title": "B. Habit Change",
+      "parentId": "mr0zz4bvgwrk6m",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451257680
+    },
+    {
+      "id": "mrb0txlpgj8gme",
+      "title": "C. Self-Discipline",
+      "parentId": "mr0zz4bvgwrk6m",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451257693
+    },
+    {
+      "id": "mrb0txm1850yj3",
+      "title": "D. Consistency",
+      "parentId": "mr0zz4bvgwrk6m",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451257705
+    },
+    {
+      "id": "mrb0txmc12a209",
+      "title": "E. Motivation Management",
+      "parentId": "mr0zz4bvgwrk6m",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451257716
+    },
+    {
+      "id": "mrb0txmp3b5iiv",
+      "title": "F. Self-Control",
+      "parentId": "mr0zz4bvgwrk6m",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451257729
+    },
+    {
+      "id": "mrb0txn1lhywu7",
+      "title": "G. Personal Routines",
+      "parentId": "mr0zz4bvgwrk6m",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451257741
+    },
+    {
+      "id": "mrb0txnd4vk0hj",
+      "title": "H. Identity-Based Habits",
+      "parentId": "mr0zz4bvgwrk6m",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451257753
+    },
+    {
+      "id": "mrb0txnq353jt4",
+      "title": "I. Behavioral Psychology",
+      "parentId": "mr0zz4bvgwrk6m",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451257766
+    },
+    {
+      "id": "mrb0txo2eppg5x",
+      "title": "J. Peak Performance Habits",
+      "parentId": "mr0zz4bvgwrk6m",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451257778
+    },
+    {
+      "id": "mrb0txoe3mett1",
+      "title": "K. Self-Mastery",
+      "parentId": "mr0zz4bvgwrk6m",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451257790
+    },
+    {
+      "id": "mrb0txorruik8u",
+      "title": "L. Lifelong Discipline",
+      "parentId": "mr0zz4bvgwrk6m",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451257803
+    },
+    {
+      "id": "mrb0txp35lfmy1",
+      "title": "A. Communication Fundamentals",
+      "parentId": "mr0zz4bwnxfvrv",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451257815
+    },
+    {
+      "id": "mrb0txpe5c4b8i",
+      "title": "B. Active Listening",
+      "parentId": "mr0zz4bwnxfvrv",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451257826
+    },
+    {
+      "id": "mrb0txpqaiuo35",
+      "title": "C. Verbal Communication",
+      "parentId": "mr0zz4bwnxfvrv",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451257838
+    },
+    {
+      "id": "mrb0txq2ojjdln",
+      "title": "D. Non-Verbal Communication",
+      "parentId": "mr0zz4bwnxfvrv",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451257850
+    },
+    {
+      "id": "mrb0txqeu7ylsl",
+      "title": "E. Written Communication",
+      "parentId": "mr0zz4bwnxfvrv",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451257862
+    },
+    {
+      "id": "mrb0txqquf4vbs",
+      "title": "F. Interpersonal Relationships",
+      "parentId": "mr0zz4bwnxfvrv",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451257874
+    },
+    {
+      "id": "mrb0txr2fipq5z",
+      "title": "G. Emotional Communication",
+      "parentId": "mr0zz4bwnxfvrv",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451257886
+    },
+    {
+      "id": "mrb0txrdyharqv",
+      "title": "H. Difficult Conversations",
+      "parentId": "mr0zz4bwnxfvrv",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451257897
+    },
+    {
+      "id": "mrb0txro7k2lj5",
+      "title": "I. Collaboration",
+      "parentId": "mr0zz4bwnxfvrv",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451257908
+    },
+    {
+      "id": "mrb0txrzos48x3",
+      "title": "J. Cross-Cultural Communication",
+      "parentId": "mr0zz4bwnxfvrv",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451257919
+    },
+    {
+      "id": "mrb0txsa10c279",
+      "title": "K. Professional Communication",
+      "parentId": "mr0zz4bwnxfvrv",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451257930
+    },
+    {
+      "id": "mrb0txsmt35c51",
+      "title": "L. Communication Excellence",
+      "parentId": "mr0zz4bwnxfvrv",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451257942
+    },
+    {
+      "id": "mrb0txsxtwekdk",
+      "title": "A. Stress Fundamentals",
+      "parentId": "mr0zz4bxc8edwy",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451257953
+    },
+    {
+      "id": "mrb0txt9scj53d",
+      "title": "B. Stress Assessment",
+      "parentId": "mr0zz4bxc8edwy",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451257965
+    },
+    {
+      "id": "mrb0txtmuxslg0",
+      "title": "C. Stress Reduction Techniques",
+      "parentId": "mr0zz4bxc8edwy",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451257978
+    },
+    {
+      "id": "mrb0txtzwor1us",
+      "title": "D. Emotional Resilience",
+      "parentId": "mr0zz4bxc8edwy",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451257991
+    },
+    {
+      "id": "mrb0txuakpr06t",
+      "title": "E. Mental Toughness",
+      "parentId": "mr0zz4bxc8edwy",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451258002
+    },
+    {
+      "id": "mrb0txulscljgn",
+      "title": "F. Coping Strategies",
+      "parentId": "mr0zz4bxc8edwy",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451258013
+    },
+    {
+      "id": "mrb0txuw6tywy4",
+      "title": "G. Burnout Prevention",
+      "parentId": "mr0zz4bxc8edwy",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451258024
+    },
+    {
+      "id": "mrb0txv9m0ewr2",
+      "title": "H. Crisis Recovery",
+      "parentId": "mr0zz4bxc8edwy",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451258037
+    },
+    {
+      "id": "mrb0txvm418mv4",
+      "title": "I. Adaptation Under Pressure",
+      "parentId": "mr0zz4bxc8edwy",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451258050
+    },
+    {
+      "id": "mrb0txvxnemf42",
+      "title": "J. Building Resilience",
+      "parentId": "mr0zz4bxc8edwy",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451258062
+    },
+    {
+      "id": "mrb0txwb0l1e9e",
+      "title": "K. Workplace Wellbeing",
+      "parentId": "mr0zz4bxc8edwy",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451258075
+    },
+    {
+      "id": "mrb0txwoi8b4q2",
+      "title": "L. Sustainable Resilience",
+      "parentId": "mr0zz4bxc8edwy",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451258088
+    },
+    {
+      "id": "mrb0txwxjbm0e3",
+      "title": "A. Wellbeing Foundations",
+      "parentId": "mr0zz4bz8ky6b8",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451258097
+    },
+    {
+      "id": "mrb0txxague0os",
+      "title": "B. Physical Health",
+      "parentId": "mr0zz4bz8ky6b8",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451258110
+    },
+    {
+      "id": "mrb0txxmt03ht7",
+      "title": "C. Exercise & Fitness",
+      "parentId": "mr0zz4bz8ky6b8",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451258122
+    },
+    {
+      "id": "mrb0txxxkvkzcw",
+      "title": "D. Nutrition",
+      "parentId": "mr0zz4bz8ky6b8",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451258133
+    },
+    {
+      "id": "mrb0txy85f9vig",
+      "title": "E. Sleep Optimization",
+      "parentId": "mr0zz4bz8ky6b8",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451258144
+    },
+    {
+      "id": "mrb0txykax9isr",
+      "title": "F. Mental Health",
+      "parentId": "mr0zz4bz8ky6b8",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451258156
+    },
+    {
+      "id": "mrb0txyw2podtf",
+      "title": "G. Mindfulness",
+      "parentId": "mr0zz4bz8ky6b8",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451258168
+    },
+    {
+      "id": "mrb0txz7lf3mlt",
+      "title": "H. Meditation",
+      "parentId": "mr0zz4bz8ky6b8",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451258179
+    },
+    {
+      "id": "mrb0txzk6qa61g",
+      "title": "I. Energy Management",
+      "parentId": "mr0zz4bz8ky6b8",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451258192
+    },
+    {
+      "id": "mrb0txzv02xeci",
+      "title": "J. Healthy Lifestyle Design",
+      "parentId": "mr0zz4bz8ky6b8",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451258203
+    },
+    {
+      "id": "mrb0ty07z4pjfg",
+      "title": "K. Preventive Wellbeing",
+      "parentId": "mr0zz4bz8ky6b8",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451258215
+    },
+    {
+      "id": "mrb0ty0jbosgzy",
+      "title": "L. Holistic Wellness",
+      "parentId": "mr0zz4bz8ky6b8",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451258227
+    },
+    {
+      "id": "mrb0ty0vex5fdp",
+      "title": "A. Work-Life Foundations",
+      "parentId": "mr0zz4c0s5abh1",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451258239
+    },
+    {
+      "id": "mrb0ty16vc1o5n",
+      "title": "B. Work-Life Balance",
+      "parentId": "mr0zz4c0s5abh1",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451258250
+    },
+    {
+      "id": "mrb0ty1jfquozr",
+      "title": "C. Work-Life Integration",
+      "parentId": "mr0zz4c0s5abh1",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451258263
+    },
+    {
+      "id": "mrb0ty1vcotcwo",
+      "title": "D. Boundary Management",
+      "parentId": "mr0zz4c0s5abh1",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451258275
+    },
+    {
+      "id": "mrb0ty27366b7a",
+      "title": "E. Personal Energy Allocation",
+      "parentId": "mr0zz4c0s5abh1",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451258287
+    },
+    {
+      "id": "mrb0ty2h5zbh76",
+      "title": "F. Family & Relationships",
+      "parentId": "mr0zz4c0s5abh1",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451258297
+    },
+    {
+      "id": "mrb0ty2tbhwf9n",
+      "title": "G. Flexible Working",
+      "parentId": "mr0zz4c0s5abh1",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451258309
+    },
+    {
+      "id": "mrb0ty34xn3zg4",
+      "title": "H. Digital Wellbeing",
+      "parentId": "mr0zz4c0s5abh1",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451258320
+    },
+    {
+      "id": "mrb0ty3ftl3e8j",
+      "title": "I. Sustainable Career Living",
+      "parentId": "mr0zz4c0s5abh1",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451258331
+    },
+    {
+      "id": "mrb0ty3rrtj6qo",
+      "title": "J. Lifestyle Design",
+      "parentId": "mr0zz4c0s5abh1",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451258343
+    },
+    {
+      "id": "mrb0ty41wxlh0v",
+      "title": "K. Long-Term Balance",
+      "parentId": "mr0zz4c0s5abh1",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451258353
+    },
+    {
+      "id": "mrb0ty4e4yqzh3",
+      "title": "L. Flourishing Across Life Domains",
+      "parentId": "mr0zz4c0s5abh1",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451258366
+    },
+    {
+      "id": "mrb0ty4y1wl0l4",
+      "title": "A. Growth Mindset Fundamentals",
+      "parentId": "mr0zz4c1e4qad9",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451258386
+    },
+    {
+      "id": "mrb0ty59owa8dn",
+      "title": "B. Adaptability",
+      "parentId": "mr0zz4c1e4qad9",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451258397
+    },
+    {
+      "id": "mrb0ty5l5ei7m7",
+      "title": "C. Learning Agility",
+      "parentId": "mr0zz4c1e4qad9",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451258409
+    },
+    {
+      "id": "mrb0ty5w8ixmoo",
+      "title": "D. Managing Change",
+      "parentId": "mr0zz4c1e4qad9",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451258420
+    },
+    {
+      "id": "mrb0ty68ibrnt7",
+      "title": "E. Openness to Feedback",
+      "parentId": "mr0zz4c1e4qad9",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451258432
+    },
+    {
+      "id": "mrb0ty6lg0mblg",
+      "title": "F. Cognitive Flexibility",
+      "parentId": "mr0zz4c1e4qad9",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451258445
+    },
+    {
+      "id": "mrb0ty6w44uhxn",
+      "title": "G. Innovation Mindset",
+      "parentId": "mr0zz4c1e4qad9",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451258456
+    },
+    {
+      "id": "mrb0ty77pghhub",
+      "title": "H. Continuous Learning",
+      "parentId": "mr0zz4c1e4qad9",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451258467
+    },
+    {
+      "id": "mrb0ty7img3kml",
+      "title": "I. Future Readiness",
+      "parentId": "mr0zz4c1e4qad9",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451258478
+    },
+    {
+      "id": "mrb0ty7tmifsjs",
+      "title": "J. Personal Reinvention",
+      "parentId": "mr0zz4c1e4qad9",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451258489
+    },
+    {
+      "id": "mrb0ty84h23ryk",
+      "title": "K. Resilient Adaptation",
+      "parentId": "mr0zz4c1e4qad9",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451258500
+    },
+    {
+      "id": "mrb0ty8grlk5c2",
+      "title": "L. Lifelong Adaptability",
+      "parentId": "mr0zz4c1e4qad9",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451258512
+    },
+    {
+      "id": "mrb0ty8rm5qrr2",
+      "title": "A. Confidence Foundations",
+      "parentId": "mr0zz4c29yn6ko",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451258523
+    },
+    {
+      "id": "mrb0ty92wwy0ao",
+      "title": "B. Self-Belief",
+      "parentId": "mr0zz4c29yn6ko",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451258534
+    },
+    {
+      "id": "mrb0ty9ew26d7z",
+      "title": "C. Executive Presence",
+      "parentId": "mr0zz4c29yn6ko",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451258546
+    },
+    {
+      "id": "mrb0ty9qouciu6",
+      "title": "D. Professional Image",
+      "parentId": "mr0zz4c29yn6ko",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451258558
+    },
+    {
+      "id": "mrb0tya39ozwn7",
+      "title": "E. Authenticity",
+      "parentId": "mr0zz4c29yn6ko",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451258571
+    },
+    {
+      "id": "mrb0tyaevtyxqm",
+      "title": "F. Assertiveness",
+      "parentId": "mr0zz4c29yn6ko",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451258582
+    },
+    {
+      "id": "mrb0tyaos8l8m1",
+      "title": "G. Influence",
+      "parentId": "mr0zz4c29yn6ko",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451258592
+    },
+    {
+      "id": "mrb0tyaz5p0fq9",
+      "title": "H. Professional Credibility",
+      "parentId": "mr0zz4c29yn6ko",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451258603
+    },
+    {
+      "id": "mrb0tybcwaibza",
+      "title": "I. Leadership Presence",
+      "parentId": "mr0zz4c29yn6ko",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451258616
+    },
+    {
+      "id": "mrb0tybnirin6h",
+      "title": "J. Public Confidence",
+      "parentId": "mr0zz4c29yn6ko",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451258627
+    },
+    {
+      "id": "mrb0tyby09nsg8",
+      "title": "K. Reputation Building",
+      "parentId": "mr0zz4c29yn6ko",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451258638
+    },
+    {
+      "id": "mrb0tyc8vgyazt",
+      "title": "L. Executive Excellence",
+      "parentId": "mr0zz4c29yn6ko",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451258648
+    },
+    {
+      "id": "mrb0tyckvsh6if",
+      "title": "A. Personal Values",
+      "parentId": "mr0zz4c38l6s6z",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451258660
+    },
+    {
+      "id": "mrb0tycwn09504",
+      "title": "B. Purpose Discovery",
+      "parentId": "mr0zz4c38l6s6z",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451258672
+    },
+    {
+      "id": "mrb0tyd7tmdr5b",
+      "title": "C. Meaningful Living",
+      "parentId": "mr0zz4c38l6s6z",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451258683
+    },
+    {
+      "id": "mrb0tydil26k33",
+      "title": "D. Ethical Living",
+      "parentId": "mr0zz4c38l6s6z",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451258694
+    },
+    {
+      "id": "mrb0tydtucu9gg",
+      "title": "E. Personal Mission",
+      "parentId": "mr0zz4c38l6s6z",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451258705
+    },
+    {
+      "id": "mrb0tye5jxigh3",
+      "title": "F. Life Philosophy",
+      "parentId": "mr0zz4c38l6s6z",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451258717
+    },
+    {
+      "id": "mrb0tyeglhev5c",
+      "title": "G. Value-Based Decisions",
+      "parentId": "mr0zz4c38l6s6z",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451258728
+    },
+    {
+      "id": "mrb0tyerv4160s",
+      "title": "H. Passion & Motivation",
+      "parentId": "mr0zz4c38l6s6z",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451258739
+    },
+    {
+      "id": "mrb0tyf2rgdtnb",
+      "title": "I. Legacy Thinking",
+      "parentId": "mr0zz4c38l6s6z",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451258750
+    },
+    {
+      "id": "mrb0tyfdcwgzg1",
+      "title": "J. Identity Development",
+      "parentId": "mr0zz4c38l6s6z",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451258761
+    },
+    {
+      "id": "mrb0tyfq70mu77",
+      "title": "K. Purpose-Driven Leadership",
+      "parentId": "mr0zz4c38l6s6z",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451258774
+    },
+    {
+      "id": "mrb0tyg10oj93n",
+      "title": "L. Personal Fulfillment",
+      "parentId": "mr0zz4c38l6s6z",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451258785
+    },
+    {
+      "id": "mrb0tygckgw4sb",
+      "title": "A. Performance Foundations",
+      "parentId": "mr0zz4c5n5hko7",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783451258796
+    },
+    {
+      "id": "mrb0tygog70asr",
+      "title": "B. Peak Performance",
+      "parentId": "mr0zz4c5n5hko7",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783451258808
+    },
+    {
+      "id": "mrb0tygzdffiqz",
+      "title": "C. High Performance Habits",
+      "parentId": "mr0zz4c5n5hko7",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783451258819
+    },
+    {
+      "id": "mrb0tyh9lbcp6k",
+      "title": "D. Cognitive Performance",
+      "parentId": "mr0zz4c5n5hko7",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783451258829
+    },
+    {
+      "id": "mrb0tyhlotumns",
+      "title": "E. Physical Performance",
+      "parentId": "mr0zz4c5n5hko7",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783451258841
+    },
+    {
+      "id": "mrb0tyhworp3xc",
+      "title": "F. Emotional Performance",
+      "parentId": "mr0zz4c5n5hko7",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783451258852
+    },
+    {
+      "id": "mrb0tyi7h9xvac",
+      "title": "G. Learning Performance",
+      "parentId": "mr0zz4c5n5hko7",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783451258863
+    },
+    {
+      "id": "mrb0tyimu71rdf",
+      "title": "H. Productivity Optimization",
+      "parentId": "mr0zz4c5n5hko7",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783451258878
+    },
+    {
+      "id": "mrb0tyiyfglklz",
+      "title": "I. Decision Performance",
+      "parentId": "mr0zz4c5n5hko7",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783451258890
+    },
+    {
+      "id": "mrb0tyj8weinaj",
+      "title": "J. Sustainable Excellence",
+      "parentId": "mr0zz4c5n5hko7",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783451258900
+    },
+    {
+      "id": "mrb0tyjj8no4tv",
+      "title": "K. Personal Performance Systems",
+      "parentId": "mr0zz4c5n5hko7",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783451258911
+    },
+    {
+      "id": "mrb0tyjw4ahd60",
+      "title": "L. Continuous Performance Improvement",
+      "parentId": "mr0zz4c5n5hko7",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783451258924
     }
   ],
   "pages": {
