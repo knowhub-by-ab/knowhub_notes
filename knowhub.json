@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-07T20:14:21.386Z",
+  "exportedAt": "2026-07-07T20:19:22.200Z",
   "nodes": [
     {
       "order": 2,
@@ -37665,6 +37665,2310 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1783455043082
+    },
+    {
+      "id": "mrb37t8vai5ggt",
+      "title": "A. Global Career Fundamentals",
+      "parentId": "mr11zy8qu26r74",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455264463
+    },
+    {
+      "id": "mrb37t9x7as3ks",
+      "title": "B. International Career Opportunities",
+      "parentId": "mr11zy8qu26r74",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455264501
+    },
+    {
+      "id": "mrb37tavatc2kx",
+      "title": "C. Global Workforce Trends",
+      "parentId": "mr11zy8qu26r74",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455264535
+    },
+    {
+      "id": "mrb37tbhywu1z5",
+      "title": "D. Global Employability",
+      "parentId": "mr11zy8qu26r74",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455264557
+    },
+    {
+      "id": "mrb37tc6r9fxln",
+      "title": "E. Cross-Border Careers",
+      "parentId": "mr11zy8qu26r74",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455264582
+    },
+    {
+      "id": "mrb37tcvrq2pbg",
+      "title": "F. International Organizations",
+      "parentId": "mr11zy8qu26r74",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455264607
+    },
+    {
+      "id": "mrb37tdjjguvuf",
+      "title": "G. Multinational Companies",
+      "parentId": "mr11zy8qu26r74",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455264631
+    },
+    {
+      "id": "mrb37te6yaw3pn",
+      "title": "H. Building a Global Mindset",
+      "parentId": "mr11zy8qu26r74",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455264654
+    },
+    {
+      "id": "mrb37teih5sx8x",
+      "title": "I. Global Career Planning",
+      "parentId": "mr11zy8qu26r74",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455264666
+    },
+    {
+      "id": "mrb37tf532znbp",
+      "title": "J. International Professional Standards",
+      "parentId": "mr11zy8qu26r74",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455264689
+    },
+    {
+      "id": "mrb37tftyxl0pt",
+      "title": "K. Global Career Readiness",
+      "parentId": "mr11zy8qu26r74",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455264713
+    },
+    {
+      "id": "mrb37tghcahdvf",
+      "title": "L. Building an International Career",
+      "parentId": "mr11zy8qu26r74",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455264737
+    },
+    {
+      "id": "mrb37th65t6tja",
+      "title": "A. Global Job Market Fundamentals",
+      "parentId": "mr11zy8rrmtdjb",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455264762
+    },
+    {
+      "id": "mrb37thle9iqdk",
+      "title": "B. Regional Employment Markets",
+      "parentId": "mr11zy8rrmtdjb",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455264777
+    },
+    {
+      "id": "mrb37ti4ejqg71",
+      "title": "C. Country-Specific Opportunities",
+      "parentId": "mr11zy8rrmtdjb",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455264796
+    },
+    {
+      "id": "mrb37tit5kuff0",
+      "title": "D. Industry Demand Worldwide",
+      "parentId": "mr11zy8rrmtdjb",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455264821
+    },
+    {
+      "id": "mrb37tjfve0nel",
+      "title": "E. International Salary Benchmarking",
+      "parentId": "mr11zy8rrmtdjb",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455264843
+    },
+    {
+      "id": "mrb37tjz10t88v",
+      "title": "F. Employer Research",
+      "parentId": "mr11zy8rrmtdjb",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455264863
+    },
+    {
+      "id": "mrb37tka8hqn2v",
+      "title": "G. Global Hiring Trends",
+      "parentId": "mr11zy8rrmtdjb",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455264874
+    },
+    {
+      "id": "mrb37tkyihweln",
+      "title": "H. Talent Mobility",
+      "parentId": "mr11zy8rrmtdjb",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455264898
+    },
+    {
+      "id": "mrb37tljbysjoo",
+      "title": "I. International Recruitment Agencies",
+      "parentId": "mr11zy8rrmtdjb",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455264919
+    },
+    {
+      "id": "mrb37tlvv8gc04",
+      "title": "J. Global Career Platforms",
+      "parentId": "mr11zy8rrmtdjb",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455264931
+    },
+    {
+      "id": "mrb37tmf63n3rq",
+      "title": "K. Labor Market Intelligence",
+      "parentId": "mr11zy8rrmtdjb",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455264951
+    },
+    {
+      "id": "mrb37tn62qaptn",
+      "title": "L. International Career Strategy",
+      "parentId": "mr11zy8rrmtdjb",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455264978
+    },
+    {
+      "id": "mrb37tnhjxpstz",
+      "title": "A. Remote Work Foundations",
+      "parentId": "mr11zy8ta9cqif",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455264989
+    },
+    {
+      "id": "mrb37to4u0es4w",
+      "title": "B. Remote Work Models",
+      "parentId": "mr11zy8ta9cqif",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455265012
+    },
+    {
+      "id": "mrb37toq5q5jii",
+      "title": "C. Remote Productivity",
+      "parentId": "mr11zy8ta9cqif",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455265034
+    },
+    {
+      "id": "mrb37tp5v6mk2v",
+      "title": "D. Home Office Setup",
+      "parentId": "mr11zy8ta9cqif",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455265049
+    },
+    {
+      "id": "mrb37tplt759es",
+      "title": "E. Remote Work Communication",
+      "parentId": "mr11zy8ta9cqif",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455265065
+    },
+    {
+      "id": "mrb37tqggxfl4d",
+      "title": "F. Time Zone Management",
+      "parentId": "mr11zy8ta9cqif",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455265096
+    },
+    {
+      "id": "mrb37tqwgns0ik",
+      "title": "G. Digital Collaboration",
+      "parentId": "mr11zy8ta9cqif",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455265112
+    },
+    {
+      "id": "mrb37trkr97zbj",
+      "title": "H. Self-Management",
+      "parentId": "mr11zy8ta9cqif",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455265136
+    },
+    {
+      "id": "mrb37ts3jg4lg8",
+      "title": "I. Remote Work Etiquette",
+      "parentId": "mr11zy8ta9cqif",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455265155
+    },
+    {
+      "id": "mrb37tsikfz183",
+      "title": "J. Performance in Remote Teams",
+      "parentId": "mr11zy8ta9cqif",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455265170
+    },
+    {
+      "id": "mrb37tt7fuf72l",
+      "title": "K. Challenges of Remote Work",
+      "parentId": "mr11zy8ta9cqif",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455265195
+    },
+    {
+      "id": "mrb37ttqdhcqk1",
+      "title": "L. Becoming a High-Performing Remote Professional",
+      "parentId": "mr11zy8ta9cqif",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455265214
+    },
+    {
+      "id": "mrb37tu4yr9t9i",
+      "title": "A. Hybrid Work Fundamentals",
+      "parentId": "mr11zy8v8o9s74",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455265228
+    },
+    {
+      "id": "mrb37tuj1n0hkj",
+      "title": "B. Hybrid Team Collaboration",
+      "parentId": "mr11zy8v8o9s74",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455265243
+    },
+    {
+      "id": "mrb37tv9th7zrk",
+      "title": "C. Office & Remote Balance",
+      "parentId": "mr11zy8v8o9s74",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455265269
+    },
+    {
+      "id": "mrb37tvz7gjgf8",
+      "title": "D. Scheduling Strategies",
+      "parentId": "mr11zy8v8o9s74",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455265295
+    },
+    {
+      "id": "mrb37twhy0k0qc",
+      "title": "E. Hybrid Communication",
+      "parentId": "mr11zy8v8o9s74",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455265313
+    },
+    {
+      "id": "mrb37twxfm6nef",
+      "title": "F. Hybrid Leadership",
+      "parentId": "mr11zy8v8o9s74",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455265329
+    },
+    {
+      "id": "mrb37txg4cpzrb",
+      "title": "G. Productivity Optimization",
+      "parentId": "mr11zy8v8o9s74",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455265348
+    },
+    {
+      "id": "mrb37ty7x30w3u",
+      "title": "H. Technology for Hybrid Work",
+      "parentId": "mr11zy8v8o9s74",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455265375
+    },
+    {
+      "id": "mrb37tyx2czz3g",
+      "title": "I. Team Culture",
+      "parentId": "mr11zy8v8o9s74",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455265401
+    },
+    {
+      "id": "mrb37tzefy25a9",
+      "title": "J. Performance Measurement",
+      "parentId": "mr11zy8v8o9s74",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455265418
+    },
+    {
+      "id": "mrb37u06x4kvcd",
+      "title": "K. Hybrid Work Policies",
+      "parentId": "mr11zy8v8o9s74",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455265446
+    },
+    {
+      "id": "mrb37u0pqxcwaf",
+      "title": "L. Hybrid Workplace Excellence",
+      "parentId": "mr11zy8v8o9s74",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455265465
+    },
+    {
+      "id": "mrb37u17wel80s",
+      "title": "A. Cross-Cultural Fundamentals",
+      "parentId": "mr11zy8yzpcit5",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455265483
+    },
+    {
+      "id": "mrb37u21aqesn7",
+      "title": "B. Cultural Intelligence",
+      "parentId": "mr11zy8yzpcit5",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455265513
+    },
+    {
+      "id": "mrb37u2erf4tcd",
+      "title": "C. Global Communication Styles",
+      "parentId": "mr11zy8yzpcit5",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455265526
+    },
+    {
+      "id": "mrb37u38cvkxcx",
+      "title": "D. Cultural Awareness",
+      "parentId": "mr11zy8yzpcit5",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455265556
+    },
+    {
+      "id": "mrb37u3kfdvhuy",
+      "title": "E. International Business Etiquette",
+      "parentId": "mr11zy8yzpcit5",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455265568
+    },
+    {
+      "id": "mrb37u47tapx6r",
+      "title": "F. Language Considerations",
+      "parentId": "mr11zy8yzpcit5",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455265591
+    },
+    {
+      "id": "mrb37u52o9kdhf",
+      "title": "G. Managing Cultural Differences",
+      "parentId": "mr11zy8yzpcit5",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455265622
+    },
+    {
+      "id": "mrb37u5gk7530w",
+      "title": "H. Inclusive Communication",
+      "parentId": "mr11zy8yzpcit5",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455265636
+    },
+    {
+      "id": "mrb37u5suic61y",
+      "title": "I. Conflict Across Cultures",
+      "parentId": "mr11zy8yzpcit5",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455265649
+    },
+    {
+      "id": "mrb37u6gbpvr31",
+      "title": "J. Building Trust Globally",
+      "parentId": "mr11zy8yzpcit5",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455265672
+    },
+    {
+      "id": "mrb37u7dwua8o0",
+      "title": "K. Global Team Relationships",
+      "parentId": "mr11zy8yzpcit5",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455265705
+    },
+    {
+      "id": "mrb37u7qaq3h7k",
+      "title": "L. Cross-CCultural Communication Excellence",
+      "parentId": "mr11zy8yzpcit5",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455265718
+    },
+    {
+      "id": "mrb37u8410uazb",
+      "title": "A. Distributed Teams Fundamentals",
+      "parentId": "mr11zy8z31295t",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455265732
+    },
+    {
+      "id": "mrb37u8s3ths3q",
+      "title": "B. Virtual Team Building",
+      "parentId": "mr11zy8z31295t",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455265756
+    },
+    {
+      "id": "mrb37u9k75we5j",
+      "title": "C. Collaborative Technologies",
+      "parentId": "mr11zy8z31295t",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455265784
+    },
+    {
+      "id": "mrb37u9xjpsz8f",
+      "title": "D. Asynchronous Collaboration",
+      "parentId": "mr11zy8z31295t",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455265797
+    },
+    {
+      "id": "mrb37uaq076gkq",
+      "title": "E. Synchronous Collaboration",
+      "parentId": "mr11zy8z31295t",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455265826
+    },
+    {
+      "id": "mrb37ub5cs5suj",
+      "title": "F. Documentation Culture",
+      "parentId": "mr11zy8z31295t",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455265841
+    },
+    {
+      "id": "mrb37ubs2wks4g",
+      "title": "G. Remote Decision Making",
+      "parentId": "mr11zy8z31295t",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455265864
+    },
+    {
+      "id": "mrb37uc7z3egee",
+      "title": "H. Knowledge Sharing",
+      "parentId": "mr11zy8z31295t",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455265879
+    },
+    {
+      "id": "mrb37ucz4h9bgp",
+      "title": "I. Managing Distributed Projects",
+      "parentId": "mr11zy8z31295t",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455265907
+    },
+    {
+      "id": "mrb37udolqlxo5",
+      "title": "J. Performance Across Locations",
+      "parentId": "mr11zy8z31295t",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455265932
+    },
+    {
+      "id": "mrb37ue5egv089",
+      "title": "K. Building Global Teams",
+      "parentId": "mr11zy8z31295t",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455265949
+    },
+    {
+      "id": "mrb37ueknx2cmb",
+      "title": "L. High-Performance Distributed Organizations",
+      "parentId": "mr11zy8z31295t",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455265964
+    },
+    {
+      "id": "mrb37uf1o7hegm",
+      "title": "A. International Recruitment Fundamentals",
+      "parentId": "mr11zy91r2wfop",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455265981
+    },
+    {
+      "id": "mrb37ufy7b4ouz",
+      "title": "B. Global Hiring Processes",
+      "parentId": "mr11zy91r2wfop",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455266014
+    },
+    {
+      "id": "mrb37ugkssjcad",
+      "title": "C. Immigration Basics",
+      "parentId": "mr11zy91r2wfop",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455266036
+    },
+    {
+      "id": "mrb37ugzam099q",
+      "title": "D. Work Visas",
+      "parentId": "mr11zy91r2wfop",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455266051
+    },
+    {
+      "id": "mrb37uhmys9pws",
+      "title": "E. Relocation Planning",
+      "parentId": "mr11zy91r2wfop",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455266074
+    },
+    {
+      "id": "mrb37ui1a95m4u",
+      "title": "F. Expatriate Careers",
+      "parentId": "mr11zy91r2wfop",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455266089
+    },
+    {
+      "id": "mrb37uin5gggbb",
+      "title": "G. International Assignments",
+      "parentId": "mr11zy91r2wfop",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455266111
+    },
+    {
+      "id": "mrb37ujeavmeb3",
+      "title": "H. Global Talent Mobility",
+      "parentId": "mr11zy91r2wfop",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455266138
+    },
+    {
+      "id": "mrb37ujvwva36o",
+      "title": "I. Employer Sponsorship",
+      "parentId": "mr11zy91r2wfop",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455266155
+    },
+    {
+      "id": "mrb37uk80v61fw",
+      "title": "J. International Compliance",
+      "parentId": "mr11zy91r2wfop",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455266168
+    },
+    {
+      "id": "mrb37uktyjo1c4",
+      "title": "K. Settling into New Countries",
+      "parentId": "mr11zy91r2wfop",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455266189
+    },
+    {
+      "id": "mrb37ulog3ile9",
+      "title": "L. Successful Global Mobility",
+      "parentId": "mr11zy91r2wfop",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455266220
+    },
+    {
+      "id": "mrb37um7nhcln5",
+      "title": "A. Employment Law Fundamentals",
+      "parentId": "mr11zy933cky2n",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455266239
+    },
+    {
+      "id": "mrb37umlucvqfa",
+      "title": "B. International Employment Contracts",
+      "parentId": "mr11zy933cky2n",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455266253
+    },
+    {
+      "id": "mrb37un2dn7x2f",
+      "title": "C. Labor Regulations",
+      "parentId": "mr11zy933cky2n",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455266270
+    },
+    {
+      "id": "mrb37uns6lnpwr",
+      "title": "D. Tax Considerations",
+      "parentId": "mr11zy933cky2n",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455266296
+    },
+    {
+      "id": "mrb37uok44hbav",
+      "title": "E. Payroll Compliance",
+      "parentId": "mr11zy933cky2n",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455266324
+    },
+    {
+      "id": "mrb37up4duzhp4",
+      "title": "F. Worker Classification",
+      "parentId": "mr11zy933cky2n",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455266344
+    },
+    {
+      "id": "mrb37upiz14d9y",
+      "title": "G. Employee Rights",
+      "parentId": "mr11zy933cky2n",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455266358
+    },
+    {
+      "id": "mrb37upy8mdrs1",
+      "title": "H. Data Protection",
+      "parentId": "mr11zy933cky2n",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455266374
+    },
+    {
+      "id": "mrb37uqmkirsbu",
+      "title": "I. International Benefits",
+      "parentId": "mr11zy933cky2n",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455266398
+    },
+    {
+      "id": "mrb37urc4225xz",
+      "title": "J. Global HR Compliance",
+      "parentId": "mr11zy933cky2n",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455266424
+    },
+    {
+      "id": "mrb37urupux1c0",
+      "title": "K. Legal Risk Management",
+      "parentId": "mr11zy933cky2n",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455266442
+    },
+    {
+      "id": "mrb37usa323nmn",
+      "title": "L. Working Legally Across Borders",
+      "parentId": "mr11zy933cky2n",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455266458
+    },
+    {
+      "id": "mrb37usv2xl91d",
+      "title": "A. Digital Nomad Fundamentals",
+      "parentId": "mr11zy94rvu476",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455266479
+    },
+    {
+      "id": "mrb37utbj5lhws",
+      "title": "B. Location-Independent Careers",
+      "parentId": "mr11zy94rvu476",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455266495
+    },
+    {
+      "id": "mrb37utqlmqfvp",
+      "title": "C. Travel Planning",
+      "parentId": "mr11zy94rvu476",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455266510
+    },
+    {
+      "id": "mrb37uu6ktjvy7",
+      "title": "D. Remote Infrastructure",
+      "parentId": "mr11zy94rvu476",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455266526
+    },
+    {
+      "id": "mrb37uuknjsbd7",
+      "title": "E. International Banking",
+      "parentId": "mr11zy94rvu476",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455266540
+    },
+    {
+      "id": "mrb37uuykt2ju6",
+      "title": "F. Tax Considerations",
+      "parentId": "mr11zy94rvu476",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455266554
+    },
+    {
+      "id": "mrb37uvc6ap0ps",
+      "title": "G. Digital Nomad Visas",
+      "parentId": "mr11zy94rvu476",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455266568
+    },
+    {
+      "id": "mrb37uvr081vuo",
+      "title": "H. Productivity While Traveling",
+      "parentId": "mr11zy94rvu476",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455266583
+    },
+    {
+      "id": "mrb37uw5de29jg",
+      "title": "I. Community Building",
+      "parentId": "mr11zy94rvu476",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455266597
+    },
+    {
+      "id": "mrb37uwlurjkmz",
+      "title": "J. Health & Insurance",
+      "parentId": "mr11zy94rvu476",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455266613
+    },
+    {
+      "id": "mrb37uwzk3hx04",
+      "title": "K. Sustainable Nomad Lifestyle",
+      "parentId": "mr11zy94rvu476",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455266627
+    },
+    {
+      "id": "mrb37uxeknz7rq",
+      "title": "L. Building a Successful Digital Nomad Career",
+      "parentId": "mr11zy94rvu476",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455266642
+    },
+    {
+      "id": "mrb37uxtub49ds",
+      "title": "A. Global Networking Fundamentals",
+      "parentId": "mr11zy96jzvas1",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455266657
+    },
+    {
+      "id": "mrb37uy6x7zsr0",
+      "title": "B. International Professional Communities",
+      "parentId": "mr11zy96jzvas1",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455266670
+    },
+    {
+      "id": "mrb37uykkbnzlf",
+      "title": "C. Conferences & Events",
+      "parentId": "mr11zy96jzvas1",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455266684
+    },
+    {
+      "id": "mrb37uyx0qkdyg",
+      "title": "D. Online Global Networking",
+      "parentId": "mr11zy96jzvas1",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455266697
+    },
+    {
+      "id": "mrb37uzdq36jkq",
+      "title": "E. Building International Relationships",
+      "parentId": "mr11zy96jzvas1",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455266713
+    },
+    {
+      "id": "mrb37uzwble2hg",
+      "title": "F. Cross-Border Collaboration",
+      "parentId": "mr11zy96jzvas1",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455266732
+    },
+    {
+      "id": "mrb37v0ac6aw4l",
+      "title": "G. Alumni Networks",
+      "parentId": "mr11zy96jzvas1",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455266746
+    },
+    {
+      "id": "mrb37v0om86rgz",
+      "title": "H. Industry Associations",
+      "parentId": "mr11zy96jzvas1",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455266760
+    },
+    {
+      "id": "mrb37v110t55vc",
+      "title": "I. Networking Across Cultures",
+      "parentId": "mr11zy96jzvas1",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455266773
+    },
+    {
+      "id": "mrb37v1f7i7lct",
+      "title": "J. Relationship Maintenance",
+      "parentId": "mr11zy96jzvas1",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455266787
+    },
+    {
+      "id": "mrb37v1t95cpfz",
+      "title": "K. Strategic Global Networking",
+      "parentId": "mr11zy96jzvas1",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455266801
+    },
+    {
+      "id": "mrb37v2cb8d8j1",
+      "title": "L. Building a Worldwide Professional Network",
+      "parentId": "mr11zy96jzvas1",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455266820
+    },
+    {
+      "id": "mrb37v2rbbl512",
+      "title": "A. International Career Strategy",
+      "parentId": "mr11zy98a2ds07",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455266835
+    },
+    {
+      "id": "mrb37v34o5p390",
+      "title": "B. Country Selection",
+      "parentId": "mr11zy98a2ds07",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455266848
+    },
+    {
+      "id": "mrb37v3jblg9e0",
+      "title": "C. Skill Positioning",
+      "parentId": "mr11zy98a2ds07",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455266863
+    },
+    {
+      "id": "mrb37v3yu8ten2",
+      "title": "D. International Education",
+      "parentId": "mr11zy98a2ds07",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455266878
+    },
+    {
+      "id": "mrb37v4dx1l6lh",
+      "title": "E. Credential Recognition",
+      "parentId": "mr11zy98a2ds07",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455266893
+    },
+    {
+      "id": "mrb37v4qezpigu",
+      "title": "F. Language Development",
+      "parentId": "mr11zy98a2ds07",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455266906
+    },
+    {
+      "id": "mrb37v54lp83no",
+      "title": "G. Career Roadmapping",
+      "parentId": "mr11zy98a2ds07",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455266920
+    },
+    {
+      "id": "mrb37v5k1zjoym",
+      "title": "H. Financial Planning",
+      "parentId": "mr11zy98a2ds07",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455266936
+    },
+    {
+      "id": "mrb37v5xn04kj9",
+      "title": "I. Family Considerations",
+      "parentId": "mr11zy98a2ds07",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455266949
+    },
+    {
+      "id": "mrb37v6crsqxa8",
+      "title": "J. Long-Term Mobility",
+      "parentId": "mr11zy98a2ds07",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455266964
+    },
+    {
+      "id": "mrb37v6sgc1j3i",
+      "title": "K. Career Diversification",
+      "parentId": "mr11zy98a2ds07",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455266980
+    },
+    {
+      "id": "mrb37v7cg6nlxa",
+      "title": "L. Global Career Success Planning",
+      "parentId": "mr11zy98a2ds07",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455267000
+    },
+    {
+      "id": "mrb37v7r6jjk1b",
+      "title": "A. Future of Work Fundamentals",
+      "parentId": "mr11zy9a9h0155",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455267015
+    },
+    {
+      "id": "mrb37v86fcq8h7",
+      "title": "B. AI & Automation",
+      "parentId": "mr11zy9a9h0155",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455267030
+    },
+    {
+      "id": "mrb37v8jhhxoxx",
+      "title": "C. Borderless Employment",
+      "parentId": "mr11zy9a9h0155",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455267043
+    },
+    {
+      "id": "mrb37v8xl62k8g",
+      "title": "D. Global Talent Economy",
+      "parentId": "mr11zy9a9h0155",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455267057
+    },
+    {
+      "id": "mrb37v9acffm2w",
+      "title": "E. Digital Transformation",
+      "parentId": "mr11zy9a9h0155",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455267070
+    },
+    {
+      "id": "mrb37v9qr5hsfj",
+      "title": "F. Skills of the Future",
+      "parentId": "mr11zy9a9h0155",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455267086
+    },
+    {
+      "id": "mrb37va5088f0i",
+      "title": "G. Flexible Work Models",
+      "parentId": "mr11zy9a9h0155",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455267101
+    },
+    {
+      "id": "mrb37vajzx1gis",
+      "title": "H. Virtual Organizations",
+      "parentId": "mr11zy9a9h0155",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455267115
+    },
+    {
+      "id": "mrb37vayewpems",
+      "title": "I. Human-AI Collaboration",
+      "parentId": "mr11zy9a9h0155",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455267130
+    },
+    {
+      "id": "mrb37vbekr3ana",
+      "title": "J. Workforce Evolution",
+      "parentId": "mr11zy9a9h0155",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455267146
+    },
+    {
+      "id": "mrb37vbuckd2ki",
+      "title": "K. Future Career Opportunities",
+      "parentId": "mr11zy9a9h0155",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455267162
+    },
+    {
+      "id": "mrb37vc96d88un",
+      "title": "L. Preparing for the Future Global Workplace",
+      "parentId": "mr11zy9a9h0155",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455267177
+    },
+    {
+      "id": "mrb3bssd6hgcd9",
+      "title": "A. Career Transition Fundamentals",
+      "parentId": "mr12176vnrmcov",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455450493
+    },
+    {
+      "id": "mrb3bsso9smyc6",
+      "title": "B. Understanding Career Change",
+      "parentId": "mr12176vnrmcov",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455450504
+    },
+    {
+      "id": "mrb3bst0hwugep",
+      "title": "C. Career Readiness Assessment",
+      "parentId": "mr12176vnrmcov",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455450516
+    },
+    {
+      "id": "mrb3bstdfzvl4r",
+      "title": "D. Identifying Transition Goals",
+      "parentId": "mr12176vnrmcov",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455450529
+    },
+    {
+      "id": "mrb3bstpo2q7zm",
+      "title": "E. Transition Mindset",
+      "parentId": "mr12176vnrmcov",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455450541
+    },
+    {
+      "id": "mrb3bsu1dl6sgc",
+      "title": "F. Managing Uncertainty",
+      "parentId": "mr12176vnrmcov",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455450553
+    },
+    {
+      "id": "mrb3bsueb0rqwg",
+      "title": "G. Planning the Transition",
+      "parentId": "mr12176vnrmcov",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455450566
+    },
+    {
+      "id": "mrb3bsusxwb5k9",
+      "title": "H. Building Support Systems",
+      "parentId": "mr12176vnrmcov",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455450580
+    },
+    {
+      "id": "mrb3bsv4zj8m2v",
+      "title": "I. Transition Roadmaps",
+      "parentId": "mr12176vnrmcov",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455450592
+    },
+    {
+      "id": "mrb3bsvjumgb4q",
+      "title": "J. Transition Risks",
+      "parentId": "mr12176vnrmcov",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455450607
+    },
+    {
+      "id": "mrb3bsvvb141bx",
+      "title": "K. Measuring Progress",
+      "parentId": "mr12176vnrmcov",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455450619
+    },
+    {
+      "id": "mrb3bsw8cwvnb0",
+      "title": "L. Successful Career Transitions",
+      "parentId": "mr12176vnrmcov",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455450632
+    },
+    {
+      "id": "mrb3bswlmu4k0e",
+      "title": "A. Career Change Fundamentals",
+      "parentId": "mr12177fe5ttoz",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455450645
+    },
+    {
+      "id": "mrb3bswxs05hce",
+      "title": "B. Identifying Transferable Skills",
+      "parentId": "mr12177fe5ttoz",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455450657
+    },
+    {
+      "id": "mrb3bsx9aoe1j6",
+      "title": "C. Building New Competencies",
+      "parentId": "mr12177fe5ttoz",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455450669
+    },
+    {
+      "id": "mrb3bsxmdmshd2",
+      "title": "D. Education & Upskilling",
+      "parentId": "mr12177fe5ttoz",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455450682
+    },
+    {
+      "id": "mrb3bsxzawj98g",
+      "title": "E. Strategic Networking",
+      "parentId": "mr12177fe5ttoz",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455450695
+    },
+    {
+      "id": "mrb3bsycn2h7h5",
+      "title": "F. Rebranding Yourself",
+      "parentId": "mr12177fe5ttoz",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455450708
+    },
+    {
+      "id": "mrb3bsyp77gedy",
+      "title": "G. Gaining Relevant Experience",
+      "parentId": "mr12177fe5ttoz",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455450721
+    },
+    {
+      "id": "mrb3bsz5oqr89o",
+      "title": "H. Career Pivot Planning",
+      "parentId": "mr12177fe5ttoz",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455450737
+    },
+    {
+      "id": "mrb3bszkycv3v5",
+      "title": "I. Entering New Industries",
+      "parentId": "mr12177fe5ttoz",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455450752
+    },
+    {
+      "id": "mrb3bszxxjwhay",
+      "title": "J. Overcoming Career Barriers",
+      "parentId": "mr12177fe5ttoz",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455450765
+    },
+    {
+      "id": "mrb3bt0d8b6m2p",
+      "title": "K. Evaluating Career Options",
+      "parentId": "mr12177fe5ttoz",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455450781
+    },
+    {
+      "id": "mrb3bt0pcg3xdn",
+      "title": "L. Executing a Successful Career Change",
+      "parentId": "mr12177fe5ttoz",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455450793
+    },
+    {
+      "id": "mrb3bt1241hiv1",
+      "title": "A. Industry Transition Fundamentals",
+      "parentId": "mr12177v4v9193",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455450806
+    },
+    {
+      "id": "mrb3bt1gymb5j3",
+      "title": "B. Industry Research",
+      "parentId": "mr12177v4v9193",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455450820
+    },
+    {
+      "id": "mrb3bt1u182ml1",
+      "title": "C. Understanding Industry Differences",
+      "parentId": "mr12177v4v9193",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455450834
+    },
+    {
+      "id": "mrb3bt27222zvy",
+      "title": "D. Mapping Transferable Skills",
+      "parentId": "mr12177v4v9193",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455450847
+    },
+    {
+      "id": "mrb3bt2leh26bk",
+      "title": "E. Bridging Knowledge Gaps",
+      "parentId": "mr12177v4v9193",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455450861
+    },
+    {
+      "id": "mrb3bt2zgydax3",
+      "title": "F. Industry Certifications",
+      "parentId": "mr12177v4v9193",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455450875
+    },
+    {
+      "id": "mrb3bt3c4g79hh",
+      "title": "G. Networking Within the Industry",
+      "parentId": "mr12177v4v9193",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455450888
+    },
+    {
+      "id": "mrb3bt3q0aszmd",
+      "title": "H. Entering Emerging Industries",
+      "parentId": "mr12177v4v9193",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455450902
+    },
+    {
+      "id": "mrb3bt43wq318b",
+      "title": "I. Transition Case Studies",
+      "parentId": "mr12177v4v9193",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455450915
+    },
+    {
+      "id": "mrb3bt4gyhrmk8",
+      "title": "J. Industry-Specific Recruitment",
+      "parentId": "mr12177v4v9193",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455450928
+    },
+    {
+      "id": "mrb3bt4ty2v8dk",
+      "title": "K. Long-Term Industry Growth",
+      "parentId": "mr12177v4v9193",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455450941
+    },
+    {
+      "id": "mrb3bt56jtk2af",
+      "title": "L. Becoming Industry Ready",
+      "parentId": "mr12177v4v9193",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455450954
+    },
+    {
+      "id": "mrb3bt5k6mzxyb",
+      "title": "A. Functional Transition Fundamentals",
+      "parentId": "mr12178zrv6ne1",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455450968
+    },
+    {
+      "id": "mrb3bt5xvlxdse",
+      "title": "B. Moving Between Technical Roles",
+      "parentId": "mr12178zrv6ne1",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455450981
+    },
+    {
+      "id": "mrb3bt6b1aln3k",
+      "title": "C. Moving into Management",
+      "parentId": "mr12178zrv6ne1",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455450995
+    },
+    {
+      "id": "mrb3bt6p6wd5uk",
+      "title": "D. Moving into Product Roles",
+      "parentId": "mr12178zrv6ne1",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455451009
+    },
+    {
+      "id": "mrb3bt72y8s7v6",
+      "title": "E. Moving into Consulting",
+      "parentId": "mr12178zrv6ne1",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455451022
+    },
+    {
+      "id": "mrb3bt7gravfhq",
+      "title": "F. Moving into Entrepreneurship",
+      "parentId": "mr12178zrv6ne1",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455451036
+    },
+    {
+      "id": "mrb3bt7tq7yu51",
+      "title": "G. Cross-Functional Mobility",
+      "parentId": "mr12178zrv6ne1",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455451049
+    },
+    {
+      "id": "mrb3bt86iv5og6",
+      "title": "H. Internal Career Mobility",
+      "parentId": "mr12178zrv6ne1",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455451062
+    },
+    {
+      "id": "mrb3bt8j4u8blx",
+      "title": "I. Leadership Transitions",
+      "parentId": "mr12178zrv6ne1",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455451075
+    },
+    {
+      "id": "mrb3bt916ltarb",
+      "title": "J. Skill Transformation",
+      "parentId": "mr12178zrv6ne1",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455451093
+    },
+    {
+      "id": "mrb3bt9ey2oiwk",
+      "title": "K. Career Adaptation",
+      "parentId": "mr12178zrv6ne1",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455451106
+    },
+    {
+      "id": "mrb3bt9semd9vn",
+      "title": "L. Successful Functional Role Changes",
+      "parentId": "mr12178zrv6ne1",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455451120
+    },
+    {
+      "id": "mrb3btaa5t1r8c",
+      "title": "A. Mid-Career Assessment",
+      "parentId": "mr12179susw9y6",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455451138
+    },
+    {
+      "id": "mrb3btaoh7et6e",
+      "title": "B. Reinvention Mindset",
+      "parentId": "mr12179susw9y6",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455451152
+    },
+    {
+      "id": "mrb3btb3h10tgc",
+      "title": "C. Identifying New Opportunities",
+      "parentId": "mr12179susw9y6",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455451167
+    },
+    {
+      "id": "mrb3btbfzly0g3",
+      "title": "D. Updating Skills",
+      "parentId": "mr12179susw9y6",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455451179
+    },
+    {
+      "id": "mrb3btbtmvwmwg",
+      "title": "E. Personal Rebranding",
+      "parentId": "mr12179susw9y6",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455451193
+    },
+    {
+      "id": "mrb3btc66vvq8a",
+      "title": "F. Career Reset Planning",
+      "parentId": "mr12179susw9y6",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455451206
+    },
+    {
+      "id": "mrb3btcj3tsvbr",
+      "title": "G. Executive Career Changes",
+      "parentId": "mr12179susw9y6",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455451219
+    },
+    {
+      "id": "mrb3btcwngzizq",
+      "title": "H. Entrepreneurship After Employment",
+      "parentId": "mr12179susw9y6",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455451232
+    },
+    {
+      "id": "mrb3btd9a441cj",
+      "title": "I. Financial Planning",
+      "parentId": "mr12179susw9y6",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455451245
+    },
+    {
+      "id": "mrb3btdnyxx7zi",
+      "title": "J. Long-Term Reinvention",
+      "parentId": "mr12179susw9y6",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455451259
+    },
+    {
+      "id": "mrb3bte1ijvbby",
+      "title": "K. Maintaining Motivation",
+      "parentId": "mr12179susw9y6",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455451273
+    },
+    {
+      "id": "mrb3btefac4ow9",
+      "title": "L. Building a Second Career",
+      "parentId": "mr12179susw9y6",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455451287
+    },
+    {
+      "id": "mrb3btesh1v22l",
+      "title": "A. Portfolio Career Fundamentals",
+      "parentId": "mr1217aqlqvtg2",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455451300
+    },
+    {
+      "id": "mrb3btf4jvuaai",
+      "title": "B. Multiple Income Streams",
+      "parentId": "mr1217aqlqvtg2",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455451312
+    },
+    {
+      "id": "mrb3btfik9x3fe",
+      "title": "C. Combining Employment & Freelancing",
+      "parentId": "mr1217aqlqvtg2",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455451326
+    },
+    {
+      "id": "mrb3btfv5345ho",
+      "title": "D. Consulting & Advisory Roles",
+      "parentId": "mr1217aqlqvtg2",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455451339
+    },
+    {
+      "id": "mrb3btg8hywq0i",
+      "title": "E. Teaching & Mentoring",
+      "parentId": "mr1217aqlqvtg2",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455451352
+    },
+    {
+      "id": "mrb3btgkbhgwsd",
+      "title": "F. Content Creation",
+      "parentId": "mr1217aqlqvtg2",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455451364
+    },
+    {
+      "id": "mrb3btgzlexw2o",
+      "title": "G. Investing in Skills",
+      "parentId": "mr1217aqlqvtg2",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455451379
+    },
+    {
+      "id": "mrb3bthbj8faap",
+      "title": "H. Managing Diverse Roles",
+      "parentId": "mr1217aqlqvtg2",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455451391
+    },
+    {
+      "id": "mrb3bthpuowduw",
+      "title": "I. Financial Planning",
+      "parentId": "mr1217aqlqvtg2",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455451405
+    },
+    {
+      "id": "mrb3bti3dsac2b",
+      "title": "J. Personal Brand Integration",
+      "parentId": "mr1217aqlqvtg2",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455451419
+    },
+    {
+      "id": "mrb3btihxjf7ut",
+      "title": "K. Sustainable Portfolio Careers",
+      "parentId": "mr1217aqlqvtg2",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455451433
+    },
+    {
+      "id": "mrb3btiwsp0pch",
+      "title": "L. Designing a Multi-Career Life",
+      "parentId": "mr1217aqlqvtg2",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455451448
+    },
+    {
+      "id": "mrb3btjaq2916t",
+      "title": "A. Future Skills Fundamentals",
+      "parentId": "mr1217b34g5av7",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455451462
+    },
+    {
+      "id": "mrb3btjnonjas9",
+      "title": "B. AI-Era Skills",
+      "parentId": "mr1217b34g5av7",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455451475
+    },
+    {
+      "id": "mrb3btk06lt11g",
+      "title": "C. Human-Centered Skills",
+      "parentId": "mr1217b34g5av7",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455451488
+    },
+    {
+      "id": "mrb3btkdzhrxnq",
+      "title": "D. Technical Skill Evolution",
+      "parentId": "mr1217b34g5av7",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455451501
+    },
+    {
+      "id": "mrb3btkrskdutf",
+      "title": "E. Business Skill Evolution",
+      "parentId": "mr1217b34g5av7",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455451515
+    },
+    {
+      "id": "mrb3btl4tq8bs2",
+      "title": "F. Digital Literacy",
+      "parentId": "mr1217b34g5av7",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455451528
+    },
+    {
+      "id": "mrb3btlh0874ku",
+      "title": "G. Innovation Skills",
+      "parentId": "mr1217b34g5av7",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455451541
+    },
+    {
+      "id": "mrb3btlwkfypwm",
+      "title": "H. Continuous Upskilling",
+      "parentId": "mr1217b34g5av7",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455451556
+    },
+    {
+      "id": "mrb3btmcgi3r1q",
+      "title": "I. Emerging Professions",
+      "parentId": "mr1217b34g5av7",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455451572
+    },
+    {
+      "id": "mrb3btmqynpbfb",
+      "title": "J. Workforce Transformation",
+      "parentId": "mr1217b34g5av7",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455451586
+    },
+    {
+      "id": "mrb3btn3j0ysuc",
+      "title": "K. Future Employability",
+      "parentId": "mr1217b34g5av7",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455451599
+    },
+    {
+      "id": "mrb3btngw6olm4",
+      "title": "L. Becoming Future Ready",
+      "parentId": "mr1217b34g5av7",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455451612
+    },
+    {
+      "id": "mrb3btntnk03la",
+      "title": "A. AI Career Fundamentals",
+      "parentId": "mr1217bdm4a9is",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455451625
+    },
+    {
+      "id": "mrb3bto6x02g92",
+      "title": "B. Automation Technologies",
+      "parentId": "mr1217bdm4a9is",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455451638
+    },
+    {
+      "id": "mrb3btomaf5dkd",
+      "title": "C. Human-AI Collaboration",
+      "parentId": "mr1217bdm4a9is",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455451654
+    },
+    {
+      "id": "mrb3btp07veh01",
+      "title": "D. AI Productivity Tools",
+      "parentId": "mr1217bdm4a9is",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455451668
+    },
+    {
+      "id": "mrb3btpfjo5qm2",
+      "title": "E. AI-Augmented Work",
+      "parentId": "mr1217bdm4a9is",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455451683
+    },
+    {
+      "id": "mrb3btps44e45f",
+      "title": "F. Prompt Engineering",
+      "parentId": "mr1217bdm4a9is",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455451696
+    },
+    {
+      "id": "mrb3btq41gha0m",
+      "title": "G. AI Ethics in Careers",
+      "parentId": "mr1217bdm4a9is",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455451708
+    },
+    {
+      "id": "mrb3btqney7uu1",
+      "title": "H. Reskilling for AI",
+      "parentId": "mr1217bdm4a9is",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455451727
+    },
+    {
+      "id": "mrb3btr06du502",
+      "title": "I. AI Career Opportunities",
+      "parentId": "mr1217bdm4a9is",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455451740
+    },
+    {
+      "id": "mrb3btresj6lo0",
+      "title": "J. Automation Risks",
+      "parentId": "mr1217bdm4a9is",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455451754
+    },
+    {
+      "id": "mrb3btrsxwp0so",
+      "title": "K. Building AI Readiness",
+      "parentId": "mr1217bdm4a9is",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455451768
+    },
+    {
+      "id": "mrb3bts81344jr",
+      "title": "L. Thriving in the AI Economy",
+      "parentId": "mr1217bdm4a9is",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455451784
+    },
+    {
+      "id": "mrb3btsrpoht8g",
+      "title": "A. Career Risk Fundamentals",
+      "parentId": "mr1217bnphm3is",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455451803
+    },
+    {
+      "id": "mrb3btt52qx5tw",
+      "title": "B. Economic Risks",
+      "parentId": "mr1217bnphm3is",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455451817
+    },
+    {
+      "id": "mrb3bttny2ccsm",
+      "title": "C. Industry Disruption",
+      "parentId": "mr1217bnphm3is",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455451835
+    },
+    {
+      "id": "mrb3btu1hi6i85",
+      "title": "D. Job Security",
+      "parentId": "mr1217bnphm3is",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455451849
+    },
+    {
+      "id": "mrb3btuezpepfl",
+      "title": "E. Financial Preparedness",
+      "parentId": "mr1217bnphm3is",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455451862
+    },
+    {
+      "id": "mrb3btuxpcfdom",
+      "title": "F. Employability Protection",
+      "parentId": "mr1217bnphm3is",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455451881
+    },
+    {
+      "id": "mrb3btv9vxram8",
+      "title": "G. Continuous Learning",
+      "parentId": "mr1217bnphm3is",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455451893
+    },
+    {
+      "id": "mrb3btvn06w92a",
+      "title": "H. Professional Networking",
+      "parentId": "mr1217bnphm3is",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455451907
+    },
+    {
+      "id": "mrb3btvzny0niz",
+      "title": "I. Crisis Career Planning",
+      "parentId": "mr1217bnphm3is",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455451919
+    },
+    {
+      "id": "mrb3btwexot08s",
+      "title": "J. Career Recovery Strategies",
+      "parentId": "mr1217bnphm3is",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455451934
+    },
+    {
+      "id": "mrb3btws52539m",
+      "title": "K. Risk Diversification",
+      "parentId": "mr1217bnphm3is",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455451948
+    },
+    {
+      "id": "mrb3btx5g77ur9",
+      "title": "L. Building Career Resilience",
+      "parentId": "mr1217bnphm3is",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455451961
+    },
+    {
+      "id": "mrb3btxi567pra",
+      "title": "A. Retirement Planning Fundamentals",
+      "parentId": "mr1217btxnozzi",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455451974
+    },
+    {
+      "id": "mrb3btxvtyk36o",
+      "title": "B. Financial Independence",
+      "parentId": "mr1217btxnozzi",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455451987
+    },
+    {
+      "id": "mrb3btyauanp5w",
+      "title": "C. Retirement Lifestyle Planning",
+      "parentId": "mr1217btxnozzi",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455452002
+    },
+    {
+      "id": "mrb3btyofw688x",
+      "title": "D. Knowledge Transfer",
+      "parentId": "mr1217btxnozzi",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455452016
+    },
+    {
+      "id": "mrb3btz3lbixig",
+      "title": "E. Consulting After Retirement",
+      "parentId": "mr1217btxnozzi",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455452031
+    },
+    {
+      "id": "mrb3btzi5hefch",
+      "title": "F. Entrepreneurship After Retirement",
+      "parentId": "mr1217btxnozzi",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455452046
+    },
+    {
+      "id": "mrb3btzvbudup7",
+      "title": "G. Teaching & Mentoring",
+      "parentId": "mr1217btxnozzi",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455452059
+    },
+    {
+      "id": "mrb3bu092bhdk2",
+      "title": "H. Volunteering",
+      "parentId": "mr1217btxnozzi",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455452073
+    },
+    {
+      "id": "mrb3bu0lq429br",
+      "title": "I. Legacy Planning",
+      "parentId": "mr1217btxnozzi",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455452085
+    },
+    {
+      "id": "mrb3bu1045mt1i",
+      "title": "J. Health & Wellbeing",
+      "parentId": "mr1217btxnozzi",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455452100
+    },
+    {
+      "id": "mrb3bu1ewn9gt3",
+      "title": "K. Purpose Beyond Employment",
+      "parentId": "mr1217btxnozzi",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455452114
+    },
+    {
+      "id": "mrb3bu1rxfaw88",
+      "title": "L. Building a Meaningful Second Career",
+      "parentId": "mr1217btxnozzi",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455452127
+    },
+    {
+      "id": "mrb3bu26v8jfqy",
+      "title": "A. Future Career Design Fundamentals",
+      "parentId": "mr1217c2s5v79f",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455452142
+    },
+    {
+      "id": "mrb3bu2ig5bzuj",
+      "title": "B. Career Vision",
+      "parentId": "mr1217c2s5v79f",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455452154
+    },
+    {
+      "id": "mrb3bu2vqmuggt",
+      "title": "C. Long-Term Strategic Planning",
+      "parentId": "mr1217c2s5v79f",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455452167
+    },
+    {
+      "id": "mrb3bu3aajmdnx",
+      "title": "D. Continuous Reinvention",
+      "parentId": "mr1217c2s5v79f",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455452182
+    },
+    {
+      "id": "mrb3bu3nvese9q",
+      "title": "E. Skill Portfolio Development",
+      "parentId": "mr1217c2s5v79f",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455452195
+    },
+    {
+      "id": "mrb3bu412wtpiy",
+      "title": "F. Technology Readiness",
+      "parentId": "mr1217c2s5v79f",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455452209
+    },
+    {
+      "id": "mrb3bu4es9b3pi",
+      "title": "G. Global Employability",
+      "parentId": "mr1217c2s5v79f",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455452222
+    },
+    {
+      "id": "mrb3bu4rwg1tgh",
+      "title": "H. Personal Adaptability",
+      "parentId": "mr1217c2s5v79f",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455452235
+    },
+    {
+      "id": "mrb3bu56joonvs",
+      "title": "I. Opportunity Creation",
+      "parentId": "mr1217c2s5v79f",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455452250
+    },
+    {
+      "id": "mrb3bu5jdodtkt",
+      "title": "J. Career Sustainability",
+      "parentId": "mr1217c2s5v79f",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455452263
+    },
+    {
+      "id": "mrb3bu5v2n4pwl",
+      "title": "K. Long-Term Professional Growth",
+      "parentId": "mr1217c2s5v79f",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455452275
+    },
+    {
+      "id": "mrb3bu6814qc3q",
+      "title": "L. Designing an Anti-Fragile Career",
+      "parentId": "mr1217c2s5v79f",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455452288
+    },
+    {
+      "id": "mrb3bu6mzuhec9",
+      "title": "A. Career Management Fundamentals",
+      "parentId": "mr1217caslg7dh",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783455452302
+    },
+    {
+      "id": "mrb3bu70019mnq",
+      "title": "B. Career Reviews",
+      "parentId": "mr1217caslg7dh",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783455452316
+    },
+    {
+      "id": "mrb3bu7dv9euh3",
+      "title": "C. Continuous Learning",
+      "parentId": "mr1217caslg7dh",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783455452329
+    },
+    {
+      "id": "mrb3bu7tzlkga7",
+      "title": "D. Professional Networking",
+      "parentId": "mr1217caslg7dh",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783455452345
+    },
+    {
+      "id": "mrb3bu88o69ute",
+      "title": "E. Personal Branding",
+      "parentId": "mr1217caslg7dh",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783455452360
+    },
+    {
+      "id": "mrb3bu8nq4w7ji",
+      "title": "F. Career Analytics",
+      "parentId": "mr1217caslg7dh",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783455452376
+    },
+    {
+      "id": "mrb3bu90dxd1x5",
+      "title": "G. Goal Reassessment",
+      "parentId": "mr1217caslg7dh",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783455452388
+    },
+    {
+      "id": "mrb3bu9egm4xzz",
+      "title": "H. Professional Development Planning",
+      "parentId": "mr1217caslg7dh",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783455452402
+    },
+    {
+      "id": "mrb3bu9v00fega",
+      "title": "I. Work-Life Integration",
+      "parentId": "mr1217caslg7dh",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783455452419
+    },
+    {
+      "id": "mrb3bua9vhub3n",
+      "title": "J. Long-Term Career Success",
+      "parentId": "mr1217caslg7dh",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783455452433
+    },
+    {
+      "id": "mrb3buaod39xza",
+      "title": "K. Career Legacy",
+      "parentId": "mr1217caslg7dh",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783455452448
+    },
+    {
+      "id": "mrb3bub85iof8f",
+      "title": "L. Managing a Lifetime of Professional Growth",
+      "parentId": "mr1217caslg7dh",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783455452468
     }
   ],
   "pages": {
