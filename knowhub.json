@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-07T19:59:21.308Z",
+  "exportedAt": "2026-07-07T20:04:23.469Z",
   "nodes": [
     {
       "order": 2,
@@ -3665,30 +3665,6 @@
       "status": "pending",
       "title": "5.4.12. Job Search Success Strategies",
       "parentId": "mr0vc8ss2ilvcg"
-    },
-    {
-      "createdAt": 1782848462423,
-      "id": "mr11xxsnhh0bx5",
-      "order": 0,
-      "status": "pending",
-      "title": "5.5.1. Professional Excellence",
-      "parentId": "mr0vc8swwjzl4q"
-    },
-    {
-      "order": 1,
-      "createdAt": 1782848462425,
-      "id": "mr11xxsple0wrp",
-      "parentId": "mr0vc8swwjzl4q",
-      "title": "5.5.2. Workplace Performance",
-      "status": "pending"
-    },
-    {
-      "id": "mr11xxsqffjwyd",
-      "createdAt": 1782848462426,
-      "order": 2,
-      "title": "5.5.3. Career Progression & Promotions",
-      "status": "pending",
-      "parentId": "mr0vc8swwjzl4q"
     },
     {
       "id": "mr11xxss85i2jj",
@@ -35361,6 +35337,1254 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1783454006199
+    },
+    {
+      "id": "mrb2r61a1uj710",
+      "title": "5.5.1. Professional Excellence",
+      "parentId": "mr0vc8swwjzl4q",
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1783454487886
+    },
+    {
+      "id": "mrb2r62cmo55kw",
+      "title": "A. Professional Excellence Fundamentals",
+      "parentId": "mrb2r61a1uj710",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454487924
+    },
+    {
+      "id": "mrb2r63ei8obwb",
+      "title": "B. Professional Standards",
+      "parentId": "mrb2r61a1uj710",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454487962
+    },
+    {
+      "id": "mrb2r64ezkf2eh",
+      "title": "C. Delivering High-Quality Work",
+      "parentId": "mrb2r61a1uj710",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454487998
+    },
+    {
+      "id": "mrb2r65aaem8tt",
+      "title": "D. Reliability & Accountability",
+      "parentId": "mrb2r61a1uj710",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454488030
+    },
+    {
+      "id": "mrb2r664rca9u2",
+      "title": "E. Professional Ethics",
+      "parentId": "mrb2r61a1uj710",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454488060
+    },
+    {
+      "id": "mrb2r672scbi1k",
+      "title": "F. Continuous Skill Development",
+      "parentId": "mrb2r61a1uj710",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454488094
+    },
+    {
+      "id": "mrb2r681w1kmky",
+      "title": "G. Personal Effectiveness",
+      "parentId": "mrb2r61a1uj710",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454488129
+    },
+    {
+      "id": "mrb2r68yu7k0cv",
+      "title": "H. Customer & Stakeholder Focus",
+      "parentId": "mrb2r61a1uj710",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454488162
+    },
+    {
+      "id": "mrb2r69x6dxkuh",
+      "title": "I. Innovation at Work",
+      "parentId": "mrb2r61a1uj710",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454488197
+    },
+    {
+      "id": "mrb2r6b9eh6ctx",
+      "title": "J. Excellence Mindset",
+      "parentId": "mrb2r61a1uj710",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454488245
+    },
+    {
+      "id": "mrb2r6c8rzlvjc",
+      "title": "K. Measuring Professional Excellence",
+      "parentId": "mrb2r61a1uj710",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454488280
+    },
+    {
+      "id": "mrb2r6d244gvyz",
+      "title": "L. Sustaining High Performance",
+      "parentId": "mrb2r61a1uj710",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454488310
+    },
+    {
+      "id": "mrb2r6dnyrwb9t",
+      "title": "5.5.2. Workplace Performance",
+      "parentId": "mr0vc8swwjzl4q",
+      "status": "pending",
+      "order": 13,
+      "createdAt": 1783454488331
+    },
+    {
+      "id": "mrb2r6e6wletik",
+      "title": "A. Workplace Performance Fundamentals",
+      "parentId": "mrb2r6dnyrwb9t",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454488350
+    },
+    {
+      "id": "mrb2r6er8zyb7w",
+      "title": "B. Performance Expectations",
+      "parentId": "mrb2r6dnyrwb9t",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454488371
+    },
+    {
+      "id": "mrb2r6fztwqnsz",
+      "title": "C. Goal Achievement",
+      "parentId": "mrb2r6dnyrwb9t",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454488415
+    },
+    {
+      "id": "mrb2r6h4rszit2",
+      "title": "D. Productivity Optimization",
+      "parentId": "mrb2r6dnyrwb9t",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454488456
+    },
+    {
+      "id": "mrb2r6i6gr7tj5",
+      "title": "E. Time & Priority Management",
+      "parentId": "mrb2r6dnyrwb9t",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454488494
+    },
+    {
+      "id": "mrb2r6j2mh2897",
+      "title": "F. Quality Management",
+      "parentId": "mrb2r6dnyrwb9t",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454488526
+    },
+    {
+      "id": "mrb2r6kdr36v71",
+      "title": "G. Performance Metrics",
+      "parentId": "mrb2r6dnyrwb9t",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454488573
+    },
+    {
+      "id": "mrb2r6lip7fgzy",
+      "title": "H. Accountability",
+      "parentId": "mrb2r6dnyrwb9t",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454488614
+    },
+    {
+      "id": "mrb2r6mgv9szut",
+      "title": "I. Continuous Improvement",
+      "parentId": "mrb2r6dnyrwb9t",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454488648
+    },
+    {
+      "id": "mrb2r6nc2ne6gi",
+      "title": "J. Workplace Problem Solving",
+      "parentId": "mrb2r6dnyrwb9t",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454488680
+    },
+    {
+      "id": "mrb2r6ogodfyor",
+      "title": "K. High-Performance Habits",
+      "parentId": "mrb2r6dnyrwb9t",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454488720
+    },
+    {
+      "id": "mrb2r6p7za6lzl",
+      "title": "L. Sustained Workplace Excellence",
+      "parentId": "mrb2r6dnyrwb9t",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454488747
+    },
+    {
+      "id": "mrb2r6q5rn8e1w",
+      "title": "5.5.3. Career Progression & Promotions",
+      "parentId": "mr0vc8swwjzl4q",
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1783454488782
+    },
+    {
+      "id": "mrb2r6r3ty6er7",
+      "title": "A. Career Progression Fundamentals",
+      "parentId": "mrb2r6q5rn8e1w",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454488815
+    },
+    {
+      "id": "mrb2r6rpyawsh5",
+      "title": "B. Promotion Readiness",
+      "parentId": "mrb2r6q5rn8e1w",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454488837
+    },
+    {
+      "id": "mrb2r6t9urj2jy",
+      "title": "C. Building Promotion Evidence",
+      "parentId": "mrb2r6q5rn8e1w",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454488893
+    },
+    {
+      "id": "mrb2r6u8g2x3ix",
+      "title": "D. Career Milestones",
+      "parentId": "mrb2r6q5rn8e1w",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454488928
+    },
+    {
+      "id": "mrb2r6v8joodh7",
+      "title": "E. Internal Mobility",
+      "parentId": "mrb2r6q5rn8e1w",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454488964
+    },
+    {
+      "id": "mrb2r6w6ns6pbo",
+      "title": "F. Career Visibility",
+      "parentId": "mrb2r6q5rn8e1w",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454488998
+    },
+    {
+      "id": "mrb2r6x1qw89yt",
+      "title": "G. Performance-Based Growth",
+      "parentId": "mrb2r6q5rn8e1w",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454489029
+    },
+    {
+      "id": "mrb2r6xyp14sah",
+      "title": "H. Leadership Readiness",
+      "parentId": "mrb2r6q5rn8e1w",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454489062
+    },
+    {
+      "id": "mrb2r6yxr7q11v",
+      "title": "I. Promotion Planning",
+      "parentId": "mrb2r6q5rn8e1w",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454489097
+    },
+    {
+      "id": "mrb2r6zw5zxo7t",
+      "title": "J. Long-Term Advancement",
+      "parentId": "mrb2r6q5rn8e1w",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454489132
+    },
+    {
+      "id": "mrb2r70w0xu1ql",
+      "title": "K. Executive Career Paths",
+      "parentId": "mrb2r6q5rn8e1w",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454489168
+    },
+    {
+      "id": "mrb2r71rga14u5",
+      "title": "L. Accelerating Career Growth",
+      "parentId": "mrb2r6q5rn8e1w",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454489199
+    },
+    {
+      "id": "mrb2r72rjr3w0s",
+      "title": "5.5.4. Performance Reviews & Feedback",
+      "parentId": "mr11xxss85i2jj",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454489235
+    },
+    {
+      "id": "mrb2r73q4cobma",
+      "title": "A. Performance Review Fundamentals",
+      "parentId": "mrb2r72rjr3w0s",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454489270
+    },
+    {
+      "id": "mrb2r74mnl5f71",
+      "title": "B. Goal-Based Reviews",
+      "parentId": "mrb2r72rjr3w0s",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454489302
+    },
+    {
+      "id": "mrb2r75jknddt8",
+      "title": "C. Self-Evaluation",
+      "parentId": "mrb2r72rjr3w0s",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454489335
+    },
+    {
+      "id": "mrb2r76lslzbq6",
+      "title": "D. Manager Feedback",
+      "parentId": "mrb2r72rjr3w0s",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454489373
+    },
+    {
+      "id": "mrb2r77kwhqg9r",
+      "title": "E. 360-Degree Feedback",
+      "parentId": "mrb2r72rjr3w0s",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454489408
+    },
+    {
+      "id": "mrb2r78b494b7t",
+      "title": "F. Receiving Constructive Feedback",
+      "parentId": "mrb2r72rjr3w0s",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454489435
+    },
+    {
+      "id": "mrb2r79bsxguk5",
+      "title": "G. Giving Professional Feedback",
+      "parentId": "mrb2r72rjr3w0s",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454489471
+    },
+    {
+      "id": "mrb2r7adm70y59",
+      "title": "H. Performance Improvement Plans",
+      "parentId": "mrb2r72rjr3w0s",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454489509
+    },
+    {
+      "id": "mrb2r7bbs0nqy2",
+      "title": "I. Career Development Discussions",
+      "parentId": "mrb2r72rjr3w0s",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454489543
+    },
+    {
+      "id": "mrb2r7casdqyht",
+      "title": "J. Documentation & Evidence",
+      "parentId": "mrb2r72rjr3w0s",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454489578
+    },
+    {
+      "id": "mrb2r7d7tfh8wp",
+      "title": "K. Review Preparation",
+      "parentId": "mrb2r72rjr3w0s",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454489611
+    },
+    {
+      "id": "mrb2r7e7gb2ups",
+      "title": "L. Feedback for Continuous Growth",
+      "parentId": "mrb2r72rjr3w0s",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454489647
+    },
+    {
+      "id": "mrb2r7f28zw7im",
+      "title": "5.5.5. Stakeholder & Relationship Management",
+      "parentId": "mr11xxsu6mhtag",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454489678
+    },
+    {
+      "id": "mrb2r7fwyk31s4",
+      "title": "A. Stakeholder Fundamentals",
+      "parentId": "mrb2r7f28zw7im",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454489708
+    },
+    {
+      "id": "mrb2r7gwq6encg",
+      "title": "B. Identifying Stakeholders",
+      "parentId": "mrb2r7f28zw7im",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454489744
+    },
+    {
+      "id": "mrb2r7hwt34h70",
+      "title": "C. Relationship Building",
+      "parentId": "mrb2r7f28zw7im",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454489780
+    },
+    {
+      "id": "mrb2r7iz98e6wl",
+      "title": "D. Trust Development",
+      "parentId": "mrb2r7f28zw7im",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454489819
+    },
+    {
+      "id": "mrb2r7jv37luk2",
+      "title": "E. Expectation Management",
+      "parentId": "mrb2r7f28zw7im",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454489851
+    },
+    {
+      "id": "mrb2r7ktmy8eom",
+      "title": "F. Executive Stakeholders",
+      "parentId": "mrb2r7f28zw7im",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454489885
+    },
+    {
+      "id": "mrb2r7luixrdqw",
+      "title": "G. Cross-Functional Relationships",
+      "parentId": "mrb2r7f28zw7im",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454489922
+    },
+    {
+      "id": "mrb2r7n0dlcizt",
+      "title": "H. Conflict Resolution",
+      "parentId": "mrb2r7f28zw7im",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454489964
+    },
+    {
+      "id": "mrb2r7o0946yt6",
+      "title": "I. Influence & Collaboration",
+      "parentId": "mrb2r7f28zw7im",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454490000
+    },
+    {
+      "id": "mrb2r7p2fm2gwj",
+      "title": "J. Stakeholder Communication",
+      "parentId": "mrb2r7f28zw7im",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454490038
+    },
+    {
+      "id": "mrb2r7pzongxrh",
+      "title": "K. Long-Term Partnerships",
+      "parentId": "mrb2r7f28zw7im",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454490071
+    },
+    {
+      "id": "mrb2r7r1u24m3x",
+      "title": "L. Strategic Relationship Management",
+      "parentId": "mrb2r7f28zw7im",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454490109
+    },
+    {
+      "id": "mrb2r7s0q29v6n",
+      "title": "5.5.6. Workplace Communication",
+      "parentId": "mr11xxsvwk2j8c",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454490144
+    },
+    {
+      "id": "mrb2r7t5lg01sp",
+      "title": "A. Workplace Communication Fundamentals",
+      "parentId": "mrb2r7s0q29v6n",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454490185
+    },
+    {
+      "id": "mrb2r7uak7x0h9",
+      "title": "B. Professional Writing",
+      "parentId": "mrb2r7s0q29v6n",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454490226
+    },
+    {
+      "id": "mrb2r7v9tcysh7",
+      "title": "C. Meetings & Discussions",
+      "parentId": "mrb2r7s0q29v6n",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454490261
+    },
+    {
+      "id": "mrb2r7w6gg1e18",
+      "title": "D. Presentation Skills",
+      "parentId": "mrb2r7s0q29v6n",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454490294
+    },
+    {
+      "id": "mrb2r7x414egz0",
+      "title": "E. Executive Communication",
+      "parentId": "mrb2r7s0q29v6n",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454490328
+    },
+    {
+      "id": "mrb2r7y1v45e31",
+      "title": "F. Difficult Conversations",
+      "parentId": "mrb2r7s0q29v6n",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454490361
+    },
+    {
+      "id": "mrb2r7yzvt3c7d",
+      "title": "G. Cross-Cultural Communication",
+      "parentId": "mrb2r7s0q29v6n",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454490395
+    },
+    {
+      "id": "mrb2r7zxryy4tn",
+      "title": "H. Remote Communication",
+      "parentId": "mrb2r7s0q29v6n",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454490429
+    },
+    {
+      "id": "mrb2r80xtbr815",
+      "title": "I. Business Storytelling",
+      "parentId": "mrb2r7s0q29v6n",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454490465
+    },
+    {
+      "id": "mrb2r81xm46yj0",
+      "title": "J. Communication Technologies",
+      "parentId": "mrb2r7s0q29v6n",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454490501
+    },
+    {
+      "id": "mrb2r82laviqzw",
+      "title": "K. Communication Strategy",
+      "parentId": "mrb2r7s0q29v6n",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454490525
+    },
+    {
+      "id": "mrb2r837cs1nid",
+      "title": "L. Communication Excellence",
+      "parentId": "mrb2r7s0q29v6n",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454490547
+    },
+    {
+      "id": "mrb2r8402q2bna",
+      "title": "5.5.7. Cross-Functional Collaboration",
+      "parentId": "mr11xxswdi4k9l",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454490576
+    },
+    {
+      "id": "mrb2r84sg9ag0q",
+      "title": "A. Collaboration Fundamentals",
+      "parentId": "mrb2r8402q2bna",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454490604
+    },
+    {
+      "id": "mrb2r85o769yp3",
+      "title": "B. Team Dynamics",
+      "parentId": "mrb2r8402q2bna",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454490636
+    },
+    {
+      "id": "mrb2r86j9bqi99",
+      "title": "C. Cross-Department Collaboration",
+      "parentId": "mrb2r8402q2bna",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454490667
+    },
+    {
+      "id": "mrb2r87g4dt629",
+      "title": "D. Matrix Organizations",
+      "parentId": "mrb2r8402q2bna",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454490700
+    },
+    {
+      "id": "mrb2r88cpwnvhb",
+      "title": "E. Collaborative Problem Solving",
+      "parentId": "mrb2r8402q2bna",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454490732
+    },
+    {
+      "id": "mrb2r899265m5v",
+      "title": "F. Shared Decision Making",
+      "parentId": "mrb2r8402q2bna",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454490765
+    },
+    {
+      "id": "mrb2r8a21wtq9k",
+      "title": "G. Knowledge Sharing",
+      "parentId": "mrb2r8402q2bna",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454490794
+    },
+    {
+      "id": "mrb2r8azpn02fn",
+      "title": "H. Collaboration Technologies",
+      "parentId": "mrb2r8402q2bna",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454490827
+    },
+    {
+      "id": "mrb2r8bzlljdym",
+      "title": "I. Agile Collaboration",
+      "parentId": "mrb2r8402q2bna",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454490863
+    },
+    {
+      "id": "mrb2r8d2mdytnp",
+      "title": "J. Building Collaborative Culture",
+      "parentId": "mrb2r8402q2bna",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454490902
+    },
+    {
+      "id": "mrb2r8edktpzdn",
+      "title": "K. Organizational Alignment",
+      "parentId": "mrb2r8402q2bna",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454490949
+    },
+    {
+      "id": "mrb2r8fag450au",
+      "title": "L. High-Impact Collaboration",
+      "parentId": "mrb2r8402q2bna",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454490982
+    },
+    {
+      "id": "mrb2r8g9tlbolk",
+      "title": "5.5.8. Workplace Politics & Organizational Dynamics",
+      "parentId": "mr11xxsxlltg6l",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454491017
+    },
+    {
+      "id": "mrb2r8h9zsmlax",
+      "title": "A. Organizational Dynamics Fundamentals",
+      "parentId": "mrb2r8g9tlbolk",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454491053
+    },
+    {
+      "id": "mrb2r8iatys1jw",
+      "title": "B. Organizational Structures",
+      "parentId": "mrb2r8g9tlbolk",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454491090
+    },
+    {
+      "id": "mrb2r8jgfqwdjo",
+      "title": "C. Informal Networks",
+      "parentId": "mrb2r8g9tlbolk",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454491132
+    },
+    {
+      "id": "mrb2r8ko6m5vnw",
+      "title": "D. Organizational Culture",
+      "parentId": "mrb2r8g9tlbolk",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454491176
+    },
+    {
+      "id": "mrb2r8llixamxr",
+      "title": "E. Workplace Influence",
+      "parentId": "mrb2r8g9tlbolk",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454491209
+    },
+    {
+      "id": "mrb2r8mnvdxxdh",
+      "title": "F. Managing Organizational Politics",
+      "parentId": "mrb2r8g9tlbolk",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454491247
+    },
+    {
+      "id": "mrb2r8ngf2a1aq",
+      "title": "G. Conflict Navigation",
+      "parentId": "mrb2r8g9tlbolk",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454491276
+    },
+    {
+      "id": "mrb2r8ojibkmq0",
+      "title": "H. Ethical Decision Making",
+      "parentId": "mrb2r8g9tlbolk",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454491315
+    },
+    {
+      "id": "mrb2r8pmrmy66i",
+      "title": "I. Executive Relationships",
+      "parentId": "mrb2r8g9tlbolk",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454491354
+    },
+    {
+      "id": "mrb2r8qot0x43k",
+      "title": "J. Organizational Change",
+      "parentId": "mrb2r8g9tlbolk",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454491392
+    },
+    {
+      "id": "mrb2r8roy9360t",
+      "title": "K. Building Trust & Credibility",
+      "parentId": "mrb2r8g9tlbolk",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454491428
+    },
+    {
+      "id": "mrb2r8sr755knc",
+      "title": "L. Positive Organizational Influence",
+      "parentId": "mrb2r8g9tlbolk",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454491467
+    },
+    {
+      "id": "mrb2r8tw3etk8y",
+      "title": "5.5.9. Leadership Readiness",
+      "parentId": "mr11xxsy2c6i2d",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454491508
+    },
+    {
+      "id": "mrb2r8vesphuvc",
+      "title": "A. Leadership Readiness Fundamentals",
+      "parentId": "mrb2r8tw3etk8y",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454491562
+    },
+    {
+      "id": "mrb2r8wfbxumsu",
+      "title": "B. Transition to Leadership",
+      "parentId": "mrb2r8tw3etk8y",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454491599
+    },
+    {
+      "id": "mrb2r8xegc91zi",
+      "title": "C. Leadership Competencies",
+      "parentId": "mrb2r8tw3etk8y",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454491634
+    },
+    {
+      "id": "mrb2r8ybug35wu",
+      "title": "D. Decision Making",
+      "parentId": "mrb2r8tw3etk8y",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454491667
+    },
+    {
+      "id": "mrb2r8zaku6vk9",
+      "title": "E. Delegation",
+      "parentId": "mrb2r8tw3etk8y",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454491702
+    },
+    {
+      "id": "mrb2r907ikhttc",
+      "title": "F. Coaching Others",
+      "parentId": "mrb2r8tw3etk8y",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454491735
+    },
+    {
+      "id": "mrb2r912l5bzql",
+      "title": "G. Managing Teams",
+      "parentId": "mrb2r8tw3etk8y",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454491766
+    },
+    {
+      "id": "mrb2r922q240sk",
+      "title": "H. Leading Change",
+      "parentId": "mrb2r8tw3etk8y",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454491802
+    },
+    {
+      "id": "mrb2r930vvnxiu",
+      "title": "I. Executive Thinking",
+      "parentId": "mrb2r8tw3etk8y",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454491837
+    },
+    {
+      "id": "mrb2r940s9x11k",
+      "title": "J. Strategic Responsibility",
+      "parentId": "mrb2r8tw3etk8y",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454491872
+    },
+    {
+      "id": "mrb2r94ya85rkr",
+      "title": "K. Leadership Assessment",
+      "parentId": "mrb2r8tw3etk8y",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454491906
+    },
+    {
+      "id": "mrb2r95vw2rkdr",
+      "title": "L. Preparing for Leadership Roles",
+      "parentId": "mrb2r8tw3etk8y",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454491939
+    },
+    {
+      "id": "mrb2r96u18t0k4",
+      "title": "5.5.10. Career Resilience",
+      "parentId": "mr11xxszg5yqh6",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454491974
+    },
+    {
+      "id": "mrb2r97s9gdox4",
+      "title": "A. Career Resilience Fundamentals",
+      "parentId": "mrb2r96u18t0k4",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454492008
+    },
+    {
+      "id": "mrb2r98ohi7m8z",
+      "title": "B. Managing Setbacks",
+      "parentId": "mrb2r96u18t0k4",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454492040
+    },
+    {
+      "id": "mrb2r99jvqm99k",
+      "title": "C. Handling Failure",
+      "parentId": "mrb2r96u18t0k4",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454492071
+    },
+    {
+      "id": "mrb2r9ad13rknb",
+      "title": "D. Adaptability",
+      "parentId": "mrb2r96u18t0k4",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454492101
+    },
+    {
+      "id": "mrb2r9bafpqvap",
+      "title": "E. Managing Career Uncertainty",
+      "parentId": "mrb2r96u18t0k4",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454492134
+    },
+    {
+      "id": "mrb2r9c7psvi0x",
+      "title": "F. Emotional Resilience",
+      "parentId": "mrb2r96u18t0k4",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454492167
+    },
+    {
+      "id": "mrb2r9cvsi6obb",
+      "title": "G. Financial Preparedness",
+      "parentId": "mrb2r96u18t0k4",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454492191
+    },
+    {
+      "id": "mrb2r9dv2zu8mq",
+      "title": "H. Career Recovery",
+      "parentId": "mrb2r96u18t0k4",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454492227
+    },
+    {
+      "id": "mrb2r9esbtqzql",
+      "title": "I. Continuous Reinvention",
+      "parentId": "mrb2r96u18t0k4",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454492260
+    },
+    {
+      "id": "mrb2r9fnfiyn6s",
+      "title": "J. Opportunity Recognition",
+      "parentId": "mrb2r96u18t0k4",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454492291
+    },
+    {
+      "id": "mrb2r9glhi4glh",
+      "title": "K. Anti-Fragile Careers",
+      "parentId": "mrb2r96u18t0k4",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454492325
+    },
+    {
+      "id": "mrb2r9hj11pbb5",
+      "title": "L. Long-Term Career Sustainability",
+      "parentId": "mrb2r96u18t0k4",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454492359
+    },
+    {
+      "id": "mrb2r9iiiy8on3",
+      "title": "5.5.11. Long-Term Career Strategy",
+      "parentId": "mr11xxt1mb20mc",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454492394
+    },
+    {
+      "id": "mrb2r9j48gnfyi",
+      "title": "A. Career Strategy Fundamentals",
+      "parentId": "mrb2r9iiiy8on3",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454492416
+    },
+    {
+      "id": "mrb2r9k2f1z3kd",
+      "title": "B. Vision & Direction",
+      "parentId": "mrb2r9iiiy8on3",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454492450
+    },
+    {
+      "id": "mrb2r9l2g7k25l",
+      "title": "C. Long-Term Planning",
+      "parentId": "mrb2r9iiiy8on3",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454492486
+    },
+    {
+      "id": "mrb2r9lzdowj81",
+      "title": "D. Strategic Skill Development",
+      "parentId": "mrb2r9iiiy8on3",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454492519
+    },
+    {
+      "id": "mrb2r9mvl4l755",
+      "title": "E. Opportunity Management",
+      "parentId": "mrb2r9iiiy8on3",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454492551
+    },
+    {
+      "id": "mrb2r9npe2l8no",
+      "title": "F. Career Portfolio Development",
+      "parentId": "mrb2r9iiiy8on3",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454492581
+    },
+    {
+      "id": "mrb2r9oiy601wl",
+      "title": "G. Financial Career Planning",
+      "parentId": "mrb2r9iiiy8on3",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454492610
+    },
+    {
+      "id": "mrb2r9pcp6cgl2",
+      "title": "H. Professional Network Strategy",
+      "parentId": "mrb2r9iiiy8on3",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454492640
+    },
+    {
+      "id": "mrb2r9q9b877f2",
+      "title": "I. Executive Career Planning",
+      "parentId": "mrb2r9iiiy8on3",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454492673
+    },
+    {
+      "id": "mrb2r9r5lepkkn",
+      "title": "J. Career Legacy",
+      "parentId": "mrb2r9iiiy8on3",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454492705
+    },
+    {
+      "id": "mrb2r9s1q2k0ah",
+      "title": "K. Future-Proofing Your Career",
+      "parentId": "mrb2r9iiiy8on3",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454492737
+    },
+    {
+      "id": "mrb2r9sx94j8zb",
+      "title": "L. Building a Lifetime Career Strategy",
+      "parentId": "mrb2r9iiiy8on3",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454492769
+    },
+    {
+      "id": "mrb2r9tvpsoi53",
+      "title": "5.5.12. Professional Success Framework",
+      "parentId": "mr11xxt2pm8ucz",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454492803
+    },
+    {
+      "id": "mrb2r9unwtnvwr",
+      "title": "A. Success Fundamentals",
+      "parentId": "mrb2r9tvpsoi53",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454492831
+    },
+    {
+      "id": "mrb2r9vc2mwaae",
+      "title": "B. Career Success Models",
+      "parentId": "mrb2r9tvpsoi53",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454492856
+    },
+    {
+      "id": "mrb2r9wdf8hwp7",
+      "title": "C. Personal Success Metrics",
+      "parentId": "mrb2r9tvpsoi53",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454492893
+    },
+    {
+      "id": "mrb2r9xa93oo2b",
+      "title": "D. Professional Discipline",
+      "parentId": "mrb2r9tvpsoi53",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454492926
+    },
+    {
+      "id": "mrb2r9y9n6w1bk",
+      "title": "E. High-Performance Systems",
+      "parentId": "mrb2r9tvpsoi53",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454492961
+    },
+    {
+      "id": "mrb2r9z4kdo14s",
+      "title": "F. Career Growth Habits",
+      "parentId": "mrb2r9tvpsoi53",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454492992
+    },
+    {
+      "id": "mrb2r9zxoa5a0k",
+      "title": "G. Leadership Development",
+      "parentId": "mrb2r9tvpsoi53",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454493021
+    },
+    {
+      "id": "mrb2ra0yht5497",
+      "title": "H. Continuous Learning",
+      "parentId": "mrb2r9tvpsoi53",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454493058
+    },
+    {
+      "id": "mrb2ra20y3ntok",
+      "title": "I. Professional Relationships",
+      "parentId": "mrb2r9tvpsoi53",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454493096
+    },
+    {
+      "id": "mrb2ra2z4vxsuy",
+      "title": "J. Long-Term Achievement",
+      "parentId": "mrb2r9tvpsoi53",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454493131
+    },
+    {
+      "id": "mrb2ra40xjsr80",
+      "title": "K. Sustainable Success",
+      "parentId": "mrb2r9tvpsoi53",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454493168
+    },
+    {
+      "id": "mrb2ra4yz08zog",
+      "title": "L. Building an Extraordinary Career",
+      "parentId": "mrb2r9tvpsoi53",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454493202
     }
   ],
   "pages": {
