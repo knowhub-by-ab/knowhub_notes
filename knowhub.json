@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-07T19:29:23.698Z",
+  "exportedAt": "2026-07-07T19:34:23.784Z",
   "nodes": [
     {
       "order": 2,
@@ -3465,14 +3465,6 @@
       "title": "5.1.12. Personal Career Strategy",
       "status": "pending",
       "parentId": "mr11txgx4zsfui"
-    },
-    {
-      "title": "5.2.1. Education Pathways",
-      "status": "pending",
-      "parentId": "mr0vc8snnjw1st",
-      "id": "mr11uclheois96",
-      "createdAt": 1782848294981,
-      "order": 0
     },
     {
       "order": 1,
@@ -31905,6 +31897,1254 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1783452536084
+    },
+    {
+      "id": "mrb1pde3yh4olk",
+      "title": "5.2.1. Education Pathways",
+      "parentId": "mr0vc8snnjw1st",
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1783452724491
+    },
+    {
+      "id": "mrb1pdegdxbdwh",
+      "title": "A. Education Fundamentals",
+      "parentId": "mrb1pde3yh4olk",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452724504
+    },
+    {
+      "id": "mrb1pderrujj4j",
+      "title": "B. School Education",
+      "parentId": "mrb1pde3yh4olk",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783452724515
+    },
+    {
+      "id": "mrb1pdf3u4nrle",
+      "title": "C. Higher Education",
+      "parentId": "mrb1pde3yh4olk",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783452724527
+    },
+    {
+      "id": "mrb1pdfemwscj4",
+      "title": "D. Vocational Education",
+      "parentId": "mrb1pde3yh4olk",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783452724538
+    },
+    {
+      "id": "mrb1pdfqdijhxk",
+      "title": "E. Technical Education",
+      "parentId": "mrb1pde3yh4olk",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783452724550
+    },
+    {
+      "id": "mrb1pdg27sujfj",
+      "title": "F. Professional Education",
+      "parentId": "mrb1pde3yh4olk",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783452724562
+    },
+    {
+      "id": "mrb1pdgdmiyzry",
+      "title": "G. Online Education",
+      "parentId": "mrb1pde3yh4olk",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783452724573
+    },
+    {
+      "id": "mrb1pdgngrn5at",
+      "title": "H. Hybrid Learning",
+      "parentId": "mrb1pde3yh4olk",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783452724583
+    },
+    {
+      "id": "mrb1pdgyix3oh2",
+      "title": "I. Alternative Education",
+      "parentId": "mrb1pde3yh4olk",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783452724594
+    },
+    {
+      "id": "mrb1pdh82ecb7g",
+      "title": "J. Choosing the Right Pathway",
+      "parentId": "mrb1pde3yh4olk",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783452724604
+    },
+    {
+      "id": "mrb1pdhit74q0e",
+      "title": "K. Education Planning",
+      "parentId": "mrb1pde3yh4olk",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783452724614
+    },
+    {
+      "id": "mrb1pdhuaeh5h1",
+      "title": "L. Lifelong Education",
+      "parentId": "mrb1pde3yh4olk",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783452724626
+    },
+    {
+      "id": "mrb1pdi6hy7k5v",
+      "title": "5.2.2. Degree Programs",
+      "parentId": "mr11ucljod9tqp",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452724638
+    },
+    {
+      "id": "mrb1pdii1jtw8q",
+      "title": "A. Degree Fundamentals",
+      "parentId": "mrb1pdi6hy7k5v",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452724650
+    },
+    {
+      "id": "mrb1pdita3m4ca",
+      "title": "B. Associate Degrees",
+      "parentId": "mrb1pdi6hy7k5v",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783452724661
+    },
+    {
+      "id": "mrb1pdj3ebgo19",
+      "title": "C. Bachelor's Degrees",
+      "parentId": "mrb1pdi6hy7k5v",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783452724671
+    },
+    {
+      "id": "mrb1pdjgrrfk89",
+      "title": "D. Master's Degrees",
+      "parentId": "mrb1pdi6hy7k5v",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783452724684
+    },
+    {
+      "id": "mrb1pdjt0atevr",
+      "title": "E. Doctoral Degrees",
+      "parentId": "mrb1pdi6hy7k5v",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783452724697
+    },
+    {
+      "id": "mrb1pdk43nyqiq",
+      "title": "F. Professional Degrees",
+      "parentId": "mrb1pdi6hy7k5v",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783452724708
+    },
+    {
+      "id": "mrb1pdkf2rkzdv",
+      "title": "G. Dual Degree Programs",
+      "parentId": "mrb1pdi6hy7k5v",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783452724719
+    },
+    {
+      "id": "mrb1pdkr85cx5t",
+      "title": "H. Interdisciplinary Degrees",
+      "parentId": "mrb1pdi6hy7k5v",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783452724731
+    },
+    {
+      "id": "mrb1pdl81cxvgl",
+      "title": "I. International Degrees",
+      "parentId": "mrb1pdi6hy7k5v",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783452724748
+    },
+    {
+      "id": "mrb1pdlmaibqj4",
+      "title": "J. Degree Selection",
+      "parentId": "mrb1pdi6hy7k5v",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783452724762
+    },
+    {
+      "id": "mrb1pdlxfonf8e",
+      "title": "K. Academic Success",
+      "parentId": "mrb1pdi6hy7k5v",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783452724773
+    },
+    {
+      "id": "mrb1pdm9vfrjez",
+      "title": "L. Degree-to-Career Alignment",
+      "parentId": "mrb1pdi6hy7k5v",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783452724785
+    },
+    {
+      "id": "mrb1pdmkr8ncxi",
+      "title": "5.2.3. Professional Certifications",
+      "parentId": "mr11ucll695z1s",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452724796
+    },
+    {
+      "id": "mrb1pdmzd3e8cv",
+      "title": "A. Certification Fundamentals",
+      "parentId": "mrb1pdmkr8ncxi",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452724811
+    },
+    {
+      "id": "mrb1pdna224vq6",
+      "title": "B. Industry Certifications",
+      "parentId": "mrb1pdmkr8ncxi",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783452724822
+    },
+    {
+      "id": "mrb1pdnlregcow",
+      "title": "C. Vendor Certifications",
+      "parentId": "mrb1pdmkr8ncxi",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783452724833
+    },
+    {
+      "id": "mrb1pdo003an24",
+      "title": "D. Professional Licenses",
+      "parentId": "mrb1pdmkr8ncxi",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783452724848
+    },
+    {
+      "id": "mrb1pdogfp01n0",
+      "title": "E. Certification Roadmaps",
+      "parentId": "mrb1pdmkr8ncxi",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783452724864
+    },
+    {
+      "id": "mrb1pdor2s9cvg",
+      "title": "F. Certification Value",
+      "parentId": "mrb1pdmkr8ncxi",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783452724875
+    },
+    {
+      "id": "mrb1pdp47zise6",
+      "title": "G. Certification Preparation",
+      "parentId": "mrb1pdmkr8ncxi",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783452724888
+    },
+    {
+      "id": "mrb1pdph50l3rm",
+      "title": "H. Exam Strategies",
+      "parentId": "mrb1pdmkr8ncxi",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783452724901
+    },
+    {
+      "id": "mrb1pdps90amux",
+      "title": "I. Maintaining Certifications",
+      "parentId": "mrb1pdmkr8ncxi",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783452724912
+    },
+    {
+      "id": "mrb1pdq4cvb8ab",
+      "title": "J. Certification Stacking",
+      "parentId": "mrb1pdmkr8ncxi",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783452724924
+    },
+    {
+      "id": "mrb1pdqgp67f71",
+      "title": "K. Global Certifications",
+      "parentId": "mrb1pdmkr8ncxi",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783452724936
+    },
+    {
+      "id": "mrb1pdqtt4086q",
+      "title": "L. Certification Career Strategy",
+      "parentId": "mrb1pdmkr8ncxi",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783452724949
+    },
+    {
+      "id": "mrb1pdr4bfsem4",
+      "title": "5.2.4. Online Learning Platforms",
+      "parentId": "mr11uclmdav8al",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452724960
+    },
+    {
+      "id": "mrb1pdrhfw2hnd",
+      "title": "A. Online Learning Fundamentals",
+      "parentId": "mrb1pdr4bfsem4",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452724973
+    },
+    {
+      "id": "mrb1pdrt04a2xj",
+      "title": "B. MOOCs",
+      "parentId": "mrb1pdr4bfsem4",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783452724985
+    },
+    {
+      "id": "mrb1pds6l8hhv7",
+      "title": "C. University Online Programs",
+      "parentId": "mrb1pdr4bfsem4",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783452724998
+    },
+    {
+      "id": "mrb1pdsm4dhjws",
+      "title": "D. Professional Learning Platforms",
+      "parentId": "mrb1pdr4bfsem4",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783452725014
+    },
+    {
+      "id": "mrb1pdsxskfk8g",
+      "title": "E. Technical Learning Platforms",
+      "parentId": "mrb1pdr4bfsem4",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783452725025
+    },
+    {
+      "id": "mrb1pdt93siay7",
+      "title": "F. Instructor-Led Learning",
+      "parentId": "mrb1pdr4bfsem4",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783452725037
+    },
+    {
+      "id": "mrb1pdtl60ixq1",
+      "title": "G. Self-Paced Learning",
+      "parentId": "mrb1pdr4bfsem4",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783452725049
+    },
+    {
+      "id": "mrb1pdu17stasz",
+      "title": "H. AI Learning Platforms",
+      "parentId": "mrb1pdr4bfsem4",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783452725065
+    },
+    {
+      "id": "mrb1pdudh3svk9",
+      "title": "I. Learning Communities",
+      "parentId": "mrb1pdr4bfsem4",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783452725077
+    },
+    {
+      "id": "mrb1pdupzzun8b",
+      "title": "J. Platform Comparison",
+      "parentId": "mrb1pdr4bfsem4",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783452725089
+    },
+    {
+      "id": "mrb1pdv16myuz3",
+      "title": "K. Learning Effectiveness",
+      "parentId": "mrb1pdr4bfsem4",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783452725101
+    },
+    {
+      "id": "mrb1pdvgf7si0a",
+      "title": "L. Building an Online Learning Ecosystem",
+      "parentId": "mrb1pdr4bfsem4",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783452725116
+    },
+    {
+      "id": "mrb1pdvsryf3u9",
+      "title": "5.2.5. Micro-Credentials & Digital Badges",
+      "parentId": "mr11ucln1dppg7",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452725128
+    },
+    {
+      "id": "mrb1pdw45bnpwn",
+      "title": "A. Micro-Credentials Fundamentals",
+      "parentId": "mrb1pdvsryf3u9",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452725140
+    },
+    {
+      "id": "mrb1pdwg4fmbvd",
+      "title": "B. Digital Badges",
+      "parentId": "mrb1pdvsryf3u9",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783452725152
+    },
+    {
+      "id": "mrb1pdwtqoa7f5",
+      "title": "C. Nano Degrees",
+      "parentId": "mrb1pdvsryf3u9",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783452725165
+    },
+    {
+      "id": "mrb1pdx5yo4ccf",
+      "title": "D. Professional Certificates",
+      "parentId": "mrb1pdvsryf3u9",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783452725177
+    },
+    {
+      "id": "mrb1pdxiwpktzk",
+      "title": "E. Skills Credentials",
+      "parentId": "mrb1pdvsryf3u9",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783452725190
+    },
+    {
+      "id": "mrb1pdxuuyrayc",
+      "title": "F. Competency-Based Learning",
+      "parentId": "mrb1pdvsryf3u9",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783452725202
+    },
+    {
+      "id": "mrb1pdy5cvjpif",
+      "title": "G. Stackable Credentials",
+      "parentId": "mrb1pdvsryf3u9",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783452725213
+    },
+    {
+      "id": "mrb1pdyi1vq6wv",
+      "title": "H. Credential Verification",
+      "parentId": "mrb1pdvsryf3u9",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783452725226
+    },
+    {
+      "id": "mrb1pdyu76tz1l",
+      "title": "I. Digital Credential Platforms",
+      "parentId": "mrb1pdvsryf3u9",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783452725238
+    },
+    {
+      "id": "mrb1pdz6xcx7s0",
+      "title": "J. Employer Recognition",
+      "parentId": "mrb1pdvsryf3u9",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783452725250
+    },
+    {
+      "id": "mrb1pdziqet68m",
+      "title": "K. Credential Portfolios",
+      "parentId": "mrb1pdvsryf3u9",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783452725262
+    },
+    {
+      "id": "mrb1pdzuic5db8",
+      "title": "L. Future of Digital Credentials",
+      "parentId": "mrb1pdvsryf3u9",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783452725274
+    },
+    {
+      "id": "mrb1pe06f2j4wu",
+      "title": "5.2.6. Continuing Professional Education",
+      "parentId": "mr11uclq3jdi2v",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452725286
+    },
+    {
+      "id": "mrb1pe0hsp4vjx",
+      "title": "A. CPD Fundamentals",
+      "parentId": "mrb1pe06f2j4wu",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452725297
+    },
+    {
+      "id": "mrb1pe0tzjm4iq",
+      "title": "B. Continuing Education Programs",
+      "parentId": "mrb1pe06f2j4wu",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783452725309
+    },
+    {
+      "id": "mrb1pe15pejwbg",
+      "title": "C. Executive Education",
+      "parentId": "mrb1pe06f2j4wu",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783452725321
+    },
+    {
+      "id": "mrb1pe1ib74x1m",
+      "title": "D. Industry Workshops",
+      "parentId": "mrb1pe06f2j4wu",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783452725334
+    },
+    {
+      "id": "mrb1pe1uz5gwy5",
+      "title": "E. Conferences & Seminars",
+      "parentId": "mrb1pe06f2j4wu",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783452725346
+    },
+    {
+      "id": "mrb1pe25qvvqru",
+      "title": "F. Professional Training",
+      "parentId": "mrb1pe06f2j4wu",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783452725357
+    },
+    {
+      "id": "mrb1pe2h1q5msv",
+      "title": "G. Skill Refresh Programs",
+      "parentId": "mrb1pe06f2j4wu",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783452725369
+    },
+    {
+      "id": "mrb1pe2tguxpf9",
+      "title": "H. Learning Communities",
+      "parentId": "mrb1pe06f2j4wu",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783452725381
+    },
+    {
+      "id": "mrb1pe351pfe2b",
+      "title": "I. Professional Reading",
+      "parentId": "mrb1pe06f2j4wu",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783452725393
+    },
+    {
+      "id": "mrb1pe3gj7jmuc",
+      "title": "J. Learning Planning",
+      "parentId": "mrb1pe06f2j4wu",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783452725404
+    },
+    {
+      "id": "mrb1pe3srq3rbb",
+      "title": "K. Measuring Professional Growth",
+      "parentId": "mrb1pe06f2j4wu",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783452725416
+    },
+    {
+      "id": "mrb1pe44c0ogq9",
+      "title": "L. Continuous Professional Excellence",
+      "parentId": "mrb1pe06f2j4wu",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783452725428
+    },
+    {
+      "id": "mrb1pe4k1lxfkm",
+      "title": "5.2.7. Academic Planning",
+      "parentId": "mr11uclrbg1gxy",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452725444
+    },
+    {
+      "id": "mrb1pe50iytyh4",
+      "title": "A. Academic Planning Fundamentals",
+      "parentId": "mrb1pe4k1lxfkm",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452725460
+    },
+    {
+      "id": "mrb1pe5faigiu9",
+      "title": "B. Curriculum Planning",
+      "parentId": "mrb1pe4k1lxfkm",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783452725475
+    },
+    {
+      "id": "mrb1pe5s15p67f",
+      "title": "C. Course Selection",
+      "parentId": "mrb1pe4k1lxfkm",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783452725488
+    },
+    {
+      "id": "mrb1pe66aakgkn",
+      "title": "D. Academic Scheduling",
+      "parentId": "mrb1pe4k1lxfkm",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783452725502
+    },
+    {
+      "id": "mrb1pe6o78tc8z",
+      "title": "E. Credit Management",
+      "parentId": "mrb1pe4k1lxfkm",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783452725520
+    },
+    {
+      "id": "mrb1pe764zi6kg",
+      "title": "F. Academic Advising",
+      "parentId": "mrb1pe4k1lxfkm",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783452725538
+    },
+    {
+      "id": "mrb1pe7k9ibsoh",
+      "title": "G. Study Planning",
+      "parentId": "mrb1pe4k1lxfkm",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783452725552
+    },
+    {
+      "id": "mrb1pe7wd0isb5",
+      "title": "H. Graduation Planning",
+      "parentId": "mrb1pe4k1lxfkm",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783452725564
+    },
+    {
+      "id": "mrb1pe87s9mzf8",
+      "title": "I. Academic Performance",
+      "parentId": "mrb1pe4k1lxfkm",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783452725575
+    },
+    {
+      "id": "mrb1pe8j53shlh",
+      "title": "J. Research Opportunities",
+      "parentId": "mrb1pe4k1lxfkm",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783452725587
+    },
+    {
+      "id": "mrb1pe8w3nkk66",
+      "title": "K. International Exchange Programs",
+      "parentId": "mrb1pe4k1lxfkm",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783452725600
+    },
+    {
+      "id": "mrb1pe97cdqlbp",
+      "title": "L. Academic Success Strategy",
+      "parentId": "mrb1pe4k1lxfkm",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783452725611
+    },
+    {
+      "id": "mrb1pe9jpya4ki",
+      "title": "5.2.8. Certification Preparation Strategies",
+      "parentId": "mr11uclsajge9r",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452725623
+    },
+    {
+      "id": "mrb1pe9wyenunr",
+      "title": "A. Certification Planning",
+      "parentId": "mrb1pe9jpya4ki",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452725636
+    },
+    {
+      "id": "mrb1pea8dmzl9o",
+      "title": "B. Exam Objectives",
+      "parentId": "mrb1pe9jpya4ki",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783452725648
+    },
+    {
+      "id": "mrb1pealicly9j",
+      "title": "C. Study Resources",
+      "parentId": "mrb1pe9jpya4ki",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783452725661
+    },
+    {
+      "id": "mrb1peaxanl2o2",
+      "title": "D. Learning Plans",
+      "parentId": "mrb1pe9jpya4ki",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783452725673
+    },
+    {
+      "id": "mrb1pebat3u0mq",
+      "title": "E. Practice Tests",
+      "parentId": "mrb1pe9jpya4ki",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783452725686
+    },
+    {
+      "id": "mrb1pebmwmjcs0",
+      "title": "F. Revision Strategies",
+      "parentId": "mrb1pe9jpya4ki",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783452725698
+    },
+    {
+      "id": "mrb1pebyj2mr23",
+      "title": "G. Time Management",
+      "parentId": "mrb1pe9jpya4ki",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783452725710
+    },
+    {
+      "id": "mrb1pecaspuezo",
+      "title": "H. Exam-Day Preparation",
+      "parentId": "mrb1pe9jpya4ki",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783452725722
+    },
+    {
+      "id": "mrb1pecnbv1z90",
+      "title": "I. Managing Exam Anxiety",
+      "parentId": "mrb1pe9jpya4ki",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783452725735
+    },
+    {
+      "id": "mrb1pecz81u307",
+      "title": "J. Certification Success Habits",
+      "parentId": "mrb1pe9jpya4ki",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783452725747
+    },
+    {
+      "id": "mrb1pedevzzp3k",
+      "title": "K. Retake Strategies",
+      "parentId": "mrb1pe9jpya4ki",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783452725762
+    },
+    {
+      "id": "mrb1pedqgw1o9g",
+      "title": "L. Certification Mastery",
+      "parentId": "mrb1pe9jpya4ki",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783452725774
+    },
+    {
+      "id": "mrb1pee20haslm",
+      "title": "5.2.9. Scholarship & Financial Aid",
+      "parentId": "mr11uclt94ujth",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452725786
+    },
+    {
+      "id": "mrb1peeelhmi0j",
+      "title": "A. Scholarship Fundamentals",
+      "parentId": "mrb1pee20haslm",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452725798
+    },
+    {
+      "id": "mrb1peep51377s",
+      "title": "B. Merit Scholarships",
+      "parentId": "mrb1pee20haslm",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783452725809
+    },
+    {
+      "id": "mrb1pef1przhhw",
+      "title": "C. Need-Based Aid",
+      "parentId": "mrb1pee20haslm",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783452725822
+    },
+    {
+      "id": "mrb1pefeakn71j",
+      "title": "D. Grants",
+      "parentId": "mrb1pee20haslm",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783452725834
+    },
+    {
+      "id": "mrb1pefoiaxjhr",
+      "title": "E. Fellowships",
+      "parentId": "mrb1pee20haslm",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783452725844
+    },
+    {
+      "id": "mrb1peg0iuzgfh",
+      "title": "F. Student Loans",
+      "parentId": "mrb1pee20haslm",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783452725856
+    },
+    {
+      "id": "mrb1pege7le1r6",
+      "title": "G. Sponsorship Programs",
+      "parentId": "mrb1pee20haslm",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783452725870
+    },
+    {
+      "id": "mrb1pegrljaxdz",
+      "title": "H. International Funding",
+      "parentId": "mrb1pee20haslm",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783452725883
+    },
+    {
+      "id": "mrb1peh2i8ze96",
+      "title": "I. Scholarship Applications",
+      "parentId": "mrb1pee20haslm",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783452725894
+    },
+    {
+      "id": "mrb1pehfr4kpx3",
+      "title": "J. Financial Planning",
+      "parentId": "mrb1pee20haslm",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783452725907
+    },
+    {
+      "id": "mrb1pehqotgm4t",
+      "title": "K. Education Budgeting",
+      "parentId": "mrb1pee20haslm",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783452725918
+    },
+    {
+      "id": "mrb1pei3msr4x5",
+      "title": "L. Financing Lifelong Learning",
+      "parentId": "mrb1pee20haslm",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783452725931
+    },
+    {
+      "id": "mrb1peih80gbc1",
+      "title": "5.2.10. Credential Evaluation & Recognition",
+      "parentId": "mr11uclvhv0v0r",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452725945
+    },
+    {
+      "id": "mrb1peit6v210v",
+      "title": "A. Credential Recognition Fundamentals",
+      "parentId": "mrb1peih80gbc1",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452725957
+    },
+    {
+      "id": "mrb1pej5bfbt2z",
+      "title": "B. Accreditation",
+      "parentId": "mrb1peih80gbc1",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783452725969
+    },
+    {
+      "id": "mrb1pejhtbmze6",
+      "title": "C. Qualification Frameworks",
+      "parentId": "mrb1peih80gbc1",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783452725981
+    },
+    {
+      "id": "mrb1pejt4npdv2",
+      "title": "D. International Recognition",
+      "parentId": "mrb1peih80gbc1",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783452725993
+    },
+    {
+      "id": "mrb1pek5zfas7g",
+      "title": "E. Credential Evaluation Services",
+      "parentId": "mrb1peih80gbc1",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783452726005
+    },
+    {
+      "id": "mrb1pekh2wni4v",
+      "title": "F. Professional Equivalency",
+      "parentId": "mrb1peih80gbc1",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783452726017
+    },
+    {
+      "id": "mrb1peku3c659g",
+      "title": "G. Skills Validation",
+      "parentId": "mrb1peih80gbc1",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783452726030
+    },
+    {
+      "id": "mrb1pel68k3flu",
+      "title": "H. Prior Learning Assessment",
+      "parentId": "mrb1peih80gbc1",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783452726042
+    },
+    {
+      "id": "mrb1pelif1chqx",
+      "title": "I. Employer Recognition",
+      "parentId": "mrb1peih80gbc1",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783452726054
+    },
+    {
+      "id": "mrb1pelu4db6xm",
+      "title": "J. Licensing Requirements",
+      "parentId": "mrb1peih80gbc1",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783452726066
+    },
+    {
+      "id": "mrb1pem6qevpiu",
+      "title": "K. Global Mobility",
+      "parentId": "mrb1peih80gbc1",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783452726078
+    },
+    {
+      "id": "mrb1pemhmw24cw",
+      "title": "L. Credential Portability",
+      "parentId": "mrb1peih80gbc1",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783452726089
+    },
+    {
+      "id": "mrb1pemtnz5418",
+      "title": "5.2.11. Building a Learning Portfolio",
+      "parentId": "mr11uclw3v1qvk",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452726102
+    },
+    {
+      "id": "mrb1pen5htjmnq",
+      "title": "A. Portfolio Fundamentals",
+      "parentId": "mrb1pemtnz5418",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452726113
+    },
+    {
+      "id": "mrb1peniowpck8",
+      "title": "B. Academic Portfolio",
+      "parentId": "mrb1pemtnz5418",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783452726126
+    },
+    {
+      "id": "mrb1penvv8tw6h",
+      "title": "C. Professional Portfolio",
+      "parentId": "mrb1pemtnz5418",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783452726139
+    },
+    {
+      "id": "mrb1peo7lqfqme",
+      "title": "D. Project Portfolio",
+      "parentId": "mrb1pemtnz5418",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783452726151
+    },
+    {
+      "id": "mrb1peoj5rbvcg",
+      "title": "E. Certification Portfolio",
+      "parentId": "mrb1pemtnz5418",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783452726163
+    },
+    {
+      "id": "mrb1peovlr7snp",
+      "title": "F. Skills Portfolio",
+      "parentId": "mrb1pemtnz5418",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783452726175
+    },
+    {
+      "id": "mrb1pep8nxpnxm",
+      "title": "G. Research Portfolio",
+      "parentId": "mrb1pemtnz5418",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783452726188
+    },
+    {
+      "id": "mrb1pepkg4jo2n",
+      "title": "H. Creative Portfolio",
+      "parentId": "mrb1pemtnz5418",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783452726200
+    },
+    {
+      "id": "mrb1pepw550mzy",
+      "title": "I. Digital Portfolio Platforms",
+      "parentId": "mrb1pemtnz5418",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783452726212
+    },
+    {
+      "id": "mrb1peq9ayljx1",
+      "title": "J. Portfolio Presentation",
+      "parentId": "mrb1pemtnz5418",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783452726225
+    },
+    {
+      "id": "mrb1peql47gm6g",
+      "title": "K. Portfolio Maintenance",
+      "parentId": "mrb1pemtnz5418",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783452726237
+    },
+    {
+      "id": "mrb1peqxfa6kht",
+      "title": "L. Portfolio for Career Growth",
+      "parentId": "mrb1pemtnz5418",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783452726249
+    },
+    {
+      "id": "mrb1per9i6f7fe",
+      "title": "5.2.12. Lifelong Credential Management",
+      "parentId": "mr11uclx8kx2l0",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452726261
+    },
+    {
+      "id": "mrb1perl272js3",
+      "title": "A. Credential Management Fundamentals",
+      "parentId": "mrb1per9i6f7fe",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783452726273
+    },
+    {
+      "id": "mrb1perx8nfsry",
+      "title": "B. Credential Tracking",
+      "parentId": "mrb1per9i6f7fe",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783452726285
+    },
+    {
+      "id": "mrb1pes9ozubbl",
+      "title": "C. Renewal Planning",
+      "parentId": "mrb1per9i6f7fe",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783452726297
+    },
+    {
+      "id": "mrb1pesl2v14kt",
+      "title": "D. Continuing Education Requirements",
+      "parentId": "mrb1per9i6f7fe",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783452726309
+    },
+    {
+      "id": "mrb1pesy2czrjs",
+      "title": "E. Digital Credential Storage",
+      "parentId": "mrb1per9i6f7fe",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783452726322
+    },
+    {
+      "id": "mrb1petau9voxp",
+      "title": "F. Professional Records",
+      "parentId": "mrb1per9i6f7fe",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783452726334
+    },
+    {
+      "id": "mrb1petnjwmggs",
+      "title": "G. Learning History",
+      "parentId": "mrb1per9i6f7fe",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783452726347
+    },
+    {
+      "id": "mrb1pety8wu8vj",
+      "title": "H. Career Documentation",
+      "parentId": "mrb1per9i6f7fe",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783452726358
+    },
+    {
+      "id": "mrb1peu9ld979h",
+      "title": "I. Credential Audits",
+      "parentId": "mrb1per9i6f7fe",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783452726369
+    },
+    {
+      "id": "mrb1peulc8pym6",
+      "title": "J. Long-Term Learning Records",
+      "parentId": "mrb1per9i6f7fe",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783452726381
+    },
+    {
+      "id": "mrb1peuxlu26zj",
+      "title": "K. Global Credential Portability",
+      "parentId": "mrb1per9i6f7fe",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783452726393
+    },
+    {
+      "id": "mrb1pev9qbdlbd",
+      "title": "L. Building a Lifetime Credential Ecosystem",
+      "parentId": "mrb1per9i6f7fe",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783452726405
     }
   ],
   "pages": {
