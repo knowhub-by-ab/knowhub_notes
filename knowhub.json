@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-07T19:44:21.414Z",
+  "exportedAt": "2026-07-07T19:49:23.498Z",
   "nodes": [
     {
       "order": 2,
@@ -3465,30 +3465,6 @@
       "title": "5.1.12. Personal Career Strategy",
       "status": "pending",
       "parentId": "mr11txgx4zsfui"
-    },
-    {
-      "order": 9,
-      "createdAt": 1782848294995,
-      "id": "mr11uclvhv0v0r",
-      "parentId": "mr0vc8snnjw1st",
-      "status": "pending",
-      "title": "5.2.10. Credential Evaluation & Recognition"
-    },
-    {
-      "title": "5.2.11. Building a Learning Portfolio",
-      "status": "pending",
-      "parentId": "mr0vc8snnjw1st",
-      "createdAt": 1782848294996,
-      "id": "mr11uclw3v1qvk",
-      "order": 10
-    },
-    {
-      "order": 11,
-      "createdAt": 1782848294997,
-      "id": "mr11uclx8kx2l0",
-      "parentId": "mr0vc8snnjw1st",
-      "status": "pending",
-      "title": "5.2.12. Lifelong Credential Management"
     },
     {
       "order": 2,
@@ -32773,9 +32749,9 @@
     {
       "id": "mrb1peih80gbc1",
       "title": "5.2.10. Credential Evaluation & Recognition",
-      "parentId": "mr11uclvhv0v0r",
+      "parentId": "mr0vc8snnjw1st",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783452725945
     },
     {
@@ -32877,9 +32853,9 @@
     {
       "id": "mrb1pemtnz5418",
       "title": "5.2.11. Building a Learning Portfolio",
-      "parentId": "mr11uclw3v1qvk",
+      "parentId": "mr0vc8snnjw1st",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783452726102
     },
     {
@@ -32981,9 +32957,9 @@
     {
       "id": "mrb1per9i6f7fe",
       "title": "5.2.12. Lifelong Credential Management",
-      "parentId": "mr11uclx8kx2l0",
+      "parentId": "mr0vc8snnjw1st",
       "status": "pending",
-      "order": 0,
+      "order": 12,
       "createdAt": 1783452726261
     },
     {
