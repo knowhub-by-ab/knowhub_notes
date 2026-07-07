@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-07T19:49:23.498Z",
+  "exportedAt": "2026-07-07T19:54:23.456Z",
   "nodes": [
     {
       "order": 2,
@@ -33057,6 +33057,2310 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1783452726405
+    },
+    {
+      "id": "mrb2cstr6fhake",
+      "title": "A. Personal Branding Fundamentals",
+      "parentId": "mr11us7gpyilv2",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783453817583
+    },
+    {
+      "id": "mrb2csu22lft52",
+      "title": "B. Defining Your Brand",
+      "parentId": "mr11us7gpyilv2",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783453817594
+    },
+    {
+      "id": "mrb2csudkn36b5",
+      "title": "C. Unique Value Proposition",
+      "parentId": "mr11us7gpyilv2",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783453817605
+    },
+    {
+      "id": "mrb2csupt25mfs",
+      "title": "D. Personal Mission & Vision",
+      "parentId": "mr11us7gpyilv2",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783453817617
+    },
+    {
+      "id": "mrb2csv04ti27t",
+      "title": "E. Core Values",
+      "parentId": "mr11us7gpyilv2",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783453817628
+    },
+    {
+      "id": "mrb2csvdm7ar3p",
+      "title": "F. Brand Positioning",
+      "parentId": "mr11us7gpyilv2",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783453817641
+    },
+    {
+      "id": "mrb2csvp1k10l3",
+      "title": "G. Brand Consistency",
+      "parentId": "mr11us7gpyilv2",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783453817653
+    },
+    {
+      "id": "mrb2csw19h8mts",
+      "title": "H. Authenticity",
+      "parentId": "mr11us7gpyilv2",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783453817665
+    },
+    {
+      "id": "mrb2cswfu163g3",
+      "title": "I. Brand Storytelling",
+      "parentId": "mr11us7gpyilv2",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783453817679
+    },
+    {
+      "id": "mrb2cswvt0xm9b",
+      "title": "J. Personal Brand Strategy",
+      "parentId": "mr11us7gpyilv2",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783453817695
+    },
+    {
+      "id": "mrb2csx7hxzve4",
+      "title": "K. Brand Evolution",
+      "parentId": "mr11us7gpyilv2",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783453817707
+    },
+    {
+      "id": "mrb2csxr9aafq7",
+      "title": "L. Building a Lasting Personal Brand",
+      "parentId": "mr11us7gpyilv2",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783453817727
+    },
+    {
+      "id": "mrb2csy59szm2l",
+      "title": "A. Professional Identity Fundamentals",
+      "parentId": "mr11us7hgf5d01",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783453817741
+    },
+    {
+      "id": "mrb2csyhokcg1j",
+      "title": "B. Professional Image",
+      "parentId": "mr11us7hgf5d01",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783453817753
+    },
+    {
+      "id": "mrb2csyt4vgif1",
+      "title": "C. Professional Values",
+      "parentId": "mr11us7hgf5d01",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783453817765
+    },
+    {
+      "id": "mrb2csz5bqlihw",
+      "title": "D. Professional Ethics",
+      "parentId": "mr11us7hgf5d01",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783453817777
+    },
+    {
+      "id": "mrb2cszh5itazz",
+      "title": "E. Career Identity",
+      "parentId": "mr11us7hgf5d01",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783453817789
+    },
+    {
+      "id": "mrb2cszsx41j33",
+      "title": "F. Executive Presence",
+      "parentId": "mr11us7hgf5d01",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783453817800
+    },
+    {
+      "id": "mrb2ct04srpz2v",
+      "title": "G. Confidence & Credibility",
+      "parentId": "mr11us7hgf5d01",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783453817812
+    },
+    {
+      "id": "mrb2ct0ggogq0y",
+      "title": "H. Reputation Building",
+      "parentId": "mr11us7hgf5d01",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783453817824
+    },
+    {
+      "id": "mrb2ct0to4dnqd",
+      "title": "I. Professional Behavior",
+      "parentId": "mr11us7hgf5d01",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783453817837
+    },
+    {
+      "id": "mrb2ct15jjcbrk",
+      "title": "J. Personal Differentiation",
+      "parentId": "mr11us7hgf5d01",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783453817849
+    },
+    {
+      "id": "mrb2ct1h4951lj",
+      "title": "K. Identity Alignment",
+      "parentId": "mr11us7hgf5d01",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783453817861
+    },
+    {
+      "id": "mrb2ct1stemlh2",
+      "title": "L. Long-Term Professional Identity",
+      "parentId": "mr11us7hgf5d01",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783453817872
+    },
+    {
+      "id": "mrb2ct24jgd1pg",
+      "title": "A. Resume Fundamentals",
+      "parentId": "mr11us7jr22z8x",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783453817884
+    },
+    {
+      "id": "mrb2ct2f4ldmt2",
+      "title": "B. Resume Structure",
+      "parentId": "mr11us7jr22z8x",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783453817895
+    },
+    {
+      "id": "mrb2ct2rmpl1q5",
+      "title": "C. ATS-Friendly Resume Design",
+      "parentId": "mr11us7jr22z8x",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783453817907
+    },
+    {
+      "id": "mrb2ct332tdtq8",
+      "title": "D. Achievement-Based Writing",
+      "parentId": "mr11us7jr22z8x",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783453817919
+    },
+    {
+      "id": "mrb2ct3f4hfz4b",
+      "title": "E. Technical Resume Writing",
+      "parentId": "mr11us7jr22z8x",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783453817931
+    },
+    {
+      "id": "mrb2ct3spytalx",
+      "title": "F. Executive CV Writing",
+      "parentId": "mr11us7jr22z8x",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783453817944
+    },
+    {
+      "id": "mrb2ct47t22l45",
+      "title": "G. Academic CV",
+      "parentId": "mr11us7jr22z8x",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783453817959
+    },
+    {
+      "id": "mrb2ct4l1d89y0",
+      "title": "H. International Resume Standards",
+      "parentId": "mr11us7jr22z8x",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783453817973
+    },
+    {
+      "id": "mrb2ct4y10yvap",
+      "title": "I. Resume Customization",
+      "parentId": "mr11us7jr22z8x",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783453817986
+    },
+    {
+      "id": "mrb2ct59rr2g0s",
+      "title": "J. Resume Review & Improvement",
+      "parentId": "mr11us7jr22z8x",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783453817997
+    },
+    {
+      "id": "mrb2ct5kbxgvvy",
+      "title": "K. Resume Mistakes",
+      "parentId": "mr11us7jr22z8x",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783453818008
+    },
+    {
+      "id": "mrb2ct5v4xuwhx",
+      "title": "L. Resume Mastery",
+      "parentId": "mr11us7jr22z8x",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783453818019
+    },
+    {
+      "id": "mrb2ct67gslvlq",
+      "title": "A. Cover Letter Fundamentals",
+      "parentId": "mr11us7kx1vi8z",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783453818031
+    },
+    {
+      "id": "mrb2ct6naikcjv",
+      "title": "B. Cover Letter Structure",
+      "parentId": "mr11us7kx1vi8z",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783453818047
+    },
+    {
+      "id": "mrb2ct7150bm58",
+      "title": "C. Personalized Applications",
+      "parentId": "mr11us7kx1vi8z",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783453818061
+    },
+    {
+      "id": "mrb2ct7c5kggpa",
+      "title": "D. Email Etiquette",
+      "parentId": "mr11us7kx1vi8z",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783453818072
+    },
+    {
+      "id": "mrb2ct7ocrzouo",
+      "title": "E. Professional Correspondence",
+      "parentId": "mr11us7kx1vi8z",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783453818084
+    },
+    {
+      "id": "mrb2ct80gxtijm",
+      "title": "F. Statement of Purpose",
+      "parentId": "mr11us7kx1vi8z",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783453818096
+    },
+    {
+      "id": "mrb2ct8dup806q",
+      "title": "G. Motivation Letters",
+      "parentId": "mr11us7kx1vi8z",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783453818109
+    },
+    {
+      "id": "mrb2ct8p84dmcg",
+      "title": "H. Business Writing",
+      "parentId": "mr11us7kx1vi8z",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783453818121
+    },
+    {
+      "id": "mrb2ct91p94kbw",
+      "title": "I. Writing for Recruiters",
+      "parentId": "mr11us7kx1vi8z",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783453818133
+    },
+    {
+      "id": "mrb2ct9eg5gk54",
+      "title": "J. Writing with AI",
+      "parentId": "mr11us7kx1vi8z",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783453818146
+    },
+    {
+      "id": "mrb2ct9qg28y2y",
+      "title": "K. Proofreading & Editing",
+      "parentId": "mr11us7kx1vi8z",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783453818158
+    },
+    {
+      "id": "mrb2cta35lnbit",
+      "title": "L. Professional Writing Excellence",
+      "parentId": "mr11us7kx1vi8z",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783453818171
+    },
+    {
+      "id": "mrb2ctaigy9iw0",
+      "title": "A. Portfolio Fundamentals",
+      "parentId": "mr11us7m24vvse",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783453818186
+    },
+    {
+      "id": "mrb2ctaterv8v6",
+      "title": "B. Career Portfolio Planning",
+      "parentId": "mr11us7m24vvse",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783453818197
+    },
+    {
+      "id": "mrb2ctb8anzbcr",
+      "title": "C. Project Selection",
+      "parentId": "mr11us7m24vvse",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783453818212
+    },
+    {
+      "id": "mrb2ctbm50evpy",
+      "title": "D. Case Study Writing",
+      "parentId": "mr11us7m24vvse",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783453818226
+    },
+    {
+      "id": "mrb2ctc2asvbgw",
+      "title": "E. Visual Presentation",
+      "parentId": "mr11us7m24vvse",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783453818242
+    },
+    {
+      "id": "mrb2ctcifo225a",
+      "title": "F. Technical Portfolios",
+      "parentId": "mr11us7m24vvse",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783453818258
+    },
+    {
+      "id": "mrb2ctcubq31en",
+      "title": "G. Creative Portfolios",
+      "parentId": "mr11us7m24vvse",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783453818270
+    },
+    {
+      "id": "mrb2ctd7ahzj5n",
+      "title": "H. Research Portfolios",
+      "parentId": "mr11us7m24vvse",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783453818283
+    },
+    {
+      "id": "mrb2ctdmbovpon",
+      "title": "I. Portfolio Platforms",
+      "parentId": "mr11us7m24vvse",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783453818298
+    },
+    {
+      "id": "mrb2cte0an489k",
+      "title": "J. Portfolio Maintenance",
+      "parentId": "mr11us7m24vvse",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783453818312
+    },
+    {
+      "id": "mrb2cteegdm5jy",
+      "title": "K. Portfolio Storytelling",
+      "parentId": "mr11us7m24vvse",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783453818326
+    },
+    {
+      "id": "mrb2cteu5xs2w6",
+      "title": "L. World-Class Portfolio Development",
+      "parentId": "mr11us7m24vvse",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783453818342
+    },
+    {
+      "id": "mrb2ctf8ou3640",
+      "title": "A. LinkedIn Fundamentals",
+      "parentId": "mr11us7oexrh3x",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783453818356
+    },
+    {
+      "id": "mrb2ctflj33yyv",
+      "title": "B. Profile Optimization",
+      "parentId": "mr11us7oexrh3x",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783453818369
+    },
+    {
+      "id": "mrb2ctfysn3vlf",
+      "title": "C. Professional Headline",
+      "parentId": "mr11us7oexrh3x",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783453818382
+    },
+    {
+      "id": "mrb2ctgcjs4uzv",
+      "title": "D. Experience & Achievements",
+      "parentId": "mr11us7oexrh3x",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783453818396
+    },
+    {
+      "id": "mrb2ctgpfrmymh",
+      "title": "E. Skills & Endorsements",
+      "parentId": "mr11us7oexrh3x",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783453818409
+    },
+    {
+      "id": "mrb2cth2e3cp4w",
+      "title": "F. Networking Strategy",
+      "parentId": "mr11us7oexrh3x",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783453818422
+    },
+    {
+      "id": "mrb2cthhbmdkfh",
+      "title": "G. LinkedIn Content",
+      "parentId": "mr11us7oexrh3x",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783453818437
+    },
+    {
+      "id": "mrb2cthuwc8j6x",
+      "title": "H. Job Search Features",
+      "parentId": "mr11us7oexrh3x",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783453818450
+    },
+    {
+      "id": "mrb2cti8gbid7p",
+      "title": "I. Professional Communities",
+      "parentId": "mr11us7oexrh3x",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783453818464
+    },
+    {
+      "id": "mrb2ctipdi6j32",
+      "title": "J. Platform Analytics",
+      "parentId": "mr11us7oexrh3x",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783453818481
+    },
+    {
+      "id": "mrb2ctj3wuz5se",
+      "title": "K. Global Networking Platforms",
+      "parentId": "mr11us7oexrh3x",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783453818495
+    },
+    {
+      "id": "mrb2ctjgbg23vw",
+      "title": "L. LinkedIn Mastery",
+      "parentId": "mr11us7oexrh3x",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783453818508
+    },
+    {
+      "id": "mrb2ctjyf657j8",
+      "title": "A. Personal Website Fundamentals",
+      "parentId": "mr11us7ps86whc",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783453818526
+    },
+    {
+      "id": "mrb2ctkcbrqpfr",
+      "title": "B. Domain & Hosting",
+      "parentId": "mr11us7ps86whc",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783453818540
+    },
+    {
+      "id": "mrb2ctkru4f1d9",
+      "title": "C. Website Design",
+      "parentId": "mr11us7ps86whc",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783453818555
+    },
+    {
+      "id": "mrb2ctl4ht9tyr",
+      "title": "D. About Me Page",
+      "parentId": "mr11us7ps86whc",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783453818568
+    },
+    {
+      "id": "mrb2ctljr4d3cx",
+      "title": "E. Portfolio Pages",
+      "parentId": "mr11us7ps86whc",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783453818583
+    },
+    {
+      "id": "mrb2ctlx7x8hyd",
+      "title": "F. Blogging",
+      "parentId": "mr11us7ps86whc",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783453818597
+    },
+    {
+      "id": "mrb2ctmadc3jcq",
+      "title": "G. SEO Basics",
+      "parentId": "mr11us7ps86whc",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783453818610
+    },
+    {
+      "id": "mrb2ctmp5izkv6",
+      "title": "H. Contact & Networking",
+      "parentId": "mr11us7ps86whc",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783453818625
+    },
+    {
+      "id": "mrb2ctn3fo5m2m",
+      "title": "I. Analytics",
+      "parentId": "mr11us7ps86whc",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783453818639
+    },
+    {
+      "id": "mrb2ctngpcj7lz",
+      "title": "J. Website Maintenance",
+      "parentId": "mr11us7ps86whc",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783453818652
+    },
+    {
+      "id": "mrb2ctntfr3gdq",
+      "title": "K. Professional Digital Presence",
+      "parentId": "mr11us7ps86whc",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783453818665
+    },
+    {
+      "id": "mrb2cto9q7dxry",
+      "title": "L. Digital Brand Ecosystem",
+      "parentId": "mr11us7ps86whc",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783453818681
+    },
+    {
+      "id": "mrb2ctolafc4fu",
+      "title": "A. Public Speaking Fundamentals",
+      "parentId": "mr11us7q9qbx2h",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783453818693
+    },
+    {
+      "id": "mrb2ctozacukck",
+      "title": "B. Professional Presentations",
+      "parentId": "mr11us7q9qbx2h",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783453818707
+    },
+    {
+      "id": "mrb2ctpc797lej",
+      "title": "C. Storytelling",
+      "parentId": "mr11us7q9qbx2h",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783453818720
+    },
+    {
+      "id": "mrb2ctpw0t787e",
+      "title": "D. Executive Communication",
+      "parentId": "mr11us7q9qbx2h",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783453818740
+    },
+    {
+      "id": "mrb2ctq9nin8ef",
+      "title": "E. Verbal Communication",
+      "parentId": "mr11us7q9qbx2h",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783453818753
+    },
+    {
+      "id": "mrb2ctqmuv7jwj",
+      "title": "F. Non-Verbal Communication",
+      "parentId": "mr11us7q9qbx2h",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783453818766
+    },
+    {
+      "id": "mrb2ctqznij8p0",
+      "title": "G. Virtual Presentations",
+      "parentId": "mr11us7q9qbx2h",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783453818779
+    },
+    {
+      "id": "mrb2ctrdn1i8yg",
+      "title": "H. Handling Questions",
+      "parentId": "mr11us7q9qbx2h",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783453818793
+    },
+    {
+      "id": "mrb2ctrqbxt5t4",
+      "title": "I. Communication Confidence",
+      "parentId": "mr11us7q9qbx2h",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783453818806
+    },
+    {
+      "id": "mrb2cts5q39cjo",
+      "title": "J. Professional Influence",
+      "parentId": "mr11us7q9qbx2h",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783453818821
+    },
+    {
+      "id": "mrb2ctsj7lpguj",
+      "title": "K. Conference Speaking",
+      "parentId": "mr11us7q9qbx2h",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783453818835
+    },
+    {
+      "id": "mrb2ctsx0npajg",
+      "title": "L. Communication Excellence",
+      "parentId": "mr11us7q9qbx2h",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783453818849
+    },
+    {
+      "id": "mrb2ctt995wqr5",
+      "title": "A. Networking Fundamentals",
+      "parentId": "mr11us7rh6qq84",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783453818861
+    },
+    {
+      "id": "mrb2cttn1ees8f",
+      "title": "B. Relationship Building",
+      "parentId": "mr11us7rh6qq84",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783453818875
+    },
+    {
+      "id": "mrb2ctu2bfgp5j",
+      "title": "C. Networking Events",
+      "parentId": "mr11us7rh6qq84",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783453818890
+    },
+    {
+      "id": "mrb2ctuixjfzci",
+      "title": "D. Conferences",
+      "parentId": "mr11us7rh6qq84",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783453818906
+    },
+    {
+      "id": "mrb2ctuvef14r1",
+      "title": "E. Alumni Networks",
+      "parentId": "mr11us7rh6qq84",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783453818919
+    },
+    {
+      "id": "mrb2ctv7v5pwj2",
+      "title": "F. Professional Associations",
+      "parentId": "mr11us7rh6qq84",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783453818931
+    },
+    {
+      "id": "mrb2ctvmnybmu4",
+      "title": "G. Online Networking",
+      "parentId": "mr11us7rh6qq84",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783453818946
+    },
+    {
+      "id": "mrb2ctw200gcy8",
+      "title": "H. Informational Interviews",
+      "parentId": "mr11us7rh6qq84",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783453818962
+    },
+    {
+      "id": "mrb2ctwgjk4y0k",
+      "title": "I. Networking Follow-Up",
+      "parentId": "mr11us7rh6qq84",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783453818976
+    },
+    {
+      "id": "mrb2ctwve260wk",
+      "title": "J. Long-Term Relationships",
+      "parentId": "mr11us7rh6qq84",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783453818991
+    },
+    {
+      "id": "mrb2ctx9mb7bf0",
+      "title": "K. Strategic Networking",
+      "parentId": "mr11us7rh6qq84",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783453819005
+    },
+    {
+      "id": "mrb2ctxo2dvet3",
+      "title": "L. Global Professional Networks",
+      "parentId": "mr11us7rh6qq84",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783453819020
+    },
+    {
+      "id": "mrb2cty3nqx9as",
+      "title": "A. Thought Leadership Fundamentals",
+      "parentId": "mr11us7sg42hnk",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783453819035
+    },
+    {
+      "id": "mrb2ctygg9ffek",
+      "title": "B. Professional Writing",
+      "parentId": "mr11us7sg42hnk",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783453819048
+    },
+    {
+      "id": "mrb2ctyuweh4w4",
+      "title": "C. Blogging",
+      "parentId": "mr11us7sg42hnk",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783453819062
+    },
+    {
+      "id": "mrb2ctz9usogvb",
+      "title": "D. Technical Articles",
+      "parentId": "mr11us7sg42hnk",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783453819077
+    },
+    {
+      "id": "mrb2ctznkk6a9o",
+      "title": "E. Video Content",
+      "parentId": "mr11us7sg42hnk",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783453819091
+    },
+    {
+      "id": "mrb2cu03v6rb7k",
+      "title": "F. Podcasting",
+      "parentId": "mr11us7sg42hnk",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783453819107
+    },
+    {
+      "id": "mrb2cu0jrqqx7q",
+      "title": "G. Social Media Content",
+      "parentId": "mr11us7sg42hnk",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783453819123
+    },
+    {
+      "id": "mrb2cu0w0g95kw",
+      "title": "H. Knowledge Sharing",
+      "parentId": "mr11us7sg42hnk",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783453819136
+    },
+    {
+      "id": "mrb2cu181jkp98",
+      "title": "I. Public Education",
+      "parentId": "mr11us7sg42hnk",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783453819148
+    },
+    {
+      "id": "mrb2cu1m539pgm",
+      "title": "J. Speaking Opportunities",
+      "parentId": "mr11us7sg42hnk",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783453819162
+    },
+    {
+      "id": "mrb2cu224wg1ih",
+      "title": "K. Building Authority",
+      "parentId": "mr11us7sg42hnk",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783453819178
+    },
+    {
+      "id": "mrb2cu2gl1fvwn",
+      "title": "L. Becoming a Recognized Thought Leader",
+      "parentId": "mr11us7sg42hnk",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783453819192
+    },
+    {
+      "id": "mrb2cu2thu9ceu",
+      "title": "A. Online Reputation Fundamentals",
+      "parentId": "mr11us7sjdtlcc",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783453819205
+    },
+    {
+      "id": "mrb2cu36a53isq",
+      "title": "B. Digital Footprint",
+      "parentId": "mr11us7sjdtlcc",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783453819218
+    },
+    {
+      "id": "mrb2cu3kib3skq",
+      "title": "C. Social Media Presence",
+      "parentId": "mr11us7sjdtlcc",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783453819232
+    },
+    {
+      "id": "mrb2cu3xsibx3q",
+      "title": "D. Privacy Management",
+      "parentId": "mr11us7sjdtlcc",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783453819245
+    },
+    {
+      "id": "mrb2cu4abdi9yw",
+      "title": "E. Search Engine Visibility",
+      "parentId": "mr11us7sjdtlcc",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783453819258
+    },
+    {
+      "id": "mrb2cu4oxa0khr",
+      "title": "F. Professional Conduct Online",
+      "parentId": "mr11us7sjdtlcc",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783453819272
+    },
+    {
+      "id": "mrb2cu51aust6g",
+      "title": "G. Crisis Management",
+      "parentId": "mr11us7sjdtlcc",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783453819285
+    },
+    {
+      "id": "mrb2cu5enifdp8",
+      "title": "H. Reputation Monitoring",
+      "parentId": "mr11us7sjdtlcc",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783453819298
+    },
+    {
+      "id": "mrb2cu5r14gvkw",
+      "title": "I. Trust & Credibility",
+      "parentId": "mr11us7sjdtlcc",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783453819312
+    },
+    {
+      "id": "mrb2cu656h1730",
+      "title": "J. Ethical Online Behavior",
+      "parentId": "mr11us7sjdtlcc",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783453819325
+    },
+    {
+      "id": "mrb2cu6je3wn9p",
+      "title": "K. Long-Term Reputation Building",
+      "parentId": "mr11us7sjdtlcc",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783453819339
+    },
+    {
+      "id": "mrb2cu6xppywex",
+      "title": "L. Managing a Professional Digital Identity",
+      "parentId": "mr11us7sjdtlcc",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783453819353
+    },
+    {
+      "id": "mrb2cu7ad7vo0b",
+      "title": "A. Credibility Fundamentals",
+      "parentId": "mr11us7u5xpe65",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783453819366
+    },
+    {
+      "id": "mrb2cu7tb5jh28",
+      "title": "B. Demonstrating Expertise",
+      "parentId": "mr11us7u5xpe65",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783453819385
+    },
+    {
+      "id": "mrb2cu86ssw6l5",
+      "title": "C. Professional Integrity",
+      "parentId": "mr11us7u5xpe65",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783453819398
+    },
+    {
+      "id": "mrb2cu8quqqkdl",
+      "title": "D. Reliability & Consistency",
+      "parentId": "mr11us7u5xpe65",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783453819418
+    },
+    {
+      "id": "mrb2cu9ave2q05",
+      "title": "E. Certifications & Credentials",
+      "parentId": "mr11us7u5xpe65",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783453819438
+    },
+    {
+      "id": "mrb2cu9oqykq2n",
+      "title": "F. Testimonials & Recommendations",
+      "parentId": "mr11us7u5xpe65",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783453819452
+    },
+    {
+      "id": "mrb2cua0dx6lah",
+      "title": "G. Publications & Research",
+      "parentId": "mr11us7u5xpe65",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783453819464
+    },
+    {
+      "id": "mrb2cuaetycbno",
+      "title": "H. Professional Achievements",
+      "parentId": "mr11us7u5xpe65",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783453819478
+    },
+    {
+      "id": "mrb2cuar3vab4v",
+      "title": "I. Community Contributions",
+      "parentId": "mr11us7u5xpe65",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783453819491
+    },
+    {
+      "id": "mrb2cub7gmna67",
+      "title": "J. Leadership Contributions",
+      "parentId": "mr11us7u5xpe65",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783453819507
+    },
+    {
+      "id": "mrb2cubkcuoaay",
+      "title": "K. Industry Recognition",
+      "parentId": "mr11us7u5xpe65",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783453819520
+    },
+    {
+      "id": "mrb2cuby2d85qk",
+      "title": "L. Becoming a Trusted Professional",
+      "parentId": "mr11us7u5xpe65",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783453819534
+    },
+    {
+      "id": "mrb2gszgqk6dcr",
+      "title": "A. Job Search Fundamentals",
+      "parentId": "mr11vaofh4af65",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454004412
+    },
+    {
+      "id": "mrb2gszv88meao",
+      "title": "B. Career Readiness",
+      "parentId": "mr11vaofh4af65",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454004427
+    },
+    {
+      "id": "mrb2gt06xv47t2",
+      "title": "C. Defining Job Objectives",
+      "parentId": "mr11vaofh4af65",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454004438
+    },
+    {
+      "id": "mrb2gt0j6kwgkf",
+      "title": "D. Understanding Employment Types",
+      "parentId": "mr11vaofh4af65",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454004451
+    },
+    {
+      "id": "mrb2gt0u0uo2vf",
+      "title": "E. Building a Job Search Plan",
+      "parentId": "mr11vaofh4af65",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454004462
+    },
+    {
+      "id": "mrb2gt172oe51p",
+      "title": "F. Job Search Timeline",
+      "parentId": "mr11vaofh4af65",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454004475
+    },
+    {
+      "id": "mrb2gt1kk7hiyh",
+      "title": "G. Opportunity Tracking",
+      "parentId": "mr11vaofh4af65",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454004488
+    },
+    {
+      "id": "mrb2gt1vpaf31e",
+      "title": "H. Job Search Mindset",
+      "parentId": "mr11vaofh4af65",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454004499
+    },
+    {
+      "id": "mrb2gt2cwo2086",
+      "title": "I. Professional Preparation",
+      "parentId": "mr11vaofh4af65",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454004516
+    },
+    {
+      "id": "mrb2gt2oeuknqw",
+      "title": "J. Job Search Ethics",
+      "parentId": "mr11vaofh4af65",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454004528
+    },
+    {
+      "id": "mrb2gt30iulqah",
+      "title": "K. Measuring Job Search Progress",
+      "parentId": "mr11vaofh4af65",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454004540
+    },
+    {
+      "id": "mrb2gt3dlyd4lf",
+      "title": "L. Job Search Success Framework",
+      "parentId": "mr11vaofh4af65",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454004553
+    },
+    {
+      "id": "mrb2gt3o5srut0",
+      "title": "A. Job Market Fundamentals",
+      "parentId": "mr11vaoji2ejab",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454004564
+    },
+    {
+      "id": "mrb2gt40sjg1p4",
+      "title": "B. Industry Hiring Trends",
+      "parentId": "mr11vaoji2ejab",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454004576
+    },
+    {
+      "id": "mrb2gt4c3lzm4l",
+      "title": "C. Occupational Outlook",
+      "parentId": "mr11vaoji2ejab",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454004588
+    },
+    {
+      "id": "mrb2gt4o1gxe7g",
+      "title": "D. Company Research",
+      "parentId": "mr11vaoji2ejab",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454004600
+    },
+    {
+      "id": "mrb2gt4zq6314n",
+      "title": "E. Employer Branding",
+      "parentId": "mr11vaoji2ejab",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454004611
+    },
+    {
+      "id": "mrb2gt5bjq9x7d",
+      "title": "F. Job Demand Analysis",
+      "parentId": "mr11vaoji2ejab",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454004623
+    },
+    {
+      "id": "mrb2gt5oi8uxet",
+      "title": "G. Salary Research",
+      "parentId": "mr11vaoji2ejab",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454004636
+    },
+    {
+      "id": "mrb2gt61oxo2lm",
+      "title": "H. Geographic Job Markets",
+      "parentId": "mr11vaoji2ejab",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454004649
+    },
+    {
+      "id": "mrb2gt6cs9hd6w",
+      "title": "I. Skills in Demand",
+      "parentId": "mr11vaoji2ejab",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454004660
+    },
+    {
+      "id": "mrb2gt6o6j5xmd",
+      "title": "J. Competitive Analysis",
+      "parentId": "mr11vaoji2ejab",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454004672
+    },
+    {
+      "id": "mrb2gt70qewdev",
+      "title": "K. Future Employment Trends",
+      "parentId": "mr11vaoji2ejab",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454004684
+    },
+    {
+      "id": "mrb2gt7c69ris6",
+      "title": "L. Market Intelligence for Career Planning",
+      "parentId": "mr11vaoji2ejab",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454004696
+    },
+    {
+      "id": "mrb2gt7obt8s0o",
+      "title": "A. Job Search Strategy Fundamentals",
+      "parentId": "mr11vaok3kbir2",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454004708
+    },
+    {
+      "id": "mrb2gt81wed35o",
+      "title": "B. Online Job Portals",
+      "parentId": "mr11vaok3kbir2",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454004721
+    },
+    {
+      "id": "mrb2gt8e0y1eo6",
+      "title": "C. Company Career Pages",
+      "parentId": "mr11vaok3kbir2",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454004734
+    },
+    {
+      "id": "mrb2gt8qusrqz8",
+      "title": "D. Recruitment Agencies",
+      "parentId": "mr11vaok3kbir2",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454004746
+    },
+    {
+      "id": "mrb2gt918o3nw1",
+      "title": "E. Employee Referrals",
+      "parentId": "mr11vaok3kbir2",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454004757
+    },
+    {
+      "id": "mrb2gt9ffrax1f",
+      "title": "F. Networking-Based Job Search",
+      "parentId": "mr11vaok3kbir2",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454004771
+    },
+    {
+      "id": "mrb2gt9rev2m29",
+      "title": "G. Hidden Job Market",
+      "parentId": "mr11vaok3kbir2",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454004783
+    },
+    {
+      "id": "mrb2gta3derwxw",
+      "title": "H. Social Media Job Search",
+      "parentId": "mr11vaok3kbir2",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454004795
+    },
+    {
+      "id": "mrb2gtaetl74uv",
+      "title": "I. Campus Recruitment",
+      "parentId": "mr11vaok3kbir2",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454004806
+    },
+    {
+      "id": "mrb2gtaqujkksi",
+      "title": "J. Executive Search",
+      "parentId": "mr11vaok3kbir2",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454004818
+    },
+    {
+      "id": "mrb2gtb2lnzii0",
+      "title": "K. AI-Assisted Job Search",
+      "parentId": "mr11vaok3kbir2",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454004830
+    },
+    {
+      "id": "mrb2gtbdkd6muq",
+      "title": "L. Integrated Job Search Strategy",
+      "parentId": "mr11vaok3kbir2",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454004841
+    },
+    {
+      "id": "mrb2gtbpyxqmvh",
+      "title": "A. ATS Fundamentals",
+      "parentId": "mr11vaomyl7pus",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454004853
+    },
+    {
+      "id": "mrb2gtc1mm9669",
+      "title": "B. How ATS Works",
+      "parentId": "mr11vaomyl7pus",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454004865
+    },
+    {
+      "id": "mrb2gtcc066f3y",
+      "title": "C. Resume Parsing",
+      "parentId": "mr11vaomyl7pus",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454004876
+    },
+    {
+      "id": "mrb2gtcndaq5d7",
+      "title": "D. Keyword Optimization",
+      "parentId": "mr11vaomyl7pus",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454004887
+    },
+    {
+      "id": "mrb2gtczo1o4ih",
+      "title": "E. ATS-Friendly Formatting",
+      "parentId": "mr11vaomyl7pus",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454004899
+    },
+    {
+      "id": "mrb2gtda3x4r25",
+      "title": "F. ATS Resume Writing",
+      "parentId": "mr11vaomyl7pus",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454004910
+    },
+    {
+      "id": "mrb2gtdlrvefc7",
+      "title": "G. Job Description Analysis",
+      "parentId": "mr11vaomyl7pus",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454004921
+    },
+    {
+      "id": "mrb2gtdw77bzrr",
+      "title": "H. AI Resume Screening",
+      "parentId": "mr11vaomyl7pus",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454004932
+    },
+    {
+      "id": "mrb2gte7jn0qt1",
+      "title": "I. ATS Testing Tools",
+      "parentId": "mr11vaomyl7pus",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454004943
+    },
+    {
+      "id": "mrb2gtejqmj8fz",
+      "title": "J. Common ATS Mistakes",
+      "parentId": "mr11vaomyl7pus",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454004955
+    },
+    {
+      "id": "mrb2gtevvaq8u0",
+      "title": "K. ATS Optimization Strategy",
+      "parentId": "mr11vaomyl7pus",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454004967
+    },
+    {
+      "id": "mrb2gtf5239hdn",
+      "title": "L. Mastering ATS Recruitment",
+      "parentId": "mr11vaomyl7pus",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454004978
+    },
+    {
+      "id": "mrb2gtfjss1dhd",
+      "title": "A. Resume Optimization",
+      "parentId": "mr11vaont6klhm",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454004991
+    },
+    {
+      "id": "mrb2gtfve1c1jh",
+      "title": "B. Application Tailoring",
+      "parentId": "mr11vaont6klhm",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454005003
+    },
+    {
+      "id": "mrb2gtg7fbpaz8",
+      "title": "C. Achievement-Based Applications",
+      "parentId": "mr11vaont6klhm",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454005015
+    },
+    {
+      "id": "mrb2gtgifj2tao",
+      "title": "D. Skills Alignment",
+      "parentId": "mr11vaont6klhm",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454005026
+    },
+    {
+      "id": "mrb2gtguloeyhy",
+      "title": "E. Keyword Optimization",
+      "parentId": "mr11vaont6klhm",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454005038
+    },
+    {
+      "id": "mrb2gth5qv88c6",
+      "title": "F. Cover Letter Customization",
+      "parentId": "mr11vaont6klhm",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454005049
+    },
+    {
+      "id": "mrb2gthi96ep5g",
+      "title": "G. Supporting Documents",
+      "parentId": "mr11vaont6klhm",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454005062
+    },
+    {
+      "id": "mrb2gthtxec7lx",
+      "title": "H. Portfolio Integration",
+      "parentId": "mr11vaont6klhm",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454005073
+    },
+    {
+      "id": "mrb2gti7dg670l",
+      "title": "I. AI-Assisted Applications",
+      "parentId": "mr11vaont6klhm",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454005087
+    },
+    {
+      "id": "mrb2gtiiollo28",
+      "title": "J. Quality Assurance",
+      "parentId": "mr11vaont6klhm",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454005098
+    },
+    {
+      "id": "mrb2gtiuplgpfo",
+      "title": "K. Application Tracking",
+      "parentId": "mr11vaont6klhm",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454005110
+    },
+    {
+      "id": "mrb2gtj5l7k1tq",
+      "title": "L. High-Impact Job Applications",
+      "parentId": "mr11vaont6klhm",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454005121
+    },
+    {
+      "id": "mrb2gtjhyp3eki",
+      "title": "A. Interview Fundamentals",
+      "parentId": "mr11vaopf5c6fb",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454005133
+    },
+    {
+      "id": "mrb2gtjrkr9f1w",
+      "title": "B. Interview Research",
+      "parentId": "mr11vaopf5c6fb",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454005143
+    },
+    {
+      "id": "mrb2gtk2vuo7e7",
+      "title": "C. Company Preparation",
+      "parentId": "mr11vaopf5c6fb",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454005154
+    },
+    {
+      "id": "mrb2gtke1kfdxw",
+      "title": "D. Personal Introduction",
+      "parentId": "mr11vaopf5c6fb",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454005166
+    },
+    {
+      "id": "mrb2gtkp4rnrx0",
+      "title": "E. Common Interview Questions",
+      "parentId": "mr11vaopf5c6fb",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454005177
+    },
+    {
+      "id": "mrb2gtl1snu3og",
+      "title": "F. STAR Method",
+      "parentId": "mr11vaopf5c6fb",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454005189
+    },
+    {
+      "id": "mrb2gtlfmi2xwx",
+      "title": "G. Mock Interviews",
+      "parentId": "mr11vaopf5c6fb",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454005203
+    },
+    {
+      "id": "mrb2gtlr1yibx4",
+      "title": "H. Virtual Interviews",
+      "parentId": "mr11vaopf5c6fb",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454005215
+    },
+    {
+      "id": "mrb2gtm41jguzc",
+      "title": "I. Professional Appearance",
+      "parentId": "mr11vaopf5c6fb",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454005228
+    },
+    {
+      "id": "mrb2gtmgvyb7nb",
+      "title": "J. Interview Etiquette",
+      "parentId": "mr11vaopf5c6fb",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454005240
+    },
+    {
+      "id": "mrb2gtmttxnzuk",
+      "title": "K. Post-Interview Follow-Up",
+      "parentId": "mr11vaopf5c6fb",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454005253
+    },
+    {
+      "id": "mrb2gtn4693gky",
+      "title": "L. Interview Excellence",
+      "parentId": "mr11vaopf5c6fb",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454005264
+    },
+    {
+      "id": "mrb2gtngynn0sa",
+      "title": "A. Technical Interview Fundamentals",
+      "parentId": "mr11vaoq41qex8",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454005276
+    },
+    {
+      "id": "mrb2gtns9kdhvl",
+      "title": "B. Coding Interviews",
+      "parentId": "mr11vaoq41qex8",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454005288
+    },
+    {
+      "id": "mrb2gto34ff3go",
+      "title": "C. System Design Interviews",
+      "parentId": "mr11vaoq41qex8",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454005299
+    },
+    {
+      "id": "mrb2gtog31rlpc",
+      "title": "D. Technical Problem Solving",
+      "parentId": "mr11vaoq41qex8",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454005312
+    },
+    {
+      "id": "mrb2gtorcuvgns",
+      "title": "E. Whiteboard Interviews",
+      "parentId": "mr11vaoq41qex8",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454005323
+    },
+    {
+      "id": "mrb2gtp2w5illk",
+      "title": "F. Take-Home Assignments",
+      "parentId": "mr11vaoq41qex8",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454005334
+    },
+    {
+      "id": "mrb2gtpdvejgtz",
+      "title": "G. Online Assessments",
+      "parentId": "mr11vaoq41qex8",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454005345
+    },
+    {
+      "id": "mrb2gtpppdtptl",
+      "title": "H. Pair Programming",
+      "parentId": "mr11vaoq41qex8",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454005357
+    },
+    {
+      "id": "mrb2gtq0ubhyo1",
+      "title": "I. Portfolio Discussions",
+      "parentId": "mr11vaoq41qex8",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454005368
+    },
+    {
+      "id": "mrb2gtqc7g9ljo",
+      "title": "J. Technical Communication",
+      "parentId": "mr11vaoq41qex8",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454005380
+    },
+    {
+      "id": "mrb2gtqpqjhdol",
+      "title": "K. Domain-Specific Interviews",
+      "parentId": "mr11vaoq41qex8",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454005393
+    },
+    {
+      "id": "mrb2gtr1cd71hq",
+      "title": "L. Technical Interview Mastery",
+      "parentId": "mr11vaoq41qex8",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454005405
+    },
+    {
+      "id": "mrb2gtrd9shrs1",
+      "title": "A. Behavioral Interview Fundamentals",
+      "parentId": "mr11vaorx4n8q8",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454005417
+    },
+    {
+      "id": "mrb2gtrpz13vdq",
+      "title": "B. Competency-Based Questions",
+      "parentId": "mr11vaorx4n8q8",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454005429
+    },
+    {
+      "id": "mrb2gts2lewgq1",
+      "title": "C. STAR Framework",
+      "parentId": "mr11vaorx4n8q8",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454005442
+    },
+    {
+      "id": "mrb2gtsfva7ect",
+      "title": "D. Leadership Examples",
+      "parentId": "mr11vaorx4n8q8",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454005455
+    },
+    {
+      "id": "mrb2gtsqpga17m",
+      "title": "E. Conflict Resolution Questions",
+      "parentId": "mr11vaorx4n8q8",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454005466
+    },
+    {
+      "id": "mrb2gtt3nqfoab",
+      "title": "F. Teamwork Questions",
+      "parentId": "mr11vaorx4n8q8",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454005479
+    },
+    {
+      "id": "mrb2gttep6bpr0",
+      "title": "G. Failure & Learning Stories",
+      "parentId": "mr11vaorx4n8q8",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454005490
+    },
+    {
+      "id": "mrb2gttpc1p7tm",
+      "title": "H. Communication Questions",
+      "parentId": "mr11vaorx4n8q8",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454005501
+    },
+    {
+      "id": "mrb2gtu32xyff2",
+      "title": "I. Adaptability Questions",
+      "parentId": "mr11vaorx4n8q8",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454005515
+    },
+    {
+      "id": "mrb2gtuf43iolb",
+      "title": "J. Ethical Decision-Making Questions",
+      "parentId": "mr11vaorx4n8q8",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454005527
+    },
+    {
+      "id": "mrb2gtus3qn0ti",
+      "title": "K. Executive Behavioral Interviews",
+      "parentId": "mr11vaorx4n8q8",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454005540
+    },
+    {
+      "id": "mrb2gtv4safgx4",
+      "title": "L. Behavioral Interview Excellence",
+      "parentId": "mr11vaorx4n8q8",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454005552
+    },
+    {
+      "id": "mrb2gtvgti6gdz",
+      "title": "A. Salary Negotiation Fundamentals",
+      "parentId": "mr11vaosri6v62",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454005564
+    },
+    {
+      "id": "mrb2gtvwfpg8lo",
+      "title": "B. Compensation Components",
+      "parentId": "mr11vaosri6v62",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454005581
+    },
+    {
+      "id": "mrb2gtwaeqwoon",
+      "title": "C. Market Salary Research",
+      "parentId": "mr11vaosri6v62",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454005594
+    },
+    {
+      "id": "mrb2gtwn8456ds",
+      "title": "D. Negotiation Preparation",
+      "parentId": "mr11vaosri6v62",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454005607
+    },
+    {
+      "id": "mrb2gtx31yckoe",
+      "title": "E. Negotiation Strategies",
+      "parentId": "mr11vaosri6v62",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454005623
+    },
+    {
+      "id": "mrb2gtxiaxcs3w",
+      "title": "F. Evaluating Job Offers",
+      "parentId": "mr11vaosri6v62",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454005638
+    },
+    {
+      "id": "mrb2gtxvyus9qi",
+      "title": "G. Benefits Analysis",
+      "parentId": "mr11vaosri6v62",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454005651
+    },
+    {
+      "id": "mrb2gty8u10mzk",
+      "title": "H. Equity & Stock Compensation",
+      "parentId": "mr11vaosri6v62",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454005664
+    },
+    {
+      "id": "mrb2gtykq8scg0",
+      "title": "I. International Compensation",
+      "parentId": "mr11vaosri6v62",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454005676
+    },
+    {
+      "id": "mrb2gtyxt1hi8h",
+      "title": "J. Counter Offers",
+      "parentId": "mr11vaosri6v62",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454005689
+    },
+    {
+      "id": "mrb2gtz980pnu9",
+      "title": "K. Offer Acceptance & Declining",
+      "parentId": "mr11vaosri6v62",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454005701
+    },
+    {
+      "id": "mrb2gtzmqtj89q",
+      "title": "L. Career-Oriented Negotiation",
+      "parentId": "mr11vaosri6v62",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454005714
+    },
+    {
+      "id": "mrb2gtzydcnltj",
+      "title": "A. Recruitment Fundamentals",
+      "parentId": "mr11vaotus44qn",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454005726
+    },
+    {
+      "id": "mrb2gu0b93niv7",
+      "title": "B. Hiring Pipelines",
+      "parentId": "mr11vaotus44qn",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454005739
+    },
+    {
+      "id": "mrb2gu0oynpfaj",
+      "title": "C. Recruitment Stages",
+      "parentId": "mr11vaotus44qn",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454005752
+    },
+    {
+      "id": "mrb2gu108v2r3z",
+      "title": "D. Recruiter Communication",
+      "parentId": "mr11vaotus44qn",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454005764
+    },
+    {
+      "id": "mrb2gu1fc02md4",
+      "title": "E. HR Processes",
+      "parentId": "mr11vaotus44qn",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454005779
+    },
+    {
+      "id": "mrb2gu1rkovkay",
+      "title": "F. Background Verification",
+      "parentId": "mr11vaotus44qn",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454005791
+    },
+    {
+      "id": "mrb2gu245kood0",
+      "title": "G. Reference Checks",
+      "parentId": "mr11vaotus44qn",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454005804
+    },
+    {
+      "id": "mrb2gu2id21zxa",
+      "title": "H. Assessment Centers",
+      "parentId": "mr11vaotus44qn",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454005818
+    },
+    {
+      "id": "mrb2gu2w9od77e",
+      "title": "I. Hiring Decisions",
+      "parentId": "mr11vaotus44qn",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454005832
+    },
+    {
+      "id": "mrb2gu39mlov4t",
+      "title": "J. Recruitment Technology",
+      "parentId": "mr11vaotus44qn",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454005845
+    },
+    {
+      "id": "mrb2gu3mvy0rwu",
+      "title": "K. Candidate Experience",
+      "parentId": "mr11vaotus44qn",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454005858
+    },
+    {
+      "id": "mrb2gu44bdmcxx",
+      "title": "L. Understanding Modern Recruitment",
+      "parentId": "mr11vaotus44qn",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454005876
+    },
+    {
+      "id": "mrb2gu4h811wgf",
+      "title": "A. Onboarding Fundamentals",
+      "parentId": "mr11vaouastyyu",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454005889
+    },
+    {
+      "id": "mrb2gu4uc0k5yp",
+      "title": "B. Preparing Before Joining",
+      "parentId": "mr11vaouastyyu",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454005902
+    },
+    {
+      "id": "mrb2gu58bspw06",
+      "title": "C. Organizational Orientation",
+      "parentId": "mr11vaouastyyu",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454005916
+    },
+    {
+      "id": "mrb2gu5m2q9zvb",
+      "title": "D. Learning Company Culture",
+      "parentId": "mr11vaouastyyu",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454005930
+    },
+    {
+      "id": "mrb2gu5zc77zaz",
+      "title": "E. Building Relationships",
+      "parentId": "mr11vaouastyyu",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454005943
+    },
+    {
+      "id": "mrb2gu6ccurimo",
+      "title": "F. Early Performance",
+      "parentId": "mr11vaouastyyu",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454005956
+    },
+    {
+      "id": "mrb2gu6ru78p3a",
+      "title": "G. Communication with Managers",
+      "parentId": "mr11vaouastyyu",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454005971
+    },
+    {
+      "id": "mrb2gu752je8d2",
+      "title": "H. Goal Setting",
+      "parentId": "mr11vaouastyyu",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454005985
+    },
+    {
+      "id": "mrb2gu7ij7pen5",
+      "title": "I. Learning the Role",
+      "parentId": "mr11vaouastyyu",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454005998
+    },
+    {
+      "id": "mrb2gu7uaa6yzb",
+      "title": "J. Continuous Feedback",
+      "parentId": "mr11vaouastyyu",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454006010
+    },
+    {
+      "id": "mrb2gu86nwxphj",
+      "title": "K. First 90-Day Success Plan",
+      "parentId": "mr11vaouastyyu",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454006022
+    },
+    {
+      "id": "mrb2gu8jytm0cw",
+      "title": "L. Building Long-Term Success",
+      "parentId": "mr11vaouastyyu",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454006035
+    },
+    {
+      "id": "mrb2gu8x3yj4kv",
+      "title": "A. Success Mindset",
+      "parentId": "mr11vaovgkg78l",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783454006049
+    },
+    {
+      "id": "mrb2gu9al5icl1",
+      "title": "B. Consistency & Discipline",
+      "parentId": "mr11vaovgkg78l",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783454006062
+    },
+    {
+      "id": "mrb2gu9pb6nc63",
+      "title": "C. Productivity Systems",
+      "parentId": "mr11vaovgkg78l",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783454006077
+    },
+    {
+      "id": "mrb2gua249fmgx",
+      "title": "D. Rejection Management",
+      "parentId": "mr11vaovgkg78l",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783454006090
+    },
+    {
+      "id": "mrb2guaf38gctg",
+      "title": "E. Career Resilience",
+      "parentId": "mr11vaovgkg78l",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783454006103
+    },
+    {
+      "id": "mrb2guati571at",
+      "title": "F. Networking for Opportunities",
+      "parentId": "mr11vaovgkg78l",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783454006117
+    },
+    {
+      "id": "mrb2gub6vsnyan",
+      "title": "G. Continuous Learning",
+      "parentId": "mr11vaovgkg78l",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783454006130
+    },
+    {
+      "id": "mrb2gubiw27ffi",
+      "title": "H. Personal Branding Integration",
+      "parentId": "mr11vaovgkg78l",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783454006142
+    },
+    {
+      "id": "mrb2gubwjduzz6",
+      "title": "I. Opportunity Evaluation",
+      "parentId": "mr11vaovgkg78l",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783454006156
+    },
+    {
+      "id": "mrb2guccccie0n",
+      "title": "J. Long-Term Employability",
+      "parentId": "mr11vaovgkg78l",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783454006172
+    },
+    {
+      "id": "mrb2gucp7gcdbs",
+      "title": "K. Career Momentum",
+      "parentId": "mr11vaovgkg78l",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783454006185
+    },
+    {
+      "id": "mrb2gud3zx04lk",
+      "title": "L. Sustainable Job Search Success",
+      "parentId": "mr11vaovgkg78l",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783454006199
     }
   ],
   "pages": {
