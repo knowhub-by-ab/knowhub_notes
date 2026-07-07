@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-07T20:04:23.469Z",
+  "exportedAt": "2026-07-07T20:09:21.835Z",
   "nodes": [
     {
       "order": 2,
@@ -3665,78 +3665,6 @@
       "status": "pending",
       "title": "5.4.12. Job Search Success Strategies",
       "parentId": "mr0vc8ss2ilvcg"
-    },
-    {
-      "id": "mr11xxss85i2jj",
-      "createdAt": 1782848462428,
-      "order": 3,
-      "title": "5.5.4. Performance Reviews & Feedback",
-      "status": "pending",
-      "parentId": "mr0vc8swwjzl4q"
-    },
-    {
-      "createdAt": 1782848462430,
-      "id": "mr11xxsu6mhtag",
-      "order": 4,
-      "status": "pending",
-      "title": "5.5.5. Stakeholder & Relationship Management",
-      "parentId": "mr0vc8swwjzl4q"
-    },
-    {
-      "id": "mr11xxsvwk2j8c",
-      "createdAt": 1782848462431,
-      "order": 5,
-      "status": "pending",
-      "title": "5.5.6. Workplace Communication",
-      "parentId": "mr0vc8swwjzl4q"
-    },
-    {
-      "parentId": "mr0vc8swwjzl4q",
-      "status": "pending",
-      "title": "5.5.7. Cross-Functional Collaboration",
-      "order": 6,
-      "createdAt": 1782848462432,
-      "id": "mr11xxswdi4k9l"
-    },
-    {
-      "title": "5.5.8. Workplace Politics & Organizational Dynamics",
-      "status": "pending",
-      "parentId": "mr0vc8swwjzl4q",
-      "createdAt": 1782848462433,
-      "id": "mr11xxsxlltg6l",
-      "order": 7
-    },
-    {
-      "order": 8,
-      "createdAt": 1782848462434,
-      "id": "mr11xxsy2c6i2d",
-      "parentId": "mr0vc8swwjzl4q",
-      "status": "pending",
-      "title": "5.5.9. Leadership Readiness"
-    },
-    {
-      "title": "5.5.10. Career Resilience",
-      "status": "pending",
-      "parentId": "mr0vc8swwjzl4q",
-      "createdAt": 1782848462435,
-      "id": "mr11xxszg5yqh6",
-      "order": 9
-    },
-    {
-      "title": "5.5.11. Long-Term Career Strategy",
-      "status": "pending",
-      "parentId": "mr0vc8swwjzl4q",
-      "id": "mr11xxt1mb20mc",
-      "createdAt": 1782848462437,
-      "order": 10
-    },
-    {
-      "status": "pending",
-      "title": "5.5.12. Professional Success Framework",
-      "parentId": "mr0vc8swwjzl4q",
-      "createdAt": 1782848462438,
-      "id": "mr11xxt2pm8ucz",
-      "order": 11
     },
     {
       "order": 5,
@@ -35343,7 +35271,7 @@
       "title": "5.5.1. Professional Excellence",
       "parentId": "mr0vc8swwjzl4q",
       "status": "pending",
-      "order": 12,
+      "order": 0,
       "createdAt": 1783454487886
     },
     {
@@ -35447,7 +35375,7 @@
       "title": "5.5.2. Workplace Performance",
       "parentId": "mr0vc8swwjzl4q",
       "status": "pending",
-      "order": 13,
+      "order": 1,
       "createdAt": 1783454488331
     },
     {
@@ -35551,7 +35479,7 @@
       "title": "5.5.3. Career Progression & Promotions",
       "parentId": "mr0vc8swwjzl4q",
       "status": "pending",
-      "order": 12,
+      "order": 2,
       "createdAt": 1783454488782
     },
     {
@@ -35653,9 +35581,9 @@
     {
       "id": "mrb2r72rjr3w0s",
       "title": "5.5.4. Performance Reviews & Feedback",
-      "parentId": "mr11xxss85i2jj",
+      "parentId": "mr0vc8swwjzl4q",
       "status": "pending",
-      "order": 0,
+      "order": 3,
       "createdAt": 1783454489235
     },
     {
@@ -35757,9 +35685,9 @@
     {
       "id": "mrb2r7f28zw7im",
       "title": "5.5.5. Stakeholder & Relationship Management",
-      "parentId": "mr11xxsu6mhtag",
+      "parentId": "mr0vc8swwjzl4q",
       "status": "pending",
-      "order": 0,
+      "order": 4,
       "createdAt": 1783454489678
     },
     {
@@ -35861,9 +35789,9 @@
     {
       "id": "mrb2r7s0q29v6n",
       "title": "5.5.6. Workplace Communication",
-      "parentId": "mr11xxsvwk2j8c",
+      "parentId": "mr0vc8swwjzl4q",
       "status": "pending",
-      "order": 0,
+      "order": 5,
       "createdAt": 1783454490144
     },
     {
@@ -35965,9 +35893,9 @@
     {
       "id": "mrb2r8402q2bna",
       "title": "5.5.7. Cross-Functional Collaboration",
-      "parentId": "mr11xxswdi4k9l",
+      "parentId": "mr0vc8swwjzl4q",
       "status": "pending",
-      "order": 0,
+      "order": 6,
       "createdAt": 1783454490576
     },
     {
@@ -36069,9 +35997,9 @@
     {
       "id": "mrb2r8g9tlbolk",
       "title": "5.5.8. Workplace Politics & Organizational Dynamics",
-      "parentId": "mr11xxsxlltg6l",
+      "parentId": "mr0vc8swwjzl4q",
       "status": "pending",
-      "order": 0,
+      "order": 7,
       "createdAt": 1783454491017
     },
     {
@@ -36173,9 +36101,9 @@
     {
       "id": "mrb2r8tw3etk8y",
       "title": "5.5.9. Leadership Readiness",
-      "parentId": "mr11xxsy2c6i2d",
+      "parentId": "mr0vc8swwjzl4q",
       "status": "pending",
-      "order": 0,
+      "order": 8,
       "createdAt": 1783454491508
     },
     {
@@ -36277,9 +36205,9 @@
     {
       "id": "mrb2r96u18t0k4",
       "title": "5.5.10. Career Resilience",
-      "parentId": "mr11xxszg5yqh6",
+      "parentId": "mr0vc8swwjzl4q",
       "status": "pending",
-      "order": 0,
+      "order": 9,
       "createdAt": 1783454491974
     },
     {
@@ -36381,9 +36309,9 @@
     {
       "id": "mrb2r9iiiy8on3",
       "title": "5.5.11. Long-Term Career Strategy",
-      "parentId": "mr11xxt1mb20mc",
+      "parentId": "mr0vc8swwjzl4q",
       "status": "pending",
-      "order": 0,
+      "order": 10,
       "createdAt": 1783454492394
     },
     {
@@ -36485,9 +36413,9 @@
     {
       "id": "mrb2r9tvpsoi53",
       "title": "5.5.12. Professional Success Framework",
-      "parentId": "mr11xxt2pm8ucz",
+      "parentId": "mr0vc8swwjzl4q",
       "status": "pending",
-      "order": 0,
+      "order": 11,
       "createdAt": 1783454492803
     },
     {
