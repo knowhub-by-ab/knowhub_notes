@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-07T18:57:53.594Z",
+  "exportedAt": "2026-07-07T19:02:55.527Z",
   "nodes": [
     {
       "order": 2,
@@ -23841,6 +23841,1158 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1783450352915
+    },
+    {
+      "id": "mrb0hjw6je3nso",
+      "title": "A. Strategic Thinking Fundamentals",
+      "parentId": "mr0zuhxp0a91x0",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450680054
+    },
+    {
+      "id": "mrb0hjwh2v9ty8",
+      "title": "B. Strategic Mindsets",
+      "parentId": "mr0zuhxp0a91x0",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450680065
+    },
+    {
+      "id": "mrb0hjwvfndij9",
+      "title": "C. Strategic Frameworks",
+      "parentId": "mr0zuhxp0a91x0",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450680079
+    },
+    {
+      "id": "mrb0hjx8hbmm77",
+      "title": "D. Long-Term Thinking",
+      "parentId": "mr0zuhxp0a91x0",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450680092
+    },
+    {
+      "id": "mrb0hjxm7x0iru",
+      "title": "E. Value Creation",
+      "parentId": "mr0zuhxp0a91x0",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450680106
+    },
+    {
+      "id": "mrb0hjxyemq5vv",
+      "title": "F. Competitive Thinking",
+      "parentId": "mr0zuhxp0a91x0",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450680118
+    },
+    {
+      "id": "mrb0hjygvnaudv",
+      "title": "G. Strategic Awareness",
+      "parentId": "mr0zuhxp0a91x0",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450680136
+    },
+    {
+      "id": "mrb0hjysdw9mf3",
+      "title": "H. Strategic Prioritization",
+      "parentId": "mr0zuhxp0a91x0",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450680148
+    },
+    {
+      "id": "mrb0hjz2te0i2d",
+      "title": "I. Strategic Analysis",
+      "parentId": "mr0zuhxp0a91x0",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450680158
+    },
+    {
+      "id": "mrb0hjzemdruuz",
+      "title": "J. Strategic Trade-offs",
+      "parentId": "mr0zuhxp0a91x0",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450680170
+    },
+    {
+      "id": "mrb0hjzpdneodz",
+      "title": "K. Enterprise Strategy",
+      "parentId": "mr0zuhxp0a91x0",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450680181
+    },
+    {
+      "id": "mrb0hk00nw3xex",
+      "title": "L. Future-Oriented Thinking",
+      "parentId": "mr0zuhxp0a91x0",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783450680192
+    },
+    {
+      "id": "mrb0hk0c1m5319",
+      "title": "A. Systems Thinking Fundamentals",
+      "parentId": "mr0zuhxtnqh4u4",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450680204
+    },
+    {
+      "id": "mrb0hk0nqs5n98",
+      "title": "B. Systems Mapping",
+      "parentId": "mr0zuhxtnqh4u4",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450680215
+    },
+    {
+      "id": "mrb0hk0zp8kg2v",
+      "title": "C. Interdependencies",
+      "parentId": "mr0zuhxtnqh4u4",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450680227
+    },
+    {
+      "id": "mrb0hk1c7yfcxi",
+      "title": "D. Feedback Loops",
+      "parentId": "mr0zuhxtnqh4u4",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450680240
+    },
+    {
+      "id": "mrb0hk1phr6wbe",
+      "title": "E. Emergent Behavior",
+      "parentId": "mr0zuhxtnqh4u4",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450680253
+    },
+    {
+      "id": "mrb0hk228smqmg",
+      "title": "F. System Dynamics",
+      "parentId": "mr0zuhxtnqh4u4",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450680266
+    },
+    {
+      "id": "mrb0hk2e1jq9am",
+      "title": "G. Complex Adaptive Systems",
+      "parentId": "mr0zuhxtnqh4u4",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450680278
+    },
+    {
+      "id": "mrb0hk2sryr8ln",
+      "title": "H. Root Cause Analysis",
+      "parentId": "mr0zuhxtnqh4u4",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450680292
+    },
+    {
+      "id": "mrb0hk3793qjrm",
+      "title": "I. Leverage Points",
+      "parentId": "mr0zuhxtnqh4u4",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450680307
+    },
+    {
+      "id": "mrb0hk3knn7dhs",
+      "title": "J. Holistic Decision Making",
+      "parentId": "mr0zuhxtnqh4u4",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450680320
+    },
+    {
+      "id": "mrb0hk3xlk8iph",
+      "title": "K. Organizational Systems",
+      "parentId": "mr0zuhxtnqh4u4",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450680333
+    },
+    {
+      "id": "mrb0hk49vman9k",
+      "title": "L. Systems Transformation",
+      "parentId": "mr0zuhxtnqh4u4",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783450680345
+    },
+    {
+      "id": "mrb0hk4m2ku4w4",
+      "title": "A. Critical Thinking Fundamentals",
+      "parentId": "mr0zuhxucvqu7p",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450680358
+    },
+    {
+      "id": "mrb0hk52754yv3",
+      "title": "B. Logical Reasoning",
+      "parentId": "mr0zuhxucvqu7p",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450680374
+    },
+    {
+      "id": "mrb0hk5gcuevro",
+      "title": "C. Analytical Thinking",
+      "parentId": "mr0zuhxucvqu7p",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450680388
+    },
+    {
+      "id": "mrb0hk5vb7opjq",
+      "title": "D. Evaluating Evidence",
+      "parentId": "mr0zuhxucvqu7p",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450680403
+    },
+    {
+      "id": "mrb0hk68emnx5f",
+      "title": "E. Cognitive Biases",
+      "parentId": "mr0zuhxucvqu7p",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450680416
+    },
+    {
+      "id": "mrb0hk6pvi64pe",
+      "title": "F. Structured Argumentation",
+      "parentId": "mr0zuhxucvqu7p",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450680433
+    },
+    {
+      "id": "mrb0hk77bb3bje",
+      "title": "G. Decision Quality",
+      "parentId": "mr0zuhxucvqu7p",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450680451
+    },
+    {
+      "id": "mrb0hk7pnqlb1d",
+      "title": "H. Reflective Judgment",
+      "parentId": "mr0zuhxucvqu7p",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450680469
+    },
+    {
+      "id": "mrb0hk87667svo",
+      "title": "I. Problem Framing",
+      "parentId": "mr0zuhxucvqu7p",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450680487
+    },
+    {
+      "id": "mrb0hk8pd5jq9s",
+      "title": "J. Assumption Testing",
+      "parentId": "mr0zuhxucvqu7p",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450680505
+    },
+    {
+      "id": "mrb0hk98hwa103",
+      "title": "K. Strategic Reasoning",
+      "parentId": "mr0zuhxucvqu7p",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450680524
+    },
+    {
+      "id": "mrb0hk9og8cjal",
+      "title": "L. Advanced Critical Thinking",
+      "parentId": "mr0zuhxucvqu7p",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783450680540
+    },
+    {
+      "id": "mrb0hka5t45n6y",
+      "title": "A. Decision-Making Fundamentals",
+      "parentId": "mr0zuhxvrc50kx",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450680557
+    },
+    {
+      "id": "mrb0hkanxzwczl",
+      "title": "B. Decision Frameworks",
+      "parentId": "mr0zuhxvrc50kx",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450680575
+    },
+    {
+      "id": "mrb0hkb33im0hl",
+      "title": "C. Quantitative Analysis",
+      "parentId": "mr0zuhxvrc50kx",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450680591
+    },
+    {
+      "id": "mrb0hkbjb7rt0v",
+      "title": "D. Qualitative Analysis",
+      "parentId": "mr0zuhxvrc50kx",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450680607
+    },
+    {
+      "id": "mrb0hkbz627cd0",
+      "title": "E. Decision Trees",
+      "parentId": "mr0zuhxvrc50kx",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450680623
+    },
+    {
+      "id": "mrb0hkchsxleiq",
+      "title": "F. Cost-Benefit Analysis",
+      "parentId": "mr0zuhxvrc50kx",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450680641
+    },
+    {
+      "id": "mrb0hkcw3h6n7z",
+      "title": "G. Multi-Criteria Decision Making",
+      "parentId": "mr0zuhxvrc50kx",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450680656
+    },
+    {
+      "id": "mrb0hkdcz69ptv",
+      "title": "H. Evidence-Based Decisions",
+      "parentId": "mr0zuhxvrc50kx",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450680672
+    },
+    {
+      "id": "mrb0hkdskib4y1",
+      "title": "I. Decision Under Uncertainty",
+      "parentId": "mr0zuhxvrc50kx",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450680688
+    },
+    {
+      "id": "mrb0hke861wb0k",
+      "title": "J. Data-Driven Decisions",
+      "parentId": "mr0zuhxvrc50kx",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450680704
+    },
+    {
+      "id": "mrb0hkeqnjcc6x",
+      "title": "K. Enterprise Decision Systems",
+      "parentId": "mr0zuhxvrc50kx",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450680722
+    },
+    {
+      "id": "mrb0hkf5o22r25",
+      "title": "L. Executive Decision Making",
+      "parentId": "mr0zuhxvrc50kx",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783450680737
+    },
+    {
+      "id": "mrb0hkfmcb5xx8",
+      "title": "A. Problem Solving Fundamentals",
+      "parentId": "mr0zuhxxg5mzzt",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450680754
+    },
+    {
+      "id": "mrb0hkg2hawn4q",
+      "title": "B. Problem Identification",
+      "parentId": "mr0zuhxxg5mzzt",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450680770
+    },
+    {
+      "id": "mrb0hkgksv94l5",
+      "title": "C. Root Cause Analysis",
+      "parentId": "mr0zuhxxg5mzzt",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450680788
+    },
+    {
+      "id": "mrb0hkh1z0iggc",
+      "title": "D. Structured Problem Solving",
+      "parentId": "mr0zuhxxg5mzzt",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450680805
+    },
+    {
+      "id": "mrb0hkhh4hd8h0",
+      "title": "E. Creative Problem Solving",
+      "parentId": "mr0zuhxxg5mzzt",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450680821
+    },
+    {
+      "id": "mrb0hkhwqy8q27",
+      "title": "F. Complex Problem Solving",
+      "parentId": "mr0zuhxxg5mzzt",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450680836
+    },
+    {
+      "id": "mrb0hkiahmuaai",
+      "title": "G. Collaborative Problem Solving",
+      "parentId": "mr0zuhxxg5mzzt",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450680850
+    },
+    {
+      "id": "mrb0hkirg1l84a",
+      "title": "H. Decision Implementation",
+      "parentId": "mr0zuhxxg5mzzt",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450680867
+    },
+    {
+      "id": "mrb0hkj6a2ngt3",
+      "title": "I. Solution Evaluation",
+      "parentId": "mr0zuhxxg5mzzt",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450680882
+    },
+    {
+      "id": "mrb0hkjl2w1y1s",
+      "title": "J. Continuous Improvement",
+      "parentId": "mr0zuhxxg5mzzt",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450680897
+    },
+    {
+      "id": "mrb0hkjzwsagw5",
+      "title": "K. Organizational Problem Solving",
+      "parentId": "mr0zuhxxg5mzzt",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450680911
+    },
+    {
+      "id": "mrb0hkkf7okmr1",
+      "title": "L. Advanced Problem Solving",
+      "parentId": "mr0zuhxxg5mzzt",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783450680927
+    },
+    {
+      "id": "mrb0hkkvv2smab",
+      "title": "A. Decision Science Foundations",
+      "parentId": "mr0zuhxzbf3d6o",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450680943
+    },
+    {
+      "id": "mrb0hklcya30yi",
+      "title": "B. Behavioral Decision Science",
+      "parentId": "mr0zuhxzbf3d6o",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450680960
+    },
+    {
+      "id": "mrb0hklyet83hv",
+      "title": "C. Decision Models",
+      "parentId": "mr0zuhxzbf3d6o",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450680982
+    },
+    {
+      "id": "mrb0hkmc2nmb3c",
+      "title": "D. Utility Theory",
+      "parentId": "mr0zuhxzbf3d6o",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450680996
+    },
+    {
+      "id": "mrb0hkmrlxuf6i",
+      "title": "E. Probability & Risk",
+      "parentId": "mr0zuhxzbf3d6o",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450681011
+    },
+    {
+      "id": "mrb0hkn7j4pi3s",
+      "title": "F. Bayesian Thinking",
+      "parentId": "mr0zuhxzbf3d6o",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450681027
+    },
+    {
+      "id": "mrb0hknogh48a5",
+      "title": "G. Behavioral Economics",
+      "parentId": "mr0zuhxzbf3d6o",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450681044
+    },
+    {
+      "id": "mrb0hko4p1pfax",
+      "title": "H. Decision Optimization",
+      "parentId": "mr0zuhxzbf3d6o",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450681060
+    },
+    {
+      "id": "mrb0hkojq2znnk",
+      "title": "I. Decision Intelligence",
+      "parentId": "mr0zuhxzbf3d6o",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450681075
+    },
+    {
+      "id": "mrb0hkoybjp1ox",
+      "title": "J. AI-Assisted Decision Making",
+      "parentId": "mr0zuhxzbf3d6o",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450681090
+    },
+    {
+      "id": "mrb0hkpfd47xlr",
+      "title": "K. Enterprise Decision Science",
+      "parentId": "mr0zuhxzbf3d6o",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450681107
+    },
+    {
+      "id": "mrb0hkpw7askif",
+      "title": "L. Future Decision Systems",
+      "parentId": "mr0zuhxzbf3d6o",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783450681124
+    },
+    {
+      "id": "mrb0hkqd27bvw0",
+      "title": "A. Risk Fundamentals",
+      "parentId": "mr0zuhy0wv7qqg",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450681141
+    },
+    {
+      "id": "mrb0hkqrg4faj2",
+      "title": "B. Risk Identification",
+      "parentId": "mrb0hkqd27bvw0",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450681155
+    },
+    {
+      "id": "mrb0hkr800e1hq",
+      "title": "C. Risk Analysis",
+      "parentId": "mrb0hkqd27bvw0",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450681172
+    },
+    {
+      "id": "mrb0hkrq3zi41u",
+      "title": "D. Risk Quantification",
+      "parentId": "mrb0hkqd27bvw0",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450681190
+    },
+    {
+      "id": "mrb0hks9t4w3es",
+      "title": "E. Risk Prioritization",
+      "parentId": "mrb0hkqd27bvw0",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450681209
+    },
+    {
+      "id": "mrb0hksplr0gqv",
+      "title": "F. Risk Mitigation",
+      "parentId": "mrb0hkqd27bvw0",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450681225
+    },
+    {
+      "id": "mrb0hkt4nz643d",
+      "title": "G. Enterprise Risk Management",
+      "parentId": "mrb0hkqd27bvw0",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450681241
+    },
+    {
+      "id": "mrb0hktkgt23ck",
+      "title": "H. Operational Risk",
+      "parentId": "mrb0hkqd27bvw0",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450681256
+    },
+    {
+      "id": "mrb0hku0erelnc",
+      "title": "I. Strategic Risk",
+      "parentId": "mrb0hkqd27bvw0",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450681272
+    },
+    {
+      "id": "mrb0hkui2huvde",
+      "title": "J. Crisis Risk",
+      "parentId": "mrb0hkqd27bvw0",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450681290
+    },
+    {
+      "id": "mrb0hkuz8x0sav",
+      "title": "K. Risk Governance",
+      "parentId": "mrb0hkqd27bvw0",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450681307
+    },
+    {
+      "id": "mrb0hkverbth5r",
+      "title": "L. Resilient Organizations",
+      "parentId": "mrb0hkqd27bvw0",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450681322
+    },
+    {
+      "id": "mrb0hkvxr8v57f",
+      "title": "A. Scenario Planning Foundations",
+      "parentId": "mr0zuhy2tch7iz",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450681341
+    },
+    {
+      "id": "mrb0hkwd9czt1g",
+      "title": "B. Environmental Scanning",
+      "parentId": "mrb0hkvxr8v57f",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450681357
+    },
+    {
+      "id": "mrb0hkwsjwluh4",
+      "title": "C. Trend Analysis",
+      "parentId": "mrb0hkvxr8v57f",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450681372
+    },
+    {
+      "id": "mrb0hkx76f5uiu",
+      "title": "D. Forecasting",
+      "parentId": "mrb0hkvxr8v57f",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450681387
+    },
+    {
+      "id": "mrb0hkxm8zjx9s",
+      "title": "E. Future Scenarios",
+      "parentId": "mrb0hkvxr8v57f",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450681402
+    },
+    {
+      "id": "mrb0hky4a0n2f1",
+      "title": "F. Strategic Alternatives",
+      "parentId": "mrb0hkvxr8v57f",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450681420
+    },
+    {
+      "id": "mrb0hkyovbtbbt",
+      "title": "G. Uncertainty Analysis",
+      "parentId": "mrb0hkvxr8v57f",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450681440
+    },
+    {
+      "id": "mrb0hkz5uws4mq",
+      "title": "H. Contingency Planning",
+      "parentId": "mrb0hkvxr8v57f",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450681457
+    },
+    {
+      "id": "mrb0hkzl0473or",
+      "title": "I. Strategic Flexibility",
+      "parentId": "mrb0hkvxr8v57f",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450681473
+    },
+    {
+      "id": "mrb0hl036exsd2",
+      "title": "J. Resilience Planning",
+      "parentId": "mrb0hkvxr8v57f",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450681491
+    },
+    {
+      "id": "mrb0hl0qdgrha1",
+      "title": "K. Enterprise Scenario Planning",
+      "parentId": "mrb0hkvxr8v57f",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450681514
+    },
+    {
+      "id": "mrb0hl16x2jbhx",
+      "title": "L. Futures Thinking",
+      "parentId": "mrb0hkvxr8v57f",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450681530
+    },
+    {
+      "id": "mrb0hl1o0lbbnd",
+      "title": "A. Strategic Planning Foundations",
+      "parentId": "mr0zuhy5l3hqwq",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450681548
+    },
+    {
+      "id": "mrb0hl25hld2bj",
+      "title": "B. Vision & Mission Planning",
+      "parentId": "mrb0hl1o0lbbnd",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450681565
+    },
+    {
+      "id": "mrb0hl2o1rrx3v",
+      "title": "C. Strategic Goals",
+      "parentId": "mrb0hl1o0lbbnd",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450681584
+    },
+    {
+      "id": "mrb0hl33qt9sav",
+      "title": "D. Strategic Objectives",
+      "parentId": "mrb0hl1o0lbbnd",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450681599
+    },
+    {
+      "id": "mrb0hl3nrbigez",
+      "title": "E. Strategic Initiatives",
+      "parentId": "mrb0hl1o0lbbnd",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450681619
+    },
+    {
+      "id": "mrb0hl43ha0xn1",
+      "title": "F. Roadmapping",
+      "parentId": "mrb0hl1o0lbbnd",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450681635
+    },
+    {
+      "id": "mrb0hl4k8ic7oz",
+      "title": "G. Resource Allocation",
+      "parentId": "mrb0hl1o0lbbnd",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450681652
+    },
+    {
+      "id": "mrb0hl527ybiqh",
+      "title": "H. Strategic Alignment",
+      "parentId": "mrb0hl1o0lbbnd",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450681670
+    },
+    {
+      "id": "mrb0hl5legbie8",
+      "title": "I. Performance Measurement",
+      "parentId": "mrb0hl1o0lbbnd",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450681689
+    },
+    {
+      "id": "mrb0hl6220v5hf",
+      "title": "J. Strategic Review",
+      "parentId": "mrb0hl1o0lbbnd",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450681706
+    },
+    {
+      "id": "mrb0hl6j3kc1i5",
+      "title": "K. Organizational Strategy Execution",
+      "parentId": "mrb0hl1o0lbbnd",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450681723
+    },
+    {
+      "id": "mrb0hl709i3nej",
+      "title": "L. Continuous Strategic Planning",
+      "parentId": "mrb0hl1o0lbbnd",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450681740
+    },
+    {
+      "id": "mrb0hl7jzj68qn",
+      "title": "A. Business Strategy Foundations",
+      "parentId": "mr0zuhy607ek1m",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450681759
+    },
+    {
+      "id": "mrb0hl80z1nfxw",
+      "title": "B. Competitive Advantage",
+      "parentId": "mrb0hl7jzj68qn",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450681776
+    },
+    {
+      "id": "mrb0hl8g9l396m",
+      "title": "C. Market Positioning",
+      "parentId": "mrb0hl7jzj68qn",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450681792
+    },
+    {
+      "id": "mrb0hl8wiat5m8",
+      "title": "D. Industry Analysis",
+      "parentId": "mrb0hl7jzj68qn",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450681808
+    },
+    {
+      "id": "mrb0hl9hcxz30n",
+      "title": "E. Business Models",
+      "parentId": "mrb0hl7jzj68qn",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450681829
+    },
+    {
+      "id": "mrb0hl9z9iq89f",
+      "title": "F. Growth Strategies",
+      "parentId": "mrb0hl7jzj68qn",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450681847
+    },
+    {
+      "id": "mrb0hlajqudtis",
+      "title": "G. Diversification",
+      "parentId": "mrb0hl7jzj68qn",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450681867
+    },
+    {
+      "id": "mrb0hlazkusu1q",
+      "title": "H. Digital Strategy",
+      "parentId": "mrb0hl7jzj68qn",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450681884
+    },
+    {
+      "id": "mrb0hlbfvx67d6",
+      "title": "I. Global Strategy",
+      "parentId": "mrb0hl7jzj68qn",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450681899
+    },
+    {
+      "id": "mrb0hlbwu6ntpl",
+      "title": "J. Strategic Innovation",
+      "parentId": "mrb0hl7jzj68qn",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450681916
+    },
+    {
+      "id": "mrb0hlcf2f1a8y",
+      "title": "K. Enterprise Business Strategy",
+      "parentId": "mrb0hl7jzj68qn",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450681935
+    },
+    {
+      "id": "mrb0hlcuvcxuqu",
+      "title": "L. Sustainable Competitive Advantage",
+      "parentId": "mrb0hl7jzj68qn",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450681950
+    },
+    {
+      "id": "mrb0hldawht1db",
+      "title": "A. Execution Foundations",
+      "parentId": "mr0zuhy7jrb7px",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450681966
+    },
+    {
+      "id": "mrb0hldr8hqqk5",
+      "title": "B. Operational Excellence",
+      "parentId": "mrb0hldawht1db",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450681983
+    },
+    {
+      "id": "mrb0hle9yteyfh",
+      "title": "C. OKRs & KPIs",
+      "parentId": "mrb0hldawht1db",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450682001
+    },
+    {
+      "id": "mrb0hlepzxikbr",
+      "title": "D. Balanced Scorecards",
+      "parentId": "mrb0hldawht1db",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450682017
+    },
+    {
+      "id": "mrb0hlf4fr3buq",
+      "title": "E. Performance Measurement",
+      "parentId": "mrb0hldawht1db",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450682032
+    },
+    {
+      "id": "mrb0hlflsaiwd1",
+      "title": "F. Performance Reviews",
+      "parentId": "mrb0hldawht1db",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450682049
+    },
+    {
+      "id": "mrb0hlg0nm4avp",
+      "title": "G. Strategic Execution",
+      "parentId": "mrb0hldawht1db",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450682064
+    },
+    {
+      "id": "mrb0hlgfijck3q",
+      "title": "H. Accountability Systems",
+      "parentId": "mrb0hldawht1db",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450682079
+    },
+    {
+      "id": "mrb0hlgunrkpnh",
+      "title": "I. Operational Agility",
+      "parentId": "mrb0hldawht1db",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450682094
+    },
+    {
+      "id": "mrb0hlhb15cdyd",
+      "title": "J. Continuous Improvement",
+      "parentId": "mrb0hldawht1db",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450682111
+    },
+    {
+      "id": "mrb0hlhqqw7qxx",
+      "title": "K. Enterprise Performance Management",
+      "parentId": "mrb0hldawht1db",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450682126
+    },
+    {
+      "id": "mrb0hli6qw2nnk",
+      "title": "L. High-Performance Organizations",
+      "parentId": "mrb0hldawht1db",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450682142
+    },
+    {
+      "id": "mrb0hlipwiql4b",
+      "title": "A. Strategic Leadership Foundations",
+      "parentId": "mr0zuhy8tvsr20",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450682161
+    },
+    {
+      "id": "mrb0hlj66iolnc",
+      "title": "B. Visionary Leadership",
+      "parentId": "mrb0hlipwiql4b",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450682178
+    },
+    {
+      "id": "mrb0hljmywrbdk",
+      "title": "C. Enterprise Leadership",
+      "parentId": "mrb0hlipwiql4b",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450682194
+    },
+    {
+      "id": "mrb0hlk2by58f7",
+      "title": "D. Executive Decision Making",
+      "parentId": "mrb0hlipwiql4b",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450682210
+    },
+    {
+      "id": "mrb0hlkivgxic7",
+      "title": "E. Leading Organizational Change",
+      "parentId": "mrb0hlipwiql4b",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450682226
+    },
+    {
+      "id": "mrb0hlkx5g78tk",
+      "title": "F. Strategic Communication",
+      "parentId": "mrb0hlipwiql4b",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450682241
+    },
+    {
+      "id": "mrb0hllcglie1d",
+      "title": "G. Stakeholder Leadership",
+      "parentId": "mrb0hlipwiql4b",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450682256
+    },
+    {
+      "id": "mrb0hlls3j4q2b",
+      "title": "H. Adaptive Leadership",
+      "parentId": "mrb0hlipwiql4b",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450682272
+    },
+    {
+      "id": "mrb0hlm9eusuyr",
+      "title": "I. Innovation Leadership",
+      "parentId": "mrb0hlipwiql4b",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450682289
+    },
+    {
+      "id": "mrb0hlmopnhxkz",
+      "title": "J. Global Strategic Leadership",
+      "parentId": "mrb0hlipwiql4b",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450682304
+    },
+    {
+      "id": "mrb0hln3gdggdq",
+      "title": "K. Leadership During Uncertainty",
+      "parentId": "mrb0hlipwiql4b",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450682319
+    },
+    {
+      "id": "mrb0hlnjnmtra9",
+      "title": "L. Strategic Leadership Excellence",
+      "parentId": "mrb0hlipwiql4b",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450682335
     }
   ],
   "pages": {
