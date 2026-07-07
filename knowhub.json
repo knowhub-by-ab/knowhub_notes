@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-07T18:47:55.492Z",
+  "exportedAt": "2026-07-07T18:52:53.398Z",
   "nodes": [
     {
       "order": 2,
@@ -22689,6 +22689,1254 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1783070248737
+    },
+    {
+      "id": "mrb0ai37smwxia",
+      "title": "4.2.1. Innovation Foundations",
+      "parentId": "mr0g92diotvd38",
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1783450351123
+    },
+    {
+      "id": "mrb0ai3izgsppf",
+      "title": "A. Innovation Fundamentals",
+      "parentId": "mrb0ai37smwxia",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450351134
+    },
+    {
+      "id": "mrb0ai3t5dk9qk",
+      "title": "B. Types of Innovation",
+      "parentId": "mrb0ai37smwxia",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450351145
+    },
+    {
+      "id": "mrb0ai45g91u2i",
+      "title": "C. Innovation Mindsets",
+      "parentId": "mrb0ai37smwxia",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450351157
+    },
+    {
+      "id": "mrb0ai4f7auz9a",
+      "title": "D. Innovation Frameworks",
+      "parentId": "mrb0ai37smwxia",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450351167
+    },
+    {
+      "id": "mrb0ai4q8urqnf",
+      "title": "E. Innovation Processes",
+      "parentId": "mrb0ai37smwxia",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450351178
+    },
+    {
+      "id": "mrb0ai52mb9iqb",
+      "title": "F. Innovation Ecosystems",
+      "parentId": "mrb0ai37smwxia",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450351190
+    },
+    {
+      "id": "mrb0ai5ecutwj2",
+      "title": "G. Innovation Culture",
+      "parentId": "mrb0ai37smwxia",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450351202
+    },
+    {
+      "id": "mrb0ai5rgcdria",
+      "title": "H. Innovation Metrics",
+      "parentId": "mrb0ai37smwxia",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450351215
+    },
+    {
+      "id": "mrb0ai629al496",
+      "title": "I. Innovation Challenges",
+      "parentId": "mrb0ai37smwxia",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450351226
+    },
+    {
+      "id": "mrb0ai6do8jgn3",
+      "title": "J. Innovation Governance",
+      "parentId": "mrb0ai37smwxia",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450351237
+    },
+    {
+      "id": "mrb0ai6osqq0k2",
+      "title": "K. Enterprise Innovation",
+      "parentId": "mrb0ai37smwxia",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450351248
+    },
+    {
+      "id": "mrb0ai6yp6wjje",
+      "title": "L. Future of Innovation",
+      "parentId": "mrb0ai37smwxia",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783450351258
+    },
+    {
+      "id": "mrb0ai7aycnn95",
+      "title": "4.2.2. Creative Thinking",
+      "parentId": "mr0zu2v1fcwj08",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450351270
+    },
+    {
+      "id": "mrb0ai7qa6y9z8",
+      "title": "A. Creativity Fundamentals",
+      "parentId": "mrb0ai7aycnn95",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450351286
+    },
+    {
+      "id": "mrb0ai818ngj6a",
+      "title": "B. Creative Confidence",
+      "parentId": "mrb0ai7aycnn95",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450351297
+    },
+    {
+      "id": "mrb0ai8cgu4rav",
+      "title": "C. Divergent Thinking",
+      "parentId": "mrb0ai7aycnn95",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450351308
+    },
+    {
+      "id": "mrb0ai8ohgx2gv",
+      "title": "D. Convergent Thinking",
+      "parentId": "mrb0ai7aycnn95",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450351320
+    },
+    {
+      "id": "mrb0ai90njkq05",
+      "title": "E. Brainstorming Techniques",
+      "parentId": "mrb0ai7aycnn95",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450351332
+    },
+    {
+      "id": "mrb0ai9ben54hp",
+      "title": "F. Lateral Thinking",
+      "parentId": "mrb0ai7aycnn95",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450351343
+    },
+    {
+      "id": "mrb0ai9l86mm66",
+      "title": "G. Visual Thinking",
+      "parentId": "mrb0ai7aycnn95",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450351353
+    },
+    {
+      "id": "mrb0ai9x6s00wc",
+      "title": "H. Creative Constraints",
+      "parentId": "mrb0ai7aycnn95",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450351365
+    },
+    {
+      "id": "mrb0aia9uaj9zo",
+      "title": "I. Idea Combination",
+      "parentId": "mrb0ai7aycnn95",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450351377
+    },
+    {
+      "id": "mrb0aiam3sqgz0",
+      "title": "J. Creativity Habits",
+      "parentId": "mrb0ai7aycnn95",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450351390
+    },
+    {
+      "id": "mrb0aiax1mf68t",
+      "title": "K. Team Creativity",
+      "parentId": "mrb0ai7aycnn95",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450351401
+    },
+    {
+      "id": "mrb0aib95x6sro",
+      "title": "L. Advanced Creative Thinking",
+      "parentId": "mrb0ai7aycnn95",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783450351413
+    },
+    {
+      "id": "mrb0aibkt3gon7",
+      "title": "4.2.3. Design Thinking",
+      "parentId": "mr0zu2v2n1inay",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450351424
+    },
+    {
+      "id": "mrb0aibv7vf0e1",
+      "title": "A. Design Thinking Foundations",
+      "parentId": "mrb0aibkt3gon7",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450351435
+    },
+    {
+      "id": "mrb0aic7588omt",
+      "title": "B. Empathy",
+      "parentId": "mrb0aibkt3gon7",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450351447
+    },
+    {
+      "id": "mrb0aich7tfio5",
+      "title": "C. Problem Definition",
+      "parentId": "mrb0aibkt3gon7",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450351457
+    },
+    {
+      "id": "mrb0aicsuctf4w",
+      "title": "D. Ideation",
+      "parentId": "mrb0aibkt3gon7",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450351468
+    },
+    {
+      "id": "mrb0aid2si6f75",
+      "title": "E. Prototyping",
+      "parentId": "mrb0aibkt3gon7",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450351478
+    },
+    {
+      "id": "mrb0aidenjk98x",
+      "title": "F. User Testing",
+      "parentId": "mrb0aibkt3gon7",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450351490
+    },
+    {
+      "id": "mrb0aidpnz8ose",
+      "title": "G. Iterative Design",
+      "parentId": "mrb0aibkt3gon7",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450351501
+    },
+    {
+      "id": "mrb0aie35t2afq",
+      "title": "H. Human-Centered Design",
+      "parentId": "mrb0aibkt3gon7",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450351515
+    },
+    {
+      "id": "mrb0aieezb3goz",
+      "title": "I. Service Design",
+      "parentId": "mrb0aibkt3gon7",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450351526
+    },
+    {
+      "id": "mrb0aiepqcy444",
+      "title": "J. Innovation Workshops",
+      "parentId": "mrb0aibkt3gon7",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450351537
+    },
+    {
+      "id": "mrb0aif21ctczo",
+      "title": "K. Enterprise Design Thinking",
+      "parentId": "mrb0aibkt3gon7",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450351550
+    },
+    {
+      "id": "mrb0aiffjtq580",
+      "title": "L. Design Thinking Leadership",
+      "parentId": "mrb0aibkt3gon7",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783450351563
+    },
+    {
+      "id": "mrb0aifq509nks",
+      "title": "4.2.4. Opportunity Identification",
+      "parentId": "mr0zu2v23rmkup",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450351574
+    },
+    {
+      "id": "mrb0aig1qoooh9",
+      "title": "A. Opportunity Recognition",
+      "parentId": "mrb0aifq509nks",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450351585
+    },
+    {
+      "id": "mrb0aigdm0znc5",
+      "title": "B. Market Gap Analysis",
+      "parentId": "mrb0aifq509nks",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450351597
+    },
+    {
+      "id": "mrb0aignkxasyn",
+      "title": "C. Customer Discovery",
+      "parentId": "mrb0aifq509nks",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450351607
+    },
+    {
+      "id": "mrb0aigz00y46f",
+      "title": "D. Problem Validation",
+      "parentId": "mrb0aifq509nks",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450351619
+    },
+    {
+      "id": "mrb0aihb38m8bu",
+      "title": "E. Trend Analysis",
+      "parentId": "mrb0aifq509nks",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450351631
+    },
+    {
+      "id": "mrb0aihl3m1tht",
+      "title": "F. Competitive Analysis",
+      "parentId": "mrb0aifq509nks",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450351641
+    },
+    {
+      "id": "mrb0aihxb2t3wq",
+      "title": "G. Emerging Technologies",
+      "parentId": "mrb0aifq509nks",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450351653
+    },
+    {
+      "id": "mrb0aii9jspj1j",
+      "title": "H. Industry Analysis",
+      "parentId": "mrb0aifq509nks",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450351665
+    },
+    {
+      "id": "mrb0aiilg2hgz8",
+      "title": "I. Opportunity Evaluation",
+      "parentId": "mrb0aifq509nks",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450351677
+    },
+    {
+      "id": "mrb0aiiwrm3fz1",
+      "title": "J. Opportunity Prioritization",
+      "parentId": "mrb0aifq509nks",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450351688
+    },
+    {
+      "id": "mrb0aij7f6m7du",
+      "title": "K. Strategic Opportunity Development",
+      "parentId": "mrb0aifq509nks",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450351699
+    },
+    {
+      "id": "mrb0aijj2tl2jr",
+      "title": "L. Opportunity Portfolio Management",
+      "parentId": "mrb0aifq509nks",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783450351711
+    },
+    {
+      "id": "mrb0aijuklwevo",
+      "title": "4.2.5. Entrepreneurship",
+      "parentId": "mr0zu2v4zwxw0s",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450351722
+    },
+    {
+      "id": "mrb0aik5r9okpf",
+      "title": "A. Entrepreneurship Foundations",
+      "parentId": "mrb0aijuklwevo",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450351733
+    },
+    {
+      "id": "mrb0aikg0cgsd3",
+      "title": "B. Entrepreneurial Mindset",
+      "parentId": "mrb0aijuklwevo",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450351744
+    },
+    {
+      "id": "mrb0aikrqrws9z",
+      "title": "C. Opportunity Entrepreneurship",
+      "parentId": "mrb0aijuklwevo",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450351755
+    },
+    {
+      "id": "mrb0ail19a42dl",
+      "title": "D. Entrepreneurial Decision Making",
+      "parentId": "mrb0aijuklwevo",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450351765
+    },
+    {
+      "id": "mrb0ailbky1kf6",
+      "title": "E. Entrepreneurial Finance",
+      "parentId": "mrb0aijuklwevo",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450351775
+    },
+    {
+      "id": "mrb0ailm0ezdv3",
+      "title": "F. Entrepreneurial Risk",
+      "parentId": "mrb0aijuklwevo",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450351786
+    },
+    {
+      "id": "mrb0ailxpvgxp1",
+      "title": "G. Entrepreneurial Leadership",
+      "parentId": "mrb0aijuklwevo",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450351797
+    },
+    {
+      "id": "mrb0aimalvcx4x",
+      "title": "H. Entrepreneurial Operations",
+      "parentId": "mrb0aijuklwevo",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450351810
+    },
+    {
+      "id": "mrb0aimldq844p",
+      "title": "I. Entrepreneurial Networking",
+      "parentId": "mrb0aijuklwevo",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450351821
+    },
+    {
+      "id": "mrb0aimwwj7dwj",
+      "title": "J. Entrepreneurial Growth",
+      "parentId": "mrb0aijuklwevo",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450351832
+    },
+    {
+      "id": "mrb0ain8gwmu0n",
+      "title": "K. Global Entrepreneurship",
+      "parentId": "mrb0aijuklwevo",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450351844
+    },
+    {
+      "id": "mrb0ainjeq9824",
+      "title": "L. Entrepreneurial Excellence",
+      "parentId": "mrb0aijuklwevo",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783450351855
+    },
+    {
+      "id": "mrb0ainudskl4k",
+      "title": "4.2.6. Startup Development",
+      "parentId": "mr0zu2v5bjve07",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450351866
+    },
+    {
+      "id": "mrb0aio7y6uzcr",
+      "title": "A. Startup Foundations",
+      "parentId": "mrb0ainudskl4k",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450351879
+    },
+    {
+      "id": "mrb0aioiwvniul",
+      "title": "B. Idea Validation",
+      "parentId": "mrb0ainudskl4k",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450351890
+    },
+    {
+      "id": "mrb0aiotkiy2yv",
+      "title": "C. Minimum Viable Product (MVP)",
+      "parentId": "mrb0ainudskl4k",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450351901
+    },
+    {
+      "id": "mrb0aip4l4fbj0",
+      "title": "D. Product-Market Fit",
+      "parentId": "mrb0ainudskl4k",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450351912
+    },
+    {
+      "id": "mrb0aipf6y7pzc",
+      "title": "E. Lean Startup",
+      "parentId": "mrb0ainudskl4k",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450351923
+    },
+    {
+      "id": "mrb0aipp0ez1zd",
+      "title": "F. Customer Validation",
+      "parentId": "mrb0ainudskl4k",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450351933
+    },
+    {
+      "id": "mrb0aiq10zbcz1",
+      "title": "G. Startup Operations",
+      "parentId": "mrb0ainudskl4k",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450351945
+    },
+    {
+      "id": "mrb0aiqbmhupp8",
+      "title": "H. Startup Metrics",
+      "parentId": "mrb0ainudskl4k",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450351955
+    },
+    {
+      "id": "mrb0aiqp98xn4l",
+      "title": "I. Startup Scaling",
+      "parentId": "mrb0ainudskl4k",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450351969
+    },
+    {
+      "id": "mrb0air0eoakyq",
+      "title": "J. Startup Leadership",
+      "parentId": "mrb0ainudskl4k",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450351980
+    },
+    {
+      "id": "mrb0airc9rob8a",
+      "title": "K. Startup Ecosystems",
+      "parentId": "mrb0ainudskl4k",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450351992
+    },
+    {
+      "id": "mrb0airn36c7kr",
+      "title": "L. Venture Building",
+      "parentId": "mrb0ainudskl4k",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783450352003
+    },
+    {
+      "id": "mrb0airzg5v994",
+      "title": "4.2.7. Product Innovation",
+      "parentId": "mr0zu2v60oui9c",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450352015
+    },
+    {
+      "id": "mrb0aisatkijj9",
+      "title": "A. Product Innovation Foundations",
+      "parentId": "mrb0airzg5v994",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450352026
+    },
+    {
+      "id": "mrb0aisn7sbhvq",
+      "title": "B. Product Discovery",
+      "parentId": "mrb0airzg5v994",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450352039
+    },
+    {
+      "id": "mrb0aisyvf6pi7",
+      "title": "C. Customer-Centric Innovation",
+      "parentId": "mrb0airzg5v994",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450352050
+    },
+    {
+      "id": "mrb0ait9f73kgg",
+      "title": "D. Product Ideation",
+      "parentId": "mrb0airzg5v994",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450352061
+    },
+    {
+      "id": "mrb0aitkf5za1r",
+      "title": "E. Rapid Prototyping",
+      "parentId": "mrb0airzg5v994",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450352072
+    },
+    {
+      "id": "mrb0aitxrcnmnj",
+      "title": "F. Product Validation",
+      "parentId": "mrb0airzg5v994",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450352085
+    },
+    {
+      "id": "mrb0aiu930kmnx",
+      "title": "G. Product Experimentation",
+      "parentId": "mrb0airzg5v994",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450352097
+    },
+    {
+      "id": "mrb0aiujmdgmta",
+      "title": "H. Innovation Roadmapping",
+      "parentId": "mrb0airzg5v994",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450352107
+    },
+    {
+      "id": "mrb0aiuugenhr9",
+      "title": "I. Product Portfolio Innovation",
+      "parentId": "mrb0airzg5v994",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450352118
+    },
+    {
+      "id": "mrb0aiv572fgez",
+      "title": "J. Product Evolution",
+      "parentId": "mrb0airzg5v994",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450352129
+    },
+    {
+      "id": "mrb0aivht6v95b",
+      "title": "K. Enterprise Product Innovation",
+      "parentId": "mrb0airzg5v994",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450352141
+    },
+    {
+      "id": "mrb0aivrvkgky1",
+      "title": "L. Innovation Leadership",
+      "parentId": "mrb0airzg5v994",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783450352151
+    },
+    {
+      "id": "mrb0aiw3zk6cfo",
+      "title": "4.2.8. Business Model Innovation",
+      "parentId": "mr0zu2v7qcdro6",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450352163
+    },
+    {
+      "id": "mrb0aiwe40zfiz",
+      "title": "A. Business Model Foundations",
+      "parentId": "mrb0aiw3zk6cfo",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450352174
+    },
+    {
+      "id": "mrb0aiwop8p2f7",
+      "title": "B. Business Model Canvas",
+      "parentId": "mrb0aiw3zk6cfo",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450352184
+    },
+    {
+      "id": "mrb0aiwzi2vw78",
+      "title": "C. Value Proposition Design",
+      "parentId": "mrb0aiw3zk6cfo",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450352195
+    },
+    {
+      "id": "mrb0aixal29uu1",
+      "title": "D. Revenue Models",
+      "parentId": "mrb0aiw3zk6cfo",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450352206
+    },
+    {
+      "id": "mrb0aixlj7bvm4",
+      "title": "E. Cost Structures",
+      "parentId": "mrb0aiw3zk6cfo",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450352217
+    },
+    {
+      "id": "mrb0aixxul49r8",
+      "title": "F. Platform Business Models",
+      "parentId": "mrb0aiw3zk6cfo",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450352229
+    },
+    {
+      "id": "mrb0aiy82892nm",
+      "title": "G. Subscription Models",
+      "parentId": "mrb0aiw3zk6cfo",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450352240
+    },
+    {
+      "id": "mrb0aiypo06lqh",
+      "title": "H. Marketplace Models",
+      "parentId": "mrb0aiw3zk6cfo",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450352257
+    },
+    {
+      "id": "mrb0aiz6ceiy8g",
+      "title": "I. Digital Business Models",
+      "parentId": "mrb0aiw3zk6cfo",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450352274
+    },
+    {
+      "id": "mrb0aizgtoyt7z",
+      "title": "J. Business Model Transformation",
+      "parentId": "mrb0aiw3zk6cfo",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450352284
+    },
+    {
+      "id": "mrb0aiztjsmw31",
+      "title": "K. Enterprise Business Innovation",
+      "parentId": "mrb0aiw3zk6cfo",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450352297
+    },
+    {
+      "id": "mrb0aj07ipqx9x",
+      "title": "L. Future Business Models",
+      "parentId": "mrb0aiw3zk6cfo",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783450352311
+    },
+    {
+      "id": "mrb0aj0ilc7zel",
+      "title": "4.2.9. Venture Finance & Fundraising",
+      "parentId": "mr0zu2v813km3v",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450352322
+    },
+    {
+      "id": "mrb0aj0uxvxf6e",
+      "title": "A. Venture Finance Foundations",
+      "parentId": "mrb0aj0ilc7zel",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450352334
+    },
+    {
+      "id": "mrb0aj14z9otlz",
+      "title": "B. Startup Financing",
+      "parentId": "mrb0aj0ilc7zel",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450352344
+    },
+    {
+      "id": "mrb0aj1fo3n6xk",
+      "title": "C. Bootstrapping",
+      "parentId": "mrb0aj0ilc7zel",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450352355
+    },
+    {
+      "id": "mrb0aj1ryk0fnp",
+      "title": "D. Angel Investment",
+      "parentId": "mrb0aj0ilc7zel",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450352367
+    },
+    {
+      "id": "mrb0aj23bjbtik",
+      "title": "E. Venture Capital",
+      "parentId": "mrb0aj0ilc7zel",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450352379
+    },
+    {
+      "id": "mrb0aj2d4br4tj",
+      "title": "F. Crowdfunding",
+      "parentId": "mrb0aj0ilc7zel",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450352389
+    },
+    {
+      "id": "mrb0aj2obf3u88",
+      "title": "G. Financial Planning",
+      "parentId": "mrb0aj0ilc7zel",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450352400
+    },
+    {
+      "id": "mrb0aj2zyb4u6f",
+      "title": "H. Valuation Fundamentals",
+      "parentId": "mrb0aj0ilc7zel",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450352411
+    },
+    {
+      "id": "mrb0aj3apb1rv9",
+      "title": "I. Investor Pitching",
+      "parentId": "mrb0aj0ilc7zel",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450352422
+    },
+    {
+      "id": "mrb0aj3ldkeaz9",
+      "title": "J. Investment Negotiation",
+      "parentId": "mrb0aj0ilc7zel",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450352433
+    },
+    {
+      "id": "mrb0aj3xg6yk2o",
+      "title": "K. Growth Financing",
+      "parentId": "mrb0aj0ilc7zel",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450352445
+    },
+    {
+      "id": "mrb0aj48byktud",
+      "title": "L. Venture Finance Strategy",
+      "parentId": "mrb0aj0ilc7zel",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783450352456
+    },
+    {
+      "id": "mrb0aj4j044gt2",
+      "title": "4.2.10. Innovation Strategy",
+      "parentId": "mr0zu2vaui5tbn",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450352467
+    },
+    {
+      "id": "mrb0aj4v4wgsni",
+      "title": "A. Innovation Strategy Foundations",
+      "parentId": "mrb0aj4j044gt2",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450352479
+    },
+    {
+      "id": "mrb0aj56sbpzz5",
+      "title": "B. Innovation Portfolio Management",
+      "parentId": "mrb0aj4j044gt2",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450352490
+    },
+    {
+      "id": "mrb0aj5idm9pl3",
+      "title": "C. Strategic Innovation",
+      "parentId": "mrb0aj4j044gt2",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450352502
+    },
+    {
+      "id": "mrb0aj5tzdy34w",
+      "title": "D. Corporate Innovation",
+      "parentId": "mrb0aj4j044gt2",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450352513
+    },
+    {
+      "id": "mrb0aj65cteu3x",
+      "title": "E. Innovation Governance",
+      "parentId": "mrb0aj4j044gt2",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450352525
+    },
+    {
+      "id": "mrb0aj6go0ymkn",
+      "title": "F. Innovation Investment",
+      "parentId": "mrb0aj4j044gt2",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450352536
+    },
+    {
+      "id": "mrb0aj6sh6c8s1",
+      "title": "G. Innovation Roadmaps",
+      "parentId": "mrb0aj4j044gt2",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450352548
+    },
+    {
+      "id": "mrb0aj730g1zu1",
+      "title": "H. Innovation KPIs",
+      "parentId": "mrb0aj4j044gt2",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450352559
+    },
+    {
+      "id": "mrb0aj7hkc0gzx",
+      "title": "I. Competitive Innovation",
+      "parentId": "mrb0aj4j044gt2",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450352573
+    },
+    {
+      "id": "mrb0aj7uceihp2",
+      "title": "J. Innovation Execution",
+      "parentId": "mrb0aj4j044gt2",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450352586
+    },
+    {
+      "id": "mrb0aj84rod82y",
+      "title": "K. Enterprise Innovation Strategy",
+      "parentId": "mrb0aj4j044gt2",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450352596
+    },
+    {
+      "id": "mrb0aj8gzu39ui",
+      "title": "L. Global Innovation Strategy",
+      "parentId": "mrb0aj4j044gt2",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783450352608
+    },
+    {
+      "id": "mrb0aj8rc59tsn",
+      "title": "4.2.11. Scaling Organizations",
+      "parentId": "mr0zu2vcm304le",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450352619
+    },
+    {
+      "id": "mrb0aj929beczb",
+      "title": "A. Scaling Foundations",
+      "parentId": "mrb0aj8rc59tsn",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450352630
+    },
+    {
+      "id": "mrb0aj9cqcoinl",
+      "title": "B. Organizational Growth",
+      "parentId": "mrb0aj8rc59tsn",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450352640
+    },
+    {
+      "id": "mrb0aj9nmbxl7d",
+      "title": "C. Scaling Operations",
+      "parentId": "mrb0aj8rc59tsn",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450352651
+    },
+    {
+      "id": "mrb0aj9zs6fk79",
+      "title": "D. Scaling Technology",
+      "parentId": "mrb0aj8rc59tsn",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450352663
+    },
+    {
+      "id": "mrb0ajaazyb6yp",
+      "title": "E. Scaling Teams",
+      "parentId": "mrb0aj8rc59tsn",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450352674
+    },
+    {
+      "id": "mrb0ajanxbomo6",
+      "title": "F. Scaling Processes",
+      "parentId": "mrb0aj8rc59tsn",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450352687
+    },
+    {
+      "id": "mrb0ajazrke5h7",
+      "title": "G. Scaling Culture",
+      "parentId": "mrb0aj8rc59tsn",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450352699
+    },
+    {
+      "id": "mrb0ajbcyu8xfz",
+      "title": "H. International Expansion",
+      "parentId": "mrb0aj8rc59tsn",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450352712
+    },
+    {
+      "id": "mrb0ajbma7rx72",
+      "title": "I. Organizational Maturity",
+      "parentId": "mrb0aj8rc59tsn",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450352722
+    },
+    {
+      "id": "mrb0ajc3jo53rx",
+      "title": "J. Sustainable Scaling",
+      "parentId": "mrb0aj8rc59tsn",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450352739
+    },
+    {
+      "id": "mrb0ajcei4trln",
+      "title": "K. Hypergrowth Management",
+      "parentId": "mrb0aj8rc59tsn",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450352750
+    },
+    {
+      "id": "mrb0ajcqyqkjzr",
+      "title": "L. Enterprise Scale Leadership",
+      "parentId": "mrb0aj8rc59tsn",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783450352762
+    },
+    {
+      "id": "mrb0ajd2t3ots5",
+      "title": "4.2.12. Entrepreneurial Leadership",
+      "parentId": "mr0zu2vdzbh024",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450352774
+    },
+    {
+      "id": "mrb0ajdd8e872c",
+      "title": "A. Entrepreneurial Leadership Foundations",
+      "parentId": "mrb0ajd2t3ots5",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1783450352785
+    },
+    {
+      "id": "mrb0ajdofmyxwo",
+      "title": "B. Visionary Leadership",
+      "parentId": "mrb0ajd2t3ots5",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1783450352796
+    },
+    {
+      "id": "mrb0ajdz8mf5xy",
+      "title": "C. Founder Mindset",
+      "parentId": "mrb0ajd2t3ots5",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1783450352807
+    },
+    {
+      "id": "mrb0ajeam227ba",
+      "title": "D. Leadership Under Uncertainty",
+      "parentId": "mrb0ajd2t3ots5",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1783450352818
+    },
+    {
+      "id": "mrb0ajepbc5vm1",
+      "title": "E. Leading Innovation Teams",
+      "parentId": "mrb0ajd2t3ots5",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1783450352833
+    },
+    {
+      "id": "mrb0ajf194wr9o",
+      "title": "F. Strategic Risk Taking",
+      "parentId": "mrb0ajd2t3ots5",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1783450352846
+    },
+    {
+      "id": "mrb0ajfe3yhpy8",
+      "title": "G. Building Organizational Culture",
+      "parentId": "mrb0ajd2t3ots5",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1783450352858
+    },
+    {
+      "id": "mrb0ajfp27n95r",
+      "title": "H. Stakeholder Leadership",
+      "parentId": "mrb0ajd2t3ots5",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1783450352869
+    },
+    {
+      "id": "mrb0ajg2oj8k4r",
+      "title": "I. Scaling Leadership",
+      "parentId": "mrb0ajd2t3ots5",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1783450352882
+    },
+    {
+      "id": "mrb0ajgdiwnx45",
+      "title": "J. Leadership Resilience",
+      "parentId": "mrb0ajd2t3ots5",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1783450352893
+    },
+    {
+      "id": "mrb0ajgomg2om6",
+      "title": "K. Legacy Building",
+      "parentId": "mrb0ajd2t3ots5",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1783450352904
+    },
+    {
+      "id": "mrb0ajgzedo14n",
+      "title": "L. Entrepreneurial Leadership Excellence",
+      "parentId": "mrb0ajd2t3ots5",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1783450352915
     }
   ],
   "pages": {
