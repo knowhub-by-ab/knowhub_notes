@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "exportedAt": "2026-07-19T21:22:46.752Z",
+  "exportedAt": "2026-07-19T21:28:45.709Z",
   "decks": [
     {
-      "id": "mrs9dra6wxkgak",
+      "id": "mrsazeeu5xvyzq",
       "title": "1. Universal Foundations",
       "frontmatter": {
         "theme": "aurora-dark",
@@ -18,297 +18,186 @@
       },
       "slides": [
         {
-          "id": "mrs9dr9zaswu43",
+          "id": "mrsazeephwu4wn",
           "type": "title",
-          "title": "Slide 1",
+          "title": "Universal Foundations",
           "bullets": [],
           "speakerNotes": "Introduce the presentation on Universal Foundations. Explain that these core concepts are essential for any engineer to excel, regardless of their specialization. This talk will explore foundational ideas from beginner to professional levels, providing a robust framework for technical growth. 1",
           "narrationScript": "",
-          "imagePrompt": "Slide 1",
+          "imagePrompt": "Universal Foundations",
           "order": 0
         },
         {
-          "id": "mrs9dra0tlq9ap",
-          "type": "section",
-          "title": "Slide 2",
-          "bullets": [],
+          "id": "mrsazeeqz7m703",
+          "type": "content",
+          "title": "What are Universal Foundations?",
+          "bullets": [
+            "Core concepts transcend specific tech.",
+            "Bedrock for system stability.",
+            "Essential mental models for design.",
+            "Crucial for longevity, like a building."
+          ],
           "speakerNotes": "Introduce the concept of Universal Foundations as the essential bedrock for all complex systems. Emphasize their role in making individuals better engineers, faster learners, and effective problem-solvers across specializations. These are the principles that empower you. 2",
           "narrationScript": "",
-          "imagePrompt": "Slide 2",
+          "imagePrompt": "What are Universal Foundations?: Core concepts transcend specific tech.",
           "order": 1
         },
         {
-          "id": "mrs9dra0rb8dml",
+          "id": "mrsazeeqw1n25x",
           "type": "section",
-          "title": "Slide 3",
+          "title": "The Pillars of Computation (Beginner)",
           "bullets": [],
           "speakerNotes": "This section will introduce the four core pillars that form the very basis of computational thinking and system design. These are foundational concepts that even experienced engineers revisit to simplify complex problems and build robust solutions. 3",
           "narrationScript": "",
-          "imagePrompt": "Slide 3",
+          "imagePrompt": "The Pillars of Computation (Beginner)",
           "order": 2
         },
         {
-          "id": "mrs9dra1he231h",
-          "type": "section",
-          "title": "Slide 4",
-          "bullets": [],
+          "id": "mrsazeer8htiem",
+          "type": "content",
+          "title": "Pillar 1: Abstraction",
+          "bullets": [
+            "Hides complex details, shows essentials.",
+            "Manages complexity; simplifies parts.",
+            "Example: Driving a car's simplified interface.",
+            "In Tech: A `print()` function hides its implementation."
+          ],
           "speakerNotes": "Explain abstraction as the art of simplification. Provide concrete examples from everyday life and then bridge it to technical contexts, showing how it reduces cognitive load for developers. It's about focusing on what something does, not how it does it. 4",
           "narrationScript": "",
-          "imagePrompt": "Slide 4",
+          "imagePrompt": "Pillar 1: Abstraction: Hides complex details, shows essentials.",
           "order": 3
         },
         {
-          "id": "mrs9dra1rwx6zn",
-          "type": "section",
-          "title": "Slide 5",
-          "bullets": [],
+          "id": "mrsazeermgqyo3",
+          "type": "content",
+          "title": "Pillar 2: Algorithms",
+          "bullets": [
+            "Precise, step-by-step problem-solving.",
+            "Like a recipe for a computer.",
+            "Example: A cake recipe's clear steps.",
+            "In Tech: Sorting lists, searching databases."
+          ],
           "speakerNotes": "Define algorithms as a set of instructions. Emphasize their deterministic nature and how they are fundamental to any automated process, comparing them to real-world procedures. Algorithms are the core logic of all software. 5",
           "narrationScript": "",
-          "imagePrompt": "Slide 5",
+          "imagePrompt": "Pillar 2: Algorithms: Precise, step-by-step problem-solving.",
           "order": 4
         },
         {
-          "id": "mrs9dra2rt9klk",
-          "type": "section",
-          "title": "Slide 6",
-          "bullets": [],
+          "id": "mrsazeer88ewyr",
+          "type": "content",
+          "title": "Pillar 3: Data Structures",
+          "bullets": [
+            "Specialized ways to organize data.",
+            "Impacts access, modification, performance.",
+            "Example: Shopping list (linear), family tree (hierarchical).",
+            "In Tech: Arrays, linked lists, trees, hash tables."
+          ],
           "speakerNotes": "Explain how data structures are not just about storing data, but about organizing it for optimal efficiency. Discuss how choosing the right structure is crucial for system performance and can significantly impact an application's speed. 6",
           "narrationScript": "",
-          "imagePrompt": "Slide 6",
+          "imagePrompt": "Pillar 3: Data Structures: Specialized ways to organize data.",
           "order": 5
         },
         {
-          "id": "mrs9dra27l2sue",
-          "type": "section",
-          "title": "Slide 7",
-          "bullets": [],
+          "id": "mrsazeer57n2lh",
+          "type": "content",
+          "title": "Pillar 4: Computational Thinking",
+          "bullets": [
+            "Problem-solving for computer execution.",
+            "Decomposition: break into smaller parts.",
+            "Pattern Recognition: find similarities.",
+            "Abstraction: focus on essential details.",
+            "Algorithms: develop step-by-step solutions."
+          ],
           "speakerNotes": "Detail computational thinking as a mindset for problem-solving. Break down its four key components, showing how they collectively empower engineers to approach complex challenges systematically, regardless of the domain. 7",
           "narrationScript": "",
-          "imagePrompt": "Slide 7",
+          "imagePrompt": "Pillar 4: Computational Thinking: Problem-solving for computer execution.",
           "order": 6
         },
         {
-          "id": "mrs9dra3ia5omc",
+          "id": "mrsazeeshe56fp",
           "type": "section",
-          "title": "Slide 8",
+          "title": "Expanding Your Toolkit (Intermediate)",
           "bullets": [],
           "speakerNotes": "This section elevates our foundational understanding to tackle more sophisticated challenges. We'll explore concepts vital for building robust, performant, and maintainable systems as you grow in your engineering journey and face larger projects. 8",
           "narrationScript": "",
-          "imagePrompt": "Slide 8",
+          "imagePrompt": "Expanding Your Toolkit (Intermediate)",
           "order": 7
         },
         {
-          "id": "mrs9dra4xkwi8v",
-          "type": "section",
-          "title": "Slide 9",
-          "bullets": [],
+          "id": "mrsazeeswlcb4a",
+          "type": "content",
+          "title": "Efficiency: Time and Space Complexity",
+          "bullets": [
+            "Time complexity: how fast an algorithm runs.",
+            "Space complexity: how much memory it uses.",
+            "Inefficient code can be very slow.",
+            "Big O Notation describes performance growth."
+          ],
           "speakerNotes": "Explain the critical importance of efficiency in real-world applications. Introduce Big O Notation as the standard way to analyze and communicate an algorithm's performance characteristics, focusing on its growth rate, not just raw speed. 9",
           "narrationScript": "",
-          "imagePrompt": "Slide 9",
+          "imagePrompt": "Efficiency: Time and Space Complexity: Time complexity: how fast an algorithm runs.",
           "order": 8
         },
         {
-          "id": "mrs9dra4tinyeb",
-          "type": "section",
-          "title": "Slide 10",
-          "bullets": [],
+          "id": "mrsazeeshxw78n",
+          "type": "content",
+          "title": "Modularity and Scalability",
+          "bullets": [
+            "Modularity: independent, interchangeable components.",
+            "Reusability: components usable in other projects.",
+            "Scalability: ability to handle growing workloads.",
+            "Reliability: consistent, correct function without failure."
+          ],
           "speakerNotes": "Combine modularity, reusability, scalability, and reliability, as they are interconnected aspects of building robust systems. Emphasize how well-designed modules contribute directly to systems that can grow and remain dependable, reducing technical debt. 10",
           "narrationScript": "",
-          "imagePrompt": "Slide 10",
+          "imagePrompt": "Modularity and Scalability: Modularity: independent, interchangeable components.",
           "order": 9
         },
         {
-          "id": "mrs9dra5parknr",
+          "id": "mrsazeesj161nx",
           "type": "section",
-          "title": "Slide 11",
+          "title": "Crafting Professional Systems (Industry Standards)",
           "bullets": [],
           "speakerNotes": "This final section focuses on the strategic mindset required for professional-grade system design. It highlights how engineers make informed decisions by considering the whole system and the inevitable trade-offs involved in every design choice. 11",
           "narrationScript": "",
-          "imagePrompt": "Slide 11",
+          "imagePrompt": "Crafting Professional Systems (Industry Standards)",
           "order": 10
         },
         {
-          "id": "mrs9dra68042rw",
-          "type": "section",
-          "title": "Slide 12",
-          "bullets": [],
+          "id": "mrsazeetdcm97i",
+          "type": "content",
+          "title": "Strategic System Design",
+          "bullets": [
+            "System Thinking: understand holistic interactions.",
+            "Trade-offs: every decision involves compromises.",
+            "Principles: DRY, KISS for quality software.",
+            "Problem-Solving Flow: structured approach."
+          ],
           "speakerNotes": "Combine System Thinking, Trade-offs, and Software Engineering Principles, and hint at the problem-solving flow. Explain how these concepts guide strategic decisions, ensuring maintainable, robust, and high-quality software that meets business and technical requirements. 12",
           "narrationScript": "",
-          "imagePrompt": "Slide 12",
+          "imagePrompt": "Strategic System Design: System Thinking: understand holistic interactions.",
           "order": 11
         },
         {
-          "id": "mrs9dra6o67s3w",
-          "type": "section",
-          "title": "Slide 13",
-          "bullets": [],
+          "id": "mrsazeetnpsc32",
+          "type": "content",
+          "title": "Key Takeaways",
+          "bullets": [
+            "Abstraction simplifies complexity.",
+            "Algorithms and Data Structures for solutions.",
+            "Efficiency optimizes speed, memory.",
+            "Modularity and Scalability build robust systems.",
+            "System Thinking, Trade-offs guide design.",
+            "Master these for adaptable engineering."
+          ],
           "speakerNotes": "Summarize the essential concepts covered, reiterating their importance as universal tools for any technical challenge and career growth. Emphasize that these foundations are continuous learning areas that will serve them throughout their entire career. 13",
           "narrationScript": "",
-          "imagePrompt": "Slide 13",
+          "imagePrompt": "Key Takeaways: Abstraction simplifies complexity.",
           "order": 12
         }
       ],
-      "createdAt": 1784493544542,
-      "updatedAt": 1784493544549
-    },
-    {
-      "id": "mrs9awl60una6d",
-      "title": "BATCH1 MSME AI Strategy",
-      "frontmatter": {
-        "theme": "aurora-dark",
-        "imageStyle": "illustration",
-        "audienceLevel": "intermediate",
-        "language": "en",
-        "narrationTone": "conversational",
-        "slideCount": 10,
-        "speechRate": 1,
-        "speechPitch": 1,
-        "accentColor": "#4F81BD"
-      },
-      "slides": [
-        {
-          "id": "mrs9awl15p0i3v",
-          "type": "title",
-          "title": "Slide 1",
-          "bullets": [],
-          "speakerNotes": "",
-          "narrationScript": "",
-          "imagePrompt": "Slide 1",
-          "order": 0
-        },
-        {
-          "id": "mrs9awl2swd84n",
-          "type": "section",
-          "title": "Slide 2",
-          "bullets": [],
-          "speakerNotes": "",
-          "narrationScript": "",
-          "imagePrompt": "Slide 2",
-          "order": 1
-        },
-        {
-          "id": "mrs9awl2zz0t5h",
-          "type": "section",
-          "title": "Slide 3",
-          "bullets": [],
-          "speakerNotes": "",
-          "narrationScript": "",
-          "imagePrompt": "Slide 3",
-          "order": 2
-        },
-        {
-          "id": "mrs9awl37spdus",
-          "type": "section",
-          "title": "Slide 4",
-          "bullets": [],
-          "speakerNotes": "",
-          "narrationScript": "",
-          "imagePrompt": "Slide 4",
-          "order": 3
-        },
-        {
-          "id": "mrs9awl3vjw6c7",
-          "type": "section",
-          "title": "Slide 5",
-          "bullets": [],
-          "speakerNotes": "",
-          "narrationScript": "",
-          "imagePrompt": "Slide 5",
-          "order": 4
-        },
-        {
-          "id": "mrs9awl47o42vg",
-          "type": "section",
-          "title": "Slide 6",
-          "bullets": [],
-          "speakerNotes": "",
-          "narrationScript": "",
-          "imagePrompt": "Slide 6",
-          "order": 5
-        },
-        {
-          "id": "mrs9awl4xtlpet",
-          "type": "section",
-          "title": "Slide 7",
-          "bullets": [],
-          "speakerNotes": "",
-          "narrationScript": "",
-          "imagePrompt": "Slide 7",
-          "order": 6
-        },
-        {
-          "id": "mrs9awl4dd3da3",
-          "type": "section",
-          "title": "Slide 8",
-          "bullets": [],
-          "speakerNotes": "",
-          "narrationScript": "",
-          "imagePrompt": "Slide 8",
-          "order": 7
-        },
-        {
-          "id": "mrs9awl4ccy0n8",
-          "type": "section",
-          "title": "Slide 9",
-          "bullets": [],
-          "speakerNotes": "",
-          "narrationScript": "",
-          "imagePrompt": "Slide 9",
-          "order": 8
-        },
-        {
-          "id": "mrs9awl5n8pjgx",
-          "type": "section",
-          "title": "Slide 10",
-          "bullets": [],
-          "speakerNotes": "",
-          "narrationScript": "",
-          "imagePrompt": "Slide 10",
-          "order": 9
-        },
-        {
-          "id": "mrs9awl5l1jw2s",
-          "type": "section",
-          "title": "Slide 11",
-          "bullets": [],
-          "speakerNotes": "",
-          "narrationScript": "",
-          "imagePrompt": "Slide 11",
-          "order": 10
-        },
-        {
-          "id": "mrs9awl5jqw461",
-          "type": "section",
-          "title": "Slide 12",
-          "bullets": [],
-          "speakerNotes": "",
-          "narrationScript": "",
-          "imagePrompt": "Slide 12",
-          "order": 11
-        },
-        {
-          "id": "mrs9awl55ji25y",
-          "type": "section",
-          "title": "Slide 13",
-          "bullets": [],
-          "speakerNotes": "",
-          "narrationScript": "",
-          "imagePrompt": "Slide 13",
-          "order": 12
-        },
-        {
-          "id": "mrs9awl6x4kkqy",
-          "type": "section",
-          "title": "Slide 14",
-          "bullets": [],
-          "speakerNotes": "",
-          "narrationScript": "",
-          "imagePrompt": "Slide 14",
-          "order": 13
-        }
-      ],
-      "createdAt": 1784493411450,
-      "updatedAt": 1784493411454
+      "createdAt": 1784496233910,
+      "updatedAt": 1784496233928
     },
     {
       "id": "mrs2unh9tsovgk",
