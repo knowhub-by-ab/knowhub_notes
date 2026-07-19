@@ -1,7 +1,166 @@
 {
   "version": 1,
-  "exportedAt": "2026-07-19T21:28:45.709Z",
+  "exportedAt": "2026-07-19T21:38:10.353Z",
   "decks": [
+    {
+      "id": "mrsbbhoo4mpn5x",
+      "title": "BATCH1 MSME AI Strategy   Copy",
+      "frontmatter": {
+        "theme": "aurora-dark",
+        "imageStyle": "illustration",
+        "audienceLevel": "intermediate",
+        "language": "en",
+        "narrationTone": "conversational",
+        "slideCount": 10,
+        "speechRate": 1,
+        "speechPitch": 1,
+        "accentColor": "#4F81BD"
+      },
+      "slides": [
+        {
+          "id": "mrsbbheos10qr5",
+          "type": "title",
+          "title": "Slide 1",
+          "bullets": [],
+          "speakerNotes": "",
+          "narrationScript": "",
+          "imagePrompt": "Slide 1",
+          "order": 0
+        },
+        {
+          "id": "mrsbbhfjkwaj8l",
+          "type": "section",
+          "title": "Slide 2",
+          "bullets": [],
+          "speakerNotes": "",
+          "narrationScript": "",
+          "imagePrompt": "Slide 2",
+          "order": 1
+        },
+        {
+          "id": "mrsbbhg3z7jh6p",
+          "type": "section",
+          "title": "Slide 3",
+          "bullets": [],
+          "speakerNotes": "",
+          "narrationScript": "",
+          "imagePrompt": "Slide 3",
+          "order": 2
+        },
+        {
+          "id": "mrsbbhgqgz9slk",
+          "type": "section",
+          "title": "Slide 4",
+          "bullets": [],
+          "speakerNotes": "",
+          "narrationScript": "",
+          "imagePrompt": "Slide 4",
+          "order": 3
+        },
+        {
+          "id": "mrsbbhhijubraj",
+          "type": "section",
+          "title": "Slide 5",
+          "bullets": [],
+          "speakerNotes": "",
+          "narrationScript": "",
+          "imagePrompt": "Slide 5",
+          "order": 4
+        },
+        {
+          "id": "mrsbbhi5icr1lq",
+          "type": "section",
+          "title": "Slide 6",
+          "bullets": [],
+          "speakerNotes": "",
+          "narrationScript": "",
+          "imagePrompt": "Slide 6",
+          "order": 5
+        },
+        {
+          "id": "mrsbbhj6a42jie",
+          "type": "section",
+          "title": "Slide 7",
+          "bullets": [],
+          "speakerNotes": "",
+          "narrationScript": "",
+          "imagePrompt": "Slide 7",
+          "order": 6
+        },
+        {
+          "id": "mrsbbhjvg1h3f3",
+          "type": "section",
+          "title": "Slide 8",
+          "bullets": [],
+          "speakerNotes": "",
+          "narrationScript": "",
+          "imagePrompt": "Slide 8",
+          "order": 7
+        },
+        {
+          "id": "mrsbbhkrkv4f2f",
+          "type": "section",
+          "title": "Slide 9",
+          "bullets": [],
+          "speakerNotes": "",
+          "narrationScript": "",
+          "imagePrompt": "Slide 9",
+          "order": 8
+        },
+        {
+          "id": "mrsbbhldorr4m0",
+          "type": "section",
+          "title": "Slide 10",
+          "bullets": [],
+          "speakerNotes": "",
+          "narrationScript": "",
+          "imagePrompt": "Slide 10",
+          "order": 9
+        },
+        {
+          "id": "mrsbbhm6pf43h4",
+          "type": "section",
+          "title": "Slide 11",
+          "bullets": [],
+          "speakerNotes": "",
+          "narrationScript": "",
+          "imagePrompt": "Slide 11",
+          "order": 10
+        },
+        {
+          "id": "mrsbbhn4jvkzaz",
+          "type": "section",
+          "title": "Slide 12",
+          "bullets": [],
+          "speakerNotes": "",
+          "narrationScript": "",
+          "imagePrompt": "Slide 12",
+          "order": 11
+        },
+        {
+          "id": "mrsbbhnuu43vg4",
+          "type": "section",
+          "title": "Slide 13",
+          "bullets": [],
+          "speakerNotes": "",
+          "narrationScript": "",
+          "imagePrompt": "Slide 13",
+          "order": 12
+        },
+        {
+          "id": "mrsbbhoo4bwo36",
+          "type": "section",
+          "title": "Slide 14",
+          "bullets": [],
+          "speakerNotes": "",
+          "narrationScript": "",
+          "imagePrompt": "Slide 14",
+          "order": 13
+        }
+      ],
+      "createdAt": 1784496798024,
+      "updatedAt": 1784496798028
+    },
     {
       "id": "mrsazeeu5xvyzq",
       "title": "1. Universal Foundations",
