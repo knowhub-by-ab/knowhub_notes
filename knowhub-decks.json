@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-07-20T06:20:32.165Z",
+  "exportedAt": "2026-07-20T06:29:39.034Z",
   "decks": [
     {
       "id": "mrsu0zxtr9meui",
@@ -58,7 +58,8 @@
             "source": "pollinations",
             "url": "https://image.pollinations.ai/prompt/an%20illustration%20of%20a%20strong%20foundation%20supporting%20various%20types%20of%20buildings%20(a%20mobile%20app%2C%20a%20global%20network%2C%20etc.)%2C%20symbolizing%20diverse%20tech%20systems%20built%20on%20common%20principles.%2C%20digital%20illustration%2C%20clean%2C%20professional?width=800&height=450&nologo=true",
             "prompt": "an illustration of a strong foundation supporting various types of buildings (a mobile app, a global network, etc.), symbolizing diverse tech systems built on common principles.",
-            "layout": "right-half"
+            "layout": "right-half",
+            "objectFit": "contain"
           }
         },
         {
@@ -161,7 +162,8 @@
             "source": "pollinations",
             "url": "https://image.pollinations.ai/prompt/Pillar%204%3A%20Computational%20Thinking%3A%20Problem-solving%20process%20for%20computer%20execution.%2C%20digital%20illustration%2C%20clean%2C%20professional?width=800&height=450&nologo=true",
             "prompt": "Pillar 4: Computational Thinking: Problem-solving process for computer execution.",
-            "layout": "right-half"
+            "layout": "right-half",
+            "objectFit": "contain"
           }
         },
         {
@@ -177,7 +179,8 @@
             "source": "pollinations",
             "url": "https://image.pollinations.ai/prompt/An%20open%20toolbox%20revealing%20more%20advanced%2C%20intricate%20tools%20alongside%20basic%20ones%2C%20symbolizing%20a%20deeper%20understanding%20and%20application%20of%20foundational%20concepts.%2C%20digital%20illustration%2C%20clean%2C%20professional?width=800&height=450&nologo=true",
             "prompt": "An open toolbox revealing more advanced, intricate tools alongside basic ones, symbolizing a deeper understanding and application of foundational concepts.",
-            "layout": "right-half"
+            "layout": "full-background",
+            "objectFit": "contain"
           }
         },
         {
@@ -327,12 +330,13 @@
             "source": "pollinations",
             "url": "https://image.pollinations.ai/prompt/A%20stylized%20checklist%20or%20a%20%22lightbulb%20moment%22%20icon%2C%20representing%20the%20synthesis%20of%20learning%20and%20key%20points.%2C%20digital%20illustration%2C%20clean%2C%20professional?width=800&height=450&nologo=true",
             "prompt": "A stylized checklist or a \"lightbulb moment\" icon, representing the synthesis of learning and key points.",
-            "layout": "right-half"
+            "layout": "right-half",
+            "objectFit": "contain"
           }
         }
       ],
       "createdAt": 1784528221169,
-      "updatedAt": 1784528429647
+      "updatedAt": 1784528703909
     },
     {
       "id": "mrsazeeu5xvyzq",
