@@ -1,241 +1,338 @@
 {
   "version": 1,
-  "exportedAt": "2026-07-20T06:13:36.726Z",
+  "exportedAt": "2026-07-20T06:20:32.165Z",
   "decks": [
     {
-      "id": "mrsr0vc9bcl2et",
-      "title": "Professional Career Development",
-      "sourceNodeId": "mr0g929r44x4tu",
-      "sourceMd": "# Professional Career Development\n\nProfessional career development is an ongoing process of improving skills, knowledge, and experience. It involves intentional steps to grow, adapt, and achieve career aspirations. This journey is vital for staying relevant, finding fulfillment, and maximizing potential.\n\n## Absolute Novice: Starting Your Journey\n<!-- image-prompt: a person standing at a crossroads, looking at various paths, with a compass in hand -->\n<!-- speaker-notes: This initial stage focuses on self-discovery and laying the essential groundwork. It's about exploring interests and understanding where to begin. -->\n\nAt this stage, focus on self-discovery and laying groundwork for future growth.\n### Key Actions:\n*   Assess interests, values, strengths, and weaknesses.\n*   Define personal and professional success; set simple short-term goals.\n*   Identify and build foundational skills for entry-level roles.\n*   Research career paths, industries, and job roles.\n\n## Developing Professional: Building Momentum\n<!-- image-prompt: a person climbing a gentle slope, looking confident, with a backpack -->\n<!-- speaker-notes: As you develop, you actively expand capabilities and establish your professional presence through strategic learning. -->\n\nAs a developing professional, expand capabilities and establish your presence.\n### Key Actions:\n*   Develop specialized skills relevant to your career path.\n*   Actively build professional relationships and networks.\n*   Define and project your professional identity (personal brand).\n*   Proactively seek constructive feedback for improvement.\n*   Find a mentor for guidance and support.\n\n## Experienced Professional: Leading and Contributing\n<!-- image-prompt: a person standing on a higher vantage point, guiding a small team, looking at a map -->\n<!-- speaker-notes: At this level, you contribute significantly to the organization, often taking on leadership and strategic roles. -->\n\nYou make significant contributions and take on leadership roles.\n### Key Actions:\n*   Cultivate leadership, team management, and influence skills.\n*   Contribute to strategic planning and problem-solving.\n*   Continuously learn and adapt to industry changes.\n*   Mentor junior colleagues, sharing knowledge and experience.\n*   Develop advanced conflict resolution and negotiation skills.\n\n## Industry Standard: Shaping the Future\n<!-- image-prompt: a visionary leader standing at the top of a mountain, looking confidently towards a futuristic city, with innovation symbols -->\n<!-- speaker-notes: Reaching industry standard means you're recognized as an expert, an innovator, and someone who helps define the field's direction. -->\n\nYou are recognized as an expert and innovator, defining industry direction.\n### Key Actions:\n*   Share expertise through presentations, publications, and standards.\n*   Cultivate a strong executive presence and communication.\n*   Understand global markets and international business practices.\n*   Drive strategic impact, innovation, and organizational change.\n*   Focus on building a lasting positive legacy.\n\n## Career Development Journey\n<!-- image-prompt: an abstract visual representation of a winding path or staircase leading upwards, with distinct stages marked along the way -->\n<!-- speaker-notes: This diagram visually represents the progression through different stages of professional growth, highlighting the continuous nature of the journey. -->\n\n```mermaid\ngraph TD\n    A[Absolute Novice] --> B{Self-Discovery & Basic Skills}\n    B --> C[Developing Professional]\n    C --> D{Specialization & Personal Brand}\n    D --> E[Experienced Professional]\n    E --> F{Leadership & Strategic Impact}\n    F --> G[Industry Standard]\n    G --> H{Thought Leadership & Legacy}\n```\n\n## Key Takeaways\n<!-- image-prompt: a collection of lightbulbs illuminating, symbolizing ideas and insights, arranged in a thought-bubble shape -->\n<!-- speaker-notes: To summarize, these are the core principles to remember for effective professional career development. -->\n\n*   Career development is a continuous, lifelong journey.\n*   Self-awareness is foundational for effective growth.\n*   Actively seek out learning and new opportunities.\n*   Embrace constructive feedback as a gift for improvement.\n*   Mentoring others and contributing enriches your journey.\n*   Continuous learning is crucial to stay relevant.",
+      "id": "mrsu0zxtr9meui",
+      "title": "Basic Foundations",
+      "sourceNodeId": "mr0g92a5xmcn48",
+      "sourceMd": "# Basic Foundations\n\n## Universal Foundations: The Bedrock of Tech\n<!-- image-prompt: an illustration of a strong foundation supporting various types of buildings (a mobile app, a global network, etc.), symbolizing diverse tech systems built on common principles. -->\n<!-- speaker-notes: Welcome to \"Basic Foundations\"! This module introduces the core, universal concepts that underpin all complex technical systems. Think of these as the bedrock – essential, regardless of your specific programming language or framework. -->\n*   Core ideas for *any* complex system.\n*   Transcends specific languages or technologies.\n*   Makes you a more effective problem-solver and engineer.\n*   Provides essential mental models for system design.\n\n## The Pillars of Computation (Beginner)\n<!-- image-prompt: Four distinct, stylized pillars labeled Abstraction, Algorithms, Data Structures, and Computational Thinking supporting a conceptual \"computation\" structure. -->\n<!-- speaker-notes: We'll start with the fundamental pillars. These are the basic building blocks you'll encounter in any computational context. -->\n\n### Abstraction\n*   Hides complex details, shows only essentials.\n*   Manages complexity by breaking systems into parts.\n*   **Example:** Car interface (steering, pedals) hides engine mechanics.\n*   **In Tech:** A function call (`print()`) hides internal display logic.\n\n### Algorithms\n*   Precise, step-by-step procedure to solve a problem.\n*   Like a recipe for a computer.\n*   **Example:** A cake recipe with defined steps and ingredients.\n*   **In Tech:** Sorting a list, searching a database, compressing files.\n\n### Data Structures\n*   Specialized ways to organize and store data.\n*   Impacts system performance significantly.\n*   **Example:** Shopping list (linear), family tree (tree structure).\n*   **In Tech:** Arrays, linked lists, trees, hash tables.\n\n### Computational Thinking\n*   Problem-solving process for computer execution.\n*   **Decomposition:** Breaking problems into smaller parts.\n*   **Pattern Recognition:** Identifying similarities or trends.\n*   **Abstraction:** Focusing on important information.\n*   **Algorithms:** Developing step-by-step solutions.\n\n## Expanding Your Toolkit (Intermediate)\n<!-- image-prompt: An open toolbox revealing more advanced, intricate tools alongside basic ones, symbolizing a deeper understanding and application of foundational concepts. -->\n<!-- speaker-notes: As you progress, these foundations take on deeper meaning. Now, we expand our toolkit to build more robust and efficient solutions. -->\n\n### Efficiency (Time and Space Complexity)\n*   How fast an algorithm runs (time complexity).\n*   How much memory it uses (space complexity).\n*   Inefficient code can take days vs. seconds.\n*   **Big O Notation:** Describes resource growth with input size.\n\n### Modularity & Reusability\n*   **Modularity:** Designing independent, interchangeable components.\n*   Each module performs a specific, defined function.\n*   **Reusability:** Components usable in different projects.\n*   Saves development time and reduces errors.\n\n### Scalability & Reliability\n*   **Scalability:** System's ability to handle growing work.\n*   **Reliability:** System performs correctly and consistently.\n*   Crucial considerations for robust system design.\n\n## Crafting Professional Systems (Industry Standards)\n<!-- image-prompt: A team of diverse engineers collaborating around a large whiteboard with architectural diagrams and flowcharts, illustrating systemic thinking and problem-solving. -->\n<!-- speaker-notes: At a professional level, you're not just applying these foundations; you're using them to make informed decisions and build maintainable, high-quality systems. -->\n\n### System Thinking\n*   Understanding how individual components interact.\n*   Holistic view of overall system function and behavior.\n*   Vital for designing robust architectures.\n\n### Trade-offs\n*   Every design decision involves compromises.\n*   **Examples:** Performance vs. simplicity, security vs. convenience.\n*   Recognizing and articulating trade-offs is key.\n\n### Software Engineering Principles\n*   Widely accepted guidelines for building software.\n*   **DRY:** Don't Repeat Yourself (reduces redundancy).\n*   **KISS:** Keep It Simple, Stupid (prioritizes clarity).\n*   **YAGNI:** You Aren't Gonna Need It (avoids over-engineering).\n*   Guide towards maintainable, efficient codebases.\n\n### Problem-Solving Flow\n```mermaid\ngraph LR\n    A[Problem Statement] --> B{Decomposition & Pattern Recognition};\n    B --> C[Identify Core Requirements];\n    C --> D[Choose/Design Algorithms & Data Structures];\n    D --> E[\"Design System Architecture (Modularity, Scalability)\"];\n    E --> F[Implement Solution];\n    F --> G{Test & Evaluate Efficiency/Reliability};\n    G -- Feedback --> D;\n    G -- Satisfied --> H[Deploy & Maintain];\n    H -- New Requirements/Issues --> A;\n```\n\n## Key Takeaways\n<!-- image-prompt: A stylized checklist or a \"lightbulb moment\" icon, representing the synthesis of learning and key points. -->\n<!-- speaker-notes: Let's summarize the essential foundations that will empower your technical journey. -->\n*   **Abstraction** simplifies complexity.\n*   **Algorithms** provide step-by-step solutions.\n*   **Data Structures** organize data efficiently.\n*   **Computational Thinking** is a problem-solving mindset.\n*   **Efficiency**, **Modularity**, **Scalability**, **Reliability** build robust systems.\n*   **System Thinking** and **Trade-offs** are crucial for professional design.\n*   Mastering these empowers you to tackle any technical challenge.",
       "frontmatter": {
-        "theme": "corporate-blue",
+        "theme": "minimal-white",
         "imageStyle": "illustration",
         "audienceLevel": "intermediate",
         "language": "en",
-        "narrationTone": "enthusiastic",
-        "slideCount": 15,
+        "narrationTone": "formal",
+        "slideCount": 14,
         "speechRate": 1,
         "speechPitch": 1,
-        "accentColor": "#0FBBFA"
+        "accentColor": "#0FBBFA",
+        "titleColor": "#1A2B45",
+        "bodyColor": "#5A6B85",
+        "font": "Arial"
       },
       "slides": [
         {
-          "id": "mrsst9vixgg5hg",
+          "id": "mrsu2a32sh23lu",
           "type": "title",
-          "title": "Professional Career Development",
-          "bullets": [
-            "Improve skills, knowledge, and experience",
-            "Intentional steps to grow and adapt",
-            "Achieve career aspirations",
-            "Stay relevant and find fulfillment",
-            "Maximize your potential"
-          ],
-          "speakerNotes": "Good morning/afternoon everyone. Today, we're diving into the crucial topic of professional career development. This isn't just about finding a job; it's an ongoing, strategic process. It's about continually enhancing your abilities, expanding your knowledge, and enriching your professional experience. We'll explore how intentional steps can help you grow, adapt to change, and ultimately achieve your most ambitious career goals.",
-          "narrationScript": "Welcome to our session on Professional Career Development. This journey is about continuously improving your skills and knowledge, taking deliberate steps to adapt, and achieving your career aspirations. It's essential for staying relevant, finding deep fulfillment, and maximizing your true potential in the professional world.",
-          "imagePrompt": "A vibrant, abstract infographic representing a journey or growth, with elements of learning, networking, and achievement.",
-          "order": 0
-        },
-        {
-          "id": "mrsst9vihoa5eo",
-          "type": "section",
-          "title": "Absolute Novice: Starting Your Journey",
+          "title": "Basic Foundations",
           "bullets": [],
-          "speakerNotes": "We begin at the foundational stage, the 'Absolute Novice.' This phase is all about self-discovery and laying the essential groundwork for your future career. It's where you explore your interests, understand your personal values, and begin to identify where you want to start your professional journey.",
-          "narrationScript": "Every significant journey has a starting point, and for professional development, that's the 'Absolute Novice' stage. Here, the focus is squarely on self-discovery and building a strong foundation. It's about understanding yourself and the world of work around you.",
-          "imagePrompt": "A person standing at a crossroads, looking at various paths, with a compass in hand.",
-          "order": 1
+          "speakerNotes": "Welcome to \"Basic Foundations\"! This module introduces the core, universal concepts that underpin all complex technical systems. Think of these as the bedrock – essential, regardless of your specific programming language or framework.",
+          "narrationScript": "Hello everyone, and welcome to \"Basic Foundations.\" Today, we'll explore the fundamental concepts that form the bedrock of all technical systems, regardless of specific technologies. These principles are universal and crucial for anyone working in tech.",
+          "imagePrompt": "A strong, illuminated bedrock foundation supporting various modern tech structures like apps, networks, and data centers.",
+          "order": 0,
+          "imageStyle": "flat-icon",
+          "image": {
+            "source": "pollinations",
+            "url": "https://image.pollinations.ai/prompt/A%20strong%2C%20illuminated%20bedrock%20foundation%20supporting%20various%20modern%20tech%20structures%20like%20apps%2C%20networks%2C%20and%20data%20centers.%2C%20flat%20icon%20style%2C%20vector%2C%20simple%20shapes?width=800&height=450&nologo=true",
+            "prompt": "A strong, illuminated bedrock foundation supporting various modern tech structures like apps, networks, and data centers.",
+            "layout": "full-background"
+          }
         },
         {
-          "id": "mrsst9vi1g8w3e",
+          "id": "mrsu2a32g5hzhk",
           "type": "content",
-          "title": "Absolute Novice: Self-Discovery & Goals",
+          "title": "Universal Foundations: The Bedrock of Tech",
           "bullets": [
-            "Assess interests, values, strengths",
-            "Identify areas for improvement",
-            "Define personal success metrics",
-            "Set simple, short-term goals"
+            "Core ideas for any complex system.",
+            "Transcends specific languages or technologies.",
+            "Become a more effective problem-solver.",
+            "Provides essential mental models.",
+            "Enhances your engineering capabilities."
           ],
-          "speakerNotes": "At this initial stage, deep self-assessment is paramount. Take time to truly understand your core interests, what you value most, and where your natural strengths lie. Equally important is to honestly identify your weaknesses. Then, clarify what success means to you, both personally and professionally, and set small, achievable goals to start building momentum.",
-          "narrationScript": "In this initial phase, it's crucial to assess your interests, values, and strengths, alongside areas where you can improve. Define what success truly means for you, then set simple, short-term goals to guide your very first steps in your career.",
-          "imagePrompt": "A person reflecting introspectively, surrounded by thought bubbles containing icons of interests, values, and goals.",
-          "order": 2
+          "speakerNotes": "This introductory slide sets the stage, emphasizing the broad applicability and importance of these foundational concepts. By understanding them, you're not just learning facts, but developing a framework for thinking about and building robust systems. These are not just theoretical concepts; they are practical tools for every engineer.",
+          "narrationScript": "These universal foundations are the core ideas that underpin every complex technical system you'll encounter. They transcend specific languages or technologies, making you a more effective problem-solver and engineer. Understanding these principles provides essential mental models for system design and empowers you with foundational knowledge.",
+          "imagePrompt": "an illustration of a strong foundation supporting various types of buildings (a mobile app, a global network, etc.), symbolizing diverse tech systems built on common principles.",
+          "order": 1,
+          "image": {
+            "source": "pollinations",
+            "url": "https://image.pollinations.ai/prompt/an%20illustration%20of%20a%20strong%20foundation%20supporting%20various%20types%20of%20buildings%20(a%20mobile%20app%2C%20a%20global%20network%2C%20etc.)%2C%20symbolizing%20diverse%20tech%20systems%20built%20on%20common%20principles.%2C%20digital%20illustration%2C%20clean%2C%20professional?width=800&height=450&nologo=true",
+            "prompt": "an illustration of a strong foundation supporting various types of buildings (a mobile app, a global network, etc.), symbolizing diverse tech systems built on common principles.",
+            "layout": "right-half"
+          }
         },
         {
-          "id": "mrsst9viy89b6z",
-          "type": "content",
-          "title": "Absolute Novice: Foundational Skills & Research",
-          "bullets": [
-            "Build foundational skills for entry roles",
-            "Learn basic industry knowledge",
-            "Research diverse career paths",
-            "Understand various job roles"
-          ],
-          "speakerNotes": "Once you have a clearer sense of self, the next step is to build foundational skills essential for entry-level positions. This might include communication, basic software proficiency, or teamwork. Simultaneously, invest time in researching different career paths, understanding various industries, and learning about the day-to-day realities of specific job roles. This knowledge will inform your early decisions.",
-          "narrationScript": "Beyond self-discovery, focus on building foundational skills necessary for entry-level roles. Actively research different career paths, explore various industries, and understand the specifics of different job roles to inform your initial choices.",
-          "imagePrompt": "A person at a desk, looking at a computer screen with career path diagrams and skill icons, holding a textbook.",
-          "order": 3
-        },
-        {
-          "id": "mrsst9vifipdnw",
+          "id": "mrsu2a32eoigpi",
           "type": "section",
-          "title": "Developing Professional: Building Momentum",
+          "title": "The Pillars of Computation (Beginner)",
           "bullets": [],
-          "speakerNotes": "Moving on to the 'Developing Professional' stage, this is where you actively expand your capabilities and start to establish your professional presence. You're no longer just exploring; you're building, learning, and making strategic choices to advance your career.",
-          "narrationScript": "As a 'Developing Professional,' you're now focused on building momentum. This stage is about actively expanding your capabilities, making strategic moves, and truly establishing your unique professional presence within your chosen field.",
-          "imagePrompt": "A person climbing a gentle slope, looking confident, with a backpack.",
-          "order": 4
+          "speakerNotes": "Now, we'll dive into the four fundamental pillars that form the basic building blocks of computation. These concepts are often introduced early in any technical education and provide the essential vocabulary for discussing how computers solve problems.",
+          "narrationScript": "Let's begin our journey with the fundamental pillars of computation. These are the basic building blocks you'll encounter in any computational context, forming the core of how we understand and interact with computer systems.",
+          "imagePrompt": "Four distinct, stylized pillars labeled Abstraction, Algorithms, Data Structures, and Computational Thinking supporting a conceptual \"computation\" structure.",
+          "order": 2,
+          "image": {
+            "source": "pollinations",
+            "url": "https://image.pollinations.ai/prompt/Four%20distinct%2C%20stylized%20pillars%20labeled%20Abstraction%2C%20Algorithms%2C%20Data%20Structures%2C%20and%20Computational%20Thinking%20supporting%20a%20conceptual%20%22computation%22%20structure.%2C%20digital%20illustration%2C%20clean%2C%20professional?width=800&height=450&nologo=true",
+            "prompt": "Four distinct, stylized pillars labeled Abstraction, Algorithms, Data Structures, and Computational Thinking supporting a conceptual \"computation\" structure.",
+            "layout": "right-half"
+          }
         },
         {
-          "id": "mrsst9vibj0323",
+          "id": "mrsu2a32fcsexl",
           "type": "content",
-          "title": "Developing Professional: Specialized Skills & Network",
+          "title": "Pillar 1: Abstraction",
           "bullets": [
-            "Develop specialized skills",
-            "Skills relevant to your career path",
-            "Actively build professional relationships",
-            "Expand your professional network"
+            "Hides complex details, shows essentials.",
+            "Manages complexity; breaks systems into parts.",
+            "Example: Car interface hides engine mechanics.",
+            "In Tech: Function call hides internal logic."
           ],
-          "speakerNotes": "In this stage, you transition from general foundational skills to developing specialized expertise. Identify the key skills that are critical for growth in your chosen career path and dedicate time to mastering them. Alongside skill development, proactively engage in networking. Build genuine professional relationships; these connections are invaluable for mentorship, opportunities, and industry insights.",
-          "narrationScript": "Now, it's time to develop specialized skills directly relevant to your career path. Concurrently, actively build and nurture your professional network. These relationships are crucial for learning, mentorship, and unlocking future opportunities.",
-          "imagePrompt": "A professional person confidently exchanging business cards and ideas with others in a modern networking event setting.",
-          "order": 5
+          "speakerNotes": "Abstraction is a powerful concept that allows us to manage complexity. By focusing only on the necessary details and hiding the underlying intricate processes, we can build and understand systems more effectively. It's about creating a simplified view of a more complex reality.",
+          "narrationScript": "Our first pillar is Abstraction. This principle allows us to hide complex details, revealing only the essential information needed to interact with a system. It's how we manage complexity, by breaking down large systems into manageable, simpler parts.",
+          "imagePrompt": "Pillar 1: Abstraction: Hides complex details, shows essentials.",
+          "order": 3,
+          "image": {
+            "source": "pollinations",
+            "url": "https://image.pollinations.ai/prompt/Pillar%201%3A%20Abstraction%3A%20Hides%20complex%20details%2C%20shows%20essentials.%2C%20digital%20illustration%2C%20clean%2C%20professional?width=800&height=450&nologo=true",
+            "prompt": "Pillar 1: Abstraction: Hides complex details, shows essentials.",
+            "layout": "right-half"
+          }
         },
         {
-          "id": "mrsst9vi2eu2la",
+          "id": "mrsu2a32y2mlpq",
           "type": "content",
-          "title": "Developing Professional: Brand & Mentorship",
+          "title": "Pillar 2: Algorithms",
           "bullets": [
-            "Define your professional identity",
-            "Project your personal brand",
-            "Seek constructive feedback",
-            "Find a mentor for guidance"
+            "Precise, step-by-step procedure to solve a problem.",
+            "Like a recipe for a computer.",
+            "Example: A cake recipe with defined steps.",
+            "In Tech: Sorting a list, searching a database.",
+            "Crucial for problem-solving efficiency."
           ],
-          "speakerNotes": "Your professional identity, or personal brand, becomes increasingly important here. Clearly define what you stand for and how you want to be perceived, then consciously project that image. Actively seek out constructive feedback from peers and superiors; view it as a gift for improvement. Furthermore, finding a mentor can provide invaluable guidance, insights, and support as you navigate your career.",
-          "narrationScript": "It's time to define and project your unique professional identity, your personal brand. Proactively seek constructive feedback, viewing it as an opportunity for growth. And crucially, find a mentor who can offer invaluable guidance and support as you continue to develop.",
-          "imagePrompt": "A younger professional engaged in a conversation with an older, experienced mentor in a comfortable office setting.",
-          "order": 6
+          "speakerNotes": "Algorithms are the heart of how computers solve problems. They are precise, unambiguous sets of instructions. Understanding how to design and analyze algorithms is critical for developing efficient and effective software solutions.",
+          "narrationScript": "Next, we have Algorithms: a precise, step-by-step procedure designed to solve a specific problem. Think of it like a recipe for a computer, detailing exactly how to achieve a desired outcome. Whether it's sorting a list or searching a database, algorithms are fundamental to computation.",
+          "imagePrompt": "Pillar 2: Algorithms: Precise, step-by-step procedure to solve a problem.",
+          "order": 4,
+          "image": {
+            "source": "pollinations",
+            "url": "https://image.pollinations.ai/prompt/Pillar%202%3A%20Algorithms%3A%20Precise%2C%20step-by-step%20procedure%20to%20solve%20a%20problem.%2C%20digital%20illustration%2C%20clean%2C%20professional?width=800&height=450&nologo=true",
+            "prompt": "Pillar 2: Algorithms: Precise, step-by-step procedure to solve a problem.",
+            "layout": "right-half"
+          }
         },
         {
-          "id": "mrsst9vio9b8w8",
+          "id": "mrsu2a323z9fx5",
+          "type": "content",
+          "title": "Pillar 3: Data Structures",
+          "bullets": [
+            "Specialized ways to organize and store data.",
+            "Impacts system performance significantly.",
+            "Example: Shopping list (linear), family tree (tree).",
+            "In Tech: Arrays, linked lists, trees, hash tables.",
+            "Choose the right structure for the job."
+          ],
+          "speakerNotes": "Data structures are about how we arrange information so that it can be accessed and manipulated efficiently. The choice of data structure can drastically impact an algorithm's performance, so selecting the appropriate one for a given task is a key skill.",
+          "narrationScript": "The third pillar is Data Structures – specialized ways to organize and store data. The method you choose dramatically impacts system performance. From simple shopping lists to complex family trees, selecting the right structure is vital for efficient data management in technology.",
+          "imagePrompt": "Pillar 3: Data Structures: Specialized ways to organize and store data.",
+          "order": 5,
+          "image": {
+            "source": "pollinations",
+            "url": "https://image.pollinations.ai/prompt/Pillar%203%3A%20Data%20Structures%3A%20Specialized%20ways%20to%20organize%20and%20store%20data.%2C%20digital%20illustration%2C%20clean%2C%20professional?width=800&height=450&nologo=true",
+            "prompt": "Pillar 3: Data Structures: Specialized ways to organize and store data.",
+            "layout": "right-half"
+          }
+        },
+        {
+          "id": "mrsu2a32i4ck1v",
+          "type": "content",
+          "title": "Pillar 4: Computational Thinking",
+          "bullets": [
+            "Problem-solving process for computer execution.",
+            "Decomposition: Break problems into smaller parts.",
+            "Pattern Recognition: Identify similarities or trends.",
+            "Abstraction: Focus on important information.",
+            "Algorithms: Develop step-by-step solutions."
+          ],
+          "speakerNotes": "Computational Thinking isn't just about programming; it's a mental framework for approaching problems in a way that allows them to be solved by computers. It involves breaking down complex issues and systematically developing solutions. These four components are interconnected and iteratively applied.",
+          "narrationScript": "Finally, Computational Thinking is a powerful problem-solving process, enabling us to approach challenges in a way computers can understand. It involves breaking problems into smaller parts, recognizing patterns, abstracting essential details, and developing precise algorithmic solutions.",
+          "imagePrompt": "Pillar 4: Computational Thinking: Problem-solving process for computer execution.",
+          "order": 6,
+          "image": {
+            "source": "pollinations",
+            "url": "https://image.pollinations.ai/prompt/Pillar%204%3A%20Computational%20Thinking%3A%20Problem-solving%20process%20for%20computer%20execution.%2C%20digital%20illustration%2C%20clean%2C%20professional?width=800&height=450&nologo=true",
+            "prompt": "Pillar 4: Computational Thinking: Problem-solving process for computer execution.",
+            "layout": "right-half"
+          }
+        },
+        {
+          "id": "mrsu2a32uhfrow",
           "type": "section",
-          "title": "Experienced Professional: Leading & Contributing",
+          "title": "Expanding Your Toolkit (Intermediate)",
           "bullets": [],
-          "speakerNotes": "As an 'Experienced Professional,' you're no longer just contributing individually; you're making significant impacts and often stepping into leadership roles. This stage is characterized by greater responsibility, strategic involvement, and a shift towards guiding others.",
-          "narrationScript": "Now, as an 'Experienced Professional,' you're making significant contributions and taking on greater leadership. This phase is about leveraging your expertise, influencing outcomes, and guiding teams towards shared goals.",
-          "imagePrompt": "A person standing on a higher vantage point, guiding a small team, looking at a map.",
-          "order": 7
+          "speakerNotes": "As you progress beyond the basics, these foundational concepts take on deeper meaning. We'll now explore how to apply them to build more robust, efficient, and maintainable solutions in real-world scenarios. This section bridges beginner concepts with practical application.",
+          "narrationScript": "Now, we expand our toolkit beyond the absolute basics. As you deepen your understanding, these foundations take on new meaning, allowing us to build more robust and efficient solutions. This is where we start to apply foundational knowledge in more advanced ways.",
+          "imagePrompt": "An open toolbox revealing more advanced, intricate tools alongside basic ones, symbolizing a deeper understanding and application of foundational concepts.",
+          "order": 7,
+          "image": {
+            "source": "pollinations",
+            "url": "https://image.pollinations.ai/prompt/An%20open%20toolbox%20revealing%20more%20advanced%2C%20intricate%20tools%20alongside%20basic%20ones%2C%20symbolizing%20a%20deeper%20understanding%20and%20application%20of%20foundational%20concepts.%2C%20digital%20illustration%2C%20clean%2C%20professional?width=800&height=450&nologo=true",
+            "prompt": "An open toolbox revealing more advanced, intricate tools alongside basic ones, symbolizing a deeper understanding and application of foundational concepts.",
+            "layout": "right-half"
+          }
         },
         {
-          "id": "mrsst9vif18nn3",
+          "id": "mrsu2a32xzz4h2",
           "type": "content",
-          "title": "Experienced Professional: Leadership & Strategy",
+          "title": "Efficiency: Time and Space Complexity",
           "bullets": [
-            "Cultivate leadership capabilities",
-            "Develop team management skills",
-            "Enhance influence skills",
-            "Contribute to strategic planning",
-            "Solve complex problems"
+            "How fast an algorithm runs (time complexity).",
+            "How much memory it uses (space complexity).",
+            "Inefficient code can take days vs. seconds.",
+            "Big O Notation: Describes resource growth.",
+            "Critical for performance optimization."
           ],
-          "speakerNotes": "At this level, cultivating strong leadership and team management skills is essential. You'll be guiding projects and people, so understanding how to motivate, delegate, and inspire is key. Your ability to influence decisions and contribute meaningfully to strategic planning and complex problem-solving within your organization will define your impact.",
-          "narrationScript": "As an experienced professional, you're cultivating leadership and team management skills. You're influencing decisions, contributing to strategic planning, and actively solving complex problems that drive your organization forward.",
-          "imagePrompt": "A confident team leader facilitating a collaborative brainstorming session around a whiteboard with strategic diagrams.",
-          "order": 8
+          "speakerNotes": "Efficiency is paramount in software development. Understanding time and space complexity allows engineers to predict and analyze an algorithm's performance before writing a single line of code. Big O Notation is the standard language for communicating this analysis, essential for optimizing solutions.",
+          "narrationScript": "Efficiency is about how fast an algorithm runs, its time complexity, and how much memory it uses, its space complexity. Inefficient code can turn seconds into days. Big O Notation is our tool for describing how these resource needs grow with input size, making it critical for performance.",
+          "imagePrompt": "Efficiency: Time and Space Complexity: How fast an algorithm runs (time complexity).",
+          "order": 8,
+          "image": {
+            "source": "pollinations",
+            "url": "https://image.pollinations.ai/prompt/Efficiency%3A%20Time%20and%20Space%20Complexity%3A%20How%20fast%20an%20algorithm%20runs%20(time%20complexity).%2C%20digital%20illustration%2C%20clean%2C%20professional?width=800&height=450&nologo=true",
+            "prompt": "Efficiency: Time and Space Complexity: How fast an algorithm runs (time complexity).",
+            "layout": "right-half"
+          }
         },
         {
-          "id": "mrsst9vihtbqfi",
+          "id": "mrsu2a32ol3md7",
           "type": "content",
-          "title": "Experienced Professional: Mentorship & Adaptation",
+          "title": "System Qualities: Modularity, Reusability, Scalability, Reliability",
           "bullets": [
-            "Continuously learn and adapt",
-            "Stay current with industry changes",
-            "Mentor junior colleagues",
-            "Share knowledge and experience",
-            "Develop advanced negotiation skills"
+            "Modularity: Independent, interchangeable components.",
+            "Reusability: Components usable in different projects.",
+            "Scalability: System handles growing work.",
+            "Reliability: System performs correctly and consistently.",
+            "Crucial for robust, maintainable systems."
           ],
-          "speakerNotes": "Continuous learning and adaptability remain critical, as industries are constantly evolving. You're expected to stay abreast of the latest trends and technologies. A significant aspect of this stage is giving back: mentoring junior colleagues, sharing your accumulated knowledge and experience. Additionally, refining advanced conflict resolution and negotiation skills will be crucial for navigating complex professional interactions.",
-          "narrationScript": "Continuous learning and adapting to industry changes are paramount for the experienced professional. You also take on the role of a mentor, sharing your valuable knowledge with junior colleagues. Furthermore, refining advanced skills like negotiation is crucial for your increasing responsibilities.",
-          "imagePrompt": "An experienced professional sharing insights and guiding a younger colleague through a project, symbolizing mentorship.",
-          "order": 9
+          "speakerNotes": "These four qualities are crucial for designing and building professional-grade software. Modularity and reusability promote cleaner codebases and faster development. Scalability and reliability ensure that systems can grow with demand and operate dependably, which are non-negotiable for critical applications.",
+          "narrationScript": "Designing professional systems means prioritizing key qualities. Modularity ensures independent components; reusability lets us use code across projects. Scalability means a system can handle growth, and reliability guarantees it performs consistently. These are foundational for building robust, future-proof software.",
+          "imagePrompt": "System Qualities: Modularity, Reusability, Scalability, Reliability: Modularity: Independent, interchangeable components.",
+          "order": 9,
+          "image": {
+            "source": "pollinations",
+            "url": "https://image.pollinations.ai/prompt/System%20Qualities%3A%20Modularity%2C%20Reusability%2C%20Scalability%2C%20Reliability%3A%20Modularity%3A%20Independent%2C%20interchangeable%20components.%2C%20digital%20illustration%2C%20clean%2C%20professional?width=800&height=450&nologo=true",
+            "prompt": "System Qualities: Modularity, Reusability, Scalability, Reliability: Modularity: Independent, interchangeable components.",
+            "layout": "right-half"
+          }
         },
         {
-          "id": "mrsst9vilq51mu",
+          "id": "mrsu2a3208ooiw",
           "type": "section",
-          "title": "Industry Standard: Shaping the Future",
+          "title": "Crafting Professional Systems (Industry Standards)",
           "bullets": [],
-          "speakerNotes": "Finally, we reach the pinnacle: 'Industry Standard.' This is where you are recognized not just as an expert, but as an innovator and a thought leader. You are actively helping to define the direction and future of your entire field.",
-          "narrationScript": "Reaching 'Industry Standard' means you are truly recognized as an expert and an innovator. You're no longer just following trends; you're helping to shape the very future and direction of your entire industry.",
-          "imagePrompt": "A visionary leader standing at the top of a mountain, looking confidently towards a futuristic city, with innovation symbols.",
-          "order": 10
+          "speakerNotes": "At a professional level, you're not just applying these foundations; you're using them to make informed decisions and build maintainable, high-quality systems. This section covers the mindset and principles that define excellent software engineering.",
+          "narrationScript": "Now, we'll explore how these foundational concepts translate into crafting professional-grade systems that meet industry standards. This involves moving beyond individual components to consider the holistic system, making informed design choices, and adhering to best practices.",
+          "imagePrompt": "A team of diverse engineers collaborating around a large whiteboard with architectural diagrams and flowcharts, illustrating systemic thinking and problem-solving.",
+          "order": 10,
+          "image": {
+            "source": "pollinations",
+            "url": "https://image.pollinations.ai/prompt/A%20team%20of%20diverse%20engineers%20collaborating%20around%20a%20large%20whiteboard%20with%20architectural%20diagrams%20and%20flowcharts%2C%20illustrating%20systemic%20thinking%20and%20problem-solving.%2C%20digital%20illustration%2C%20clean%2C%20professional?width=800&height=450&nologo=true",
+            "prompt": "A team of diverse engineers collaborating around a large whiteboard with architectural diagrams and flowcharts, illustrating systemic thinking and problem-solving.",
+            "layout": "right-half"
+          }
         },
         {
-          "id": "mrsst9vi16024m",
+          "id": "mrsu2a32dhkhhv",
           "type": "content",
-          "title": "Industry Standard: Thought Leadership & Executive Presence",
+          "title": "System Thinking and Trade-offs",
           "bullets": [
-            "Share expertise via presentations",
-            "Publish thought leadership content",
-            "Contribute to industry standards",
-            "Cultivate strong executive presence",
-            "Master impactful communication"
+            "System Thinking: Understand component interactions.",
+            "Holistic view of overall system function.",
+            "Every design decision involves compromises.",
+            "Examples: Performance vs. simplicity.",
+            "Recognizing trade-offs is key."
           ],
-          "speakerNotes": "At this level, sharing your expertise broadly is key. This means presenting at conferences, publishing articles or research, and actively contributing to shaping industry standards and best practices. Cultivating a strong executive presence and mastering impactful communication become vital for influencing broader audiences and shaping industry narratives.",
-          "narrationScript": "As an industry standard professional, you share your expertise through presentations and publications, actively contributing to industry standards. You cultivate a strong executive presence and master impactful communication to lead and inspire.",
-          "imagePrompt": "A speaker on stage delivering an engaging presentation to a large, attentive audience at a major industry conference.",
-          "order": 11
+          "speakerNotes": "System thinking is about seeing the forest, not just the trees – understanding how individual parts contribute to the whole. Coupled with this is the constant need to make trade-offs. No single solution is perfect; recognizing and articulating these compromises is a hallmark of an experienced engineer.",
+          "narrationScript": "System Thinking means understanding how all individual components interact to form a cohesive whole. It's vital for designing robust architectures. Alongside this, every design decision involves trade-offs; for instance, balancing performance against simplicity. Recognizing and articulating these compromises is crucial for effective engineering.",
+          "imagePrompt": "System Thinking and Trade-offs: System Thinking: Understand component interactions.",
+          "order": 11,
+          "image": {
+            "source": "pollinations",
+            "url": "https://image.pollinations.ai/prompt/System%20Thinking%20and%20Trade-offs%3A%20System%20Thinking%3A%20Understand%20component%20interactions.%2C%20digital%20illustration%2C%20clean%2C%20professional?width=800&height=450&nologo=true",
+            "prompt": "System Thinking and Trade-offs: System Thinking: Understand component interactions.",
+            "layout": "right-half"
+          }
         },
         {
-          "id": "mrsst9vimu3xf5",
+          "id": "mrsu2a32gydc06",
           "type": "content",
-          "title": "Industry Standard: Global Impact & Legacy",
+          "title": "Software Engineering Principles",
           "bullets": [
-            "Understand global markets",
-            "Navigate international business",
-            "Drive strategic organizational change",
-            "Foster innovation and growth",
-            "Focus on building a lasting legacy"
+            "Widely accepted guidelines for building software.",
+            "DRY: Don't Repeat Yourself (reduces redundancy).",
+            "KISS: Keep It Simple, Stupid (prioritizes clarity).",
+            "YAGNI: You Aren't Gonna Need It (avoids over-engineering).",
+            "Guide towards maintainable, efficient code."
           ],
-          "speakerNotes": "Your influence extends to understanding global markets and navigating complex international business practices. You are a catalyst for strategic impact, driving significant organizational change and fostering innovation that leads to sustainable growth. Ultimately, this stage is about looking beyond immediate goals to focus on building a lasting, positive legacy that benefits your organization and the industry as a whole.",
-          "narrationScript": "At this pinnacle, you understand global markets and drive strategic organizational change. Your focus is on fostering innovation and building a lasting, positive legacy that impacts not just your organization, but the entire industry on a global scale.",
-          "imagePrompt": "A person standing in front of a holographic globe, pointing to various regions, with interconnected data points and innovation symbols.",
-          "order": 12
+          "speakerNotes": "These principles are tried-and-true guidelines that lead to better software. DRY prevents code duplication, KISS promotes clarity and ease of maintenance, and YAGNI saves time by avoiding unnecessary features. Adhering to these makes codebases more robust and easier to evolve.",
+          "narrationScript": "Software engineering principles are widely accepted guidelines that help us build high-quality software. Think of DRY: Don't Repeat Yourself, which reduces redundancy. KISS: Keep It Simple, Stupid, prioritizing clarity. And YAGNI: You Aren't Gonna Need It, which helps avoid over-engineering. These principles guide us toward maintainable and efficient codebases.",
+          "imagePrompt": "Software Engineering Principles: Widely accepted guidelines for building software.",
+          "order": 12,
+          "image": {
+            "source": "pollinations",
+            "url": "https://image.pollinations.ai/prompt/Software%20Engineering%20Principles%3A%20Widely%20accepted%20guidelines%20for%20building%20software.%2C%20digital%20illustration%2C%20clean%2C%20professional?width=800&height=450&nologo=true",
+            "prompt": "Software Engineering Principles: Widely accepted guidelines for building software.",
+            "layout": "right-half"
+          }
         },
         {
-          "id": "mrsst9vinvr44o",
+          "id": "mrsu2a32iwrnlm",
           "type": "content",
-          "title": "Visualizing the Career Journey",
+          "title": "The Problem-Solving Flow",
           "bullets": [
-            "Starts with self-discovery",
-            "Progresses to skill specialization",
-            "Transitions to leadership roles",
-            "Culminates in industry expertise",
-            "Involves continuous learning",
-            "An upward, evolving path"
+            "Problem Statement leads to Decomposition.",
+            "Identify Core Requirements and Patterns.",
+            "Choose/Design Algorithms & Data Structures.",
+            "Design System Architecture (Modularity, Scalability).",
+            "Implement, Test, Evaluate, and Iterate."
           ],
-          "speakerNotes": "This visual representation highlights the fluid and continuous nature of professional career development. It's not a ladder with fixed rungs, but rather a winding path where each stage builds upon the last. From absolute novice to industry standard, the journey involves distinct phases of learning, contribution, and leadership, emphasizing that growth is always ongoing. This visual encapsulates the continuous movement from foundational learning to profound impact.",
-          "narrationScript": "Here, we see the complete career development journey as a continuous, upward path. It begins with self-discovery, progresses through skill specialization and building your brand, then moves into leadership and strategic impact, culminating in becoming an industry expert and thought leader. Remember, it's an ever-evolving process.",
-          "imagePrompt": "An abstract visual representation of a winding path or staircase leading upwards, with distinct stages marked along the way.",
-          "order": 13
+          "speakerNotes": "This flowchart illustrates a typical iterative problem-solving process in software engineering. It's not a linear path but a cycle of analysis, design, implementation, and evaluation. Feedback loops are essential for refining solutions and adapting to new information or requirements.",
+          "narrationScript": "This diagram illustrates a typical problem-solving flow in tech. It begins with a problem statement, moves through decomposition and requirement identification, then to designing algorithms and architecture. The process is iterative, involving implementation, testing, and continuous evaluation, cycling back as needed.",
+          "imagePrompt": "The Problem-Solving Flow: Problem Statement leads to Decomposition.",
+          "order": 13,
+          "image": {
+            "source": "pollinations",
+            "url": "https://image.pollinations.ai/prompt/The%20Problem-Solving%20Flow%3A%20Problem%20Statement%20leads%20to%20Decomposition.%2C%20digital%20illustration%2C%20clean%2C%20professional?width=800&height=450&nologo=true",
+            "prompt": "The Problem-Solving Flow: Problem Statement leads to Decomposition.",
+            "layout": "right-half"
+          }
         },
         {
-          "id": "mrsst9viwshdby",
+          "id": "mrsu2a32z51ni5",
           "type": "closing",
-          "title": "Key Takeaways for Your Career Path",
+          "title": "Key Takeaways",
           "bullets": [
-            "Career development is lifelong",
-            "Self-awareness is foundational",
-            "Seek learning opportunities",
-            "Embrace constructive feedback",
-            "Mentor others, contribute always",
-            "Continuous learning is crucial"
+            "Abstraction simplifies complexity.",
+            "Algorithms provide step-by-step solutions.",
+            "Data Structures organize data efficiently.",
+            "Computational Thinking solves problems systematically.",
+            "Efficiency, Modularity, Scalability build robust systems.",
+            "System Thinking and Trade-offs guide design.",
+            "Mastering these empowers any technical challenge."
           ],
-          "speakerNotes": "To summarize our discussion, remember these core principles. Career development is not a one-time event; it's a continuous, lifelong journey of growth. Self-awareness is your compass, guiding your choices. Actively seek out new learning opportunities and embrace feedback as a valuable tool for improvement. Remember to pay it forward by mentoring others, and most importantly, never stop learning to remain relevant and impactful.",
-          "narrationScript": "In closing, remember that career development is a continuous, lifelong journey. Your self-awareness is your guide, and actively seeking learning opportunities is paramount. Embrace constructive feedback, and always look for ways to mentor others and contribute. Continuous learning isn't just an option; it's essential for staying relevant and achieving your full potential.",
-          "imagePrompt": "A collection of lightbulbs illuminating, symbolizing ideas and insights, arranged in a thought-bubble shape.",
-          "order": 14
+          "speakerNotes": "To conclude, remember that these foundations are interconnected and build upon each other. Mastering them provides a powerful toolkit for any technical challenge, making you a more versatile and capable engineer. Continue to practice and apply these principles in your work.",
+          "narrationScript": "To summarize, remember that Abstraction simplifies complexity, and Algorithms provide precise solutions. Data Structures organize data efficiently, while Computational Thinking offers a systematic approach to problems. Prioritize Efficiency, Modularity, Scalability, and Reliability for robust systems. Finally, System Thinking and understanding Trade-offs are crucial for professional design. Mastering these foundations empowers you to tackle any technical challenge with confidence.",
+          "imagePrompt": "A stylized checklist or a \"lightbulb moment\" icon, representing the synthesis of learning and key points.",
+          "order": 14,
+          "image": {
+            "source": "pollinations",
+            "url": "https://image.pollinations.ai/prompt/A%20stylized%20checklist%20or%20a%20%22lightbulb%20moment%22%20icon%2C%20representing%20the%20synthesis%20of%20learning%20and%20key%20points.%2C%20digital%20illustration%2C%20clean%2C%20professional?width=800&height=450&nologo=true",
+            "prompt": "A stylized checklist or a \"lightbulb moment\" icon, representing the synthesis of learning and key points.",
+            "layout": "right-half"
+          }
         }
       ],
-      "createdAt": 1784523176361,
-      "updatedAt": 1784526285234
+      "createdAt": 1784528221169,
+      "updatedAt": 1784528429647
     },
     {
       "id": "mrsazeeu5xvyzq",
