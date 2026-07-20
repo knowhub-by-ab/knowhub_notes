@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-07-20T13:29:24.291Z",
+  "exportedAt": "2026-07-20T13:33:35.605Z",
   "decks": [
     {
       "id": "mrt80m2gp75422",
@@ -144,7 +144,7 @@
         },
         {
           "id": "mrt80zjgon364b",
-          "type": "closing",
+          "type": "content",
           "title": "Key Takeaways: Your Career Growth Path",
           "bullets": [
             "Continuous Journey: Career development is an ongoing process.",
@@ -161,7 +161,7 @@
         }
       ],
       "createdAt": 1784551717816,
-      "updatedAt": 1784553610192
+      "updatedAt": 1784554169179
     },
     {
       "id": "mrsywi6d6o13k1",
