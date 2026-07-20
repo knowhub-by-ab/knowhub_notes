@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-07-20T13:15:22.418Z",
+  "exportedAt": "2026-07-20T13:17:48.856Z",
   "decks": [
     {
       "id": "mrt80m2gp75422",
@@ -12,14 +12,15 @@
         "imageStyle": "illustration",
         "audienceLevel": "intermediate",
         "language": "en",
-        "narrationTone": "formal",
-        "slideCount": 6,
-        "speechRate": 1,
+        "narrationTone": "enthusiastic",
+        "slideCount": 15,
+        "speechRate": 0.6,
         "speechPitch": 1,
         "accentColor": "#f70cd4",
         "bodyColor": "#0fbbfa",
         "titleColor": "#ebe6ea",
-        "font": "Verdana"
+        "font": "Verdana",
+        "voiceName": "Microsoft Zira - English (United States)"
       },
       "slides": [
         {
@@ -158,7 +159,7 @@
         }
       ],
       "createdAt": 1784551717816,
-      "updatedAt": 1784552059467
+      "updatedAt": 1784553438936
     },
     {
       "id": "mrsywi6d6o13k1",
