@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-07-20T13:17:48.856Z",
+  "exportedAt": "2026-07-20T13:22:46.886Z",
   "decks": [
     {
       "id": "mrt80m2gp75422",
@@ -71,7 +71,9 @@
             "source": "pollinations",
             "url": "https://image.pollinations.ai/prompt/A%20person%20at%20a%20crossroads%2C%20looking%20at%20different%20paths%20with%20question%20marks%2C%20symbolizing%20self-discovery%20and%20foundational%20choices.%2C%20digital%20illustration%2C%20clean%2C%20professional?width=800&height=450&nologo=true",
             "prompt": "A person at a crossroads, looking at different paths with question marks, symbolizing self-discovery and foundational choices.",
-            "layout": "right-half"
+            "layout": "right-half",
+            "imageRatio": "1:1",
+            "objectFit": "contain"
           }
         },
         {
@@ -159,7 +161,7 @@
         }
       ],
       "createdAt": 1784551717816,
-      "updatedAt": 1784553438936
+      "updatedAt": 1784553610192
     },
     {
       "id": "mrsywi6d6o13k1",
