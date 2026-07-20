@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-07-20T12:52:44.937Z",
+  "exportedAt": "2026-07-20T12:58:35.073Z",
   "decks": [
     {
       "id": "mrt80m2gp75422",
@@ -8,7 +8,7 @@
       "sourceNodeId": "mr0g929r44x4tu",
       "sourceMd": "# Professional Career Development\n\nProfessional career development is an ongoing process to improve skills, knowledge, and experience. It's about taking intentional steps to grow, adapt, and achieve your career aspirations. This journey is crucial for staying relevant, finding fulfillment, and maximizing potential.\n\n---\n\n## Absolute Novice: Starting Your Journey\n<!-- image-prompt: A person at a crossroads, looking at different paths with question marks, symbolizing self-discovery and foundational choices. -->\n<!-- speaker-notes: This is the initial phase, where individuals are just beginning to explore their professional identity. The focus is on introspection and understanding basic possibilities. -->\n\n### Key Actions:\n\n*   **Self-Assessment:** Understand your interests, values, strengths, and weaknesses.\n*   **Basic Goal Setting:** Define personal and professional success; set simple, achievable goals.\n*   **Foundational Skill Building:** Identify and develop essential skills for entry-level roles.\n*   **Information Gathering:** Research career paths, industries, and specific job roles.\n\n---\n\n## Developing Professional: Building Momentum\n<!-- image-prompt: A person climbing a gentle slope, gaining confidence and momentum, with tools like a network symbol and a thought bubble for specialized skills. -->\n<!-- speaker-notes: At this stage, you're actively seeking to expand capabilities and establish your presence. It's about strategic learning and active engagement. -->\n\n### Key Actions:\n\n*   **Skill Specialization:** Develop expertise in specific areas relevant to your career.\n*   **Networking:** Build professional relationships, attend events, join industry groups.\n*   **Personal Brand Development:** Define and project your professional identity online and offline.\n*   **Seeking Feedback:** Actively solicit constructive criticism for continuous improvement.\n*   **Mentorship:** Find a mentor to provide guidance, advice, and career support.\n\n---\n\n## Experienced Professional: Leading and Contributing\n<!-- image-prompt: A person standing on a higher platform, guiding others below, with gears and strategic chess pieces in the background. -->\n<!-- speaker-notes: Here, you're making significant contributions and possibly taking on leadership roles. Your focus shifts towards strategic impact and guiding others. -->\n\n### Key Actions:\n\n*   **Leadership Development:** Cultivate skills in leading teams, projects, and influencing.\n*   **Strategic Thinking:** Connect daily tasks to broader organizational goals.\n*   **Continuous Learning & Adaptation:** Stay abreast of industry trends and new technologies.\n*   **Mentoring Others:** Share knowledge and experience with junior colleagues.\n*   **Conflict Resolution & Negotiation:** Develop advanced interpersonal skills for complex situations.\n\n---\n\n## Industry Standard: Shaping the Future\n<!-- image-prompt: A recognized expert speaking at a conference podium to a large audience, with global maps and innovative tech symbols. -->\n<!-- speaker-notes: Reaching this level means you are recognized as an expert and an innovator. You are helping to define your field's direction. -->\n\n### Key Actions:\n\n*   **Thought Leadership:** Share expertise via presentations, publications, and industry standards.\n*   **Executive Presence:** Cultivate confidence, clear communication, and gravitas.\n*   **Global Perspective:** Understand diverse markets, cultures, and international practices.\n*   **Strategic Impact & Innovation:** Drive organizational change, develop new solutions.\n*   **Legacy Building:** Focus on leaving a lasting positive impact on your field.\n\n---\n\n## Career Development Journey\n<!-- image-prompt: A stylized roadmap or a flowing path showing distinct stages from \"Novice\" to \"Industry Standard\" with progress markers. -->\n<!-- speaker-notes: This visual illustrates the progressive nature of career development, highlighting key transition points between stages. -->\n\n```mermaid\ngraph TD\n    A[Absolute Novice] --> B{Self-Discovery & Basic Skills}\n    B --> C[Developing Professional]\n    C --> D{Specialization & Personal Brand}\n    D --> E[Experienced Professional]\n    E --> F{Leadership & Strategic Impact}\n    F --> G[Industry Standard]\n    G --> H{Thought Leadership & Legacy}\n```\n\n---\n\n## Key Takeaways\n\n*   **Continuous Journey:** Career development is an ongoing process, not a destination.\n*   **Self-Awareness:** Understanding yourself is the foundation for effective growth.\n*   **Active Participation:** Proactively seek out learning, networking, and new challenges.\n*   **Embrace Feedback:** View constructive criticism as a valuable tool for improvement.\n*   **Give Back:** Mentoring others is key to higher professional development.\n*   **Stay Relevant:** Continuous learning is essential in an evolving professional world.",
       "frontmatter": {
-        "theme": "corporate-blue",
+        "theme": "aurora-dark",
         "imageStyle": "illustration",
         "audienceLevel": "intermediate",
         "language": "en",
@@ -16,7 +16,10 @@
         "slideCount": 6,
         "speechRate": 1,
         "speechPitch": 1,
-        "accentColor": "#f70cd4"
+        "accentColor": "#f70cd4",
+        "bodyColor": "#0fbbfa",
+        "titleColor": "#ebe6ea",
+        "font": "Verdana"
       },
       "slides": [
         {
@@ -155,7 +158,7 @@
         }
       ],
       "createdAt": 1784551717816,
-      "updatedAt": 1784551899704
+      "updatedAt": 1784552059467
     },
     {
       "id": "mrsywi6d6o13k1",
