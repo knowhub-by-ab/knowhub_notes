@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-21T20:23:07.786Z",
+  "exportedAt": "2026-07-21T20:27:17.885Z",
   "nodes": [
     {
       "status": "in_progress",
@@ -40460,6 +40460,41 @@
     }
   ],
   "flashcards": [
+    {
+      "front": "What is Professional Career Development?",
+      "back": "It is an ongoing process of improving your skills, knowledge, and experience to advance in your chosen field, involving intentional steps to grow, adapt, and achieve your career aspirations.",
+      "pageId": "mr0g929r44x4tu",
+      "id": "mrv3tditld96af",
+      "createdAt": 1784665594037
+    },
+    {
+      "front": "What is the primary focus for an \"Absolute Novice\" in their professional career development?",
+      "back": "The focus is on self-discovery and laying the groundwork for future growth, exploring possibilities, and understanding foundational strengths.",
+      "pageId": "mr0g929r44x4tu",
+      "id": "mrv3tdit3uj6js",
+      "createdAt": 1784665594037
+    },
+    {
+      "front": "As a \"Developing Professional,\" what are key actions to build momentum?",
+      "back": "Key actions include Skill Specialization, Networking, Personal Brand Development, Seeking Feedback, and Mentorship.",
+      "pageId": "mr0g929r44x4tu",
+      "id": "mrv3tditkc4dy7",
+      "createdAt": 1784665594037
+    },
+    {
+      "front": "What characterizes an \"Experienced Professional\" in their career journey?",
+      "back": "They are making significant contributions to their organization, possibly taking on leadership roles, with a focus on strategic impact and guiding others.",
+      "pageId": "mr0g929r44x4tu",
+      "id": "mrv3tditpfsy73",
+      "createdAt": 1784665594037
+    },
+    {
+      "front": "What is \"Networking\" in the context of professional development?",
+      "back": "Building professional relationships by attending industry events, joining professional groups, and connecting with peers and potential mentors.",
+      "pageId": "mr0g929r44x4tu",
+      "id": "mrv3tdit23hykc",
+      "createdAt": 1784665594037
+    },
     {
       "front": "What is metacognition?",
       "back": "Metacognition is the awareness and understanding of one's own thought processes and learning strategies. It involves actively managing how you learn, solve problems, and make decisions.",
