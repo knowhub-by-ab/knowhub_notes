@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-21T19:58:09.998Z",
+  "exportedAt": "2026-07-21T20:03:09.891Z",
   "nodes": [
     {
       "status": "in_progress",
@@ -41009,6 +41009,17 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "3VrOhJlkjvY",
+      "title": "21st Century 4C Skills - Creativity | Collaboration | Critical Thinking | Communication | Careers",
+      "channel": "CareerNaksha (Online Career Platform)",
+      "durationSec": 20,
+      "validated": true,
+      "pageId": "mr0ofvd87ol1di",
+      "kept": true,
+      "id": "mrv2tt95kwrhz6",
+      "createdAt": 1784663934809
+    },
     {
       "videoId": "sO4te2QNsHY",
       "title": "What Is Branding? 4 Minute Crash Course.",
