@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-22T11:01:51.629Z",
+  "exportedAt": "2026-07-22T11:02:13.891Z",
   "nodes": [
     {
       "status": "in_progress",
@@ -40461,6 +40461,76 @@
     }
   ],
   "flashcards": [
+    {
+      "front": "What is professional career development?",
+      "back": "An ongoing process of improving your skills, knowledge, and experience to advance in your chosen field.",
+      "pageId": "mr0g929r44x4tu",
+      "id": "mrvz39a5k8dqzw",
+      "createdAt": 1784718123197
+    },
+    {
+      "front": "What is the focus of the Absolute Novice stage?",
+      "back": "Self-discovery and laying the groundwork for future growth, including self-assessment, basic goal setting, foundational skill building, and information gathering.",
+      "pageId": "mr0g929r44x4tu",
+      "id": "mrvz39a5f14mzp",
+      "createdAt": 1784718123197
+    },
+    {
+      "front": "What is self-assessment in career development?",
+      "back": "Understanding your interests, values, strengths, and weaknesses to identify what you enjoy doing and what you're naturally good at.",
+      "pageId": "mr0g929r44x4tu",
+      "id": "mrvz39a5il9je3",
+      "createdAt": 1784718123197
+    },
+    {
+      "front": "What is the purpose of basic goal setting?",
+      "back": "Defining what success means to you, both personally and professionally, and setting simple, achievable short-term goals.",
+      "pageId": "mr0g929r44x4tu",
+      "id": "mrvz39a50wmxn0",
+      "createdAt": 1784718123197
+    },
+    {
+      "front": "What is skill specialization?",
+      "back": "Developing expertise in specific areas relevant to your career path through advanced training or certifications.",
+      "pageId": "mr0g929r44x4tu",
+      "id": "mrvz39a5ubg6pf",
+      "createdAt": 1784718123197
+    },
+    {
+      "front": "Why is networking important in career development?",
+      "back": "To build professional relationships, attend industry events, join professional groups, and connect with peers and potential mentors.",
+      "pageId": "mr0g929r44x4tu",
+      "id": "mrvz39a552szrr",
+      "createdAt": 1784718123197
+    },
+    {
+      "front": "What is personal brand development?",
+      "back": "Defining and projecting your professional identity, including optimizing your resume, LinkedIn profile, and developing an elevator pitch.",
+      "pageId": "mr0g929r44x4tu",
+      "id": "mrvz39a5qzz3yc",
+      "createdAt": 1784718123197
+    },
+    {
+      "front": "What is the role of a mentor in career development?",
+      "back": "To provide guidance, advice, and support based on their experience, helping you navigate your career path.",
+      "pageId": "mr0g929r44x4tu",
+      "id": "mrvz39a5b9t4n3",
+      "createdAt": 1784718123197
+    },
+    {
+      "front": "What is leadership development?",
+      "back": "Cultivating skills in leading teams, managing projects, and influencing stakeholders, often involving formal leadership training.",
+      "pageId": "mr0g929r44x4tu",
+      "id": "mrvz39a5m52pz5",
+      "createdAt": 1784718123197
+    },
+    {
+      "front": "What is strategic thinking in career development?",
+      "back": "Learning to connect your daily tasks to broader organizational goals, contributing to strategic planning and problem-solving beyond your immediate responsibilities.",
+      "pageId": "mr0g929r44x4tu",
+      "id": "mrvz39a53czlqg",
+      "createdAt": 1784718123197
+    },
     {
       "front": "What is the purpose of a strong learning foundation?",
       "back": "A strong learning foundation acts as the bedrock for all future knowledge, ensuring that when you encounter complex topics, you have the fundamental principles and learning strategies to tackle them successfully.",
