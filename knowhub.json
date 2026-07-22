@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-22T19:37:02.493Z",
+  "exportedAt": "2026-07-22T19:37:23.158Z",
   "nodes": [
     {
       "status": "in_progress",
@@ -39985,6 +39985,14 @@
       "status": "pending",
       "order": 2,
       "createdAt": 1784748747187
+    },
+    {
+      "id": "mrwhhnfbzj6vvl",
+      "title": "Introduction to Graph Algorithms",
+      "parentId": null,
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1784749027799
     }
   ],
   "pages": {
@@ -40016,7 +40024,8 @@
     "mr0g92a5xmcn48": "# 1. Universal Foundations\n\nEvery complex system, from a simple mobile app to a global network, is built upon a set of fundamental ideas. These are the \"Universal Foundations\" – core concepts that transcend specific programming languages, frameworks, or technologies. Understanding them makes you a more effective problem-solver, a faster learner, and a better engineer, no matter your specialization.\n\n---\n\n## What are Universal Foundations?\n\nThink of Universal Foundations as the bedrock beneath any house. While the house itself might be a bungalow, a skyscraper, or a mansion (your specific tech field), the strength of its foundation determines its stability and longevity. These concepts equip you with the essential mental models to design, build, and understand any technical system.\n\n---\n\n## The Pillars of Computation (Beginner)\n\nAt the most basic level, computation revolves around a few key ideas:\n\n### 1. Abstraction\n\nAbstraction is the process of hiding complex details and showing only the essential information. It allows us to manage complexity by breaking down a system into simpler, more understandable parts.\n\n*   **Example:** When you drive a car, you use the steering wheel and pedals without needing to understand the intricate mechanics of the engine, transmission, or braking system. The car provides an \"abstracted\" interface.\n*   **In Tech:** A function in programming is an abstraction. You call it to perform a task (e.g., `print()`) without needing to know *how* it internally displays text on a screen.\n\n### 2. Algorithms\n\nAn algorithm is a precise, step-by-step procedure or a set of rules used to solve a specific problem or perform a task. It's like a recipe for a computer.\n\n*   **Example:** A recipe for baking a cake is an algorithm. It has defined steps, inputs (ingredients), and an expected output (a cake).\n*   **In Tech:** Sorting a list of numbers, searching for an item in a database, or compressing a file all use specific algorithms. Learning about [Algorithms](?topic=Algorithms) is crucial.\n\n### 3. Data Structures\n\nData structures are specialized ways of organizing and storing data in a computer so that it can be accessed and modified efficiently. The choice of data structure can significantly impact performance.\n\n*   **Example:** A simple shopping list is a linear data structure. A family tree is a hierarchical (tree) data structure.\n*   **In Tech:** Arrays, linked lists, trees, graphs, and hash tables are common [Data Structures](?topic=Data%20Structures). Each has strengths and weaknesses for different tasks.\n\n### 4. Computational Thinking\n\nThis is a problem-solving process that involves expressing problems and their solutions in a way that a computer can execute. It involves four key elements:\n\n*   **Decomposition:** Breaking down a complex problem into smaller, more manageable parts.\n*   **Pattern Recognition:** Identifying similarities or trends among smaller problems to solve them more efficiently.\n*   **Abstraction:** Focusing on the important information and ignoring irrelevant details.\n*   **Algorithms:** Developing a step-by-step solution.\n\n---\n\n## Expanding Your Toolkit (Intermediate)\n\nAs you progress, these foundations take on deeper meaning, leading to more robust and efficient solutions.\n\n### 1. Efficiency (Time and Space Complexity)\n\nNot all algorithms or data structures are created equal. Efficiency refers to how fast an algorithm runs (time complexity) and how much memory it uses (space complexity).\n\n*   **Why it matters:** An inefficient algorithm might take days to process data that an efficient one handles in seconds.\n*   **Concept:** [Big O Notation](?topic=Big%20O%20Notation) is a mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity. It's used to classify algorithms according to how their run time or space requirements grow as the input size grows.\n\n### 2. Modularity & Reusability\n\n*   **Modularity:** Designing a system as independent, interchangeable components. Each module performs a specific, well-defined function.\n*   **Reusability:** Building components or solutions that can be used again in different parts of the same system, or even in entirely different projects. This saves time and reduces errors.\n\n### 3. Scalability & Reliability\n\n*   **Scalability:** The ability of a system to handle a growing amount of work or its potential to be enlarged to accommodate that growth.\n*   **Reliability:** The probability that a system will perform its intended function correctly and consistently over a specified period without failure. These are crucial considerations in [System Design](?topic=System%20Design).\n\n---\n\n## Crafting Professional Systems (Industry Standards)\n\nAt a professional level, you're not just applying these foundations; you're using them to make informed decisions and build maintainable, high-quality systems.\n\n### 1. System Thinking\n\nUnderstanding how individual components interact within a larger system. It involves looking beyond individual parts to see how they contribute to the overall function and behavior of the whole. This holistic view is vital for designing robust architectures.\n\n### 2. Trade-offs\n\nEvery design decision involves compromises. You might trade:\n\n*   **Performance for Simplicity:** A simpler solution might be slower but easier to maintain.\n*   **Security for Convenience:** More stringent security measures often make a system less convenient to use.\n*   **Development Speed for Future Scalability:** Rushing a solution might make it harder to scale later.\n*   **Cost for Reliability:** Using cheaper infrastructure might lead to more downtime.\n\nRecognizing and articulating these trade-offs is a hallmark of professional engineering.\n\n### 3. Software Engineering Principles\n\nThese include widely accepted guidelines and best practices for building software, often incorporating the foundations mentioned above. Concepts like DRY (Don't Repeat Yourself), KISS (Keep It Simple, Stupid), and YAGNI (You Aren't Gonna Need It) are expressions of these principles, guiding you towards maintainable, efficient, and effective codebases. Explore more in [Software Engineering Principles](?topic=Software%20Engineering%20Principles).\n\n### Problem-Solving Flow\n\n```mermaid\ngraph LR\n    A[Problem Statement] --> B{Decomposition & Pattern Recognition};\n    B --> C[Identify Core Requirements];\n    C --> D[Choose/Design Algorithms & Data Structures];\n    D --> E[\"Design System Architecture (Modularity, Scalability)\"];\n    E --> F[Implement Solution];\n    F --> G{Test & Evaluate Efficiency/Reliability};\n    G -- Feedback --> D;\n    G -- Satisfied --> H[Deploy & Maintain];\n    H -- New Requirements/Issues --> A;\n```\n\n---\n\n## Key Takeaways\n\n*   **Abstraction** simplifies complexity, making systems manageable.\n*   **Algorithms** provide step-by-step solutions to problems.\n*   **Data Structures** organize data for efficient access and modification.\n*   **Computational Thinking** is the mental model for problem-solving.\n*   **Efficiency (Big O)**, **Modularity**, **Scalability**, and **Reliability** are critical for robust systems.\n*   **System Thinking** and understanding **Trade-offs** are essential for professional design.\n\nMastering these universal foundations will empower you to tackle any technical challenge, adapt to new technologies quickly, and build high-quality, sustainable solutions throughout your career.",
     "mr0ofvd87ol1di": "# 1.1. Learning Foundation\n\nWelcome to KnowHub! This page is your first step on a journey from an absolute beginner to an industry-standard professional. Learning any new skill, especially in technology, requires a solid foundation. This isn't just about memorizing facts; it's about understanding *how* to learn effectively, building good habits, and developing the right mindset.\n\nA strong learning foundation acts as the bedrock for all future knowledge. It ensures that when you encounter complex topics, you have the fundamental principles and learning strategies to tackle them successfully.\n\n## Why a Strong Foundation Matters\n\nWithout a strong foundation, learning can feel like building a house on sand. You might grasp individual concepts, but connecting them, solving real-world problems, and adapting to new challenges becomes much harder. A solid foundation helps you to:\n\n*   **Grasp complex topics faster:** By understanding core principles, new information slots into place more easily.\n*   **Solve problems effectively:** You learn *how* to think, not just *what* to think.\n*   **Retain knowledge long-term:** Effective learning strategies embed information deeper.\n*   **Adapt to change:** Technology evolves rapidly; a strong foundation helps you pivot and learn new tools or languages efficiently.\n\n## Core Principles of Effective Learning\n\nThese principles are universal, regardless of what you're trying to learn.\n\n1.  **Active Learning:** Don't just passively consume information. Engage with it.\n    *   **Example:** Instead of just watching a coding tutorial, type out the code yourself, experiment with changes, and try to break it to understand its limits. To delve deeper, explore [Active Learning Strategies](?topic=Active%20Learning%20Strategies).\n2.  **Spaced Repetition:** Reviewing material at increasing intervals over time. This counteracts the \"forgetting curve\" and moves information from short-term to long-term memory.\n    *   **Tip:** Briefly revisit key concepts after a day, then a few days, then a week, and so on.\n3.  **Feedback Loops:** Actively seek feedback on your understanding and work. This helps you identify misunderstandings and areas for improvement.\n    *   **Sources:** Peers, mentors, automated tests (for coding), self-reflection.\n4.  **Practice and Application:** Knowledge is inert without practice. Apply what you learn in real-world scenarios, no matter how small.\n    *   **Example:** If you learn about loops in programming, write a program that uses loops to solve a simple problem, like printing numbers from 1 to 10.\n5.  **Understanding Over Memorization:** Focus on the *why* and *how* behind concepts, not just rote memorization of facts. When you understand the underlying principles, you can apply them in new situations.\n    *   **Benefit:** This fosters true problem-solving ability rather than just recalling information.\n\n## Building Your Learning Toolkit\n\nBeyond principles, practical tools and habits enhance your learning journey.\n\n*   **Effective Note-Taking:** Don't just copy. Summarize in your own words, connect ideas, and highlight key concepts. This active processing aids retention.\n*   **Resource Utilization:** Learn to effectively use various resources:\n    *   **Official Documentation:** The authoritative source for many technologies.\n    *   **Tutorials and Courses:** Guided learning paths.\n    *   **Forums and Communities:** Great for asking questions and seeing how others solve problems.\n    *   **Books:** Often provide deeper, more structured knowledge.\n*   **Setting Clear Goals:** Define what you want to achieve. Use the SMART criteria:\n    *   **S**pecific: What exactly do you want to learn/do?\n    *   **M**easurable: How will you know when you've achieved it?\n    *   **A**chievable: Is it realistic?\n    *   **R**elevant: Does it align with your larger goals?\n    *   **T**ime-bound: When will you achieve it by?\n    *   **Example:** Instead of \"Learn Python,\" try \"Complete the first 5 modules of the 'Python Basics' course and build a small calculator program by the end of the month.\"\n\n## The Learning Journey: Novice to Professional\n\nYour learning path will evolve as you progress. This diagram illustrates a common progression:\n\n```mermaid\ngraph TD\n    A[Absolute Novice] --> B(Understand Core Concepts)\n    B --> C{Active Learning & Practice}\n    C --> D[Solve Basic Problems]\n    D --> E(Intermediate Learner)\n    E --> F{Apply Knowledge to Varied Scenarios}\n    F --> G[Build Small Projects]\n    G --> H(Advanced Learner)\n    H --> I{Deep Dive & Problem Solving}\n    I --> J[Contribute & Innovate]\n    J --> K(Industry Professional)\n\n    style A fill:#f9f,stroke:#333,stroke-width:2px\n    style K fill:#bbf,stroke:#333,stroke-width:2px\n```\n\n*   **Novice Stage:** Focus on foundational knowledge. Embrace active learning, make mistakes freely, and don't be afraid to ask basic questions. Your goal is broad understanding of core concepts.\n*   **Intermediate Stage:** Start connecting different concepts, solving problems independently, and working on small projects. Seek constructive feedback and begin to identify your strengths and weaknesses.\n*   **Professional Stage:** Master complex topics, contribute to larger projects, and potentially mentor others. Continuous learning becomes a habit, and you actively stay updated with industry trends and best practices. You can not only solve problems but also design solutions and innovate.\n\n## Mindset for Success\n\nYour attitude towards learning significantly impacts your success.\n\n*   **Growth Mindset:** Believe that your abilities can be developed through dedication and hard work. See challenges as opportunities to grow, not as fixed limitations.\n*   **Patience and Persistence:** Learning takes time. There will be frustrating moments and plateaus. Persistence through these challenges is key.\n*   **Embrace Failure:** View mistakes and failures as valuable learning opportunities, not as setbacks. Debugging code is a form of learning from \"failures.\"\n*   **Self-Reflection:** Regularly assess your learning progress. What's working? What's not? Adjust your strategies as needed.\n\n## Key Takeaways\n\n*   A strong learning foundation is crucial for long-term success and adaptability in any field.\n*   Prioritize **active learning, spaced repetition, feedback, practice, and understanding over memorization**.\n*   Develop an effective learning toolkit: good note-taking, diverse resource utilization, and clear goal setting.\n*   Your learning journey progresses from grasping basics (Novice) to applying knowledge (Intermediate) to mastering and innovating (Professional).\n*   Cultivate a **growth mindset**, be **patient and persistent**, **embrace failure**, and practice **self-reflection**.",
     "mrwh8mln1wwar8": "# Graph Algorithms Introduction\n## Overview\nIntroduction to graph algorithms and minimum spanning trees is a crucial concept in computer science, enabling the efficient processing and analysis of complex networks. This module provides a comprehensive introduction to graph algorithms, focusing on Prim's algorithm for finding minimum spanning trees.\n\n## Key Concepts\n* Graph theory basics\n* Weighted and unweighted graphs\n* Directed and undirected graphs\n* Minimum spanning tree definition\n* Greedy algorithm principles\n\n## Video-by-Video Notes\n### Prims Minimum Spanning Tree Algorithm (Step by Step with examples)\n* Prim's algorithm is a greedy algorithm used to find the minimum spanning tree of a weighted undirected graph.\n* The algorithm starts with an arbitrary node and grows the tree by adding the minimum-weight edge connected to the existing tree.\n* The process is repeated until all nodes are included in the minimum spanning tree.\n* Example use cases are provided to illustrate the step-by-step application of Prim's algorithm.\n* The video also mentions that source code and additional materials are available on a companion website.\n\n## Key Takeaways\n* Graph algorithms are essential for processing and analyzing complex networks.\n* Prim's algorithm is a greedy algorithm that finds the minimum spanning tree of a weighted undirected graph.\n* The minimum spanning tree is a subset of the graph's edges that connect all nodes with the minimum total weight.\n* Greedy algorithms make locally optimal choices to find a global optimum solution.\n* Understanding graph algorithms and minimum spanning trees has numerous applications in computer science and other fields.\n* Additional resources, such as source code and example materials, can aid in deeper understanding and implementation of graph algorithms.\n\n## Further Reading\n* For a deeper understanding of graph theory and algorithms, consider reading \"Introduction to Algorithms\" by Thomas H. Cormen.\n* To explore more advanced topics in graph algorithms, visit online resources such as GeeksforGeeks or Coursera courses on graph algorithms.\n* For practical implementation of graph algorithms, refer to documentation and tutorials on programming libraries like NetworkX (Python) or Boost Graph Library (C++).\n* Research papers on graph algorithms and minimum spanning trees can be found on academic databases like ACM Digital Library or IEEE Xplore.\n* Online communities, such as Reddit's r/learnprogramming and r/algorithms, can provide valuable discussions and resources for learning graph algorithms.",
-    "mrwhbmwj1nfj7i": "# Graph Algorithms Introduction\n## Overview\nThis module provides an introduction to graph algorithms, with a focus on Prim's algorithm. Graph algorithms are essential in computer science, as they enable us to solve complex problems in various fields, including network optimization, social network analysis, and more. In this module, we will explore the basics of graph algorithms and delve into the specifics of Prim's algorithm.\n\n## Key Concepts\n* Graphs: weighted and unweighted, directed and undirected\n* Minimum Spanning Tree (MST): a subgraph that connects all nodes with the minimum total edge weight\n* Greedy algorithm: a type of algorithm that makes the locally optimal choice at each step\n* Prim's algorithm: a greedy algorithm for finding the MST of a weighted undirected graph\n* Time and space complexity: analyzing the efficiency of graph algorithms\n\n## Video-by-Video Notes\n### Prims Minimum Spanning Tree Algorithm (Step by Step with examples)\n* Prim's algorithm is a greedy algorithm that finds the MST of a weighted undirected graph\n* The algorithm starts with an arbitrary node and grows the tree by adding the minimum-weight edge that connects a node in the tree to a node not yet in the tree\n* The algorithm terminates when all nodes are included in the tree\n* Example walkthroughs demonstrate how to apply Prim's algorithm to sample graphs\n* The video highlights the importance of choosing the correct data structures to implement Prim's algorithm efficiently\n\n## Key Takeaways\n* Graph algorithms are crucial in solving complex problems in computer science and other fields\n* Prim's algorithm is a greedy algorithm for finding the MST of a weighted undirected graph\n* The algorithm has a time complexity of O(|E|log|V|) using a binary heap, where |E| is the number of edges and |V| is the number of vertices\n* Prim's algorithm is widely used in network optimization and other applications\n* Understanding the basics of graph algorithms and Prim's algorithm is essential for developing efficient solutions to real-world problems\n* Further practice and review are necessary to master the implementation of Prim's algorithm and other graph algorithms\n* The choice of data structures and algorithms significantly impacts the efficiency and scalability of graph algorithm implementations\n\n## Further Reading\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"Graph Theory\" by Douglas B. West\n* \"Algorithm Design\" by Jon Kleinberg and Éva Tardos\n* GeeksforGeeks: Graph Algorithms\n* MIT OpenCourseWare: Introduction to Algorithms and Data Structures"
+    "mrwhbmwj1nfj7i": "# Graph Algorithms Introduction\n## Overview\nThis module provides an introduction to graph algorithms, with a focus on Prim's algorithm. Graph algorithms are essential in computer science, as they enable us to solve complex problems in various fields, including network optimization, social network analysis, and more. In this module, we will explore the basics of graph algorithms and delve into the specifics of Prim's algorithm.\n\n## Key Concepts\n* Graphs: weighted and unweighted, directed and undirected\n* Minimum Spanning Tree (MST): a subgraph that connects all nodes with the minimum total edge weight\n* Greedy algorithm: a type of algorithm that makes the locally optimal choice at each step\n* Prim's algorithm: a greedy algorithm for finding the MST of a weighted undirected graph\n* Time and space complexity: analyzing the efficiency of graph algorithms\n\n## Video-by-Video Notes\n### Prims Minimum Spanning Tree Algorithm (Step by Step with examples)\n* Prim's algorithm is a greedy algorithm that finds the MST of a weighted undirected graph\n* The algorithm starts with an arbitrary node and grows the tree by adding the minimum-weight edge that connects a node in the tree to a node not yet in the tree\n* The algorithm terminates when all nodes are included in the tree\n* Example walkthroughs demonstrate how to apply Prim's algorithm to sample graphs\n* The video highlights the importance of choosing the correct data structures to implement Prim's algorithm efficiently\n\n## Key Takeaways\n* Graph algorithms are crucial in solving complex problems in computer science and other fields\n* Prim's algorithm is a greedy algorithm for finding the MST of a weighted undirected graph\n* The algorithm has a time complexity of O(|E|log|V|) using a binary heap, where |E| is the number of edges and |V| is the number of vertices\n* Prim's algorithm is widely used in network optimization and other applications\n* Understanding the basics of graph algorithms and Prim's algorithm is essential for developing efficient solutions to real-world problems\n* Further practice and review are necessary to master the implementation of Prim's algorithm and other graph algorithms\n* The choice of data structures and algorithms significantly impacts the efficiency and scalability of graph algorithm implementations\n\n## Further Reading\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"Graph Theory\" by Douglas B. West\n* \"Algorithm Design\" by Jon Kleinberg and Éva Tardos\n* GeeksforGeeks: Graph Algorithms\n* MIT OpenCourseWare: Introduction to Algorithms and Data Structures",
+    "mrwhhnfbzj6vvl": "# Introduction to Graph Algorithms\n## Overview\nIntroduction to Graph Algorithms is a fundamental module in computer science that deals with the study of algorithms used for searching, traversing, and manipulating graph data structures. Graph algorithms have numerous applications in various fields, including computer networks, social networks, traffic management, and more. This module aims to provide a comprehensive understanding of the basics of graph algorithms and their practical applications.\n\n## Key Concepts\n* Graph theory fundamentals\n* Types of graphs (weighted, unweighted, directed, undirected)\n* Graph representations (adjacency matrix, adjacency list)\n* Traversal algorithms (DFS, BFS)\n* Shortest path algorithms (Dijkstra's, Bellman-Ford)\n\n## Video-by-Video Notes\n### Prims Minimum Spanning Tree Algorithm (Step by Step with examples)\n* Prim's algorithm is a greedy algorithm used to find the minimum spanning tree of a weighted undirected graph.\n* The algorithm works by starting at an arbitrary vertex and growing the tree by adding the minimum-weight edge that connects a vertex in the tree to a vertex not yet in the tree.\n* The time complexity of Prim's algorithm is O(E + V log V) using a binary heap, where E is the number of edges and V is the number of vertices.\n* The algorithm is suitable for finding the minimum spanning tree in a dense graph.\n* The implementation of Prim's algorithm can be done using a priority queue to efficiently select the minimum-weight edge.\n\n## Key Takeaways\n* Graph algorithms are essential for solving complex problems in computer science and other fields.\n* Understanding the basics of graph theory, including types of graphs and graph representations, is crucial for learning graph algorithms.\n* Prim's algorithm is a greedy algorithm used to find the minimum spanning tree of a weighted undirected graph.\n* The time complexity of graph algorithms can vary depending on the algorithm and the size of the input graph.\n* Graph algorithms have numerous applications in computer networks, social networks, traffic management, and more.\n* Practice and implementation of graph algorithms are essential to mastering the subject.\n* Further study of graph algorithms can lead to a deeper understanding of advanced topics, such as network flows and graph optimization.\n\n## Further Reading\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"Graph Theory\" by Douglas B. West\n* \"Algorithms\" by Robert Sedgewick and Kevin Wayne\n* GeeksforGeeks: Graph Algorithms\n* MIT OpenCourseWare: Introduction to Algorithms and Data Structures"
   },
   "notesList": [
     {
@@ -40044,6 +40053,204 @@
   "resources": [],
   "resourceCollections": [],
   "quizzes": [
+    {
+      "id": "mrwhhrj5zrxkg6",
+      "title": "Prims Minimum Spanning Tree Algorithm (Step by Step with examples) — Video Quiz",
+      "questions": [
+        {
+          "id": "crs_1784749033121_kg18gp",
+          "prompt": "What type of algorithm is Prim's algorithm?",
+          "options": [
+            "Divide and Conquer",
+            "Dynamic Programming",
+            "Greedy",
+            "Backtracking"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "Prim's algorithm is a greedy algorithm that finds a minimum spanning tree for a weighted undirected graph."
+        },
+        {
+          "id": "crs_1784749033121_m9q607",
+          "prompt": "What is the purpose of Prim's algorithm?",
+          "options": [
+            "To find the shortest path between two nodes",
+            "To find a minimum spanning tree for a weighted undirected graph",
+            "To sort a list of elements",
+            "To search for an element in a graph"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "Prim's algorithm is used to find a minimum spanning tree for a weighted undirected graph."
+        },
+        {
+          "id": "crs_1784749033121_47gacv",
+          "prompt": "What type of graph does Prim's algorithm work on?",
+          "options": [
+            "Directed graph",
+            "Undirected graph",
+            "Weighted graph",
+            "Unweighted graph"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "Prim's algorithm works on a weighted undirected graph."
+        },
+        {
+          "id": "crs_1784749033121_zjsa3g",
+          "prompt": "What programming languages are mentioned in the video?",
+          "options": [
+            "Java, Python, JavaScript",
+            "C, C++, Python",
+            "Ruby, Swift, PHP",
+            "Go, Rust, Kotlin"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video mentions C, C++, and Python as the programming languages used for the implementation of Prim's algorithm."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784749033121
+    },
+    {
+      "id": "mrwhhpyfooj7xm",
+      "title": "Introduction to Graph Algorithms — Module Quiz",
+      "questions": [
+        {
+          "id": "crs_1784749031079_yrrhyy",
+          "prompt": "What type of algorithm is Prim's algorithm?",
+          "options": [
+            "Divide and Conquer",
+            "Dynamic Programming",
+            "Greedy",
+            "Backtracking"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "Prim's algorithm is a greedy algorithm because it makes the locally optimal choice at each step with the hope that these local choices will lead to a global optimum solution."
+        },
+        {
+          "id": "crs_1784749031079_qculx4",
+          "prompt": "What is the purpose of Prim's algorithm?",
+          "options": [
+            "To find the shortest path between two nodes",
+            "To find a minimum spanning tree for a weighted undirected graph",
+            "To sort a list of elements",
+            "To search for an element in a graph"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "Prim's algorithm is used to find a minimum spanning tree for a weighted undirected graph, which is a subset of the edges in the graph that connect all the nodes together while minimizing the total edge weight."
+        },
+        {
+          "id": "crs_1784749031079_4sfalm",
+          "prompt": "What type of graph does Prim's algorithm work on?",
+          "options": [
+            "Weighted directed graph",
+            "Unweighted undirected graph",
+            "Weighted undirected graph",
+            "Unweighted directed graph"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "Prim's algorithm works on a weighted undirected graph, where each edge has a weight or cost associated with it and the edges do not have a direction."
+        },
+        {
+          "id": "crs_1784749031079_lsl7fk",
+          "prompt": "What programming languages are mentioned as being used for Prim's algorithm?",
+          "options": [
+            "Java, Python, C++",
+            "Python, C, C++",
+            "JavaScript, Ruby, Swift",
+            "PHP, Perl, Python"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The programming languages mentioned as being used for Prim's algorithm are Python, C, and C++."
+        },
+        {
+          "id": "crs_1784749031079_nsiax4",
+          "prompt": "Where can the source code and other materials for Prim's algorithm be found?",
+          "options": [
+            "https://github.com",
+            "https://codewithharry.com",
+            "https://stackoverflow.com",
+            "https://www.geeksforgeeks.org"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The source code and other materials for Prim's algorithm can be found on https://codewithharry.com."
+        },
+        {
+          "id": "crs_1784749031079_8gsq3n",
+          "prompt": "What is the result of running Prim's algorithm on a graph?",
+          "options": [
+            "A minimum spanning tree",
+            "A maximum spanning tree",
+            "A shortest path tree",
+            "A minimum cut tree"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "The result of running Prim's algorithm on a graph is a minimum spanning tree, which is a subset of the edges in the graph that connect all the nodes together while minimizing the total edge weight."
+        },
+        {
+          "id": "crs_1784749031079_dy4o7m",
+          "prompt": "What is the time complexity of Prim's algorithm?",
+          "options": [
+            "O(V^2)",
+            "O(E + V log V)",
+            "O(V + E)",
+            "O(E log V)"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The time complexity of Prim's algorithm is O(E + V log V) using a binary heap, where E is the number of edges and V is the number of vertices."
+        },
+        {
+          "id": "crs_1784749031079_t8rfxf",
+          "prompt": "What data structure is commonly used to implement Prim's algorithm?",
+          "options": [
+            "Array",
+            "Linked list",
+            "Binary heap",
+            "Stack"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "A binary heap is commonly used to implement Prim's algorithm because it allows for efficient extraction of the minimum-weight edge from the set of edges that have not yet been added to the minimum spanning tree."
+        },
+        {
+          "id": "crs_1784749031079_mmq4cj",
+          "prompt": "What is the main advantage of using Prim's algorithm?",
+          "options": [
+            "It can handle negative-weight edges",
+            "It can handle disconnected graphs",
+            "It is simple to implement and has a relatively fast time complexity",
+            "It can find the shortest path between two nodes"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The main advantage of using Prim's algorithm is that it is simple to implement and has a relatively fast time complexity, making it a popular choice for finding minimum spanning trees in weighted undirected graphs."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784749031079
+    },
     {
       "id": "mrwhbrspfn8qcj",
       "title": "Prims Minimum Spanning Tree Algorithm (Step by Step with examples) — Video Quiz",
@@ -41713,6 +41920,12 @@
       "name": "Graph Algorithms Introduction",
       "nodeId": "mrwhbmwj1nfj7i",
       "createdAt": 1784748747187
+    },
+    {
+      "id": "mrwhhnfbzj6vvl",
+      "name": "Introduction to Graph Algorithms",
+      "nodeId": "mrwhhnfbzj6vvl",
+      "createdAt": 1784749027799
     }
   ],
   "highlights": [],
