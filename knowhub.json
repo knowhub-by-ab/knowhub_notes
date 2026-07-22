@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-22T19:43:15.465Z",
+  "exportedAt": "2026-07-22T19:43:44.226Z",
   "nodes": [
     {
       "status": "in_progress",
@@ -40001,6 +40001,14 @@
       "status": "pending",
       "order": 4,
       "createdAt": 1784749096714
+    },
+    {
+      "id": "mrwhpsd1sotcxm",
+      "title": "Introduction to Programming",
+      "parentId": null,
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1784749407445
     }
   ],
   "pages": {
@@ -40034,7 +40042,8 @@
     "mrwh8mln1wwar8": "# Graph Algorithms Introduction\n## Overview\nIntroduction to graph algorithms and minimum spanning trees is a crucial concept in computer science, enabling the efficient processing and analysis of complex networks. This module provides a comprehensive introduction to graph algorithms, focusing on Prim's algorithm for finding minimum spanning trees.\n\n## Key Concepts\n* Graph theory basics\n* Weighted and unweighted graphs\n* Directed and undirected graphs\n* Minimum spanning tree definition\n* Greedy algorithm principles\n\n## Video-by-Video Notes\n### Prims Minimum Spanning Tree Algorithm (Step by Step with examples)\n* Prim's algorithm is a greedy algorithm used to find the minimum spanning tree of a weighted undirected graph.\n* The algorithm starts with an arbitrary node and grows the tree by adding the minimum-weight edge connected to the existing tree.\n* The process is repeated until all nodes are included in the minimum spanning tree.\n* Example use cases are provided to illustrate the step-by-step application of Prim's algorithm.\n* The video also mentions that source code and additional materials are available on a companion website.\n\n## Key Takeaways\n* Graph algorithms are essential for processing and analyzing complex networks.\n* Prim's algorithm is a greedy algorithm that finds the minimum spanning tree of a weighted undirected graph.\n* The minimum spanning tree is a subset of the graph's edges that connect all nodes with the minimum total weight.\n* Greedy algorithms make locally optimal choices to find a global optimum solution.\n* Understanding graph algorithms and minimum spanning trees has numerous applications in computer science and other fields.\n* Additional resources, such as source code and example materials, can aid in deeper understanding and implementation of graph algorithms.\n\n## Further Reading\n* For a deeper understanding of graph theory and algorithms, consider reading \"Introduction to Algorithms\" by Thomas H. Cormen.\n* To explore more advanced topics in graph algorithms, visit online resources such as GeeksforGeeks or Coursera courses on graph algorithms.\n* For practical implementation of graph algorithms, refer to documentation and tutorials on programming libraries like NetworkX (Python) or Boost Graph Library (C++).\n* Research papers on graph algorithms and minimum spanning trees can be found on academic databases like ACM Digital Library or IEEE Xplore.\n* Online communities, such as Reddit's r/learnprogramming and r/algorithms, can provide valuable discussions and resources for learning graph algorithms.",
     "mrwhbmwj1nfj7i": "# Graph Algorithms Introduction\n## Overview\nThis module provides an introduction to graph algorithms, with a focus on Prim's algorithm. Graph algorithms are essential in computer science, as they enable us to solve complex problems in various fields, including network optimization, social network analysis, and more. In this module, we will explore the basics of graph algorithms and delve into the specifics of Prim's algorithm.\n\n## Key Concepts\n* Graphs: weighted and unweighted, directed and undirected\n* Minimum Spanning Tree (MST): a subgraph that connects all nodes with the minimum total edge weight\n* Greedy algorithm: a type of algorithm that makes the locally optimal choice at each step\n* Prim's algorithm: a greedy algorithm for finding the MST of a weighted undirected graph\n* Time and space complexity: analyzing the efficiency of graph algorithms\n\n## Video-by-Video Notes\n### Prims Minimum Spanning Tree Algorithm (Step by Step with examples)\n* Prim's algorithm is a greedy algorithm that finds the MST of a weighted undirected graph\n* The algorithm starts with an arbitrary node and grows the tree by adding the minimum-weight edge that connects a node in the tree to a node not yet in the tree\n* The algorithm terminates when all nodes are included in the tree\n* Example walkthroughs demonstrate how to apply Prim's algorithm to sample graphs\n* The video highlights the importance of choosing the correct data structures to implement Prim's algorithm efficiently\n\n## Key Takeaways\n* Graph algorithms are crucial in solving complex problems in computer science and other fields\n* Prim's algorithm is a greedy algorithm for finding the MST of a weighted undirected graph\n* The algorithm has a time complexity of O(|E|log|V|) using a binary heap, where |E| is the number of edges and |V| is the number of vertices\n* Prim's algorithm is widely used in network optimization and other applications\n* Understanding the basics of graph algorithms and Prim's algorithm is essential for developing efficient solutions to real-world problems\n* Further practice and review are necessary to master the implementation of Prim's algorithm and other graph algorithms\n* The choice of data structures and algorithms significantly impacts the efficiency and scalability of graph algorithm implementations\n\n## Further Reading\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"Graph Theory\" by Douglas B. West\n* \"Algorithm Design\" by Jon Kleinberg and Éva Tardos\n* GeeksforGeeks: Graph Algorithms\n* MIT OpenCourseWare: Introduction to Algorithms and Data Structures",
     "mrwhhnfbzj6vvl": "# Introduction to Graph Algorithms\n## Overview\nIntroduction to Graph Algorithms is a fundamental module in computer science that deals with the study of algorithms used for searching, traversing, and manipulating graph data structures. Graph algorithms have numerous applications in various fields, including computer networks, social networks, traffic management, and more. This module aims to provide a comprehensive understanding of the basics of graph algorithms and their practical applications.\n\n## Key Concepts\n* Graph theory fundamentals\n* Types of graphs (weighted, unweighted, directed, undirected)\n* Graph representations (adjacency matrix, adjacency list)\n* Traversal algorithms (DFS, BFS)\n* Shortest path algorithms (Dijkstra's, Bellman-Ford)\n\n## Video-by-Video Notes\n### Prims Minimum Spanning Tree Algorithm (Step by Step with examples)\n* Prim's algorithm is a greedy algorithm used to find the minimum spanning tree of a weighted undirected graph.\n* The algorithm works by starting at an arbitrary vertex and growing the tree by adding the minimum-weight edge that connects a vertex in the tree to a vertex not yet in the tree.\n* The time complexity of Prim's algorithm is O(E + V log V) using a binary heap, where E is the number of edges and V is the number of vertices.\n* The algorithm is suitable for finding the minimum spanning tree in a dense graph.\n* The implementation of Prim's algorithm can be done using a priority queue to efficiently select the minimum-weight edge.\n\n## Key Takeaways\n* Graph algorithms are essential for solving complex problems in computer science and other fields.\n* Understanding the basics of graph theory, including types of graphs and graph representations, is crucial for learning graph algorithms.\n* Prim's algorithm is a greedy algorithm used to find the minimum spanning tree of a weighted undirected graph.\n* The time complexity of graph algorithms can vary depending on the algorithm and the size of the input graph.\n* Graph algorithms have numerous applications in computer networks, social networks, traffic management, and more.\n* Practice and implementation of graph algorithms are essential to mastering the subject.\n* Further study of graph algorithms can lead to a deeper understanding of advanced topics, such as network flows and graph optimization.\n\n## Further Reading\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"Graph Theory\" by Douglas B. West\n* \"Algorithms\" by Robert Sedgewick and Kevin Wayne\n* GeeksforGeeks: Graph Algorithms\n* MIT OpenCourseWare: Introduction to Algorithms and Data Structures",
-    "mrwhj4lmmz9n0r": "# Introduction to Graph Algorithms\n## Overview\nThis module provides a comprehensive introduction to graph algorithms, focusing on the fundamental concepts and techniques used to solve graph-related problems. The module covers the basics of graph algorithms, including minimum spanning trees, and explores the steps involved in implementing these algorithms.\n\n## Key Concepts\n* Graph representation\n* Minimum spanning tree\n* Greedy algorithms\n* Weighted undirected graphs\n* Prim's algorithm\n\n## Video-by-Video Notes\n### Prims Minimum Spanning Tree Algorithm (Step by Step with examples)\n* Prim's algorithm is a greedy algorithm used to find a minimum spanning tree for a weighted undirected graph.\n* The algorithm starts by selecting an arbitrary node and adding it to the minimum spanning tree.\n* The algorithm then iteratively adds the minimum-weight edge that connects a node in the minimum spanning tree to a node not yet in the tree.\n* The process continues until all nodes are included in the minimum spanning tree.\n* The algorithm guarantees a minimum-weight spanning tree, but may not be the only possible solution.\n\n## Key Takeaways\n* Graph algorithms are used to solve problems involving graph data structures.\n* Minimum spanning trees are a fundamental concept in graph algorithms, and are used to find the minimum-weight subgraph that connects all nodes.\n* Prim's algorithm is a greedy algorithm that can be used to find a minimum spanning tree for a weighted undirected graph.\n* The time complexity of Prim's algorithm is O(E + V log V) in the worst case, where E is the number of edges and V is the number of vertices.\n* Graph algorithms have a wide range of applications, including network design, clustering, and recommendation systems.\n* Understanding graph algorithms is essential for working with graph data structures and solving real-world problems.\n\n## Further Reading\nSome suggested resources for further reading include:\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"Graph Theory\" by Douglas B. West\n* \"Algorithms\" by Robert Sedgewick and Kevin Wayne\n* \"Graph Algorithms\" by Shai Simonson\n* Online resources, such as GeeksforGeeks and LeetCode, also provide a wealth of information on graph algorithms and related topics."
+    "mrwhj4lmmz9n0r": "# Introduction to Graph Algorithms\n## Overview\nThis module provides a comprehensive introduction to graph algorithms, focusing on the fundamental concepts and techniques used to solve graph-related problems. The module covers the basics of graph algorithms, including minimum spanning trees, and explores the steps involved in implementing these algorithms.\n\n## Key Concepts\n* Graph representation\n* Minimum spanning tree\n* Greedy algorithms\n* Weighted undirected graphs\n* Prim's algorithm\n\n## Video-by-Video Notes\n### Prims Minimum Spanning Tree Algorithm (Step by Step with examples)\n* Prim's algorithm is a greedy algorithm used to find a minimum spanning tree for a weighted undirected graph.\n* The algorithm starts by selecting an arbitrary node and adding it to the minimum spanning tree.\n* The algorithm then iteratively adds the minimum-weight edge that connects a node in the minimum spanning tree to a node not yet in the tree.\n* The process continues until all nodes are included in the minimum spanning tree.\n* The algorithm guarantees a minimum-weight spanning tree, but may not be the only possible solution.\n\n## Key Takeaways\n* Graph algorithms are used to solve problems involving graph data structures.\n* Minimum spanning trees are a fundamental concept in graph algorithms, and are used to find the minimum-weight subgraph that connects all nodes.\n* Prim's algorithm is a greedy algorithm that can be used to find a minimum spanning tree for a weighted undirected graph.\n* The time complexity of Prim's algorithm is O(E + V log V) in the worst case, where E is the number of edges and V is the number of vertices.\n* Graph algorithms have a wide range of applications, including network design, clustering, and recommendation systems.\n* Understanding graph algorithms is essential for working with graph data structures and solving real-world problems.\n\n## Further Reading\nSome suggested resources for further reading include:\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"Graph Theory\" by Douglas B. West\n* \"Algorithms\" by Robert Sedgewick and Kevin Wayne\n* \"Graph Algorithms\" by Shai Simonson\n* Online resources, such as GeeksforGeeks and LeetCode, also provide a wealth of information on graph algorithms and related topics.",
+    "mrwhpsd1sotcxm": "# Introduction to Programming\n## Overview\nThe Introduction to Programming module provides a comprehensive overview of programming languages and their histories. This module is designed for beginners and experienced learners alike, offering a solid foundation in the principles of programming.\n\n## Key Concepts\n* History of programming languages\n* Programming language syntax and structure\n* Variables, data types, and operators\n* Control structures and functions\n* Object-Oriented Programming (OOP) concepts\n\n## Video-by-Video Notes\n### PHP in 8 Minutes \n* Introduction to PHP and its history\n* Basic syntax and structure of PHP code\n* Variables, data types, and operators in PHP\n* Control structures and functions in PHP\n\n## Key Takeaways\n* Programming languages have a rich history and have evolved over time\n* Understanding the syntax and structure of a programming language is crucial for effective programming\n* Variables, data types, and operators are fundamental concepts in programming\n* Control structures and functions are used to control the flow of a program\n* Object-Oriented Programming (OOP) concepts are essential for large-scale software development\n* PHP is a popular programming language used for web development\n* Learning a programming language requires practice and dedication\n\n## Further Reading\nFor further learning, we recommend:\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"The Programming Language\" by Brian W. Kernighan and Dennis M. Ritchie\n* \"PHP and MySQL Web Development\" by Luke Welling and Laura Thomson\n* Online resources such as Codecademy, FreeCodeCamp, and W3Schools\n* Taking online courses, such as the Python Udemy Course (available at a 90% discount via https://goharry.in/python) to gain hands-on experience with programming languages."
   },
   "notesList": [
     {
@@ -40062,6 +40071,232 @@
   "resources": [],
   "resourceCollections": [],
   "quizzes": [
+    {
+      "id": "mrwhpx35uo667s",
+      "title": "PHP in 8 Minutes 🔥 — Video Quiz",
+      "questions": [
+        {
+          "id": "crs_1784749413569_q1wr2r",
+          "prompt": "What is the main topic of the video 'PHP in 8 Minutes '?",
+          "options": [
+            "Python Programming",
+            "Java Programming",
+            "PHP Programming",
+            "JavaScript Programming"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The video is titled 'PHP in 8 Minutes ' and the description mentions a PHP tutorial."
+        },
+        {
+          "id": "crs_1784749413569_l9pvjm",
+          "prompt": "What is being offered with a 90% discount in the video description?",
+          "options": [
+            "A PHP Course",
+            "A Python Course",
+            "A Java Course",
+            "A JavaScript Course"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video description mentions a Python Udemy Course with a 90% discount."
+        },
+        {
+          "id": "crs_1784749413569_e0xp71",
+          "prompt": "What type of audience can benefit from this PHP tutorial according to the video description?",
+          "options": [
+            "Only advanced PHP developers",
+            "Only PHP beginners",
+            "Both PHP beginners and advanced PHP developers",
+            "Neither PHP beginners nor advanced PHP developers"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The video description states that PHP beginners will get a good idea of PHP and advanced PHP developers will get a quick revision."
+        },
+        {
+          "id": "crs_1784749413569_5l1qp7",
+          "prompt": "Where can viewers find the source code mentioned in the video description?",
+          "options": [
+            "In the video itself",
+            "On the Udemy course page",
+            "In the video description",
+            "Not mentioned in the video"
+          ],
+          "correct": [
+            3
+          ],
+          "explanation": "The video description mentions that all the source code is available, but it does not specify where."
+        },
+        {
+          "id": "crs_1784749413569_dee5b6",
+          "prompt": "How long does the video claim it will take to cover PHP?",
+          "options": [
+            "5 minutes",
+            "8 minutes",
+            "10 minutes",
+            "15 minutes"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video title is 'PHP in 8 Minutes '."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784749413569
+    },
+    {
+      "id": "mrwhpv26i56qph",
+      "title": "Introduction to Programming — Module Quiz",
+      "questions": [
+        {
+          "id": "crs_1784749410942_18v4e4",
+          "prompt": "What is the main topic discussed in the 'PHP in 8 Minutes' tutorial?",
+          "options": [
+            "History of Python",
+            "History of PHP",
+            "How to write Java code",
+            "How to write Python code"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The tutorial is about the history of PHP and how to write PHP code."
+        },
+        {
+          "id": "crs_1784749410942_5w26dv",
+          "prompt": "What is the primary focus of the PHP tutorial for a beginner?",
+          "options": [
+            "Advanced PHP development",
+            "PHP framework development",
+            "Getting a good idea of PHP",
+            "Learning Python basics"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The tutorial aims to provide a good idea of PHP for beginners."
+        },
+        {
+          "id": "crs_1784749410942_6wnjs4",
+          "prompt": "What is offered to users who use the provided link to access the Python Udemy Course?",
+          "options": [
+            "Free access to the course",
+            "90% discount on the course",
+            "20% discount on the course",
+            "10% discount on the course"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "Users can get a 90% discount on the course if they use the provided link."
+        },
+        {
+          "id": "crs_1784749410942_2nm348",
+          "prompt": "What type of developer will get a quick and best revision from this PHP tutorial?",
+          "options": [
+            "Beginner PHP developer",
+            "Intermediate PHP developer",
+            "Advanced PHP developer",
+            "Junior PHP developer"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The tutorial provides a quick and best revision for advanced PHP developers."
+        },
+        {
+          "id": "crs_1784749410942_ghjqfu",
+          "prompt": "What is included with the PHP tutorial?",
+          "options": [
+            "All the source code and other resources",
+            "Only the source code",
+            "Only other resources",
+            "No additional resources"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "The tutorial includes all the source code and other resources."
+        },
+        {
+          "id": "crs_1784749410942_6256te",
+          "prompt": "What programming language is the focus of the 'PHP in 8 Minutes' tutorial?",
+          "options": [
+            "Python",
+            "Java",
+            "PHP",
+            "JavaScript"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The tutorial focuses on PHP."
+        },
+        {
+          "id": "crs_1784749410942_vtbc8c",
+          "prompt": "Where can users access the Python Udemy Course at a discounted price?",
+          "options": [
+            "https://goharry.in/python",
+            "https://goharry.in/php",
+            "https://www.php.net",
+            "https://www.python.org"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Users can access the course at a discounted price using the link https://goharry.in/python."
+        },
+        {
+          "id": "crs_1784749410942_g9z5oq",
+          "prompt": "What is the expected outcome for a beginner who completes the PHP tutorial?",
+          "options": [
+            "Become an advanced PHP developer",
+            "Get a good idea of Python",
+            "Get a good idea of PHP",
+            "Learn how to write Java code"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "A beginner is expected to get a good idea of PHP after completing the tutorial."
+        },
+        {
+          "id": "crs_1784749410942_0hwxj8",
+          "prompt": "What is the duration of the PHP tutorial as mentioned in its title?",
+          "options": [
+            "5 minutes",
+            "8 minutes",
+            "10 minutes",
+            "15 minutes"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The title of the tutorial mentions that it is 'PHP in 8 Minutes'."
+        },
+        {
+          "id": "crs_1784749410942_aflgp3",
+          "prompt": "What is being promoted along with the PHP tutorial?",
+          "options": [
+            "A Java course",
+            "A Python course",
+            "A JavaScript course",
+            "A PHP course"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "A Python Udemy Course is being promoted along with the PHP tutorial."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784749410942
+    },
     {
       "id": "mqz78systl0bqq",
       "title": "Quiz: DSPM (from Absolute Novice to Industry Standards level, style: Normal explanation)",
@@ -41347,6 +41582,12 @@
       "name": "Introduction to Graph Algorithms",
       "nodeId": "mrwhj4lmmz9n0r",
       "createdAt": 1784749096714
+    },
+    {
+      "id": "mrwhpsd1sotcxm",
+      "name": "Introduction to Programming",
+      "nodeId": "mrwhpsd1sotcxm",
+      "createdAt": 1784749407445
     }
   ],
   "highlights": [],
