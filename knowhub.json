@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-22T10:58:11.170Z",
+  "exportedAt": "2026-07-22T10:58:35.643Z",
   "nodes": [
     {
       "status": "in_progress",
@@ -40461,6 +40461,41 @@
     }
   ],
   "flashcards": [
+    {
+      "front": "What is the purpose of a strong learning foundation?",
+      "back": "A strong learning foundation acts as the bedrock for all future knowledge, ensuring that when you encounter complex topics, you have the fundamental principles and learning strategies to tackle them successfully.",
+      "pageId": "mr0ofvd87ol1di",
+      "id": "mrvyyle4b8hq8l",
+      "createdAt": 1784717905612
+    },
+    {
+      "front": "What is active learning?",
+      "back": "Active learning involves engaging with information, such as typing out code yourself, experimenting with changes, and trying to break it to understand its limits, rather than just passively consuming it.",
+      "pageId": "mr0ofvd87ol1di",
+      "id": "mrvyyle4e16jl5",
+      "createdAt": 1784717905612
+    },
+    {
+      "front": "What is spaced repetition?",
+      "back": "Spaced repetition is reviewing material at increasing intervals over time to counteract the 'forgetting curve' and move information from short-term to long-term memory.",
+      "pageId": "mr0ofvd87ol1di",
+      "id": "mrvyyle4fjy1v2",
+      "createdAt": 1784717905612
+    },
+    {
+      "front": "Why is understanding over memorization important?",
+      "back": "Understanding over memorization is important because it fosters true problem-solving ability rather than just recalling information, allowing you to apply concepts in new situations.",
+      "pageId": "mr0ofvd87ol1di",
+      "id": "mrvyyle4abwxoe",
+      "createdAt": 1784717905612
+    },
+    {
+      "front": "What does setting clear goals using the SMART criteria involve?",
+      "back": "Setting clear goals using the SMART criteria involves defining what you want to achieve by making it Specific, Measurable, Achievable, Relevant, and Time-bound.",
+      "pageId": "mr0ofvd87ol1di",
+      "id": "mrvyyle4q84fp1",
+      "createdAt": 1784717905612
+    },
     {
       "front": "What is Professional Career Development?",
       "back": "It is an ongoing process of improving your skills, knowledge, and experience to advance in your chosen field, involving intentional steps to grow, adapt, and achieve your career aspirations.",
