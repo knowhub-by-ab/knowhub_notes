@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-22T20:14:25.129Z",
+  "exportedAt": "2026-07-22T20:15:36.601Z",
   "nodes": [
     {
       "status": "in_progress",
@@ -40041,6 +40041,30 @@
       "status": "pending",
       "order": 9,
       "createdAt": 1784751228106
+    },
+    {
+      "id": "mrwityjdo7axel",
+      "title": "Introduction to Programming Languages",
+      "parentId": null,
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1784751281689
+    },
+    {
+      "id": "mrwiu0u7vgfryq",
+      "title": "Web Development Fundamentals",
+      "parentId": null,
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1784751284671
+    },
+    {
+      "id": "mrwiu2uzyohjc8",
+      "title": "Frontend and Backend Frameworks",
+      "parentId": null,
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1784751287291
     }
   ],
   "pages": {
@@ -40079,7 +40103,10 @@
     "mrwipubh60684l": "# Introduction to Programming\n## Overview\nThe introduction to programming module is designed to provide a comprehensive overview of the basics of programming languages. This module covers the fundamental concepts of programming, including the history, syntax, and application of programming languages.\n\n## Key Concepts\n* Variables and data types\n* Control structures and loops\n* Functions and modules\n* Object-Oriented Programming (OOP) concepts\n* Basic syntax and semantics of programming languages\n\n## Video-by-Video Notes\n### PHP in 8 Minutes \n* This video provides a brief history of PHP and its evolution over time\n* It covers the basics of writing PHP code, including syntax and data types\n* The video is designed for PHP beginners and provides a good introduction to the language\n* It also touches on the applications of PHP in web development\n* The video provides a comprehensive overview of PHP in a short amount of time\n\n## Key Takeaways\n* Programming languages have a rich history and have evolved over time\n* Understanding the basics of programming, including variables and control structures, is crucial for any aspiring programmer\n* PHP is a popular programming language used in web development\n* Object-Oriented Programming (OOP) concepts are essential in modern programming\n* Practice and hands-on experience are key to becoming a proficient programmer\n* There are many resources available for learning programming, including online courses and tutorials\n* The Python Udemy course is a recommended resource for learning Python programming\n\n## Further Reading\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"The Art of Computer Programming\" by Donald Knuth\n* \"Python Crash Course\" by Eric Matthes\n* Online resources such as Codecademy, FreeCodeCamp, and W3Schools\n* GitHub and Stack Overflow for open-source projects and community support\n* Documentation for programming languages, including PHP and Python",
     "mrwisoupxicttz": "# Programming Languages\n## Overview\nThis module provides an introduction to popular programming languages, covering their history, syntax, and key features. The module consists of five video lessons, each focusing on a specific programming language: Python, C, PHP, C++, and Java.\n\n## Key Concepts\n* Programming language fundamentals\n* Object-oriented programming (OOP) concepts\n* Dynamic and static typing\n* Language syntax and structure\n* History and development of programming languages\n\n## Video-by-Video Notes\n### Python in 8 Minutes \n* Python is a dynamically typed, object-oriented programming language\n* The history of Python and its creator are discussed\n* The video provides an introduction to Python's syntax and features\n* The importance of Python in modern programming is highlighted\n* A link to a Python Udemy course with a 90% discount is provided\n\n### C Language in 9 Minutes \n* The C programming language is introduced, including its history and development\n* The video covers the basics of C syntax and structure\n* A link to a C Language Udemy course with a 90% discount is provided\n* The course offers a comprehensive introduction to the C language\n* The video emphasizes the importance of C in programming fundamentals\n\n### PHP in 8 Minutes \n* The history of PHP and its development are discussed\n* The video introduces PHP syntax and how to write PHP code\n* The basics of PHP programming are covered, including variables and data types\n* The video is suitable for PHP beginners and provides a good introduction to the language\n* A link to a Python Udemy course with a 90% discount is provided (note: this seems to be an error, as the video is about PHP)\n\n### C++ in 5 Minutes \n* The history of C++ and its creator, Bjarne Stroustrup, are discussed\n* The video introduces C++ syntax and its key features\n* The importance of C++ in programming is highlighted\n* The video provides a brief introduction to C++ programming\n* A link to a Python Udemy course with a 90% discount is provided (note: this seems to be an error, as the video is about C++)\n\n### Java in 7 Minutes \n* Java is introduced as an object-oriented programming language\n* The history and development of Java are discussed\n* The video covers the basics of Java syntax and structure\n* The importance of Java in modern programming is highlighted\n* A link to a Python Udemy course with a 90% discount is provided (note: this seems to be an error, as the video is about Java)\n\n## Key Takeaways\n* Programming languages have unique histories and developments\n* Understanding the syntax and structure of a programming language is crucial for effective programming\n* Object-oriented programming (OOP) concepts are fundamental to many modern programming languages\n* Dynamic and static typing are important concepts in programming languages\n* Familiarity with multiple programming languages can enhance a programmer's versatility and adaptability\n* Online courses and resources can provide comprehensive introductions to programming languages\n\n## Further Reading\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"The C Programming Language\" by Brian Kernighan and Dennis Ritchie\n* \"Java: A Beginner's Guide\" by Herbert Schildt\n* \"Python Crash Course\" by Eric Matthes\n* Online resources such as Codecademy, FreeCodeCamp, and GeeksforGeeks can provide additional practice and learning opportunities.",
     "mrwisr8azci14j": "# Web Development Fundamentals\n## Overview\nThis module provides an introduction to the basics of web development, covering the fundamental technologies that power the web. Students will learn about the history, syntax, and applications of HTML, CSS, and JavaScript.\n\n## Key Concepts\n* HTML (Hypertext Markup Language)\n* CSS (Cascading Style Sheets)\n* JavaScript\n* Web development frameworks and tools\n* Basic programming concepts\n\n## Video-by-Video Notes\n### HTML in 9 Minutes \n* This video covers the history of HTML and how it came into existence\n* The video provides a fast-paced introduction to HTML syntax and basics\n* Students will learn about the importance of HTML in web development\n* The video is presented in Hindi, making it accessible to a broader audience\n* The instructor provides additional resources for further learning\n\n### CSS in 7 Minutes \n* This video provides a brief history of CSS and its development\n* The instructor discusses the key features and applications of CSS\n* Students will learn about the basics of CSS syntax and selectors\n* The video is a tutorial presented in Hindi, with additional resources available on a companion website\n* The instructor highlights the importance of CSS in web design and development\n\n### JavaScript in 8 Minutes \n* This video covers the history of JavaScript and its origins\n* The instructor provides a mini tutorial on JavaScript basics and syntax\n* Students will learn about the role of JavaScript in web development and its applications\n* The video provides a fast-paced introduction to JavaScript, with additional resources available for further learning\n* The instructor highlights the importance of JavaScript in creating interactive web pages\n\n## Key Takeaways\n* HTML is the standard markup language used for creating web pages\n* CSS is used for styling and layout of web pages\n* JavaScript is used for adding interactivity to web pages\n* Web development involves a combination of these technologies\n* Understanding the basics of HTML, CSS, and JavaScript is essential for web development\n* Web development frameworks and tools can simplify and accelerate the development process\n* Practice and additional learning are necessary to master web development skills\n\n## Further Reading\n* Visit the World Wide Web Consortium (W3C) website for more information on HTML, CSS, and JavaScript standards\n* Explore online tutorials and courses on web development, such as those offered on Udemy, Coursera, and edX\n* Check out online resources, such as Mozilla Developer Network, Stack Overflow, and GitHub, for web development community support and knowledge sharing\n* Read books and articles on web development, such as \"HTML and CSS: Design and Build Websites\" by Jon Duckett and \"JavaScript: The Definitive Guide\" by David Flanagan\n* Participate in online forums and discussions to stay updated on the latest web development trends and best practices",
-    "mrwist6yyjh4rm": "# Frameworks and Libraries\n## Overview\nThis module provides an introduction to popular frameworks and libraries used in web development, including Flask, Django, NextJs, and Tailwind CSS. Through a series of video tutorials, students will gain a basic understanding of each framework's history, features, and use cases.\n\n## Key Concepts\n* Frameworks and libraries simplify web development by providing pre-built components and tools\n* Different frameworks and libraries are suited for specific tasks and projects\n* Understanding the strengths and weaknesses of each framework and library is crucial for effective web development\n* Flask, Django, NextJs, and Tailwind CSS are popular frameworks and libraries used in web development\n* Each framework and library has its own unique features, history, and use cases\n\n## Video-by-Video Notes\n### Flask in 6 Minutes \n* Introduction to the Flask framework and its history\n* Overview of the Flask framework's features and components\n* Getting started with Flask and setting up a basic project\n* Understanding the benefits and use cases of using Flask\n\n### Django in 8 Minutes \n* Introduction to the Django framework and its history\n* Overview of the Django framework's features and components\n* Understanding the benefits and use cases of using Django\n* Creating powerful web applications with Django\n\n### NextJs in 7 Minutes \n* Introduction to NextJs and its features\n* Understanding the benefits and use cases of using NextJs\n* Creating fast and scalable web applications with NextJs\n* Overview of the NextJs framework's components and tools\n\n### Tailwind CSS in 6 Minutes \n* Introduction to Tailwind CSS and its history\n* Overview of the Tailwind CSS framework's features and components\n* Understanding the benefits and use cases of using Tailwind CSS\n* Creating responsive and customizable web applications with Tailwind CSS\n\n## Key Takeaways\n* Flask is a lightweight and flexible framework for building web applications\n* Django is a high-level framework for building powerful and scalable web applications\n* NextJs is a framework for building fast and scalable web applications with React\n* Tailwind CSS is a utility-first CSS framework for building responsive and customizable web applications\n* Understanding the strengths and weaknesses of each framework and library is crucial for effective web development\n* Choosing the right framework and library for a project depends on the specific needs and requirements of the project\n\n## Further Reading\n* Official documentation for Flask, Django, NextJs, and Tailwind CSS\n* Tutorials and guides for getting started with each framework and library\n* Online courses and certifications for learning web development with popular frameworks and libraries\n* Books and articles on web development best practices and trends\n* Online communities and forums for discussing web development and sharing knowledge and resources"
+    "mrwist6yyjh4rm": "# Frameworks and Libraries\n## Overview\nThis module provides an introduction to popular frameworks and libraries used in web development, including Flask, Django, NextJs, and Tailwind CSS. Through a series of video tutorials, students will gain a basic understanding of each framework's history, features, and use cases.\n\n## Key Concepts\n* Frameworks and libraries simplify web development by providing pre-built components and tools\n* Different frameworks and libraries are suited for specific tasks and projects\n* Understanding the strengths and weaknesses of each framework and library is crucial for effective web development\n* Flask, Django, NextJs, and Tailwind CSS are popular frameworks and libraries used in web development\n* Each framework and library has its own unique features, history, and use cases\n\n## Video-by-Video Notes\n### Flask in 6 Minutes \n* Introduction to the Flask framework and its history\n* Overview of the Flask framework's features and components\n* Getting started with Flask and setting up a basic project\n* Understanding the benefits and use cases of using Flask\n\n### Django in 8 Minutes \n* Introduction to the Django framework and its history\n* Overview of the Django framework's features and components\n* Understanding the benefits and use cases of using Django\n* Creating powerful web applications with Django\n\n### NextJs in 7 Minutes \n* Introduction to NextJs and its features\n* Understanding the benefits and use cases of using NextJs\n* Creating fast and scalable web applications with NextJs\n* Overview of the NextJs framework's components and tools\n\n### Tailwind CSS in 6 Minutes \n* Introduction to Tailwind CSS and its history\n* Overview of the Tailwind CSS framework's features and components\n* Understanding the benefits and use cases of using Tailwind CSS\n* Creating responsive and customizable web applications with Tailwind CSS\n\n## Key Takeaways\n* Flask is a lightweight and flexible framework for building web applications\n* Django is a high-level framework for building powerful and scalable web applications\n* NextJs is a framework for building fast and scalable web applications with React\n* Tailwind CSS is a utility-first CSS framework for building responsive and customizable web applications\n* Understanding the strengths and weaknesses of each framework and library is crucial for effective web development\n* Choosing the right framework and library for a project depends on the specific needs and requirements of the project\n\n## Further Reading\n* Official documentation for Flask, Django, NextJs, and Tailwind CSS\n* Tutorials and guides for getting started with each framework and library\n* Online courses and certifications for learning web development with popular frameworks and libraries\n* Books and articles on web development best practices and trends\n* Online communities and forums for discussing web development and sharing knowledge and resources",
+    "mrwityjdo7axel": "# Introduction to Programming Languages\n## Overview\nThis module provides an introduction to the basics of popular programming languages, including Python, C, C++, Java, and PHP. Through a series of videos, students will learn about the history, syntax, and key features of each language.\n\n## Key Concepts\n* Programming language fundamentals\n* Object-oriented programming\n* Syntax and semantics\n* Language history and development\n* Basic coding practices\n\n## Video-by-Video Notes\n### Python in 8 Minutes\n* Python is a dynamically typed object-oriented programming language\n* It has a rich history and was created and maintained by Guido van Rossum\n* The video covers the basics of Python and its syntax\n* A Udemy course is available for further learning at a 90% discount\n* The course covers in-depth Python programming and real-world applications\n\n### C Language in 9 Minutes\n* The C language is a fundamental programming language\n* The video discusses the history of C and its creation\n* A rebuilt Udemy course is available for 2026 with improved structure and deeper explanations\n* The course offers real coding practice and is available at a 90% discount for a limited time\n* The C language is a crucial language to learn for any aspiring programmer\n\n### C++ in 5 Minutes\n* C++ is an object-oriented programming language created by Bjarne Stroustrup\n* The video covers the history of C++ and its syntax\n* The language is an extension of the C language and adds object-oriented features\n* The video provides a brief introduction to C++ and its applications\n* A link to a Python Udemy course is available, but it is not directly related to C++\n\n### Java in 7 Minutes\n* Java is an object-oriented programming language\n* The video discusses the history and development of Java\n* The syntax of Java is covered, including basic programming concepts\n* Java is a popular language for Android app development and web applications\n* The video provides a good introduction to Java for beginners\n\n### PHP in 8 Minutes\n* PHP is a server-side scripting language\n* The video covers the history of PHP and its development\n* The basic syntax of PHP is discussed, including variables and data types\n* PHP is a popular language for web development and dynamic websites\n* The video provides a good introduction to PHP for beginners and experienced programmers\n\n## Key Takeaways\n* Programming languages have unique histories and developments\n* Each language has its own syntax and features\n* Object-oriented programming is a fundamental concept in most languages\n* Learning multiple programming languages can improve coding skills and versatility\n* Online courses and tutorials are available for further learning and practice\n* Understanding the basics of programming languages is crucial for any aspiring programmer\n\n## Further Reading\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"The C Programming Language\" by Brian Kernighan and Dennis Ritchie\n* \"Java: A Beginner's Guide\" by Herbert Schildt\n* \"PHP and MySQL Web Development\" by Luke Welling and Laura Thomson\n* Online resources such as Codecademy, Coursera, and edX for programming courses and tutorials",
+    "mrwiu0u7vgfryq": "# Web Development Fundamentals\n## Overview\nWeb development is a crucial aspect of creating online platforms, and it involves various technologies such as HTML, CSS, and JavaScript. This module is designed to introduce you to the basics of web development, covering the fundamental concepts, syntax, and applications of these technologies.\n\n## Key Concepts\n* HTML (Hypertext Markup Language)\n* CSS (Cascading Style Sheets)\n* JavaScript\n* Web development frameworks and tools\n* Responsive web design\n\n## Video-by-Video Notes\n### HTML in 9 Minutes 🌐\n* This video provides an introduction to HTML, including its history and syntax.\n* The video covers the basics of HTML, including tags, attributes, and elements.\n* The instructor provides a fast-paced overview of HTML, making it easy to grasp the fundamental concepts.\n* The video is presented in Hindi, making it accessible to a broader audience.\n* Additional resources, such as the Python Udemy Course, are available for further learning.\n\n### CSS in 7 Minutes 🔥\n* This video explores the basics of CSS, including its history and syntax.\n* The instructor provides an overview of CSS, covering key concepts such as selectors, properties, and values.\n* The video discusses the importance of CSS in web development, including its role in styling and layout.\n* The instructor provides additional resources, including source code and materials, on the codewithh website.\n* The video is a concise and informative introduction to CSS.\n\n### JavaScript in 8 Minutes 👩‍💻\n* This video introduces JavaScript, including its history and development.\n* The instructor provides a mini tutorial on JavaScript, covering basic concepts such as variables, data types, and functions.\n* The video discusses the role of JavaScript in web development, including its use in dynamic client-side scripting.\n* The instructor provides an overview of JavaScript syntax and basic programming concepts.\n* The video is a fast-paced introduction to JavaScript, making it easy to grasp the fundamental concepts.\n\n## Key Takeaways\n* HTML is used for structuring and organizing content on the web.\n* CSS is used for styling and layout, making web pages visually appealing and user-friendly.\n* JavaScript is used for dynamic client-side scripting, adding interactivity to web pages.\n* Web development involves a combination of HTML, CSS, and JavaScript.\n* Responsive web design is crucial for creating web pages that adapt to different devices and screen sizes.\n* Web development frameworks and tools can simplify the development process and improve productivity.\n* Additional resources, such as online courses and tutorials, can aid in further learning and skill development.\n\n## Further Reading (suggestions)\n* For a more in-depth introduction to HTML, CSS, and JavaScript, consider exploring online resources such as W3Schools, Mozilla Developer Network, or MDN Web Docs.\n* To learn more about web development frameworks and tools, explore resources such as Bootstrap, React, or Angular.\n* For practical experience, try building small web projects using HTML, CSS, and JavaScript.\n* Consider enrolling in online courses or tutorials, such as the Python Udemy Course, to expand your skill set and knowledge in web development.\n* Join online communities, such as GitHub or Stack Overflow, to connect with other developers and stay updated on the latest trends and technologies in web development.",
+    "mrwiu2uzyohjc8": "# Frontend and Backend Frameworks\n## Overview\nDiscover popular frameworks for building robust applications. This module covers a range of frontend and backend frameworks, including Flask, Django, NextJs, and Tailwind CSS. By the end of this module, you'll have a solid understanding of the strengths and use cases for each framework.\n\n## Key Concepts\n* Frontend frameworks for building user interfaces\n* Backend frameworks for building server-side logic\n* Python-based frameworks such as Flask and Django\n* JavaScript-based frameworks such as NextJs\n* CSS frameworks such as Tailwind CSS\n\n## Video-by-Video Notes\n### Flask in 6 Minutes 🔥\n* Introduction to the Flask framework and its history\n* Overview of the Flask framework and its key features\n* How to get started with Flask and build a simple application\n* Resources for further learning, including the Python Udemy Course\n\n### Django in 8 Minutes 🔥\n* Introduction to the history and development of Django\n* Overview of Django's key features and how to use it to create powerful web applications\n* Timestamps for specific topics, including introduction, history, and features\n* How to use Django to build robust and scalable web applications\n\n### NextJs in 7 Minutes 🔥\n* Introduction to NextJs and its key features\n* Why you might want to consider using NextJs for your next production website\n* Overview of the NextJs framework and its strengths\n* Resources for further learning, including source code and tutorials\n\n### Tailwind CSS in 6 Minutes 🔥\n* Introduction to Tailwind CSS and its history\n* Overview of Tailwind CSS as a utility-first CSS framework\n* How to use Tailwind CSS to build custom designs and user interfaces\n* Resources for further learning, including tutorials and documentation\n\n## Key Takeaways\n* Flask is a lightweight Python-based framework for building web applications\n* Django is a high-level Python-based framework for building robust and scalable web applications\n* NextJs is a JavaScript-based framework for building server-side rendered web applications\n* Tailwind CSS is a utility-first CSS framework for building custom user interfaces\n* Each framework has its own strengths and use cases, and the choice of framework depends on the specific needs of the project\n* Further learning and practice are necessary to become proficient in each framework\n\n## Further Reading\n* Python Udemy Course: https://goharry.in/python (90% discount available)\n* Official documentation for Flask, Django, NextJs, and Tailwind CSS\n* Tutorial websites such as FreeCodeCamp and Codecademy for hands-on practice\n* Online communities such as Reddit and Stack Overflow for discussion and support\n* Books and online courses for in-depth learning and mastery of each framework"
   },
   "notesList": [
     {
@@ -40107,6 +40134,1288 @@
   "resources": [],
   "resourceCollections": [],
   "quizzes": [
+    {
+      "id": "mrwiuuzi3p4aam",
+      "title": "PHP in 8 Minutes 🔥 — Video Quiz",
+      "questions": [
+        {
+          "id": "crs_1784751323742_k9n13v",
+          "prompt": "What is the main topic of the video 'PHP in 8 Minutes'",
+          "options": [
+            "Introduction to Python",
+            "Introduction to PHP",
+            "Introduction to Java",
+            "Introduction to JavaScript"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video title and description clearly indicate that the main topic is PHP."
+        },
+        {
+          "id": "crs_1784751323742_ffd7ee",
+          "prompt": "What is offered to viewers who use the provided link to purchase the Python Udemy Course?",
+          "options": [
+            "20% Discount",
+            "50% Discount",
+            "90% Discount",
+            "10% Discount"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The video description states that viewers can get the course at a 90% discount."
+        },
+        {
+          "id": "crs_1784751323742_9ac6s1",
+          "prompt": "What type of developers can benefit from this PHP tutorial?",
+          "options": [
+            "Only advanced PHP developers",
+            "Only PHP beginners",
+            "Both PHP beginners and advanced PHP developers",
+            "Neither PHP beginners nor advanced PHP developers"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The video description states that both PHP beginners and advanced PHP developers can benefit from the tutorial."
+        },
+        {
+          "id": "crs_1784751323742_sezmrw",
+          "prompt": "What is mentioned as available for viewers in addition to the tutorial?",
+          "options": [
+            "All the source code and other resources",
+            "Only the video tutorial",
+            "A free PHP book",
+            "A PHP certification exam"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "The video description mentions that all the source code and other resources are available."
+        },
+        {
+          "id": "crs_1784751323742_ma4hxo",
+          "prompt": "How long does the video claim it will take to learn PHP?",
+          "options": [
+            "1 hour",
+            "8 minutes",
+            "8 hours",
+            "1 day"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video title 'PHP in 8 Minutes' clearly indicates the claimed learning time."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784751323742
+    },
+    {
+      "id": "mrwiut6uwu3ze6",
+      "title": "Tailwind CSS in 6 Minutes 🔥 — Video Quiz",
+      "questions": [
+        {
+          "id": "crs_1784751321414_hgpbmf",
+          "prompt": "What is Tailwind CSS?",
+          "options": [
+            "A JavaScript framework",
+            "A utility-first CSS framework",
+            "A Python library",
+            "A backend framework"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "Tailwind CSS is a utility-first CSS framework that allows you to compose classes to build any design directly in your markup."
+        },
+        {
+          "id": "crs_1784751321414_fgj9po",
+          "prompt": "What type of classes does Tailwind CSS have?",
+          "options": [
+            "Only color classes",
+            "Only layout classes",
+            "Utility classes like flex, pt-4, text-center, and rotate-90",
+            "Only font classes"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "Tailwind CSS has utility classes like flex, pt-4, text-center, and rotate-90 that can be composed to build any design."
+        },
+        {
+          "id": "crs_1784751321414_27q4fx",
+          "prompt": "Where will the source code and other materials for Tailwind CSS be uploaded?",
+          "options": [
+            "https://goharry.in/python",
+            "https://codewithharry.com",
+            "https://tailwindcss.com",
+            "https://udemy.com"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The source code and other materials for Tailwind CSS will be uploaded on https://codewithharry.com."
+        },
+        {
+          "id": "crs_1784751321414_pol6he",
+          "prompt": "What is the main concept of Tailwind CSS?",
+          "options": [
+            "Writing custom CSS for every design",
+            "Using a pre-designed template for all projects",
+            "Composing utility classes to build any design",
+            "Only using pre-built components"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The main concept of Tailwind CSS is to compose utility classes to build any design directly in your markup."
+        },
+        {
+          "id": "crs_1784751321414_6dv2rp",
+          "prompt": "What language is used to explain Tailwind CSS history in the video?",
+          "options": [
+            "English",
+            "Hindi",
+            "Spanish",
+            "French"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The Tailwind CSS history in the video is explained in Hindi."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784751321414
+    },
+    {
+      "id": "mrwiur9e8zll6j",
+      "title": "NextJs in 7 Minutes 🔥 — Video Quiz",
+      "questions": [
+        {
+          "id": "crs_1784751318914_yj4lu2",
+          "prompt": "What is the main topic of the video \"NextJs in 7 Minutes 🔥\"?",
+          "options": [
+            "Introduction to Python",
+            "Introduction to NextJs",
+            "Introduction to JavaScript",
+            "Introduction to HTML"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video is an introductory tutorial about NextJs, explaining what it is and why to consider using it for a production website."
+        },
+        {
+          "id": "crs_1784751318914_8mk24m",
+          "prompt": "What is the context of the discount mentioned in the video?",
+          "options": [
+            "Discount on a NextJs course",
+            "Discount on a JavaScript course",
+            "Discount on a Python Udemy course",
+            "Discount on an HTML course"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The description of the video mentions a 90% discount on a Python Udemy course when using a specific link."
+        },
+        {
+          "id": "crs_1784751318914_osyl9k",
+          "prompt": "Where will the source code and other materials related to the video be uploaded?",
+          "options": [
+            "https://nextjs.org",
+            "https://python.org",
+            "https://codewithharry.com",
+            "https://udemy.com"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The video mentions that the source code and other materials will be uploaded to https://codewithharry.com as they become available."
+        },
+        {
+          "id": "crs_1784751318914_26yxn8",
+          "prompt": "What is the duration of the video?",
+          "options": [
+            "5 minutes",
+            "7 minutes",
+            "10 minutes",
+            "15 minutes"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The title of the video is \"NextJs in 7 Minutes 🔥\""
+        },
+        {
+          "id": "crs_1784751318914_dn6951",
+          "prompt": "Why might you want to consider NextJs for your next production website?",
+          "options": [
+            "It is a Python framework",
+            "It is an HTML framework",
+            "It is explained in the video why NextJs should be considered",
+            "It is a JavaScript library"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The video aims to walk the viewer through what NextJs is about and why to consider using it for a production website."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784751318914
+    },
+    {
+      "id": "mrwiupaz9jlt0p",
+      "title": "Django in 8 Minutes 🔥 — Video Quiz",
+      "questions": [
+        {
+          "id": "crs_1784751316379_xmy1ko",
+          "prompt": "What is the main topic of the video 'Django in 8 Minutes'?",
+          "options": [
+            "Introduction to Python",
+            "Django Web Framework",
+            "Data Analysis with Pandas",
+            "Machine Learning with Scikit-learn"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video is about introducing Django, a Python web framework."
+        },
+        {
+          "id": "crs_1784751316379_szelo0",
+          "prompt": "How can viewers access a discounted Python Udemy course?",
+          "options": [
+            "By using a referral link",
+            "By visiting the course website directly",
+            "By contacting the course creator",
+            "By waiting for a promotional email"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "The video description provides a link to get the course at a 90% discount."
+        },
+        {
+          "id": "crs_1784751316379_d6ykcq",
+          "prompt": "At what timestamp does the video discuss the features of Django?",
+          "options": [
+            "00:00",
+            "01:25",
+            "02:42",
+            "03:14"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "According to the provided timestamps, features are discussed at 01:25."
+        },
+        {
+          "id": "crs_1784751316379_2zsjo1",
+          "prompt": "What is the primary programming language associated with Django?",
+          "options": [
+            "JavaScript",
+            "Java",
+            "Python",
+            "C++"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "Django is a Python web framework."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784751316379
+    },
+    {
+      "id": "mrwiunk4y3o06d",
+      "title": "Flask in 6 Minutes 🔥 — Video Quiz",
+      "questions": [
+        {
+          "id": "crs_1784751314116_x7ckh2",
+          "prompt": "What is the primary programming language used in the Flask framework?",
+          "options": [
+            "Java",
+            "Python",
+            "C++",
+            "JavaScript"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The Flask framework is built on top of the Python programming language."
+        },
+        {
+          "id": "crs_1784751314116_hxksev",
+          "prompt": "What is the nature of the Flask framework as described in the video?",
+          "options": [
+            "Full-featured framework",
+            "Microframework",
+            "Asynchronous framework",
+            "Synchronous framework"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video describes Flask as a microframework, which implies it has a smaller codebase and is more lightweight compared to full-featured frameworks."
+        },
+        {
+          "id": "crs_1784751314116_l1b4c6",
+          "prompt": "What is the estimated duration for learning Flask as per the video title?",
+          "options": [
+            "30 minutes",
+            "1 hour",
+            "6 minutes",
+            "1 day"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The title of the video, 'Flask in 6 Minutes', suggests that Flask can be learned within a short period of 6 minutes."
+        },
+        {
+          "id": "crs_1784751314116_volcd0",
+          "prompt": "What is being promoted in the video description?",
+          "options": [
+            "A Flask book",
+            "A Python Udemy course",
+            "A JavaScript tutorial",
+            "A C++ course"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video description promotes a Python Udemy course with a discount link."
+        },
+        {
+          "id": "crs_1784751314116_7idcjt",
+          "prompt": "What is the style of the tutorial as described in the video?",
+          "options": [
+            "Slow-paced and detailed",
+            "Fast-paced and detailed",
+            "Super fast-paced",
+            "Beginner-friendly"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The video describes itself as a 'super fast-paced tutorial' on the Flask microframework."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784751314116
+    },
+    {
+      "id": "mrwiulskxivdsq",
+      "title": "JavaScript in 8 Minutes 👩‍💻 — Video Quiz",
+      "questions": [
+        {
+          "id": "crs_1784751311828_8vzsav",
+          "prompt": "In what time frame is the JavaScript tutorial in the video meant to be completed?",
+          "options": [
+            "5 Minutes",
+            "8 Minutes",
+            "10 Minutes",
+            "15 Minutes"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video is titled 'JavaScript in 8 Minutes'."
+        },
+        {
+          "id": "crs_1784751311828_wq3zyo",
+          "prompt": "What programming language is mentioned in the course link provided in the video description?",
+          "options": [
+            "JavaScript",
+            "Python",
+            "Java",
+            "C++"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The course link provided is for a Python Udemy course."
+        },
+        {
+          "id": "crs_1784751311828_koisat",
+          "prompt": "What is covered in the 'mini javascript tutorial' part of the video?",
+          "options": [
+            "History of JavaScript",
+            "Advanced JavaScript topics",
+            "Syntax of JavaScript",
+            "Best practices for JavaScript"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The video description states that the mini tutorial covers the syntax part of JavaScript."
+        },
+        {
+          "id": "crs_1784751311828_58kuab",
+          "prompt": "Where can the source code and other material for the video be found?",
+          "options": [
+            "In the video description",
+            "On the course website",
+            "In the video comments",
+            "The link is provided at the end of the video"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video description mentions that all source code and other material will be provided, but the exact location is not specified in the provided text. However, based on common practices, it is likely on the course website."
+        },
+        {
+          "id": "crs_1784751311828_qtomhx",
+          "prompt": "What discount is offered for the Python Udemy course mentioned in the video?",
+          "options": [
+            "50% Discount",
+            "70% Discount",
+            "80% Discount",
+            "90% Discount"
+          ],
+          "correct": [
+            3
+          ],
+          "explanation": "The video description states that the course can be gotten at a 90% discount if the provided link is used."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784751311828
+    },
+    {
+      "id": "mrwiujn0wm8m3r",
+      "title": "CSS in 7 Minutes 🔥 — Video Quiz",
+      "questions": [
+        {
+          "id": "crs_1784751309036_wwbf58",
+          "prompt": "What is the main topic of the video 'CSS in 7 Minutes'?",
+          "options": [
+            "Introduction to Python",
+            "History of HTML",
+            "CSS Tutorial",
+            "Introduction to JavaScript"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The video is about the history and other things about the CSS language."
+        },
+        {
+          "id": "crs_1784751309036_4irqnr",
+          "prompt": "Where can the source code and other material for the video be found?",
+          "options": [
+            "https://www.google.com",
+            "https://codewithharry.com",
+            "https://goharry.in/python",
+            "https://www.udemy.com"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The source code and other material will be uploaded on https://codewithharry.com as and when available."
+        },
+        {
+          "id": "crs_1784751309036_8jy2fy",
+          "prompt": "What discount is offered for the Python Udemy Course?",
+          "options": [
+            "50% Discount",
+            "70% Discount",
+            "80% Discount",
+            "90% Discount"
+          ],
+          "correct": [
+            3
+          ],
+          "explanation": "The course can be gotten at 90% Discount if the provided link is used."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784751309036
+    },
+    {
+      "id": "mrwiui5wepzun8",
+      "title": "HTML in 9 Minutes (in Hindi) 🌐 — Video Quiz",
+      "questions": [
+        {
+          "id": "crs_1784751307124_1ctk05",
+          "prompt": "What is the main topic of the video 'HTML in 9 Minutes (in Hindi)'?",
+          "options": [
+            "Python programming",
+            "HTML basics",
+            "JavaScript framework",
+            "CSS styling"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video is about learning the basics of HTML in Hindi within a short time frame of 9 minutes."
+        },
+        {
+          "id": "crs_1784751307124_6j6b25",
+          "prompt": "What is being offered by the video creator?",
+          "options": [
+            "A free HTML course",
+            "A discounted Python course",
+            "A JavaScript tutorial",
+            "A CSS design book"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video creator is offering a Python Udemy course at a 90% discount."
+        },
+        {
+          "id": "crs_1784751307124_81t7tk",
+          "prompt": "How would you describe the pace of the video 'HTML in 9 Minutes (in Hindi)'?",
+          "options": [
+            "Slow and detailed",
+            "Fast-paced and concise",
+            "Moderate and explanatory",
+            "Theoretical and complex"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video is described as a fast-paced video on HTML, covering its history and syntax within a short duration."
+        },
+        {
+          "id": "crs_1784751307124_k3mjgs",
+          "prompt": "What language is the video 'HTML in 9 Minutes' presented in?",
+          "options": [
+            "English",
+            "Hindi",
+            "Spanish",
+            "French"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video is presented in the Hindi language, as indicated by '(in Hindi)' in its title."
+        },
+        {
+          "id": "crs_1784751307124_cwo0lc",
+          "prompt": "Where can viewers find additional resources for the video?",
+          "options": [
+            "In the video description",
+            "On the course website",
+            "In the comments section",
+            "Through a separate link"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "The video description mentions that all source code and other material will be available, implying that viewers can find additional resources there."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784751307124
+    },
+    {
+      "id": "mrwiugdrhczqg0",
+      "title": "Java in 7 Minutes 🔥 — Video Quiz",
+      "questions": [
+        {
+          "id": "crs_1784751304815_kekbbs",
+          "prompt": "What type of programming language is Java?",
+          "options": [
+            "Functional",
+            "Object-oriented",
+            "Scripting",
+            "Declarative"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "Java is described as an object-oriented programming language in the video."
+        },
+        {
+          "id": "crs_1784751304815_444mr5",
+          "prompt": "What is the main topic covered in the time stamp 02:19?",
+          "options": [
+            "History of Java",
+            "Syntax of Java",
+            "Introduction to Java",
+            "Hello World Program"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "According to the time stamps, the syntax of Java is covered at 02:19."
+        },
+        {
+          "id": "crs_1784751304815_tu68an",
+          "prompt": "What is the time stamp for the Hello World Program?",
+          "options": [
+            "00:00",
+            "00:34",
+            "02:19",
+            "02:24"
+          ],
+          "correct": [
+            3
+          ],
+          "explanation": "The time stamp for the Hello World Program is 02:24, according to the video description."
+        },
+        {
+          "id": "crs_1784751304815_vj42ak",
+          "prompt": "What is mentioned at the time stamp 00:34?",
+          "options": [
+            "Introduction to Java",
+            "History of Java",
+            "Syntax of Java",
+            "Hello World Program"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The history of Java is covered at the time stamp 00:34."
+        },
+        {
+          "id": "crs_1784751304815_ta29af",
+          "prompt": "What can be found at the link provided in the description?",
+          "options": [
+            "A Java course at 90% discount",
+            "A Python course at 10% discount",
+            "A Java course at 10% discount",
+            "A Python course at 90% discount"
+          ],
+          "correct": [
+            3
+          ],
+          "explanation": "The description mentions a Python Udemy course that can be purchased at a 90% discount using the provided link."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784751304815
+    },
+    {
+      "id": "mrwiuedt94s9v0",
+      "title": "C++ in 5 Minutes 🔥 — Video Quiz",
+      "questions": [
+        {
+          "id": "crs_1784751302225_pg0kxj",
+          "prompt": "Who created the C++ programming language?",
+          "options": [
+            "Bjarne Stroustrup",
+            "Guido van Rossum",
+            "James Gosling",
+            "Alan Turing"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Bjarne Stroustrup is credited with the creation of the C++ programming language."
+        },
+        {
+          "id": "crs_1784751302225_ziy2kz",
+          "prompt": "What is the purpose of the main function in a C++ program?",
+          "options": [
+            "To declare variables",
+            "To define a class",
+            "To serve as the entry point of the program",
+            "To import libraries"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The main function is the entry point of a C++ program where execution begins."
+        },
+        {
+          "id": "crs_1784751302225_hjswt9",
+          "prompt": "What is the symbol used to start a comment in C++?",
+          "options": [
+            "//",
+            "#",
+            "/",
+            "$"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "In C++, comments are started with the symbol '//'."
+        },
+        {
+          "id": "crs_1784751302225_x64hxd",
+          "prompt": "What is the typical structure of a C++ program?",
+          "options": [
+            "Class definition, then main function",
+            "Main function, then variable declarations",
+            "Comments, then main function, then variable declarations",
+            "Main function, then comments, then variable declarations"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "A typical C++ program includes the main function where variables are declared and used."
+        },
+        {
+          "id": "crs_1784751302225_4kxkec",
+          "prompt": "What is the purpose of the provided link in the video description?",
+          "options": [
+            "To download a C++ compiler",
+            "To get a 90% discount on a Python Udemy Course",
+            "To get a free C++ tutorial",
+            "To join a programming community"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The link in the description provides a discount on a Python Udemy Course."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784751302225
+    },
+    {
+      "id": "mrwiucmj03prwe",
+      "title": "C Language in 9 Minutes (in Hindi) 🔥 — Video Quiz",
+      "questions": [
+        {
+          "id": "crs_1784751299947_vq7fvb",
+          "prompt": "What is the primary focus of the video 'C Language in 9 Minutes (in Hindi)'?",
+          "options": [
+            "To teach Python programming",
+            "To provide an overview of the C language",
+            "To discuss advanced programming concepts",
+            "To promote a specific coding framework"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video aims to provide a brief introduction to the C language, covering its history and syntax."
+        },
+        {
+          "id": "crs_1784751299947_3lgmly",
+          "prompt": "What is being promoted in the video description?",
+          "options": [
+            "A new coding framework",
+            "A course on Java programming",
+            "A course on C and Python programming",
+            "A coding competition"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The video description promotes the instructor's courses on C and Python programming, available on Udemy."
+        },
+        {
+          "id": "crs_1784751299947_3i5eya",
+          "prompt": "What is the claimed benefit of using the provided link to purchase the C Language Course?",
+          "options": [
+            "Access to exclusive course materials",
+            "A 10% discount on the course price",
+            "A 90% discount on the course price",
+            "A free trial period"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "According to the video description, using the provided link gives access to a 90% discount on the C Language Course."
+        },
+        {
+          "id": "crs_1784751299947_bo7r8i",
+          "prompt": "How long is the video supposed to take to teach the C language?",
+          "options": [
+            "5 minutes",
+            "9 minutes",
+            "30 minutes",
+            "1 hour"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The title of the video 'C Language in 9 Minutes (in Hindi)' indicates that it aims to teach the C language in 9 minutes."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784751299947
+    },
+    {
+      "id": "mrwiuave9u2l27",
+      "title": "Python in 8 Minutes (in Hindi) 🐍 — Video Quiz",
+      "questions": [
+        {
+          "id": "crs_1784751297674_5dfv7p",
+          "prompt": "What is the primary language used in the video 'Python in 8 Minutes'?",
+          "options": [
+            "English",
+            "Hindi",
+            "Spanish",
+            "French"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video title explicitly mentions that the content is in Hindi."
+        },
+        {
+          "id": "crs_1784751297674_wq3ukl",
+          "prompt": "Who created and maintained Python for a long time?",
+          "options": [
+            "Bill Gates",
+            "Guido Van Rossum",
+            "Elon Musk",
+            "Sundar Pichai"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video mentions Guido Van Rossum as the creator and maintainer of Python."
+        },
+        {
+          "id": "crs_1784751297674_1d8qql",
+          "prompt": "What is the nature of Python in terms of typing?",
+          "options": [
+            "Statically typed",
+            "Dynamically typed",
+            "Weakly typed",
+            "Strongly typed"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video describes Python as a dynamically typed language."
+        },
+        {
+          "id": "crs_1784751297674_mmuwtg",
+          "prompt": "What is the duration of the video 'Python in 8 Minutes'?",
+          "options": [
+            "5 minutes",
+            "8 minutes",
+            "10 minutes",
+            "15 minutes"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video title explicitly mentions that it covers Python in 8 minutes."
+        },
+        {
+          "id": "crs_1784751297674_bpzrni",
+          "prompt": "What is the primary focus of the video 'Python in 8 Minutes'?",
+          "options": [
+            "Machine Learning with Python",
+            "Python for Web Development",
+            "Introduction to Python",
+            "Data Science with Python"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The video covers the introduction and history of Python."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784751297674
+    },
+    {
+      "id": "mrwiu94jzoovpw",
+      "title": "Frontend and Backend Frameworks — Module Quiz",
+      "questions": [
+        {
+          "id": "crs_1784751295411_nd5uwv",
+          "prompt": "What programming language is used for the Flask framework?",
+          "options": [
+            "Java",
+            "Python",
+            "JavaScript",
+            "C++"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "Flask is a micro web framework written in Python."
+        },
+        {
+          "id": "crs_1784751295411_4rwzth",
+          "prompt": "What is the name of the Python web framework that is discussed in the 8-minute video?",
+          "options": [
+            "Flask",
+            "Django",
+            "NextJs",
+            "Tailwind"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video discusses the history and development of Django."
+        },
+        {
+          "id": "crs_1784751295411_6wvkbw",
+          "prompt": "What is NextJs used for?",
+          "options": [
+            "Building mobile applications",
+            "Creating desktop applications",
+            "Creating powerful web applications",
+            "Building machine learning models"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "NextJs is used for creating powerful web applications."
+        },
+        {
+          "id": "crs_1784751295411_kx81le",
+          "prompt": "What type of CSS framework is Tailwind CSS?",
+          "options": [
+            "Component-based",
+            "Utility-first",
+            "Preprocessor",
+            "Postprocessor"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "Tailwind CSS is a utility-first CSS framework."
+        },
+        {
+          "id": "crs_1784751295411_gppayj",
+          "prompt": "Where can the source code for the tutorials be found?",
+          "options": [
+            "https://goharry.in/python",
+            "https://codewithharry.com",
+            "https://flask.com",
+            "https://django.com"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The source code for the tutorials can be found on https://codewithharry.com."
+        },
+        {
+          "id": "crs_1784751295411_yd5oh1",
+          "prompt": "How long is the introductory video for Flask?",
+          "options": [
+            "5 minutes",
+            "6 minutes",
+            "7 minutes",
+            "8 minutes"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The introductory video for Flask is 6 minutes long."
+        },
+        {
+          "id": "crs_1784751295411_f64250",
+          "prompt": "What feature does the video on Django cover at the 01:25 timestamp?",
+          "options": [
+            "History",
+            "Features",
+            "Syntax",
+            "Installation"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video covers the features of Django at the 01:25 timestamp."
+        },
+        {
+          "id": "crs_1784751295411_snag3v",
+          "prompt": "What is the discount offered for the Python Udemy course?",
+          "options": [
+            "50% off",
+            "75% off",
+            "80% off",
+            "90% off"
+          ],
+          "correct": [
+            3
+          ],
+          "explanation": "The Python Udemy course is offered at a 90% discount."
+        },
+        {
+          "id": "crs_1784751295411_lpq047",
+          "prompt": "At what timestamp does the video on Django discuss how Django got its name?",
+          "options": [
+            "01:25",
+            "02:42",
+            "03:14",
+            "03:20"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video discusses how Django got its name at the 02:42 timestamp."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784751295411
+    },
+    {
+      "id": "mrwiu71rzk8xvb",
+      "title": "Web Development Fundamentals — Module Quiz",
+      "questions": [
+        {
+          "id": "crs_1784751292719_broket",
+          "prompt": "What is the primary focus of the 'HTML in 9 Minutes' video?",
+          "options": [
+            "Learning CSS",
+            "Learning JavaScript",
+            "Learning HTML",
+            "Learning Python"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The video is titled 'HTML in 9 Minutes' and covers the history and syntax of HTML."
+        },
+        {
+          "id": "crs_1784751292719_jgztih",
+          "prompt": "Where can viewers find the source code and material for the tutorials?",
+          "options": [
+            "https://goharry.in/python",
+            "https://codewithharry.com",
+            "https://www.w3schools.com",
+            "https://www.github.com"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video descriptions mention that the source code and other material will be uploaded on https://codewithharry.com."
+        },
+        {
+          "id": "crs_1784751292719_mvn6je",
+          "prompt": "How long is the CSS tutorial video?",
+          "options": [
+            "5 minutes",
+            "7 minutes",
+            "9 minutes",
+            "10 minutes"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video is titled 'CSS in 7 Minutes'."
+        },
+        {
+          "id": "crs_1784751292719_cdph6d",
+          "prompt": "What is the main programming language being promoted with a discount link in the video descriptions?",
+          "options": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Python"
+          ],
+          "correct": [
+            3
+          ],
+          "explanation": "The video descriptions include a link to a Python Udemy course with a discount."
+        },
+        {
+          "id": "crs_1784751292719_sjm51t",
+          "prompt": "What is covered in the JavaScript tutorial video?",
+          "options": [
+            "Only the history of JavaScript",
+            "Only the syntax of JavaScript",
+            "The history and syntax of JavaScript",
+            "The history and syntax of HTML"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The video description mentions that the video will cover the history of JavaScript and a mini JavaScript tutorial on syntax."
+        },
+        {
+          "id": "crs_1784751292719_kwoola",
+          "prompt": "How long is the JavaScript tutorial video?",
+          "options": [
+            "5 minutes",
+            "7 minutes",
+            "8 minutes",
+            "10 minutes"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The video is titled 'JavaScript in 8 Minutes'."
+        },
+        {
+          "id": "crs_1784751292719_2p6esd",
+          "prompt": "What is the format of the 'HTML in 9 Minutes' video?",
+          "options": [
+            "A slow-paced video",
+            "A fast-paced video",
+            "An interactive video",
+            "A live video"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video description mentions that it will be a fast-paced video on HTML."
+        },
+        {
+          "id": "crs_1784751292719_lshn2j",
+          "prompt": "Why was HTML created?",
+          "options": [
+            "To replace JavaScript",
+            "To replace CSS",
+            "To make web development easier",
+            "To make web development harder"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The video description mentions that HTML is one of the easiest languages out there, implying it was created to make web development easier."
+        },
+        {
+          "id": "crs_1784751292719_spxw1k",
+          "prompt": "What can viewers expect to learn from the 'CSS in 7 Minutes' video?",
+          "options": [
+            "The history and syntax of HTML",
+            "The history and syntax of JavaScript",
+            "The history and other things about CSS",
+            "The history and syntax of Python"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The video description mentions that the video will talk about the history and other things about the CSS language."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784751292719
+    },
+    {
+      "id": "mrwiu4z04oxfs8",
+      "title": "Introduction to Programming Languages — Module Quiz",
+      "questions": [
+        {
+          "id": "crs_1784751290028_5x5ehx",
+          "prompt": "What type of programming language is Python?",
+          "options": [
+            "Statically typed",
+            "Dynamically typed",
+            "Object-oriented",
+            "All of the above"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "Python is a dynamically typed object-oriented programming language."
+        },
+        {
+          "id": "crs_1784751290028_bp5nxb",
+          "prompt": "Who created and maintained Python for a long time?",
+          "options": [
+            "Guido Van Rossum",
+            "Bjarne Stroustrup",
+            "James Gosling",
+            "Larry Wall"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Guido Van Rossum created and maintained Python for a long time."
+        },
+        {
+          "id": "crs_1784751290028_p3yxnm",
+          "prompt": "What is the primary focus of the C Language in 9 Minutes video?",
+          "options": [
+            "History of C",
+            "Syntax of C",
+            "Both History and Syntax of C",
+            "None of the above"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The C Language in 9 Minutes video covers both the history and syntax of C."
+        },
+        {
+          "id": "crs_1784751290028_suc77w",
+          "prompt": "Who created the C++ language?",
+          "options": [
+            "Guido Van Rossum",
+            "Bjarne Stroustrup",
+            "James Gosling",
+            "Larry Wall"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "Bjarne Stroustrup created the C++ language."
+        },
+        {
+          "id": "crs_1784751290028_l4nyd7",
+          "prompt": "What type of programming language is Java?",
+          "options": [
+            "Object-oriented",
+            "Scripting",
+            "Functional",
+            "Procedural"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "Java is an object-oriented programming language."
+        },
+        {
+          "id": "crs_1784751290028_1bjgou",
+          "prompt": "What is the primary focus of the Java in 7 Minutes video?",
+          "options": [
+            "History of Java",
+            "Syntax of Java",
+            "Both History and Syntax of Java",
+            "None of the above"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The Java in 7 Minutes video covers both the history and syntax of Java."
+        },
+        {
+          "id": "crs_1784751290028_3qiu0j",
+          "prompt": "What is the primary focus of the PHP in 8 Minutes video?",
+          "options": [
+            "History of PHP",
+            "Syntax of PHP",
+            "Both History and Syntax of PHP",
+            "None of the above"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The PHP in 8 Minutes video covers both the history and syntax of PHP."
+        },
+        {
+          "id": "crs_1784751290028_24obh4",
+          "prompt": "What is the common link between the Python, C, C++, Java, and PHP videos?",
+          "options": [
+            "All are object-oriented languages",
+            "All are programming languages",
+            "All have a similar syntax",
+            "All are used for web development"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The common link between the Python, C, C++, Java, and PHP videos is that they are all programming languages."
+        },
+        {
+          "id": "crs_1784751290028_6lc93p",
+          "prompt": "What is offered for the Python Udemy course?",
+          "options": [
+            "Free access",
+            "90% discount",
+            "20% discount",
+            "50% discount"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "A 90% discount is offered for the Python Udemy course."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784751290028
+    },
     {
       "id": "mrwitbvyiqh22z",
       "title": "JavaScript in 8 Minutes 👩‍💻 — Video Quiz",
@@ -42724,6 +44033,24 @@
       "name": "Frameworks and Libraries",
       "nodeId": "mrwist6yyjh4rm",
       "createdAt": 1784751228106
+    },
+    {
+      "id": "mrwityjdo7axel",
+      "name": "Introduction to Programming Languages",
+      "nodeId": "mrwityjdo7axel",
+      "createdAt": 1784751281689
+    },
+    {
+      "id": "mrwiu0u7vgfryq",
+      "name": "Web Development Fundamentals",
+      "nodeId": "mrwiu0u7vgfryq",
+      "createdAt": 1784751284671
+    },
+    {
+      "id": "mrwiu2uzyohjc8",
+      "name": "Frontend and Backend Frameworks",
+      "nodeId": "mrwiu2uzyohjc8",
+      "createdAt": 1784751287291
     }
   ],
   "highlights": [],
