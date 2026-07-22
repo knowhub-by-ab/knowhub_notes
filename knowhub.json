@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-22T10:51:49.430Z",
+  "exportedAt": "2026-07-22T10:54:31.474Z",
   "nodes": [
     {
       "status": "in_progress",
@@ -40024,6 +40024,7 @@
     }
   ],
   "resources": [],
+  "resourceCollections": [],
   "quizzes": [
     {
       "id": "mqz78systl0bqq",
@@ -40531,6 +40532,7 @@
       "createdAt": 1782672782896
     }
   ],
+  "flashcardDecks": [],
   "questionBanks": [
     {
       "id": "mqz7bl3zp9wyty",
@@ -41155,6 +41157,8 @@
       "createdAt": 1782727357382
     }
   ],
+  "videoPlaylists": [],
+  "contentCollections": [],
   "highlights": [],
   "chatFolders": [
     {
