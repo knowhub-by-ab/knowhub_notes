@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-22T20:11:15.816Z",
+  "exportedAt": "2026-07-22T20:12:19.336Z",
   "nodes": [
     {
       "status": "in_progress",
@@ -40009,6 +40009,14 @@
       "status": "pending",
       "order": 5,
       "createdAt": 1784749407445
+    },
+    {
+      "id": "mrwipubh60684l",
+      "title": "Introduction to Programming",
+      "parentId": null,
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1784751089597
     }
   ],
   "pages": {
@@ -40043,7 +40051,8 @@
     "mrwhbmwj1nfj7i": "# Graph Algorithms Introduction\n## Overview\nThis module provides an introduction to graph algorithms, with a focus on Prim's algorithm. Graph algorithms are essential in computer science, as they enable us to solve complex problems in various fields, including network optimization, social network analysis, and more. In this module, we will explore the basics of graph algorithms and delve into the specifics of Prim's algorithm.\n\n## Key Concepts\n* Graphs: weighted and unweighted, directed and undirected\n* Minimum Spanning Tree (MST): a subgraph that connects all nodes with the minimum total edge weight\n* Greedy algorithm: a type of algorithm that makes the locally optimal choice at each step\n* Prim's algorithm: a greedy algorithm for finding the MST of a weighted undirected graph\n* Time and space complexity: analyzing the efficiency of graph algorithms\n\n## Video-by-Video Notes\n### Prims Minimum Spanning Tree Algorithm (Step by Step with examples)\n* Prim's algorithm is a greedy algorithm that finds the MST of a weighted undirected graph\n* The algorithm starts with an arbitrary node and grows the tree by adding the minimum-weight edge that connects a node in the tree to a node not yet in the tree\n* The algorithm terminates when all nodes are included in the tree\n* Example walkthroughs demonstrate how to apply Prim's algorithm to sample graphs\n* The video highlights the importance of choosing the correct data structures to implement Prim's algorithm efficiently\n\n## Key Takeaways\n* Graph algorithms are crucial in solving complex problems in computer science and other fields\n* Prim's algorithm is a greedy algorithm for finding the MST of a weighted undirected graph\n* The algorithm has a time complexity of O(|E|log|V|) using a binary heap, where |E| is the number of edges and |V| is the number of vertices\n* Prim's algorithm is widely used in network optimization and other applications\n* Understanding the basics of graph algorithms and Prim's algorithm is essential for developing efficient solutions to real-world problems\n* Further practice and review are necessary to master the implementation of Prim's algorithm and other graph algorithms\n* The choice of data structures and algorithms significantly impacts the efficiency and scalability of graph algorithm implementations\n\n## Further Reading\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"Graph Theory\" by Douglas B. West\n* \"Algorithm Design\" by Jon Kleinberg and Éva Tardos\n* GeeksforGeeks: Graph Algorithms\n* MIT OpenCourseWare: Introduction to Algorithms and Data Structures",
     "mrwhhnfbzj6vvl": "# Introduction to Graph Algorithms\n## Overview\nIntroduction to Graph Algorithms is a fundamental module in computer science that deals with the study of algorithms used for searching, traversing, and manipulating graph data structures. Graph algorithms have numerous applications in various fields, including computer networks, social networks, traffic management, and more. This module aims to provide a comprehensive understanding of the basics of graph algorithms and their practical applications.\n\n## Key Concepts\n* Graph theory fundamentals\n* Types of graphs (weighted, unweighted, directed, undirected)\n* Graph representations (adjacency matrix, adjacency list)\n* Traversal algorithms (DFS, BFS)\n* Shortest path algorithms (Dijkstra's, Bellman-Ford)\n\n## Video-by-Video Notes\n### Prims Minimum Spanning Tree Algorithm (Step by Step with examples)\n* Prim's algorithm is a greedy algorithm used to find the minimum spanning tree of a weighted undirected graph.\n* The algorithm works by starting at an arbitrary vertex and growing the tree by adding the minimum-weight edge that connects a vertex in the tree to a vertex not yet in the tree.\n* The time complexity of Prim's algorithm is O(E + V log V) using a binary heap, where E is the number of edges and V is the number of vertices.\n* The algorithm is suitable for finding the minimum spanning tree in a dense graph.\n* The implementation of Prim's algorithm can be done using a priority queue to efficiently select the minimum-weight edge.\n\n## Key Takeaways\n* Graph algorithms are essential for solving complex problems in computer science and other fields.\n* Understanding the basics of graph theory, including types of graphs and graph representations, is crucial for learning graph algorithms.\n* Prim's algorithm is a greedy algorithm used to find the minimum spanning tree of a weighted undirected graph.\n* The time complexity of graph algorithms can vary depending on the algorithm and the size of the input graph.\n* Graph algorithms have numerous applications in computer networks, social networks, traffic management, and more.\n* Practice and implementation of graph algorithms are essential to mastering the subject.\n* Further study of graph algorithms can lead to a deeper understanding of advanced topics, such as network flows and graph optimization.\n\n## Further Reading\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"Graph Theory\" by Douglas B. West\n* \"Algorithms\" by Robert Sedgewick and Kevin Wayne\n* GeeksforGeeks: Graph Algorithms\n* MIT OpenCourseWare: Introduction to Algorithms and Data Structures",
     "mrwhj4lmmz9n0r": "# Introduction to Graph Algorithms\n## Overview\nThis module provides a comprehensive introduction to graph algorithms, focusing on the fundamental concepts and techniques used to solve graph-related problems. The module covers the basics of graph algorithms, including minimum spanning trees, and explores the steps involved in implementing these algorithms.\n\n## Key Concepts\n* Graph representation\n* Minimum spanning tree\n* Greedy algorithms\n* Weighted undirected graphs\n* Prim's algorithm\n\n## Video-by-Video Notes\n### Prims Minimum Spanning Tree Algorithm (Step by Step with examples)\n* Prim's algorithm is a greedy algorithm used to find a minimum spanning tree for a weighted undirected graph.\n* The algorithm starts by selecting an arbitrary node and adding it to the minimum spanning tree.\n* The algorithm then iteratively adds the minimum-weight edge that connects a node in the minimum spanning tree to a node not yet in the tree.\n* The process continues until all nodes are included in the minimum spanning tree.\n* The algorithm guarantees a minimum-weight spanning tree, but may not be the only possible solution.\n\n## Key Takeaways\n* Graph algorithms are used to solve problems involving graph data structures.\n* Minimum spanning trees are a fundamental concept in graph algorithms, and are used to find the minimum-weight subgraph that connects all nodes.\n* Prim's algorithm is a greedy algorithm that can be used to find a minimum spanning tree for a weighted undirected graph.\n* The time complexity of Prim's algorithm is O(E + V log V) in the worst case, where E is the number of edges and V is the number of vertices.\n* Graph algorithms have a wide range of applications, including network design, clustering, and recommendation systems.\n* Understanding graph algorithms is essential for working with graph data structures and solving real-world problems.\n\n## Further Reading\nSome suggested resources for further reading include:\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"Graph Theory\" by Douglas B. West\n* \"Algorithms\" by Robert Sedgewick and Kevin Wayne\n* \"Graph Algorithms\" by Shai Simonson\n* Online resources, such as GeeksforGeeks and LeetCode, also provide a wealth of information on graph algorithms and related topics.",
-    "mrwhpsd1sotcxm": "# Introduction to Programming\n## Overview\nThe Introduction to Programming module provides a comprehensive overview of programming languages and their histories. This module is designed for beginners and experienced learners alike, offering a solid foundation in the principles of programming.\n\n## Key Concepts\n* History of programming languages\n* Programming language syntax and structure\n* Variables, data types, and operators\n* Control structures and functions\n* Object-Oriented Programming (OOP) concepts\n\n## Video-by-Video Notes\n### PHP in 8 Minutes \n* Introduction to PHP and its history\n* Basic syntax and structure of PHP code\n* Variables, data types, and operators in PHP\n* Control structures and functions in PHP\n\n## Key Takeaways\n* Programming languages have a rich history and have evolved over time\n* Understanding the syntax and structure of a programming language is crucial for effective programming\n* Variables, data types, and operators are fundamental concepts in programming\n* Control structures and functions are used to control the flow of a program\n* Object-Oriented Programming (OOP) concepts are essential for large-scale software development\n* PHP is a popular programming language used for web development\n* Learning a programming language requires practice and dedication\n\n## Further Reading\nFor further learning, we recommend:\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"The Programming Language\" by Brian W. Kernighan and Dennis M. Ritchie\n* \"PHP and MySQL Web Development\" by Luke Welling and Laura Thomson\n* Online resources such as Codecademy, FreeCodeCamp, and W3Schools\n* Taking online courses, such as the Python Udemy Course (available at a 90% discount via https://goharry.in/python) to gain hands-on experience with programming languages."
+    "mrwhpsd1sotcxm": "# Introduction to Programming\n## Overview\nThe Introduction to Programming module provides a comprehensive overview of programming languages and their histories. This module is designed for beginners and experienced learners alike, offering a solid foundation in the principles of programming.\n\n## Key Concepts\n* History of programming languages\n* Programming language syntax and structure\n* Variables, data types, and operators\n* Control structures and functions\n* Object-Oriented Programming (OOP) concepts\n\n## Video-by-Video Notes\n### PHP in 8 Minutes \n* Introduction to PHP and its history\n* Basic syntax and structure of PHP code\n* Variables, data types, and operators in PHP\n* Control structures and functions in PHP\n\n## Key Takeaways\n* Programming languages have a rich history and have evolved over time\n* Understanding the syntax and structure of a programming language is crucial for effective programming\n* Variables, data types, and operators are fundamental concepts in programming\n* Control structures and functions are used to control the flow of a program\n* Object-Oriented Programming (OOP) concepts are essential for large-scale software development\n* PHP is a popular programming language used for web development\n* Learning a programming language requires practice and dedication\n\n## Further Reading\nFor further learning, we recommend:\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"The Programming Language\" by Brian W. Kernighan and Dennis M. Ritchie\n* \"PHP and MySQL Web Development\" by Luke Welling and Laura Thomson\n* Online resources such as Codecademy, FreeCodeCamp, and W3Schools\n* Taking online courses, such as the Python Udemy Course (available at a 90% discount via https://goharry.in/python) to gain hands-on experience with programming languages.",
+    "mrwipubh60684l": "# Introduction to Programming\n## Overview\nThe introduction to programming module is designed to provide a comprehensive overview of the basics of programming languages. This module covers the fundamental concepts of programming, including the history, syntax, and application of programming languages.\n\n## Key Concepts\n* Variables and data types\n* Control structures and loops\n* Functions and modules\n* Object-Oriented Programming (OOP) concepts\n* Basic syntax and semantics of programming languages\n\n## Video-by-Video Notes\n### PHP in 8 Minutes \n* This video provides a brief history of PHP and its evolution over time\n* It covers the basics of writing PHP code, including syntax and data types\n* The video is designed for PHP beginners and provides a good introduction to the language\n* It also touches on the applications of PHP in web development\n* The video provides a comprehensive overview of PHP in a short amount of time\n\n## Key Takeaways\n* Programming languages have a rich history and have evolved over time\n* Understanding the basics of programming, including variables and control structures, is crucial for any aspiring programmer\n* PHP is a popular programming language used in web development\n* Object-Oriented Programming (OOP) concepts are essential in modern programming\n* Practice and hands-on experience are key to becoming a proficient programmer\n* There are many resources available for learning programming, including online courses and tutorials\n* The Python Udemy course is a recommended resource for learning Python programming\n\n## Further Reading\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"The Art of Computer Programming\" by Donald Knuth\n* \"Python Crash Course\" by Eric Matthes\n* Online resources such as Codecademy, FreeCodeCamp, and W3Schools\n* GitHub and Stack Overflow for open-source projects and community support\n* Documentation for programming languages, including PHP and Python"
   },
   "notesList": [
     {
@@ -40071,6 +40080,232 @@
   "resources": [],
   "resourceCollections": [],
   "quizzes": [
+    {
+      "id": "mrwipyqmxn8luz",
+      "title": "PHP in 8 Minutes 🔥 — Video Quiz",
+      "questions": [
+        {
+          "id": "crs_1784751095326_1tppg2",
+          "prompt": "What is the main topic of the 'PHP in 8 Minutes' video?",
+          "options": [
+            "Introduction to Python",
+            "History and coding of PHP",
+            "Advanced Java programming",
+            "Basics of JavaScript"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The video is about PHP, covering its history and how to write PHP code."
+        },
+        {
+          "id": "crs_1784751095326_r3u3ff",
+          "prompt": "What is offered to viewers who use the provided link to the Python Udemy Course?",
+          "options": [
+            "A free trial",
+            "A 10% discount",
+            "A 50% discount",
+            "A 90% discount"
+          ],
+          "correct": [
+            3
+          ],
+          "explanation": "The video offers a 90% discount on the Python Udemy Course for viewers who use the provided link."
+        },
+        {
+          "id": "crs_1784751095326_qwovv5",
+          "prompt": "Who is the target audience for the 'PHP in 8 Minutes' video?",
+          "options": [
+            "Only advanced PHP developers",
+            "Only PHP beginners",
+            "Both PHP beginners and advanced developers",
+            "Only Python developers"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The video aims to provide a good introduction for PHP beginners and a quick revision for advanced PHP developers."
+        },
+        {
+          "id": "crs_1784751095326_doi82i",
+          "prompt": "What is mentioned as available for the PHP tutorial?",
+          "options": [
+            "All the hardware required",
+            "All the software needed",
+            "All the source code and others",
+            "All the networking tools"
+          ],
+          "correct": [
+            2
+          ],
+          "explanation": "The video mentions that all the source code and others are available for the PHP tutorial."
+        },
+        {
+          "id": "crs_1784751095326_50ra8o",
+          "prompt": "How long does the video claim it will take to cover PHP?",
+          "options": [
+            "5 minutes",
+            "8 minutes",
+            "10 minutes",
+            "30 minutes"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The title of the video, 'PHP in 8 Minutes', indicates that it will cover PHP in 8 minutes."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784751095326
+    },
+    {
+      "id": "mrwipwo15t9z4z",
+      "title": "Introduction to Programming — Module Quiz",
+      "questions": [
+        {
+          "id": "crs_1784751092641_ii294m",
+          "prompt": "What is the primary focus of the provided PHP tutorial?",
+          "options": [
+            "Learning Python",
+            "Writing PHP code",
+            "History of JavaScript",
+            "Learning Java"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The tutorial focuses on the history of PHP and how to write PHP code."
+        },
+        {
+          "id": "crs_1784751092641_zcdhjo",
+          "prompt": "What is the expected outcome for a PHP beginner after taking this tutorial?",
+          "options": [
+            "Become an advanced developer",
+            "Get a good idea of PHP",
+            "Learn Python",
+            "Learn Java"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The tutorial promises that PHP beginners will get a good idea of PHP."
+        },
+        {
+          "id": "crs_1784751092641_t2dn12",
+          "prompt": "What is offered to users who use the provided link to purchase the Python Udemy Course?",
+          "options": [
+            "50% Discount",
+            "90% Discount",
+            "Free Course",
+            "20% Discount"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The link offers a 90% discount on the Python Udemy Course."
+        },
+        {
+          "id": "crs_1784751092641_wuii0i",
+          "prompt": "What is the topic of the Udemy Course mentioned in the description?",
+          "options": [
+            "PHP",
+            "Python",
+            "JavaScript",
+            "Java"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The Udemy Course is about Python, not PHP."
+        },
+        {
+          "id": "crs_1784751092641_mf4ru6",
+          "prompt": "What is the duration of the PHP tutorial as mentioned in the title?",
+          "options": [
+            "10 minutes",
+            "8 minutes",
+            "5 minutes",
+            "15 minutes"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The title of the tutorial is 'PHP in 8 Minutes'."
+        },
+        {
+          "id": "crs_1784751092641_7eeri7",
+          "prompt": "What is the benefit for advanced PHP developers who take this tutorial?",
+          "options": [
+            "Become a beginner",
+            "Get a very quick and best revision",
+            "Learn Python",
+            "Learn Java"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The tutorial promises that advanced PHP developers will get a very quick and best revision."
+        },
+        {
+          "id": "crs_1784751092641_he6ml1",
+          "prompt": "What is included with the PHP tutorial?",
+          "options": [
+            "All the source code and other resources",
+            "Only the video lessons",
+            "Only the PDF materials",
+            "No additional resources"
+          ],
+          "correct": [
+            0
+          ],
+          "explanation": "The tutorial includes all the source code and other resources."
+        },
+        {
+          "id": "crs_1784751092641_uc8cg3",
+          "prompt": "What is the main programming language discussed in the tutorial?",
+          "options": [
+            "Python",
+            "Java",
+            "JavaScript",
+            "PHP"
+          ],
+          "correct": [
+            3
+          ],
+          "explanation": "The main programming language discussed in the tutorial is PHP."
+        },
+        {
+          "id": "crs_1784751092641_8qhw0d",
+          "prompt": "Where can users find the Python Udemy Course?",
+          "options": [
+            "https://goharry.in/java",
+            "https://goharry.in/python",
+            "https://goharry.in/php",
+            "https://goharry.in/javascript"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The Python Udemy Course can be found at https://goharry.in/python."
+        },
+        {
+          "id": "crs_1784751092641_w90qtm",
+          "prompt": "What is the expected level of knowledge for users who can benefit from this tutorial?",
+          "options": [
+            "Only advanced developers",
+            "Both beginners and advanced developers",
+            "Only beginners",
+            "Only intermediate developers"
+          ],
+          "correct": [
+            1
+          ],
+          "explanation": "The tutorial is beneficial for both PHP beginners and advanced developers."
+        }
+      ],
+      "attempts": [],
+      "createdAt": 1784751092641
+    },
     {
       "id": "mrwhpx35uo667s",
       "title": "PHP in 8 Minutes 🔥 — Video Quiz",
@@ -41588,6 +41823,12 @@
       "name": "Introduction to Programming",
       "nodeId": "mrwhpsd1sotcxm",
       "createdAt": 1784749407445
+    },
+    {
+      "id": "mrwipubh60684l",
+      "name": "Introduction to Programming",
+      "nodeId": "mrwipubh60684l",
+      "createdAt": 1784751089597
     }
   ],
   "highlights": [],
