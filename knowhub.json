@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-23T06:06:15.829Z",
+  "exportedAt": "2026-07-23T06:07:36.728Z",
   "nodes": [
     {
       "order": 2,
@@ -39969,102 +39969,6 @@
       "id": "mrb3bub85iof8f",
       "order": 11,
       "title": "L. Managing a Lifetime of Professional Growth"
-    },
-    {
-      "parentId": null,
-      "status": "pending",
-      "id": "mrwh8mln1wwar8",
-      "createdAt": 1784748606827,
-      "order": 1,
-      "title": "Graph Algorithms Introduction"
-    },
-    {
-      "status": "pending",
-      "parentId": null,
-      "order": 2,
-      "title": "Graph Algorithms Introduction",
-      "createdAt": 1784748747187,
-      "id": "mrwhbmwj1nfj7i"
-    },
-    {
-      "parentId": null,
-      "status": "pending",
-      "order": 3,
-      "title": "Introduction to Graph Algorithms",
-      "id": "mrwhhnfbzj6vvl",
-      "createdAt": 1784749027799
-    },
-    {
-      "parentId": null,
-      "status": "pending",
-      "order": 4,
-      "title": "Introduction to Graph Algorithms",
-      "id": "mrwhj4lmmz9n0r",
-      "createdAt": 1784749096714
-    },
-    {
-      "status": "pending",
-      "parentId": null,
-      "order": 5,
-      "title": "Introduction to Programming",
-      "createdAt": 1784749407445,
-      "id": "mrwhpsd1sotcxm"
-    },
-    {
-      "createdAt": 1784751089597,
-      "id": "mrwipubh60684l",
-      "title": "Introduction to Programming",
-      "order": 6,
-      "status": "pending",
-      "parentId": null
-    },
-    {
-      "order": 7,
-      "title": "Programming Languages",
-      "id": "mrwisoupxicttz",
-      "createdAt": 1784751222482,
-      "parentId": null,
-      "status": "pending"
-    },
-    {
-      "order": 8,
-      "title": "Web Development Fundamentals",
-      "id": "mrwisr8azci14j",
-      "createdAt": 1784751225562,
-      "parentId": null,
-      "status": "pending"
-    },
-    {
-      "createdAt": 1784751228106,
-      "id": "mrwist6yyjh4rm",
-      "order": 9,
-      "title": "Frameworks and Libraries",
-      "status": "pending",
-      "parentId": null
-    },
-    {
-      "title": "Introduction to Programming Languages",
-      "order": 10,
-      "id": "mrwityjdo7axel",
-      "createdAt": 1784751281689,
-      "parentId": null,
-      "status": "pending"
-    },
-    {
-      "parentId": null,
-      "status": "pending",
-      "title": "Web Development Fundamentals",
-      "order": 11,
-      "id": "mrwiu0u7vgfryq",
-      "createdAt": 1784751284671
-    },
-    {
-      "order": 12,
-      "title": "Frontend and Backend Frameworks",
-      "id": "mrwiu2uzyohjc8",
-      "createdAt": 1784751287291,
-      "parentId": null,
-      "status": "pending"
     }
   ],
   "pages": {
