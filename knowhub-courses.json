@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "exportedAt": "2026-07-23T15:33:01.286Z",
+  "courses": [
+    {
+      "id": "crs_1784751276859_svx5hf",
+      "name": "Revising X in Y Minutes",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLu0W_9lII9ajkincuKn6f6tIk76l5Suqw",
+      "playlistId": "PLu0W_9lII9ajkincuKn6f6tIk76l5Suqw",
+      "channelTitle": "CodeWithHarry",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JdG1cVFyj5A/hqdefault.jpg",
+      "modules": [
+        {
+          "id": "crs_1784751278592_2akkhq",
+          "title": "Introduction to Programming Languages",
+          "description": "Get started with the basics of popular programming languages",
+          "videoIds": [
+            "JdG1cVFyj5A",
+            "IygPoF9Y5O8",
+            "-33ywOXKh2M",
+            "walNht-t2DE",
+            "542oAYLGMNA"
+          ],
+          "order": 0,
+          "pageNodeId": "mrwityjdo7axel",
+          "quizId": "mrwiu4z04oxfs8"
+        },
+        {
+          "id": "crs_1784751278592_495r9i",
+          "title": "Web Development Fundamentals",
+          "description": "Learn the ins and outs of web development with HTML, CSS, and JavaScript",
+          "videoIds": [
+            "Ut4RpySLM6Y",
+            "AP3_V7KXHs4",
+            "0vL_EhRMFN0"
+          ],
+          "order": 1,
+          "pageNodeId": "mrwiu0u7vgfryq",
+          "quizId": "mrwiu71rzk8xvb"
+        },
+        {
+          "id": "crs_1784751278592_2cutib",
+          "title": "Frontend and Backend Frameworks",
+          "description": "Discover popular frameworks for building robust applications",
+          "videoIds": [
+            "0HXg9_r_7MM",
+            "rIWJWy3_njo",
+            "nresBvpaVH0",
+            "S1rix8GXErc"
+          ],
+          "order": 2,
+          "pageNodeId": "mrwiu2uzyohjc8",
+          "quizId": "mrwiu94jzoovpw"
+        }
+      ],
+      "videos": {
+        "JdG1cVFyj5A": {
+          "youtubeId": "JdG1cVFyj5A",
+          "title": "Python in 8 Minutes (in Hindi) 🐍",
+          "channel": "CodeWithHarry",
+          "thumbnailUrl": "https://i.ytimg.com/vi/JdG1cVFyj5A/mqdefault.jpg",
+          "durationSec": 509,
+          "description": "Python Udemy Course: https://goharry.in/python\nGet this course at 90% Discount if you use this link\n\nPython in 8 minutes in Hindi: In this video, we will talk about Python and the history of Python. Python is a dynamically typed object oriented programming language. Its was created and maintained for a very long time by Guido Van Rossum\nTimeStamps ⌚\nIntroduction: 00:00 - 02:36\nComments In Python : 02:36 - 02:58\nPrint Function: 02:58 - 03:15\nArithmatic Operators: 03:15 - 03:22\nVariables & DataTyp",
+          "watched": false,
+          "quizId": "mrwiuave9u2l27"
+        },
+        "IygPoF9Y5O8": {
+          "youtubeId": "IygPoF9Y5O8",
+          "title": "C Language in 9 Minutes (in Hindi) 🔥",
+          "channel": "CodeWithHarry",
+          "thumbnailUrl": "https://i.ytimg.com/vi/IygPoF9Y5O8/mqdefault.jpg",
+          "durationSec": 542,
+          "description": "Latest & Better 2026 Udemy C Course: https://goharry.in/clang\nI’ve completely rebuilt my C Language Course for 2026 — better structure, deeper explanations, and tons of real coding practice. Get this course at 90% Discount for limited time if you use the above link\n\nPython Udemy Course: https://goharry.in/python\nGet this course at 90% Discount if you use this link\n\n\nC language (History + Syntax) in one video: In this C language video, we will talk about the history and syntax of the C language. ",
+          "watched": false,
+          "quizId": "mrwiucmj03prwe"
+        },
+        "-33ywOXKh2M": {
+          "youtubeId": "-33ywOXKh2M",
+          "title": "C++ in 5 Minutes 🔥",
+          "channel": "CodeWithHarry",
+          "thumbnailUrl": "https://i.ytimg.com/vi/-33ywOXKh2M/mqdefault.jpg",
+          "durationSec": 347,
+          "description": "Python Udemy Course: https://goharry.in/python\nGet this course at 90% Discount if you use this link\n\nIn this video, we will talk about the history of C++, how Bjarne Stroustrup created C++ Language and what the syntax of C++ looks like! \n \n\nTimeStamps ⌚\n00:00 - Introduction\n00:42 - History\n01:38 - Syntax of CPP\n01:42 - Typical C++ Program\n01:51 - Comments\n02:03 - The main function\n02:19 - Variables\n02:34 - Arithmetic Operators\n02:42 - Conditional Statements\n03:01 - Switch-case Statement\n03:16 - ",
+          "watched": false,
+          "quizId": "mrwiuedt94s9v0"
+        },
+        "walNht-t2DE": {
+          "youtubeId": "walNht-t2DE",
+          "title": "Java in 7 Minutes 🔥",
+          "channel": "CodeWithHarry",
+          "thumbnailUrl": "https://i.ytimg.com/vi/walNht-t2DE/mqdefault.jpg",
+          "durationSec": 439,
+          "description": "Python Udemy Course: https://goharry.in/python\nGet this course at 90% Discount if you use this link\n\nJava is an object oriented programming language. In this short java video, we are going to cover history and development of java programming language. We will also talk about syntax of java in this video!\nTimeStamps ⌚\n00:00 - Introduction\n00:34 - History\n02:19 - Syntax \n02:24 - Hello World Program\n02:50 - How Java code is compiled?\n03:15 - Comments\n03:37 - Operators in Java\n03:48 - Strings\n04:01 ",
+          "watched": false,
+          "quizId": "mrwiugdrhczqg0"
+        },
+        "Ut4RpySLM6Y": {
+          "youtubeId": "Ut4RpySLM6Y",
+          "title": "HTML in 9 Minutes (in Hindi) 🌐",
+          "channel": "CodeWithHarry",
+          "thumbnailUrl": "https://i.ytimg.com/vi/Ut4RpySLM6Y/mqdefault.jpg",
+          "durationSec": 549,
+          "description": "Python Udemy Course: https://goharry.in/python\nGet this course at 90% Discount if you use this link\n\nLearn HTML in Hindi: In this video, I will walk you through the history and syntax of HTML in Hindi. This video is going to be a fast pace video on HTML. Let's talk about how HTML came into existence and why HTML is one of the easiest languages out there!\nAll the source code and other material will be uploaded on https://codewithharry.com as and when available!\n\n📚 Resources to learn HTML:\nHTML i",
+          "watched": false,
+          "quizId": "mrwiui5wepzun8"
+        },
+        "AP3_V7KXHs4": {
+          "youtubeId": "AP3_V7KXHs4",
+          "title": "CSS in 7 Minutes 🔥",
+          "channel": "CodeWithHarry",
+          "thumbnailUrl": "https://i.ytimg.com/vi/AP3_V7KXHs4/mqdefault.jpg",
+          "durationSec": 450,
+          "description": "Python Udemy Course: https://goharry.in/python\nGet this course at 90% Discount if you use this link\n\nCSS Tutorial in Hindi in 7 minutes: In this video, we will talk about the history and other things about the CSS language!\nAll the source code and other material will be uploaded on https://codewithharry.com as and when available!\nTimeStamps ⌚\n00:00 - Introduction\n00:20 - Why HTML was made?\n00:50 - Why CSS was required?\n02:18 - CSS History\n03:23 - Syntax of CSS\n03:45 - Styling Headings \n03:50 - S",
+          "watched": false,
+          "quizId": "mrwiujn0wm8m3r"
+        },
+        "0vL_EhRMFN0": {
+          "youtubeId": "0vL_EhRMFN0",
+          "title": "JavaScript in 8 Minutes 👩‍💻",
+          "channel": "CodeWithHarry",
+          "thumbnailUrl": "https://i.ytimg.com/vi/0vL_EhRMFN0/mqdefault.jpg",
+          "durationSec": 534,
+          "description": "Python Udemy Course: https://goharry.in/python\nGet this course at 90% Discount if you use this link\n\nJavaScript Fast Tutorial: In this javascript video, we will start with the history of javascript and how and why JavaScript was developed. Post that, we will look into the mini javascript tutorial where we will look into the syntax part of javascript\nAll the source code and other material will be uploaded on https://codewithharry.com as and when available!\nTimeStamps ⌚\n00:00 - Introduction\n00:39 ",
+          "watched": false,
+          "quizId": "mrwiulskxivdsq"
+        },
+        "0HXg9_r_7MM": {
+          "youtubeId": "0HXg9_r_7MM",
+          "title": "Flask in 6 Minutes 🔥",
+          "channel": "CodeWithHarry",
+          "thumbnailUrl": "https://i.ytimg.com/vi/0HXg9_r_7MM/mqdefault.jpg",
+          "durationSec": 395,
+          "description": "Python Udemy Course: https://goharry.in/python\nGet this course at 90% Discount if you use this link\n\nPython flask Introduction and History: In this video, we will look into the flask framework which is based on python. This video will get you a good idea of what the flask framework looks like. This is going to be like a super fast-paced tutorial on flask microframework\nAll the source code and other material will be uploaded on https://codewithharry.com as and when available!\nTimeStamps ⌚\n00:00 -",
+          "watched": false,
+          "quizId": "mrwiunk4y3o06d"
+        },
+        "rIWJWy3_njo": {
+          "youtubeId": "rIWJWy3_njo",
+          "title": "Django in 8 Minutes 🔥",
+          "channel": "CodeWithHarry",
+          "thumbnailUrl": "https://i.ytimg.com/vi/rIWJWy3_njo/mqdefault.jpg",
+          "durationSec": 483,
+          "description": "Python Udemy Course: https://goharry.in/python\nGet this course at 90% Discount if you use this link\n\nIn this video, we will look into the history and development of Django along with how to use it to create powerful web applications!\nTimeStamps ⌚\n00:00 - Introduction & History\n01:25 - Features\n02:42 - How Django got its name?\n03:14 - Django Syntax\n03:20 - Installing Django module\n04:00 - Starting python server\n04:19 - models and views\n04:49 - Sample html template\n04:53 - Django Views\n05:16 - Dja",
+          "watched": false,
+          "quizId": "mrwiupaz9jlt0p"
+        },
+        "nresBvpaVH0": {
+          "youtubeId": "nresBvpaVH0",
+          "title": "NextJs in 7 Minutes 🔥",
+          "channel": "CodeWithHarry",
+          "thumbnailUrl": "https://i.ytimg.com/vi/nresBvpaVH0/mqdefault.jpg",
+          "durationSec": 416,
+          "description": "Python Udemy Course: https://goharry.in/python\nGet this course at 90% Discount if you use this link\n\nNextJs tutorial: In this nextjs introductory video, I will walk you through what next js is about and why you might want to consider it for your next production website!\nAll the source code and other material will be uploaded on https://codewithharry.com as and when available!\nTimeStamps ⌚\n00:00 - Introduction\n00:14 - Why Big Companies Use NextJs\n00:46 - Downsides of React \n01:39 - NextJs Solves ",
+          "watched": false,
+          "quizId": "mrwiur9e8zll6j"
+        },
+        "S1rix8GXErc": {
+          "youtubeId": "S1rix8GXErc",
+          "title": "Tailwind CSS in 6 Minutes 🔥",
+          "channel": "CodeWithHarry",
+          "thumbnailUrl": "https://i.ytimg.com/vi/S1rix8GXErc/mqdefault.jpg",
+          "durationSec": 379,
+          "description": "Python Udemy Course: https://goharry.in/python\nGet this course at 90% Discount if you use this link\n\nTailwind CSS history in Hindi: Tailwind is a utility-first CSS framework packed with classes like flex, pt-4, text-center, and rotate-90 that can be composed to build any design, directly in your markup.\nAll the source code and other material will be uploaded on https://codewithharry.com as and when available!\nTimeStamps ⌚\n00:00 - Introduction\n00:33 - Features of Tailwind\n00:45 - Is Tailwind CSS ",
+          "watched": false,
+          "quizId": "mrwiut6uwu3ze6"
+        },
+        "542oAYLGMNA": {
+          "youtubeId": "542oAYLGMNA",
+          "title": "PHP in 8 Minutes 🔥",
+          "channel": "CodeWithHarry",
+          "thumbnailUrl": "https://i.ytimg.com/vi/542oAYLGMNA/mqdefault.jpg",
+          "durationSec": 526,
+          "description": "Python Udemy Course: https://goharry.in/python\nGet this course at 90% Discount if you use this link\n\nIn this php tutorial, we will talk about the history of PHP and will then take our discussion towards how to write PHP code. If you are a PHP beginner, you will get a good idea of PHP and if you are an advanced PHP developer, you will get a very quick and best revision!\nAll the source code and other material will be uploaded on https://codewithharry.com as and when available!\nTimeStamps ⌚\n00:00 -",
+          "watched": false,
+          "quizId": "mrwiuuzi3p4aam"
+        }
+      },
+      "totalVideos": 12,
+      "createdAt": 1784751276859,
+      "updatedAt": 1784751323760
+    }
+  ]
+}
