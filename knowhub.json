@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-25T19:06:02.737Z",
+  "exportedAt": "2026-07-25T19:06:23.618Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -673,14 +673,6 @@
       "createdAt": 1782835445607,
       "parentId": "mr0u6xy71yyc46",
       "id": "mr0u6xyfvd1l05"
-    },
-    {
-      "status": "pending",
-      "title": "B. Branding",
-      "parentId": "mr0u6xy71yyc46",
-      "id": "mr0u6xynl46ktl",
-      "order": 1,
-      "createdAt": 1782835445615
     },
     {
       "order": 2,
