@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-25T19:06:54.510Z",
+  "exportedAt": "2026-07-25T19:07:58.561Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -675,7 +675,7 @@
       "id": "mr0u6xyfvd1l05"
     },
     {
-      "order": 2,
+      "order": 1,
       "createdAt": 1782835445623,
       "parentId": "mr0u6xy71yyc46",
       "id": "mr0u6xyvuiu6za",
@@ -685,7 +685,7 @@
     {
       "status": "pending",
       "title": "C. Branding",
-      "order": 3,
+      "order": 2,
       "createdAt": 1782835445635,
       "parentId": "mr0u6xy71yyc46",
       "id": "mr0u6xz7mfdn3g"
@@ -39961,6 +39961,14 @@
       "id": "mrb3bub85iof8f",
       "order": 11,
       "createdAt": 1783455452468
+    },
+    {
+      "id": "ms0qqihkiv14k3",
+      "title": "D. Market Segmentation",
+      "parentId": "mr0u6xy71yyc46",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1785006422552
     }
   ],
   "pages": {
@@ -43947,6 +43955,12 @@
       "name": "Frontend and Backend Frameworks",
       "nodeId": "mrwiu2uzyohjc8",
       "createdAt": 1784751287291
+    },
+    {
+      "id": "ms0qqihkiv14k3",
+      "name": "D. Market Segmentation",
+      "nodeId": "ms0qqihkiv14k3",
+      "createdAt": 1785006422552
     }
   ],
   "highlights": [],
