@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-26T06:47:24.757Z",
+  "exportedAt": "2026-07-26T06:47:53.423Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -40299,38 +40299,6 @@
       "createdAt": 1785039650304
     },
     {
-      "id": "ms1fpwe1jflno3",
-      "title": "Professional Career Development",
-      "parentId": null,
-      "status": "pending",
-      "order": 1,
-      "createdAt": 1785048384313
-    },
-    {
-      "id": "ms1fpwe19oyhbb",
-      "title": "1. Universal Foundations",
-      "parentId": "ms1fpwe1jflno3",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1785048384313
-    },
-    {
-      "id": "ms1fpwe1whi1kg",
-      "title": "1.2. Digital Literacy",
-      "parentId": "ms1fpwe19oyhbb",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1785048384313
-    },
-    {
-      "id": "ms1fpwe19vvaz3",
-      "title": "1.2.1. Digital Fundamentals",
-      "parentId": "ms1fpwe1whi1kg",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1785048384313
-    },
-    {
       "id": "ms1fpwe18wpk8v",
       "title": "D. File Systems & Digital Storage",
       "parentId": "mr3xzh52lg11h2",
@@ -40453,9 +40421,9 @@
     {
       "id": "ms1fpwe1a34kgs",
       "title": "E. Internet Fundamentals",
-      "parentId": "ms1fpwe19vvaz3",
+      "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 1,
+      "order": 13,
       "createdAt": 1785048384313
     },
     {
@@ -40573,9 +40541,9 @@
     {
       "id": "ms1fpwe1np7epq",
       "title": "F. Web Browsers & Search",
-      "parentId": "ms1fpwe19vvaz3",
+      "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 2,
+      "order": 14,
       "createdAt": 1785048384313
     },
     {
@@ -44945,30 +44913,6 @@
       "name": "C.15. Troubleshooting Operating Systems",
       "nodeId": "ms1aip6o9ay5rv",
       "createdAt": 1785039650304
-    },
-    {
-      "id": "ms1fpwe1jflno3",
-      "name": "Professional Career Development",
-      "nodeId": "ms1fpwe1jflno3",
-      "createdAt": 1785048384313
-    },
-    {
-      "id": "ms1fpwe19oyhbb",
-      "name": "1. Universal Foundations",
-      "nodeId": "ms1fpwe19oyhbb",
-      "createdAt": 1785048384313
-    },
-    {
-      "id": "ms1fpwe1whi1kg",
-      "name": "1.2. Digital Literacy",
-      "nodeId": "ms1fpwe1whi1kg",
-      "createdAt": 1785048384313
-    },
-    {
-      "id": "ms1fpwe19vvaz3",
-      "name": "1.2.1. Digital Fundamentals",
-      "nodeId": "ms1fpwe19vvaz3",
-      "createdAt": 1785048384313
     },
     {
       "id": "ms1fpwe18wpk8v",
