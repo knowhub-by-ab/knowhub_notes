@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-26T06:46:21.554Z",
+  "exportedAt": "2026-07-26T06:46:45.354Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -40297,6 +40297,398 @@
       "status": "pending",
       "order": 14,
       "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1fpwe1jflno3",
+      "title": "Professional Career Development",
+      "parentId": null,
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe19oyhbb",
+      "title": "1. Universal Foundations",
+      "parentId": "ms1fpwe1jflno3",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1whi1kg",
+      "title": "1.2. Digital Literacy",
+      "parentId": "ms1fpwe19oyhbb",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe19vvaz3",
+      "title": "1.2.1. Digital Fundamentals",
+      "parentId": "ms1fpwe1whi1kg",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe18wpk8v",
+      "title": "D. File Systems & Digital Storage",
+      "parentId": "ms1fpwe19vvaz3",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1itqtyx",
+      "title": "D.1. What is a File System?",
+      "parentId": "ms1fpwe18wpk8v",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1x1kvdu",
+      "title": "D.2. Files, Folders & Directory Structure",
+      "parentId": "ms1fpwe18wpk8v",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1wtelf3",
+      "title": "D.3. File Types & Extensions",
+      "parentId": "ms1fpwe18wpk8v",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe19svq52",
+      "title": "D.4. File Naming Conventions",
+      "parentId": "ms1fpwe18wpk8v",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe17gpeft",
+      "title": "D.5. Local Storage Devices",
+      "parentId": "ms1fpwe18wpk8v",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe122xfw3",
+      "title": "D.6. External Storage Devices",
+      "parentId": "ms1fpwe18wpk8v",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1iq2xk2",
+      "title": "D.7. Cloud Storage Fundamentals",
+      "parentId": "ms1fpwe18wpk8v",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1lnvmli",
+      "title": "D.8. File Compression & Archiving",
+      "parentId": "ms1fpwe18wpk8v",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1qr38gu",
+      "title": "D.9. File Sharing & Synchronization",
+      "parentId": "ms1fpwe18wpk8v",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1isv083",
+      "title": "D.10. Backup & Data Recovery",
+      "parentId": "ms1fpwe18wpk8v",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe18ky4eo",
+      "title": "D.11. Storage Management & Optimization",
+      "parentId": "ms1fpwe18wpk8v",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1123b22",
+      "title": "D.12. Data Lifecycle & Retention",
+      "parentId": "ms1fpwe18wpk8v",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1odncf9",
+      "title": "D.13. Secure Storage Practices",
+      "parentId": "ms1fpwe18wpk8v",
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1i5skg3",
+      "title": "D.14. Digital Storage Trends",
+      "parentId": "ms1fpwe18wpk8v",
+      "status": "pending",
+      "order": 13,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1a34kgs",
+      "title": "E. Internet Fundamentals",
+      "parentId": "ms1fpwe19vvaz3",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1vsi437",
+      "title": "E.1. What is the Internet?",
+      "parentId": "ms1fpwe1a34kgs",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1yv1opv",
+      "title": "E.2. History & Evolution of the Internet",
+      "parentId": "ms1fpwe1a34kgs",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1j4cyqm",
+      "title": "E.3. How the Internet Works",
+      "parentId": "ms1fpwe1a34kgs",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1pul6tc",
+      "title": "E.4. Internet Service Providers (ISPs)",
+      "parentId": "ms1fpwe1a34kgs",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1emqeiz",
+      "title": "E.5. Wired & Wireless Networks",
+      "parentId": "ms1fpwe1a34kgs",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1ijc5hr",
+      "title": "E.6. IP Addresses",
+      "parentId": "ms1fpwe1a34kgs",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe19txsnc",
+      "title": "E.7. Domain Names & DNS",
+      "parentId": "ms1fpwe1a34kgs",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe14fbiir",
+      "title": "E.8. URLs & Web Addresses",
+      "parentId": "ms1fpwe1a34kgs",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1emhm3p",
+      "title": "E.9. Internet Protocols Overview",
+      "parentId": "ms1fpwe1a34kgs",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1iw00jx",
+      "title": "E.10. Bandwidth, Speed & Latency",
+      "parentId": "ms1fpwe1a34kgs",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1iwn26t",
+      "title": "E.11. Internet Safety Basics",
+      "parentId": "ms1fpwe1a34kgs",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe14kkn3c",
+      "title": "E.12. Common Internet Services",
+      "parentId": "ms1fpwe1a34kgs",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1zpln3y",
+      "title": "E.13. Internet Governance",
+      "parentId": "ms1fpwe1a34kgs",
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe17k2m40",
+      "title": "E.14. Future of the Internet",
+      "parentId": "ms1fpwe1a34kgs",
+      "status": "pending",
+      "order": 13,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1np7epq",
+      "title": "F. Web Browsers & Search",
+      "parentId": "ms1fpwe19vvaz3",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1hvpbq2",
+      "title": "F.1. What is a Web Browser?",
+      "parentId": "ms1fpwe1np7epq",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe11qnz1e",
+      "title": "F.2. Popular Web Browsers",
+      "parentId": "ms1fpwe1np7epq",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1j2ecn5",
+      "title": "F.3. Browser User Interface",
+      "parentId": "ms1fpwe1np7epq",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1f8g787",
+      "title": "F.4. Tabs, Windows & Navigation",
+      "parentId": "ms1fpwe1np7epq",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1ex1czz",
+      "title": "F.5. Bookmarks & Reading Lists",
+      "parentId": "ms1fpwe1np7epq",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1ngu7mi",
+      "title": "F.6. Browser Settings & Customization",
+      "parentId": "ms1fpwe1np7epq",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1opcjak",
+      "title": "F.7. Search Engines",
+      "parentId": "ms1fpwe1np7epq",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1j8artu",
+      "title": "F.8. Effective Search Techniques",
+      "parentId": "ms1fpwe1np7epq",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1ahkx1n",
+      "title": "F.9. Evaluating Search Results",
+      "parentId": "ms1fpwe1np7epq",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1dpmgx1",
+      "title": "F.10. Browser Privacy & Security",
+      "parentId": "ms1fpwe1np7epq",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1ppyf86",
+      "title": "F.11. Cookies, Cache & Browsing Data",
+      "parentId": "ms1fpwe1np7epq",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1g750du",
+      "title": "F.12. Browser Extensions & Add-ons",
+      "parentId": "ms1fpwe1np7epq",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe10isajx",
+      "title": "F.13. Safe Web Browsing Practices",
+      "parentId": "ms1fpwe1np7epq",
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1j34vg5",
+      "title": "F.14. Modern Web Browsing Trends",
+      "parentId": "ms1fpwe1np7epq",
+      "status": "pending",
+      "order": 13,
+      "createdAt": 1785048384313
     }
   ],
   "pages": {
@@ -44553,6 +44945,300 @@
       "name": "C.15. Troubleshooting Operating Systems",
       "nodeId": "ms1aip6o9ay5rv",
       "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1fpwe1jflno3",
+      "name": "Professional Career Development",
+      "nodeId": "ms1fpwe1jflno3",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe19oyhbb",
+      "name": "1. Universal Foundations",
+      "nodeId": "ms1fpwe19oyhbb",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1whi1kg",
+      "name": "1.2. Digital Literacy",
+      "nodeId": "ms1fpwe1whi1kg",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe19vvaz3",
+      "name": "1.2.1. Digital Fundamentals",
+      "nodeId": "ms1fpwe19vvaz3",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe18wpk8v",
+      "name": "D. File Systems & Digital Storage",
+      "nodeId": "ms1fpwe18wpk8v",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1itqtyx",
+      "name": "D.1. What is a File System?",
+      "nodeId": "ms1fpwe1itqtyx",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1x1kvdu",
+      "name": "D.2. Files, Folders & Directory Structure",
+      "nodeId": "ms1fpwe1x1kvdu",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1wtelf3",
+      "name": "D.3. File Types & Extensions",
+      "nodeId": "ms1fpwe1wtelf3",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe19svq52",
+      "name": "D.4. File Naming Conventions",
+      "nodeId": "ms1fpwe19svq52",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe17gpeft",
+      "name": "D.5. Local Storage Devices",
+      "nodeId": "ms1fpwe17gpeft",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe122xfw3",
+      "name": "D.6. External Storage Devices",
+      "nodeId": "ms1fpwe122xfw3",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1iq2xk2",
+      "name": "D.7. Cloud Storage Fundamentals",
+      "nodeId": "ms1fpwe1iq2xk2",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1lnvmli",
+      "name": "D.8. File Compression & Archiving",
+      "nodeId": "ms1fpwe1lnvmli",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1qr38gu",
+      "name": "D.9. File Sharing & Synchronization",
+      "nodeId": "ms1fpwe1qr38gu",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1isv083",
+      "name": "D.10. Backup & Data Recovery",
+      "nodeId": "ms1fpwe1isv083",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe18ky4eo",
+      "name": "D.11. Storage Management & Optimization",
+      "nodeId": "ms1fpwe18ky4eo",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1123b22",
+      "name": "D.12. Data Lifecycle & Retention",
+      "nodeId": "ms1fpwe1123b22",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1odncf9",
+      "name": "D.13. Secure Storage Practices",
+      "nodeId": "ms1fpwe1odncf9",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1i5skg3",
+      "name": "D.14. Digital Storage Trends",
+      "nodeId": "ms1fpwe1i5skg3",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1a34kgs",
+      "name": "E. Internet Fundamentals",
+      "nodeId": "ms1fpwe1a34kgs",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1vsi437",
+      "name": "E.1. What is the Internet?",
+      "nodeId": "ms1fpwe1vsi437",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1yv1opv",
+      "name": "E.2. History & Evolution of the Internet",
+      "nodeId": "ms1fpwe1yv1opv",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1j4cyqm",
+      "name": "E.3. How the Internet Works",
+      "nodeId": "ms1fpwe1j4cyqm",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1pul6tc",
+      "name": "E.4. Internet Service Providers (ISPs)",
+      "nodeId": "ms1fpwe1pul6tc",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1emqeiz",
+      "name": "E.5. Wired & Wireless Networks",
+      "nodeId": "ms1fpwe1emqeiz",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1ijc5hr",
+      "name": "E.6. IP Addresses",
+      "nodeId": "ms1fpwe1ijc5hr",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe19txsnc",
+      "name": "E.7. Domain Names & DNS",
+      "nodeId": "ms1fpwe19txsnc",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe14fbiir",
+      "name": "E.8. URLs & Web Addresses",
+      "nodeId": "ms1fpwe14fbiir",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1emhm3p",
+      "name": "E.9. Internet Protocols Overview",
+      "nodeId": "ms1fpwe1emhm3p",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1iw00jx",
+      "name": "E.10. Bandwidth, Speed & Latency",
+      "nodeId": "ms1fpwe1iw00jx",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1iwn26t",
+      "name": "E.11. Internet Safety Basics",
+      "nodeId": "ms1fpwe1iwn26t",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe14kkn3c",
+      "name": "E.12. Common Internet Services",
+      "nodeId": "ms1fpwe14kkn3c",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1zpln3y",
+      "name": "E.13. Internet Governance",
+      "nodeId": "ms1fpwe1zpln3y",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe17k2m40",
+      "name": "E.14. Future of the Internet",
+      "nodeId": "ms1fpwe17k2m40",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1np7epq",
+      "name": "F. Web Browsers & Search",
+      "nodeId": "ms1fpwe1np7epq",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1hvpbq2",
+      "name": "F.1. What is a Web Browser?",
+      "nodeId": "ms1fpwe1hvpbq2",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe11qnz1e",
+      "name": "F.2. Popular Web Browsers",
+      "nodeId": "ms1fpwe11qnz1e",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1j2ecn5",
+      "name": "F.3. Browser User Interface",
+      "nodeId": "ms1fpwe1j2ecn5",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1f8g787",
+      "name": "F.4. Tabs, Windows & Navigation",
+      "nodeId": "ms1fpwe1f8g787",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1ex1czz",
+      "name": "F.5. Bookmarks & Reading Lists",
+      "nodeId": "ms1fpwe1ex1czz",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1ngu7mi",
+      "name": "F.6. Browser Settings & Customization",
+      "nodeId": "ms1fpwe1ngu7mi",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1opcjak",
+      "name": "F.7. Search Engines",
+      "nodeId": "ms1fpwe1opcjak",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1j8artu",
+      "name": "F.8. Effective Search Techniques",
+      "nodeId": "ms1fpwe1j8artu",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1ahkx1n",
+      "name": "F.9. Evaluating Search Results",
+      "nodeId": "ms1fpwe1ahkx1n",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1dpmgx1",
+      "name": "F.10. Browser Privacy & Security",
+      "nodeId": "ms1fpwe1dpmgx1",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1ppyf86",
+      "name": "F.11. Cookies, Cache & Browsing Data",
+      "nodeId": "ms1fpwe1ppyf86",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1g750du",
+      "name": "F.12. Browser Extensions & Add-ons",
+      "nodeId": "ms1fpwe1g750du",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe10isajx",
+      "name": "F.13. Safe Web Browsing Practices",
+      "nodeId": "ms1fpwe10isajx",
+      "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fpwe1j34vg5",
+      "name": "F.14. Modern Web Browsing Trends",
+      "nodeId": "ms1fpwe1j34vg5",
+      "createdAt": 1785048384313
     }
   ],
   "highlights": [],
