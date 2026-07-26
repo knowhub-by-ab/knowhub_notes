@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-26T04:23:04.306Z",
+  "exportedAt": "2026-07-26T04:24:14.120Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -3971,25 +3971,17 @@
       "title": "1.2.1. Digital Fundamentals"
     },
     {
-      "id": "mr3xzh5s27g93r",
-      "parentId": "mr3xzh52lg11h2",
-      "createdAt": 1783023214240,
-      "order": 2,
-      "title": "B. Digital Devices & Computing Ecosystem",
-      "status": "pending"
-    },
-    {
       "title": "C. Operating Systems",
       "status": "pending",
       "id": "mr3xzh62lisbjm",
       "parentId": "mr3xzh52lg11h2",
       "createdAt": 1783023214250,
-      "order": 3
+      "order": 2
     },
     {
       "title": "D. File Systems & Digital Storage",
       "status": "pending",
-      "order": 4,
+      "order": 3,
       "createdAt": 1783023214260,
       "parentId": "mr3xzh52lg11h2",
       "id": "mr3xzh6caglgq8"
@@ -3997,7 +3989,7 @@
     {
       "status": "pending",
       "title": "E. Internet Fundamentals",
-      "order": 5,
+      "order": 4,
       "createdAt": 1783023214271,
       "parentId": "mr3xzh52lg11h2",
       "id": "mr3xzh6nud27sd"
@@ -4006,7 +3998,7 @@
       "title": "F. Web Browsers & Search",
       "status": "pending",
       "createdAt": 1783023214279,
-      "order": 6,
+      "order": 5,
       "id": "mr3xzh6vrzdu2a",
       "parentId": "mr3xzh52lg11h2"
     },
@@ -4014,7 +4006,7 @@
       "id": "mr3xzh75foqf6q",
       "parentId": "mr3xzh52lg11h2",
       "createdAt": 1783023214289,
-      "order": 7,
+      "order": 6,
       "title": "G. Digital Communication",
       "status": "pending"
     },
@@ -4024,19 +4016,19 @@
       "id": "mr3xzh7fqi012p",
       "parentId": "mr3xzh52lg11h2",
       "createdAt": 1783023214299,
-      "order": 8
+      "order": 7
     },
     {
       "status": "pending",
       "title": "I. Digital Ethics",
       "parentId": "mr3xzh52lg11h2",
       "id": "mr3xzh7puorqv3",
-      "order": 9,
+      "order": 8,
       "createdAt": 1783023214309
     },
     {
       "createdAt": 1783023214319,
-      "order": 10,
+      "order": 9,
       "id": "mr3xzh7zxew6e3",
       "parentId": "mr3xzh52lg11h2",
       "title": "J. Digital Accessibility",
@@ -40069,9 +40061,9 @@
     {
       "id": "ms1aip6oi2gp5w",
       "title": "B. Digital Devices & Computing Ecosystem",
-      "parentId": null,
+      "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 2,
+      "order": 1,
       "createdAt": 1785039650304
     },
     {
@@ -40189,9 +40181,9 @@
     {
       "id": "ms1aip6ozsp91s",
       "title": "C. Operating Systems",
-      "parentId": null,
+      "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 3,
+      "order": 10,
       "createdAt": 1785039650304
     },
     {
