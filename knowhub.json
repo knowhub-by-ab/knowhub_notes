@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-26T04:24:14.120Z",
+  "exportedAt": "2026-07-26T04:24:51.206Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -3971,17 +3971,9 @@
       "title": "1.2.1. Digital Fundamentals"
     },
     {
-      "title": "C. Operating Systems",
-      "status": "pending",
-      "id": "mr3xzh62lisbjm",
-      "parentId": "mr3xzh52lg11h2",
-      "createdAt": 1783023214250,
-      "order": 2
-    },
-    {
       "title": "D. File Systems & Digital Storage",
       "status": "pending",
-      "order": 3,
+      "order": 4,
       "createdAt": 1783023214260,
       "parentId": "mr3xzh52lg11h2",
       "id": "mr3xzh6caglgq8"
@@ -3989,7 +3981,7 @@
     {
       "status": "pending",
       "title": "E. Internet Fundamentals",
-      "order": 4,
+      "order": 5,
       "createdAt": 1783023214271,
       "parentId": "mr3xzh52lg11h2",
       "id": "mr3xzh6nud27sd"
@@ -3998,7 +3990,7 @@
       "title": "F. Web Browsers & Search",
       "status": "pending",
       "createdAt": 1783023214279,
-      "order": 5,
+      "order": 6,
       "id": "mr3xzh6vrzdu2a",
       "parentId": "mr3xzh52lg11h2"
     },
@@ -4006,7 +3998,7 @@
       "id": "mr3xzh75foqf6q",
       "parentId": "mr3xzh52lg11h2",
       "createdAt": 1783023214289,
-      "order": 6,
+      "order": 7,
       "title": "G. Digital Communication",
       "status": "pending"
     },
@@ -4016,19 +4008,19 @@
       "id": "mr3xzh7fqi012p",
       "parentId": "mr3xzh52lg11h2",
       "createdAt": 1783023214299,
-      "order": 7
+      "order": 8
     },
     {
       "status": "pending",
       "title": "I. Digital Ethics",
       "parentId": "mr3xzh52lg11h2",
       "id": "mr3xzh7puorqv3",
-      "order": 8,
+      "order": 9,
       "createdAt": 1783023214309
     },
     {
       "createdAt": 1783023214319,
-      "order": 9,
+      "order": 10,
       "id": "mr3xzh7zxew6e3",
       "parentId": "mr3xzh52lg11h2",
       "title": "J. Digital Accessibility",
@@ -40183,7 +40175,7 @@
       "title": "C. Operating Systems",
       "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 10,
+      "order": 3,
       "createdAt": 1785039650304
     },
     {
