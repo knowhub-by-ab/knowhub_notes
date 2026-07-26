@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-26T06:53:39.304Z",
+  "exportedAt": "2026-07-26T06:54:14.400Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -3969,22 +3969,6 @@
       "id": "mr3xzh52lg11h2",
       "status": "pending",
       "title": "1.2.1. Digital Fundamentals"
-    },
-    {
-      "createdAt": 1783023214319,
-      "order": 10,
-      "id": "mr3xzh7zxew6e3",
-      "parentId": "mr3xzh52lg11h2",
-      "title": "J. Digital Accessibility",
-      "status": "pending"
-    },
-    {
-      "title": "K. Digital Health & Wellbeing",
-      "status": "pending",
-      "parentId": "mr3xzh52lg11h2",
-      "id": "mr3xzh8aexvwrv",
-      "order": 11,
-      "createdAt": 1783023214330
     },
     {
       "status": "pending",
@@ -40973,9 +40957,9 @@
     {
       "id": "ms1fz4arscl2jj",
       "title": "J. Digital Accessibility",
-      "parentId": null,
+      "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 1,
+      "order": 12,
       "createdAt": 1785048814467
     },
     {
@@ -41077,9 +41061,9 @@
     {
       "id": "ms1fz4ardpx91h",
       "title": "K. Digital Health & Wellbeing",
-      "parentId": null,
+      "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 2,
+      "order": 13,
       "createdAt": 1785048814467
     },
     {
@@ -41181,9 +41165,9 @@
     {
       "id": "ms1fz4artu7dhb",
       "title": "L. Digital Trends & Future Technologies",
-      "parentId": null,
+      "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 3,
+      "order": 14,
       "createdAt": 1785048814467
     },
     {
