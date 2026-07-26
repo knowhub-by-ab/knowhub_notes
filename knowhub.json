@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-26T04:20:35.661Z",
+  "exportedAt": "2026-07-26T04:21:00.380Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -39969,6 +39969,358 @@
       "status": "pending",
       "order": 3,
       "createdAt": 1785006422552
+    },
+    {
+      "id": "ms1aip6o0te63m",
+      "title": "A. Digital World & Digital Transformation",
+      "parentId": null,
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6ogdcvno",
+      "title": "A.1. What is the Digital World?",
+      "parentId": "ms1aip6o0te63m",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o4hnkme",
+      "title": "A.2. Evolution of the Digital Age",
+      "parentId": "ms1aip6o0te63m",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6osba1oa",
+      "title": "A.3. Analog vs Digital Systems",
+      "parentId": "ms1aip6o0te63m",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6ogaa67f",
+      "title": "A.4. Digital Transformation Fundamentals",
+      "parentId": "ms1aip6o0te63m",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o1xqnlm",
+      "title": "A.5. Digital Economy",
+      "parentId": "ms1aip6o0te63m",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oihsf3p",
+      "title": "A.6. Digital Society & Culture",
+      "parentId": "ms1aip6o0te63m",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o4uhq2v",
+      "title": "A.7. Industry 4.0 & Society 5.0",
+      "parentId": "ms1aip6o0te63m",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o4cbvve",
+      "title": "A.8. Digital Innovation",
+      "parentId": "ms1aip6o0te63m",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oyikz5a",
+      "title": "A.9. Emerging Digital Technologies",
+      "parentId": "ms1aip6o0te63m",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o2rfkac",
+      "title": "A.10. Digital Ecosystems",
+      "parentId": "ms1aip6o0te63m",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6orhdvo0",
+      "title": "A.11. Benefits & Challenges of Digital Transformation",
+      "parentId": "ms1aip6o0te63m",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oh1kbpn",
+      "title": "A.12. Future of the Digital World",
+      "parentId": "ms1aip6o0te63m",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oi2gp5w",
+      "title": "B. Digital Devices & Computing Ecosystem",
+      "parentId": null,
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6osajipa",
+      "title": "B.1. What is a Computing Device?",
+      "parentId": "ms1aip6oi2gp5w",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o3hpnmt",
+      "title": "B.2. Desktop Computers",
+      "parentId": "ms1aip6oi2gp5w",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o5tk0xn",
+      "title": "B.3. Laptops & Workstations",
+      "parentId": "ms1aip6oi2gp5w",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oxwgxvc",
+      "title": "B.4. Smartphones & Tablets",
+      "parentId": "ms1aip6oi2gp5w",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oti0rer",
+      "title": "B.5. Wearable Devices",
+      "parentId": "ms1aip6oi2gp5w",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6ohqm4fe",
+      "title": "B.6. Smart Home & IoT Devices",
+      "parentId": "ms1aip6oi2gp5w",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6ojerm6g",
+      "title": "B.7. Computer Hardware Components",
+      "parentId": "ms1aip6oi2gp5w",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o7xpp7b",
+      "title": "B.8. Input Devices",
+      "parentId": "ms1aip6oi2gp5w",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oduz0kd",
+      "title": "B.9. Output Devices",
+      "parentId": "ms1aip6oi2gp5w",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6ob9qnnj",
+      "title": "B.10. Storage Devices",
+      "parentId": "ms1aip6oi2gp5w",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6owr5l1f",
+      "title": "B.11. Peripheral Devices",
+      "parentId": "ms1aip6oi2gp5w",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6opeall2",
+      "title": "B.12. Device Connectivity",
+      "parentId": "ms1aip6oi2gp5w",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6olisawm",
+      "title": "B.13. Device Maintenance & Troubleshooting",
+      "parentId": "ms1aip6oi2gp5w",
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6og0olgr",
+      "title": "B.14. Responsible Device Usage",
+      "parentId": "ms1aip6oi2gp5w",
+      "status": "pending",
+      "order": 13,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6ozsp91s",
+      "title": "C. Operating Systems",
+      "parentId": null,
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oz4h3bz",
+      "title": "C.1. What is an Operating System?",
+      "parentId": "ms1aip6ozsp91s",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6ogao38u",
+      "title": "C.2. Functions of an Operating System",
+      "parentId": "ms1aip6ozsp91s",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6ok79ect",
+      "title": "C.3. Types of Operating Systems",
+      "parentId": "ms1aip6ozsp91s",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6ol04at1",
+      "title": "C.4. Desktop Operating Systems",
+      "parentId": "ms1aip6ozsp91s",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6okncjrs",
+      "title": "C.5. Mobile Operating Systems",
+      "parentId": "ms1aip6ozsp91s",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6obhkh4w",
+      "title": "C.6. Linux Fundamentals",
+      "parentId": "ms1aip6ozsp91s",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oqlz43b",
+      "title": "C.7. User Interface Fundamentals",
+      "parentId": "ms1aip6ozsp91s",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oum17fv",
+      "title": "C.8. User Accounts & Permissions",
+      "parentId": "ms1aip6ozsp91s",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o4rp4sd",
+      "title": "C.9. Installing & Managing Software",
+      "parentId": "ms1aip6ozsp91s",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6om9ditk",
+      "title": "C.10. System Settings & Configuration",
+      "parentId": "ms1aip6ozsp91s",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oo69l8c",
+      "title": "C.11. System Updates & Maintenance",
+      "parentId": "ms1aip6ozsp91s",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6otkx23o",
+      "title": "C.12. Performance Optimization",
+      "parentId": "ms1aip6ozsp91s",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oxtffj0",
+      "title": "C.13. System Security Features",
+      "parentId": "ms1aip6ozsp91s",
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o34yur1",
+      "title": "C.14. Backup, Recovery & Restore",
+      "parentId": "ms1aip6ozsp91s",
+      "status": "pending",
+      "order": 13,
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o9ay5rv",
+      "title": "C.15. Troubleshooting Operating Systems",
+      "parentId": "ms1aip6ozsp91s",
+      "status": "pending",
+      "order": 14,
+      "createdAt": 1785039650304
     }
   ],
   "pages": {
@@ -43961,6 +44313,270 @@
       "name": "D. Market Segmentation",
       "nodeId": "ms0qqihkiv14k3",
       "createdAt": 1785006422552
+    },
+    {
+      "id": "ms1aip6o0te63m",
+      "name": "A. Digital World & Digital Transformation",
+      "nodeId": "ms1aip6o0te63m",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6ogdcvno",
+      "name": "A.1. What is the Digital World?",
+      "nodeId": "ms1aip6ogdcvno",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o4hnkme",
+      "name": "A.2. Evolution of the Digital Age",
+      "nodeId": "ms1aip6o4hnkme",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6osba1oa",
+      "name": "A.3. Analog vs Digital Systems",
+      "nodeId": "ms1aip6osba1oa",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6ogaa67f",
+      "name": "A.4. Digital Transformation Fundamentals",
+      "nodeId": "ms1aip6ogaa67f",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o1xqnlm",
+      "name": "A.5. Digital Economy",
+      "nodeId": "ms1aip6o1xqnlm",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oihsf3p",
+      "name": "A.6. Digital Society & Culture",
+      "nodeId": "ms1aip6oihsf3p",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o4uhq2v",
+      "name": "A.7. Industry 4.0 & Society 5.0",
+      "nodeId": "ms1aip6o4uhq2v",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o4cbvve",
+      "name": "A.8. Digital Innovation",
+      "nodeId": "ms1aip6o4cbvve",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oyikz5a",
+      "name": "A.9. Emerging Digital Technologies",
+      "nodeId": "ms1aip6oyikz5a",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o2rfkac",
+      "name": "A.10. Digital Ecosystems",
+      "nodeId": "ms1aip6o2rfkac",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6orhdvo0",
+      "name": "A.11. Benefits & Challenges of Digital Transformation",
+      "nodeId": "ms1aip6orhdvo0",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oh1kbpn",
+      "name": "A.12. Future of the Digital World",
+      "nodeId": "ms1aip6oh1kbpn",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oi2gp5w",
+      "name": "B. Digital Devices & Computing Ecosystem",
+      "nodeId": "ms1aip6oi2gp5w",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6osajipa",
+      "name": "B.1. What is a Computing Device?",
+      "nodeId": "ms1aip6osajipa",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o3hpnmt",
+      "name": "B.2. Desktop Computers",
+      "nodeId": "ms1aip6o3hpnmt",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o5tk0xn",
+      "name": "B.3. Laptops & Workstations",
+      "nodeId": "ms1aip6o5tk0xn",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oxwgxvc",
+      "name": "B.4. Smartphones & Tablets",
+      "nodeId": "ms1aip6oxwgxvc",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oti0rer",
+      "name": "B.5. Wearable Devices",
+      "nodeId": "ms1aip6oti0rer",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6ohqm4fe",
+      "name": "B.6. Smart Home & IoT Devices",
+      "nodeId": "ms1aip6ohqm4fe",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6ojerm6g",
+      "name": "B.7. Computer Hardware Components",
+      "nodeId": "ms1aip6ojerm6g",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o7xpp7b",
+      "name": "B.8. Input Devices",
+      "nodeId": "ms1aip6o7xpp7b",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oduz0kd",
+      "name": "B.9. Output Devices",
+      "nodeId": "ms1aip6oduz0kd",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6ob9qnnj",
+      "name": "B.10. Storage Devices",
+      "nodeId": "ms1aip6ob9qnnj",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6owr5l1f",
+      "name": "B.11. Peripheral Devices",
+      "nodeId": "ms1aip6owr5l1f",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6opeall2",
+      "name": "B.12. Device Connectivity",
+      "nodeId": "ms1aip6opeall2",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6olisawm",
+      "name": "B.13. Device Maintenance & Troubleshooting",
+      "nodeId": "ms1aip6olisawm",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6og0olgr",
+      "name": "B.14. Responsible Device Usage",
+      "nodeId": "ms1aip6og0olgr",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6ozsp91s",
+      "name": "C. Operating Systems",
+      "nodeId": "ms1aip6ozsp91s",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oz4h3bz",
+      "name": "C.1. What is an Operating System?",
+      "nodeId": "ms1aip6oz4h3bz",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6ogao38u",
+      "name": "C.2. Functions of an Operating System",
+      "nodeId": "ms1aip6ogao38u",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6ok79ect",
+      "name": "C.3. Types of Operating Systems",
+      "nodeId": "ms1aip6ok79ect",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6ol04at1",
+      "name": "C.4. Desktop Operating Systems",
+      "nodeId": "ms1aip6ol04at1",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6okncjrs",
+      "name": "C.5. Mobile Operating Systems",
+      "nodeId": "ms1aip6okncjrs",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6obhkh4w",
+      "name": "C.6. Linux Fundamentals",
+      "nodeId": "ms1aip6obhkh4w",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oqlz43b",
+      "name": "C.7. User Interface Fundamentals",
+      "nodeId": "ms1aip6oqlz43b",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oum17fv",
+      "name": "C.8. User Accounts & Permissions",
+      "nodeId": "ms1aip6oum17fv",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o4rp4sd",
+      "name": "C.9. Installing & Managing Software",
+      "nodeId": "ms1aip6o4rp4sd",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6om9ditk",
+      "name": "C.10. System Settings & Configuration",
+      "nodeId": "ms1aip6om9ditk",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oo69l8c",
+      "name": "C.11. System Updates & Maintenance",
+      "nodeId": "ms1aip6oo69l8c",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6otkx23o",
+      "name": "C.12. Performance Optimization",
+      "nodeId": "ms1aip6otkx23o",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6oxtffj0",
+      "name": "C.13. System Security Features",
+      "nodeId": "ms1aip6oxtffj0",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o34yur1",
+      "name": "C.14. Backup, Recovery & Restore",
+      "nodeId": "ms1aip6o34yur1",
+      "createdAt": 1785039650304
+    },
+    {
+      "id": "ms1aip6o9ay5rv",
+      "name": "C.15. Troubleshooting Operating Systems",
+      "nodeId": "ms1aip6o9ay5rv",
+      "createdAt": 1785039650304
     }
   ],
   "highlights": [],
