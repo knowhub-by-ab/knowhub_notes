@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-26T06:47:53.423Z",
+  "exportedAt": "2026-07-26T06:48:24.823Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -3969,30 +3969,6 @@
       "id": "mr3xzh52lg11h2",
       "status": "pending",
       "title": "1.2.1. Digital Fundamentals"
-    },
-    {
-      "title": "D. File Systems & Digital Storage",
-      "status": "pending",
-      "order": 4,
-      "createdAt": 1783023214260,
-      "parentId": "mr3xzh52lg11h2",
-      "id": "mr3xzh6caglgq8"
-    },
-    {
-      "status": "pending",
-      "title": "E. Internet Fundamentals",
-      "order": 5,
-      "createdAt": 1783023214271,
-      "parentId": "mr3xzh52lg11h2",
-      "id": "mr3xzh6nud27sd"
-    },
-    {
-      "title": "F. Web Browsers & Search",
-      "status": "pending",
-      "createdAt": 1783023214279,
-      "order": 6,
-      "id": "mr3xzh6vrzdu2a",
-      "parentId": "mr3xzh52lg11h2"
     },
     {
       "id": "mr3xzh75foqf6q",
