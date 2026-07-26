@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-26T06:49:54.148Z",
+  "exportedAt": "2026-07-26T06:50:17.469Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -40633,6 +40633,366 @@
       "status": "pending",
       "order": 13,
       "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fuoj67mfhzx",
+      "title": "G. Digital Communication",
+      "parentId": null,
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6pdmgoq",
+      "title": "G.1. Fundamentals of Digital Communication",
+      "parentId": "ms1fuoj67mfhzx",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj69q3eii",
+      "title": "G.2. Email Communication",
+      "parentId": "ms1fuoj67mfhzx",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj60ql2cw",
+      "title": "G.3. Instant Messaging & Chat Platforms",
+      "parentId": "ms1fuoj67mfhzx",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6y6fvhg",
+      "title": "G.4. Voice over Internet (VoIP)",
+      "parentId": "ms1fuoj67mfhzx",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6eo4de5",
+      "title": "G.5. Video Conferencing & Virtual Meetings",
+      "parentId": "ms1fuoj67mfhzx",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj64zy6qt",
+      "title": "G.6. Online Collaboration Tools",
+      "parentId": "ms1fuoj67mfhzx",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6udb5s3",
+      "title": "G.7. Cloud-Based Communication Platforms",
+      "parentId": "ms1fuoj67mfhzx",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj688a5pc",
+      "title": "G.8. Social Media Communication",
+      "parentId": "ms1fuoj67mfhzx",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6lj4e03",
+      "title": "G.9. Digital Communication Etiquette (Netiquette)",
+      "parentId": "ms1fuoj67mfhzx",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6a0h0q7",
+      "title": "G.10. Professional Digital Communication",
+      "parentId": "ms1fuoj67mfhzx",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6k2yds3",
+      "title": "G.11. Secure Digital Communication",
+      "parentId": "ms1fuoj67mfhzx",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6bm5y98",
+      "title": "G.12. Communication Accessibility & Inclusivity",
+      "parentId": "ms1fuoj67mfhzx",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6d3blxj",
+      "title": "G.13. Managing Digital Identity in Communication",
+      "parentId": "ms1fuoj67mfhzx",
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6z95n5d",
+      "title": "G.14. Future of Digital Communication",
+      "parentId": "ms1fuoj67mfhzx",
+      "status": "pending",
+      "order": 13,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6rahtct",
+      "title": "H. Digital Citizenship",
+      "parentId": null,
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6ub7gnf",
+      "title": "H.1. What is Digital Citizenship?",
+      "parentId": "ms1fuoj6rahtct",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6fygnq4",
+      "title": "H.2. Rights & Responsibilities in the Digital World",
+      "parentId": "ms1fuoj6rahtct",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6lsr1pa",
+      "title": "H.3. Digital Identity",
+      "parentId": "ms1fuoj6rahtct",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6cw9l24",
+      "title": "H.4. Online Reputation Management",
+      "parentId": "ms1fuoj6rahtct",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6x7ne67",
+      "title": "H.5. Responsible Online Behaviour",
+      "parentId": "ms1fuoj6rahtct",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6pgglus",
+      "title": "H.6. Cyberbullying Awareness & Prevention",
+      "parentId": "ms1fuoj6rahtct",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6hoad30",
+      "title": "H.7. Digital Footprints",
+      "parentId": "ms1fuoj6rahtct",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6levjoe",
+      "title": "H.8. Privacy & Personal Data Protection",
+      "parentId": "ms1fuoj6rahtct",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj64cjee3",
+      "title": "H.9. Copyright, Licensing & Fair Use",
+      "parentId": "ms1fuoj6rahtct",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6p2iojm",
+      "title": "H.10. Digital Rights & Freedom",
+      "parentId": "ms1fuoj6rahtct",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj66p7cb6",
+      "title": "H.11. Civic Participation Through Digital Technologies",
+      "parentId": "ms1fuoj6rahtct",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6tretbd",
+      "title": "H.12. Building Healthy Digital Communities",
+      "parentId": "ms1fuoj6rahtct",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6u5yyiy",
+      "title": "H.13. Digital Citizenship in Education & Work",
+      "parentId": "ms1fuoj6rahtct",
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj60x0gd9",
+      "title": "H.14. Becoming a Responsible Global Digital Citizen",
+      "parentId": "ms1fuoj6rahtct",
+      "status": "pending",
+      "order": 13,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6j2v977",
+      "title": "I. Digital Ethics",
+      "parentId": null,
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6xrv4t8",
+      "title": "I.1. Introduction to Digital Ethics",
+      "parentId": "ms1fuoj6j2v977",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6l2qe3p",
+      "title": "I.2. Ethical Decision Making in Technology",
+      "parentId": "ms1fuoj6j2v977",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6w09ck5",
+      "title": "I.3. Privacy & Surveillance Ethics",
+      "parentId": "ms1fuoj6j2v977",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6kmxclg",
+      "title": "I.4. Data Ownership & Consent",
+      "parentId": "ms1fuoj6j2v977",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6c82pz2",
+      "title": "I.5. Intellectual Property & Digital Content",
+      "parentId": "ms1fuoj6j2v977",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj678fnwe",
+      "title": "I.6. Misinformation, Disinformation & Fake News",
+      "parentId": "ms1fuoj6j2v977",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6dp4vjj",
+      "title": "I.7. Algorithmic Bias & Fairness",
+      "parentId": "ms1fuoj6j2v977",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6cu67mv",
+      "title": "I.8. Artificial Intelligence Ethics",
+      "parentId": "ms1fuoj6j2v977",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6nuoiz2",
+      "title": "I.9. Ethical Social Media Use",
+      "parentId": "ms1fuoj6j2v977",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj664fiki",
+      "title": "I.10. Responsible Technology Usage",
+      "parentId": "ms1fuoj6j2v977",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6l1dzfs",
+      "title": "I.11. Professional Ethics in the Digital World",
+      "parentId": "ms1fuoj6j2v977",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6v7b10c",
+      "title": "I.12. Ethical Challenges of Emerging Technologies",
+      "parentId": "ms1fuoj6j2v977",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6212rq0",
+      "title": "I.13. Digital Laws, Regulations & Compliance",
+      "parentId": "ms1fuoj6j2v977",
+      "status": "pending",
+      "order": 12,
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6uu7bvu",
+      "title": "I.14. Building an Ethical Digital Mindset",
+      "parentId": "ms1fuoj6j2v977",
+      "status": "pending",
+      "order": 13,
+      "createdAt": 1785048607410
     }
   ],
   "pages": {
@@ -45159,6 +45519,276 @@
       "name": "F.14. Modern Web Browsing Trends",
       "nodeId": "ms1fpwe1j34vg5",
       "createdAt": 1785048384313
+    },
+    {
+      "id": "ms1fuoj67mfhzx",
+      "name": "G. Digital Communication",
+      "nodeId": "ms1fuoj67mfhzx",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6pdmgoq",
+      "name": "G.1. Fundamentals of Digital Communication",
+      "nodeId": "ms1fuoj6pdmgoq",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj69q3eii",
+      "name": "G.2. Email Communication",
+      "nodeId": "ms1fuoj69q3eii",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj60ql2cw",
+      "name": "G.3. Instant Messaging & Chat Platforms",
+      "nodeId": "ms1fuoj60ql2cw",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6y6fvhg",
+      "name": "G.4. Voice over Internet (VoIP)",
+      "nodeId": "ms1fuoj6y6fvhg",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6eo4de5",
+      "name": "G.5. Video Conferencing & Virtual Meetings",
+      "nodeId": "ms1fuoj6eo4de5",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj64zy6qt",
+      "name": "G.6. Online Collaboration Tools",
+      "nodeId": "ms1fuoj64zy6qt",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6udb5s3",
+      "name": "G.7. Cloud-Based Communication Platforms",
+      "nodeId": "ms1fuoj6udb5s3",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj688a5pc",
+      "name": "G.8. Social Media Communication",
+      "nodeId": "ms1fuoj688a5pc",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6lj4e03",
+      "name": "G.9. Digital Communication Etiquette (Netiquette)",
+      "nodeId": "ms1fuoj6lj4e03",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6a0h0q7",
+      "name": "G.10. Professional Digital Communication",
+      "nodeId": "ms1fuoj6a0h0q7",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6k2yds3",
+      "name": "G.11. Secure Digital Communication",
+      "nodeId": "ms1fuoj6k2yds3",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6bm5y98",
+      "name": "G.12. Communication Accessibility & Inclusivity",
+      "nodeId": "ms1fuoj6bm5y98",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6d3blxj",
+      "name": "G.13. Managing Digital Identity in Communication",
+      "nodeId": "ms1fuoj6d3blxj",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6z95n5d",
+      "name": "G.14. Future of Digital Communication",
+      "nodeId": "ms1fuoj6z95n5d",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6rahtct",
+      "name": "H. Digital Citizenship",
+      "nodeId": "ms1fuoj6rahtct",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6ub7gnf",
+      "name": "H.1. What is Digital Citizenship?",
+      "nodeId": "ms1fuoj6ub7gnf",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6fygnq4",
+      "name": "H.2. Rights & Responsibilities in the Digital World",
+      "nodeId": "ms1fuoj6fygnq4",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6lsr1pa",
+      "name": "H.3. Digital Identity",
+      "nodeId": "ms1fuoj6lsr1pa",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6cw9l24",
+      "name": "H.4. Online Reputation Management",
+      "nodeId": "ms1fuoj6cw9l24",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6x7ne67",
+      "name": "H.5. Responsible Online Behaviour",
+      "nodeId": "ms1fuoj6x7ne67",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6pgglus",
+      "name": "H.6. Cyberbullying Awareness & Prevention",
+      "nodeId": "ms1fuoj6pgglus",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6hoad30",
+      "name": "H.7. Digital Footprints",
+      "nodeId": "ms1fuoj6hoad30",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6levjoe",
+      "name": "H.8. Privacy & Personal Data Protection",
+      "nodeId": "ms1fuoj6levjoe",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj64cjee3",
+      "name": "H.9. Copyright, Licensing & Fair Use",
+      "nodeId": "ms1fuoj64cjee3",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6p2iojm",
+      "name": "H.10. Digital Rights & Freedom",
+      "nodeId": "ms1fuoj6p2iojm",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj66p7cb6",
+      "name": "H.11. Civic Participation Through Digital Technologies",
+      "nodeId": "ms1fuoj66p7cb6",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6tretbd",
+      "name": "H.12. Building Healthy Digital Communities",
+      "nodeId": "ms1fuoj6tretbd",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6u5yyiy",
+      "name": "H.13. Digital Citizenship in Education & Work",
+      "nodeId": "ms1fuoj6u5yyiy",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj60x0gd9",
+      "name": "H.14. Becoming a Responsible Global Digital Citizen",
+      "nodeId": "ms1fuoj60x0gd9",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6j2v977",
+      "name": "I. Digital Ethics",
+      "nodeId": "ms1fuoj6j2v977",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6xrv4t8",
+      "name": "I.1. Introduction to Digital Ethics",
+      "nodeId": "ms1fuoj6xrv4t8",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6l2qe3p",
+      "name": "I.2. Ethical Decision Making in Technology",
+      "nodeId": "ms1fuoj6l2qe3p",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6w09ck5",
+      "name": "I.3. Privacy & Surveillance Ethics",
+      "nodeId": "ms1fuoj6w09ck5",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6kmxclg",
+      "name": "I.4. Data Ownership & Consent",
+      "nodeId": "ms1fuoj6kmxclg",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6c82pz2",
+      "name": "I.5. Intellectual Property & Digital Content",
+      "nodeId": "ms1fuoj6c82pz2",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj678fnwe",
+      "name": "I.6. Misinformation, Disinformation & Fake News",
+      "nodeId": "ms1fuoj678fnwe",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6dp4vjj",
+      "name": "I.7. Algorithmic Bias & Fairness",
+      "nodeId": "ms1fuoj6dp4vjj",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6cu67mv",
+      "name": "I.8. Artificial Intelligence Ethics",
+      "nodeId": "ms1fuoj6cu67mv",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6nuoiz2",
+      "name": "I.9. Ethical Social Media Use",
+      "nodeId": "ms1fuoj6nuoiz2",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj664fiki",
+      "name": "I.10. Responsible Technology Usage",
+      "nodeId": "ms1fuoj664fiki",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6l1dzfs",
+      "name": "I.11. Professional Ethics in the Digital World",
+      "nodeId": "ms1fuoj6l1dzfs",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6v7b10c",
+      "name": "I.12. Ethical Challenges of Emerging Technologies",
+      "nodeId": "ms1fuoj6v7b10c",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6212rq0",
+      "name": "I.13. Digital Laws, Regulations & Compliance",
+      "nodeId": "ms1fuoj6212rq0",
+      "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fuoj6uu7bvu",
+      "name": "I.14. Building an Ethical Digital Mindset",
+      "nodeId": "ms1fuoj6uu7bvu",
+      "createdAt": 1785048607410
     }
   ],
   "highlights": [],
