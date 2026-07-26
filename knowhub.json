@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-26T06:54:14.400Z",
+  "exportedAt": "2026-07-26T06:54:56.810Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -3969,14 +3969,6 @@
       "id": "mr3xzh52lg11h2",
       "status": "pending",
       "title": "1.2.1. Digital Fundamentals"
-    },
-    {
-      "status": "pending",
-      "title": "L. Digital Trends & Future Technologies",
-      "parentId": "mr3xzh52lg11h2",
-      "id": "mr3xzh8jrcj79w",
-      "order": 12,
-      "createdAt": 1783023214339
     },
     {
       "status": "pending",
@@ -40111,7 +40103,7 @@
       "title": "C. Operating Systems",
       "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 3,
+      "order": 2,
       "createdAt": 1785039650304
     },
     {
@@ -40239,7 +40231,7 @@
       "title": "D. File Systems & Digital Storage",
       "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 12,
+      "order": 3,
       "createdAt": 1785048384313
     },
     {
@@ -40359,7 +40351,7 @@
       "title": "E. Internet Fundamentals",
       "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 13,
+      "order": 4,
       "createdAt": 1785048384313
     },
     {
@@ -40479,7 +40471,7 @@
       "title": "F. Web Browsers & Search",
       "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 14,
+      "order": 5,
       "createdAt": 1785048384313
     },
     {
@@ -40599,7 +40591,7 @@
       "title": "G. Digital Communication",
       "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 12,
+      "order": 6,
       "createdAt": 1785048607410
     },
     {
@@ -40719,7 +40711,7 @@
       "title": "H. Digital Citizenship",
       "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 12,
+      "order": 7,
       "createdAt": 1785048607410
     },
     {
@@ -40839,7 +40831,7 @@
       "title": "I. Digital Ethics",
       "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 12,
+      "order": 8,
       "createdAt": 1785048607410
     },
     {
@@ -40959,7 +40951,7 @@
       "title": "J. Digital Accessibility",
       "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 12,
+      "order": 9,
       "createdAt": 1785048814467
     },
     {
@@ -41063,7 +41055,7 @@
       "title": "K. Digital Health & Wellbeing",
       "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 13,
+      "order": 10,
       "createdAt": 1785048814467
     },
     {
@@ -41167,7 +41159,7 @@
       "title": "L. Digital Trends & Future Technologies",
       "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 14,
+      "order": 11,
       "createdAt": 1785048814467
     },
     {
