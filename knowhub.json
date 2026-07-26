@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-26T08:52:24.233Z",
+  "exportedAt": "2026-07-26T08:53:23.185Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -3980,7 +3980,7 @@
     },
     {
       "createdAt": 1783023214385,
-      "order": 1,
+      "order": 3,
       "id": "mr3xzh9tojxuhh",
       "parentId": "mr3xzh8r6ern8z",
       "title": "D. Presentations",
@@ -3991,21 +3991,21 @@
       "status": "pending",
       "parentId": "mr3xzh8r6ern8z",
       "id": "mr3xzha13mea9i",
-      "order": 2,
+      "order": 4,
       "createdAt": 1783023214393
     },
     {
       "status": "pending",
       "title": "F. Calendars & Task Management",
       "createdAt": 1783023214403,
-      "order": 3,
+      "order": 5,
       "id": "mr3xzhabkrbv65",
       "parentId": "mr3xzh8r6ern8z"
     },
     {
       "title": "G. Email Management",
       "status": "pending",
-      "order": 4,
+      "order": 6,
       "createdAt": 1783023214412,
       "parentId": "mr3xzh8r6ern8z",
       "id": "mr3xzhaka19pc3"
@@ -4013,7 +4013,7 @@
     {
       "title": "H. Collaboration Platforms",
       "status": "pending",
-      "order": 5,
+      "order": 7,
       "createdAt": 1783023214421,
       "parentId": "mr3xzh8r6ern8z",
       "id": "mr3xzhat5b5bxx"
@@ -4021,7 +4021,7 @@
     {
       "parentId": "mr3xzh8r6ern8z",
       "id": "mr3xzhb07odh96",
-      "order": 6,
+      "order": 8,
       "createdAt": 1783023214428,
       "title": "I. Cloud Productivity Suites",
       "status": "pending"
@@ -4030,14 +4030,14 @@
       "id": "mr3xzhb9c8rnps",
       "parentId": "mr3xzh8r6ern8z",
       "createdAt": 1783023214437,
-      "order": 7,
+      "order": 9,
       "title": "J. Workflow Automation",
       "status": "pending"
     },
     {
       "parentId": "mr3xzh8r6ern8z",
       "id": "mr3xzhbizxpu8k",
-      "order": 8,
+      "order": 10,
       "createdAt": 1783023214446,
       "title": "K. AI Productivity Tools",
       "status": "pending"
@@ -4047,7 +4047,7 @@
       "title": "L. Personal Digital Organization",
       "parentId": "mr3xzh8r6ern8z",
       "id": "mr3xzhbswn29km",
-      "order": 9,
+      "order": 11,
       "createdAt": 1783023214456
     },
     {
@@ -41343,7 +41343,7 @@
       "title": "B. Document Creation",
       "parentId": "mr3xzh8r6ern8z",
       "status": "pending",
-      "order": 10,
+      "order": 1,
       "createdAt": 1785055196953
     },
     {
@@ -41447,7 +41447,7 @@
       "title": "C. Spreadsheets",
       "parentId": "mr3xzh8r6ern8z",
       "status": "pending",
-      "order": 11,
+      "order": 2,
       "createdAt": 1785055196953
     },
     {
