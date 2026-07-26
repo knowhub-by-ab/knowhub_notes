@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-26T06:50:40.787Z",
+  "exportedAt": "2026-07-26T06:51:18.036Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -3969,22 +3969,6 @@
       "id": "mr3xzh52lg11h2",
       "status": "pending",
       "title": "1.2.1. Digital Fundamentals"
-    },
-    {
-      "status": "pending",
-      "title": "H. Digital Citizenship",
-      "id": "mr3xzh7fqi012p",
-      "parentId": "mr3xzh52lg11h2",
-      "createdAt": 1783023214299,
-      "order": 8
-    },
-    {
-      "status": "pending",
-      "title": "I. Digital Ethics",
-      "parentId": "mr3xzh52lg11h2",
-      "id": "mr3xzh7puorqv3",
-      "order": 9,
-      "createdAt": 1783023214309
     },
     {
       "createdAt": 1783023214319,
@@ -40749,9 +40733,9 @@
     {
       "id": "ms1fuoj6rahtct",
       "title": "H. Digital Citizenship",
-      "parentId": null,
+      "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 2,
+      "order": 12,
       "createdAt": 1785048607410
     },
     {
@@ -40869,9 +40853,9 @@
     {
       "id": "ms1fuoj6j2v977",
       "title": "I. Digital Ethics",
-      "parentId": null,
+      "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 3,
+      "order": 12,
       "createdAt": 1785048607410
     },
     {
