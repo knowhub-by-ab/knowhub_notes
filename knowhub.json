@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-26T06:53:12.494Z",
+  "exportedAt": "2026-07-26T06:53:39.304Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -40969,6 +40969,318 @@
       "status": "pending",
       "order": 13,
       "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fz4arscl2jj",
+      "title": "J. Digital Accessibility",
+      "parentId": null,
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arhdjrre",
+      "title": "J.1. Introduction to Digital Accessibility",
+      "parentId": "ms1fz4arscl2jj",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4ar2hg3z2",
+      "title": "J.2. Why Accessibility Matters",
+      "parentId": "ms1fz4arscl2jj",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arg42h0x",
+      "title": "J.3. Types of Disabilities & Accessibility Needs",
+      "parentId": "ms1fz4arscl2jj",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4ar90lv35",
+      "title": "J.4. Accessibility Features in Operating Systems",
+      "parentId": "ms1fz4arscl2jj",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arovn1kf",
+      "title": "J.5. Assistive Technologies",
+      "parentId": "ms1fz4arscl2jj",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arfwmz87",
+      "title": "J.6. Accessible Documents & Presentations",
+      "parentId": "ms1fz4arscl2jj",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arof2itr",
+      "title": "J.7. Accessible Websites & Web Content",
+      "parentId": "ms1fz4arscl2jj",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4aro3m84q",
+      "title": "J.8. Accessible Multimedia",
+      "parentId": "ms1fz4arscl2jj",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4artbvvqk",
+      "title": "J.9. Accessibility Standards & Guidelines",
+      "parentId": "ms1fz4arscl2jj",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arp699ww",
+      "title": "J.10. Inclusive Digital Design Principles",
+      "parentId": "ms1fz4arscl2jj",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arhuv9s1",
+      "title": "J.11. Accessibility Testing & Evaluation",
+      "parentId": "ms1fz4arscl2jj",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arqlmf7a",
+      "title": "J.12. Building an Accessibility-First Mindset",
+      "parentId": "ms1fz4arscl2jj",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4ardpx91h",
+      "title": "K. Digital Health & Wellbeing",
+      "parentId": null,
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arkf467r",
+      "title": "K.1. Introduction to Digital Wellbeing",
+      "parentId": "ms1fz4ardpx91h",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arie6ss2",
+      "title": "K.2. Healthy Technology Habits",
+      "parentId": "ms1fz4ardpx91h",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arl505f1",
+      "title": "K.3. Screen Time Management",
+      "parentId": "ms1fz4ardpx91h",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arr95x03",
+      "title": "K.4. Digital Distractions & Focus",
+      "parentId": "ms1fz4ardpx91h",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4argzvhkg",
+      "title": "K.5. Information Overload & Digital Minimalism",
+      "parentId": "ms1fz4ardpx91h",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4aro5oabz",
+      "title": "K.6. Physical Health & Ergonomics",
+      "parentId": "ms1fz4ardpx91h",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4ar2tp52y",
+      "title": "K.7. Mental Health in the Digital Age",
+      "parentId": "ms1fz4ardpx91h",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arwwveix",
+      "title": "K.8. Social Media & Psychological Wellbeing",
+      "parentId": "ms1fz4ardpx91h",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arytq5yv",
+      "title": "K.9. Sleep, Technology & Recovery",
+      "parentId": "ms1fz4ardpx91h",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4areyurhm",
+      "title": "K.10. Managing Digital Stress & Burnout",
+      "parentId": "ms1fz4ardpx91h",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4armmeajq",
+      "title": "K.11. Digital Wellbeing Tools & Practices",
+      "parentId": "ms1fz4ardpx91h",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arb7j6k2",
+      "title": "K.12. Building a Sustainable Digital Lifestyle",
+      "parentId": "ms1fz4ardpx91h",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4artu7dhb",
+      "title": "L. Digital Trends & Future Technologies",
+      "parentId": null,
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arypyewp",
+      "title": "L.1. Understanding Technology Trends",
+      "parentId": "ms1fz4artu7dhb",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arplj8sj",
+      "title": "L.2. Artificial Intelligence in Everyday Life",
+      "parentId": "ms1fz4artu7dhb",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4aromdmt8",
+      "title": "L.3. Internet of Things (IoT)",
+      "parentId": "ms1fz4artu7dhb",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arod7i8z",
+      "title": "L.4. Cloud Computing",
+      "parentId": "ms1fz4artu7dhb",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4ark6hov2",
+      "title": "L.5. Edge Computing",
+      "parentId": "ms1fz4artu7dhb",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arymo1s0",
+      "title": "L.6. Blockchain & Web3 Fundamentals",
+      "parentId": "ms1fz4artu7dhb",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arkcmdq2",
+      "title": "L.7. Virtual, Augmented & Mixed Reality",
+      "parentId": "ms1fz4artu7dhb",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4ar4ylt8v",
+      "title": "L.8. Robotics & Intelligent Automation",
+      "parentId": "ms1fz4artu7dhb",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arnw69nv",
+      "title": "L.9. Quantum Computing Overview",
+      "parentId": "ms1fz4artu7dhb",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arw0yzp3",
+      "title": "L.10. Smart Cities & Connected Living",
+      "parentId": "ms1fz4artu7dhb",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arw9oeql",
+      "title": "L.11. Future Careers in the Digital World",
+      "parentId": "ms1fz4artu7dhb",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arpgwmpy",
+      "title": "L.12. Becoming Future-Ready",
+      "parentId": "ms1fz4artu7dhb",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1785048814467
     }
   ],
   "pages": {
@@ -45765,6 +46077,240 @@
       "name": "I.14. Building an Ethical Digital Mindset",
       "nodeId": "ms1fuoj6uu7bvu",
       "createdAt": 1785048607410
+    },
+    {
+      "id": "ms1fz4arscl2jj",
+      "name": "J. Digital Accessibility",
+      "nodeId": "ms1fz4arscl2jj",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arhdjrre",
+      "name": "J.1. Introduction to Digital Accessibility",
+      "nodeId": "ms1fz4arhdjrre",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4ar2hg3z2",
+      "name": "J.2. Why Accessibility Matters",
+      "nodeId": "ms1fz4ar2hg3z2",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arg42h0x",
+      "name": "J.3. Types of Disabilities & Accessibility Needs",
+      "nodeId": "ms1fz4arg42h0x",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4ar90lv35",
+      "name": "J.4. Accessibility Features in Operating Systems",
+      "nodeId": "ms1fz4ar90lv35",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arovn1kf",
+      "name": "J.5. Assistive Technologies",
+      "nodeId": "ms1fz4arovn1kf",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arfwmz87",
+      "name": "J.6. Accessible Documents & Presentations",
+      "nodeId": "ms1fz4arfwmz87",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arof2itr",
+      "name": "J.7. Accessible Websites & Web Content",
+      "nodeId": "ms1fz4arof2itr",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4aro3m84q",
+      "name": "J.8. Accessible Multimedia",
+      "nodeId": "ms1fz4aro3m84q",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4artbvvqk",
+      "name": "J.9. Accessibility Standards & Guidelines",
+      "nodeId": "ms1fz4artbvvqk",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arp699ww",
+      "name": "J.10. Inclusive Digital Design Principles",
+      "nodeId": "ms1fz4arp699ww",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arhuv9s1",
+      "name": "J.11. Accessibility Testing & Evaluation",
+      "nodeId": "ms1fz4arhuv9s1",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arqlmf7a",
+      "name": "J.12. Building an Accessibility-First Mindset",
+      "nodeId": "ms1fz4arqlmf7a",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4ardpx91h",
+      "name": "K. Digital Health & Wellbeing",
+      "nodeId": "ms1fz4ardpx91h",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arkf467r",
+      "name": "K.1. Introduction to Digital Wellbeing",
+      "nodeId": "ms1fz4arkf467r",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arie6ss2",
+      "name": "K.2. Healthy Technology Habits",
+      "nodeId": "ms1fz4arie6ss2",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arl505f1",
+      "name": "K.3. Screen Time Management",
+      "nodeId": "ms1fz4arl505f1",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arr95x03",
+      "name": "K.4. Digital Distractions & Focus",
+      "nodeId": "ms1fz4arr95x03",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4argzvhkg",
+      "name": "K.5. Information Overload & Digital Minimalism",
+      "nodeId": "ms1fz4argzvhkg",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4aro5oabz",
+      "name": "K.6. Physical Health & Ergonomics",
+      "nodeId": "ms1fz4aro5oabz",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4ar2tp52y",
+      "name": "K.7. Mental Health in the Digital Age",
+      "nodeId": "ms1fz4ar2tp52y",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arwwveix",
+      "name": "K.8. Social Media & Psychological Wellbeing",
+      "nodeId": "ms1fz4arwwveix",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arytq5yv",
+      "name": "K.9. Sleep, Technology & Recovery",
+      "nodeId": "ms1fz4arytq5yv",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4areyurhm",
+      "name": "K.10. Managing Digital Stress & Burnout",
+      "nodeId": "ms1fz4areyurhm",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4armmeajq",
+      "name": "K.11. Digital Wellbeing Tools & Practices",
+      "nodeId": "ms1fz4armmeajq",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arb7j6k2",
+      "name": "K.12. Building a Sustainable Digital Lifestyle",
+      "nodeId": "ms1fz4arb7j6k2",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4artu7dhb",
+      "name": "L. Digital Trends & Future Technologies",
+      "nodeId": "ms1fz4artu7dhb",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arypyewp",
+      "name": "L.1. Understanding Technology Trends",
+      "nodeId": "ms1fz4arypyewp",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arplj8sj",
+      "name": "L.2. Artificial Intelligence in Everyday Life",
+      "nodeId": "ms1fz4arplj8sj",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4aromdmt8",
+      "name": "L.3. Internet of Things (IoT)",
+      "nodeId": "ms1fz4aromdmt8",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arod7i8z",
+      "name": "L.4. Cloud Computing",
+      "nodeId": "ms1fz4arod7i8z",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4ark6hov2",
+      "name": "L.5. Edge Computing",
+      "nodeId": "ms1fz4ark6hov2",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arymo1s0",
+      "name": "L.6. Blockchain & Web3 Fundamentals",
+      "nodeId": "ms1fz4arymo1s0",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arkcmdq2",
+      "name": "L.7. Virtual, Augmented & Mixed Reality",
+      "nodeId": "ms1fz4arkcmdq2",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4ar4ylt8v",
+      "name": "L.8. Robotics & Intelligent Automation",
+      "nodeId": "ms1fz4ar4ylt8v",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arnw69nv",
+      "name": "L.9. Quantum Computing Overview",
+      "nodeId": "ms1fz4arnw69nv",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arw0yzp3",
+      "name": "L.10. Smart Cities & Connected Living",
+      "nodeId": "ms1fz4arw0yzp3",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arw9oeql",
+      "name": "L.11. Future Careers in the Digital World",
+      "nodeId": "ms1fz4arw9oeql",
+      "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1fz4arpgwmpy",
+      "name": "L.12. Becoming Future-Ready",
+      "nodeId": "ms1fz4arpgwmpy",
+      "createdAt": 1785048814467
     }
   ],
   "highlights": [],
