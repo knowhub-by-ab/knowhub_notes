@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-26T08:39:38.336Z",
+  "exportedAt": "2026-07-26T08:40:07.436Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -41257,6 +41257,318 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1jrx22lzbsz1",
+      "title": "A. Productivity Mindset",
+      "parentId": null,
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx221m9dnl",
+      "title": "A.1. What is Productivity?",
+      "parentId": "ms1jrx22lzbsz1",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx224why73",
+      "title": "A.2. Productivity vs Busyness",
+      "parentId": "ms1jrx22lzbsz1",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22mkq2rl",
+      "title": "A.3. Personal Productivity Principles",
+      "parentId": "ms1jrx22lzbsz1",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22py5qh4",
+      "title": "A.4. Digital Productivity Fundamentals",
+      "parentId": "ms1jrx22lzbsz1",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx221qathw",
+      "title": "A.5. Focus & Attention Management",
+      "parentId": "ms1jrx22lzbsz1",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22ey564i",
+      "title": "A.6. Managing Digital Distractions",
+      "parentId": "ms1jrx22lzbsz1",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22ixmz4t",
+      "title": "A.7. Productivity Workflows",
+      "parentId": "ms1jrx22lzbsz1",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22n206qu",
+      "title": "A.8. Productivity Metrics",
+      "parentId": "ms1jrx22lzbsz1",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx222sxi6l",
+      "title": "A.9. Building Productive Habits",
+      "parentId": "ms1jrx22lzbsz1",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22y6vx11",
+      "title": "A.10. Productivity Tools Overview",
+      "parentId": "ms1jrx22lzbsz1",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx224dnbm5",
+      "title": "A.11. Continuous Productivity Improvement",
+      "parentId": "ms1jrx22lzbsz1",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22dqutyp",
+      "title": "A.12. Designing a Personal Productivity System",
+      "parentId": "ms1jrx22lzbsz1",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22449ta1",
+      "title": "B. Document Creation",
+      "parentId": null,
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22mtvsev",
+      "title": "B.1. Introduction to Word Processing",
+      "parentId": "ms1jrx22449ta1",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx229a8o8a",
+      "title": "B.2. Creating & Managing Documents",
+      "parentId": "ms1jrx22449ta1",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22c8qppd",
+      "title": "B.3. Text Formatting",
+      "parentId": "ms1jrx22449ta1",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22po3uuc",
+      "title": "B.4. Paragraph & Page Formatting",
+      "parentId": "ms1jrx22449ta1",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22ijzs01",
+      "title": "B.5. Styles, Themes & Templates",
+      "parentId": "ms1jrx22449ta1",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22jtsr3u",
+      "title": "B.6. Working with Tables",
+      "parentId": "ms1jrx22449ta1",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22eq7w0x",
+      "title": "B.7. Images, Shapes & Graphics",
+      "parentId": "ms1jrx22449ta1",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22hq3rut",
+      "title": "B.8. Headers, Footers & Page Numbers",
+      "parentId": "ms1jrx22449ta1",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx220vsskg",
+      "title": "B.9. References, Citations & TOC",
+      "parentId": "ms1jrx22449ta1",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22xkh6l3",
+      "title": "B.10. Document Review & Collaboration",
+      "parentId": "ms1jrx22449ta1",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22m4iby5",
+      "title": "B.11. Exporting, Printing & Sharing Documents",
+      "parentId": "ms1jrx22449ta1",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx223gpbtt",
+      "title": "B.12. Professional Document Best Practices",
+      "parentId": "ms1jrx22449ta1",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx227719u7",
+      "title": "C. Spreadsheets",
+      "parentId": null,
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22v267cl",
+      "title": "C.1. Spreadsheet Fundamentals",
+      "parentId": "ms1jrx227719u7",
+      "status": "pending",
+      "order": 0,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22nv10ar",
+      "title": "C.2. Worksheets, Rows, Columns & Cells",
+      "parentId": "ms1jrx227719u7",
+      "status": "pending",
+      "order": 1,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx228fprgz",
+      "title": "C.3. Data Entry & Formatting",
+      "parentId": "ms1jrx227719u7",
+      "status": "pending",
+      "order": 2,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22pvvjde",
+      "title": "C.4. Formulas & Functions",
+      "parentId": "ms1jrx227719u7",
+      "status": "pending",
+      "order": 3,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx224gy6ti",
+      "title": "C.5. Cell References",
+      "parentId": "ms1jrx227719u7",
+      "status": "pending",
+      "order": 4,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22jgtuir",
+      "title": "C.6. Sorting & Filtering Data",
+      "parentId": "ms1jrx227719u7",
+      "status": "pending",
+      "order": 5,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx2270q422",
+      "title": "C.7. Charts & Data Visualization",
+      "parentId": "ms1jrx227719u7",
+      "status": "pending",
+      "order": 6,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx225m9rn9",
+      "title": "C.8. Conditional Formatting",
+      "parentId": "ms1jrx227719u7",
+      "status": "pending",
+      "order": 7,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22ou65al",
+      "title": "C.9. Pivot Tables & Data Summarization",
+      "parentId": "ms1jrx227719u7",
+      "status": "pending",
+      "order": 8,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22i0cokc",
+      "title": "C.10. Spreadsheet Collaboration",
+      "parentId": "ms1jrx227719u7",
+      "status": "pending",
+      "order": 9,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22ieef5s",
+      "title": "C.11. Spreadsheet Automation Basics",
+      "parentId": "ms1jrx227719u7",
+      "status": "pending",
+      "order": 10,
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22ren8rl",
+      "title": "C.12. Spreadsheet Best Practices",
+      "parentId": "ms1jrx227719u7",
+      "status": "pending",
+      "order": 11,
+      "createdAt": 1785055196953
     }
   ],
   "pages": {
@@ -46287,6 +46599,240 @@
       "name": "L.12. Becoming Future-Ready",
       "nodeId": "ms1fz4arpgwmpy",
       "createdAt": 1785048814467
+    },
+    {
+      "id": "ms1jrx22lzbsz1",
+      "name": "A. Productivity Mindset",
+      "nodeId": "ms1jrx22lzbsz1",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx221m9dnl",
+      "name": "A.1. What is Productivity?",
+      "nodeId": "ms1jrx221m9dnl",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx224why73",
+      "name": "A.2. Productivity vs Busyness",
+      "nodeId": "ms1jrx224why73",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22mkq2rl",
+      "name": "A.3. Personal Productivity Principles",
+      "nodeId": "ms1jrx22mkq2rl",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22py5qh4",
+      "name": "A.4. Digital Productivity Fundamentals",
+      "nodeId": "ms1jrx22py5qh4",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx221qathw",
+      "name": "A.5. Focus & Attention Management",
+      "nodeId": "ms1jrx221qathw",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22ey564i",
+      "name": "A.6. Managing Digital Distractions",
+      "nodeId": "ms1jrx22ey564i",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22ixmz4t",
+      "name": "A.7. Productivity Workflows",
+      "nodeId": "ms1jrx22ixmz4t",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22n206qu",
+      "name": "A.8. Productivity Metrics",
+      "nodeId": "ms1jrx22n206qu",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx222sxi6l",
+      "name": "A.9. Building Productive Habits",
+      "nodeId": "ms1jrx222sxi6l",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22y6vx11",
+      "name": "A.10. Productivity Tools Overview",
+      "nodeId": "ms1jrx22y6vx11",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx224dnbm5",
+      "name": "A.11. Continuous Productivity Improvement",
+      "nodeId": "ms1jrx224dnbm5",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22dqutyp",
+      "name": "A.12. Designing a Personal Productivity System",
+      "nodeId": "ms1jrx22dqutyp",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22449ta1",
+      "name": "B. Document Creation",
+      "nodeId": "ms1jrx22449ta1",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22mtvsev",
+      "name": "B.1. Introduction to Word Processing",
+      "nodeId": "ms1jrx22mtvsev",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx229a8o8a",
+      "name": "B.2. Creating & Managing Documents",
+      "nodeId": "ms1jrx229a8o8a",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22c8qppd",
+      "name": "B.3. Text Formatting",
+      "nodeId": "ms1jrx22c8qppd",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22po3uuc",
+      "name": "B.4. Paragraph & Page Formatting",
+      "nodeId": "ms1jrx22po3uuc",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22ijzs01",
+      "name": "B.5. Styles, Themes & Templates",
+      "nodeId": "ms1jrx22ijzs01",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22jtsr3u",
+      "name": "B.6. Working with Tables",
+      "nodeId": "ms1jrx22jtsr3u",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22eq7w0x",
+      "name": "B.7. Images, Shapes & Graphics",
+      "nodeId": "ms1jrx22eq7w0x",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22hq3rut",
+      "name": "B.8. Headers, Footers & Page Numbers",
+      "nodeId": "ms1jrx22hq3rut",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx220vsskg",
+      "name": "B.9. References, Citations & TOC",
+      "nodeId": "ms1jrx220vsskg",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22xkh6l3",
+      "name": "B.10. Document Review & Collaboration",
+      "nodeId": "ms1jrx22xkh6l3",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22m4iby5",
+      "name": "B.11. Exporting, Printing & Sharing Documents",
+      "nodeId": "ms1jrx22m4iby5",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx223gpbtt",
+      "name": "B.12. Professional Document Best Practices",
+      "nodeId": "ms1jrx223gpbtt",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx227719u7",
+      "name": "C. Spreadsheets",
+      "nodeId": "ms1jrx227719u7",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22v267cl",
+      "name": "C.1. Spreadsheet Fundamentals",
+      "nodeId": "ms1jrx22v267cl",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22nv10ar",
+      "name": "C.2. Worksheets, Rows, Columns & Cells",
+      "nodeId": "ms1jrx22nv10ar",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx228fprgz",
+      "name": "C.3. Data Entry & Formatting",
+      "nodeId": "ms1jrx228fprgz",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22pvvjde",
+      "name": "C.4. Formulas & Functions",
+      "nodeId": "ms1jrx22pvvjde",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx224gy6ti",
+      "name": "C.5. Cell References",
+      "nodeId": "ms1jrx224gy6ti",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22jgtuir",
+      "name": "C.6. Sorting & Filtering Data",
+      "nodeId": "ms1jrx22jgtuir",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx2270q422",
+      "name": "C.7. Charts & Data Visualization",
+      "nodeId": "ms1jrx2270q422",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx225m9rn9",
+      "name": "C.8. Conditional Formatting",
+      "nodeId": "ms1jrx225m9rn9",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22ou65al",
+      "name": "C.9. Pivot Tables & Data Summarization",
+      "nodeId": "ms1jrx22ou65al",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22i0cokc",
+      "name": "C.10. Spreadsheet Collaboration",
+      "nodeId": "ms1jrx22i0cokc",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22ieef5s",
+      "name": "C.11. Spreadsheet Automation Basics",
+      "nodeId": "ms1jrx22ieef5s",
+      "createdAt": 1785055196953
+    },
+    {
+      "id": "ms1jrx22ren8rl",
+      "name": "C.12. Spreadsheet Best Practices",
+      "nodeId": "ms1jrx22ren8rl",
+      "createdAt": 1785055196953
     }
   ],
   "highlights": [],
