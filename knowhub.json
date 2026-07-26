@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-26T06:50:17.469Z",
+  "exportedAt": "2026-07-26T06:50:40.787Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -3969,14 +3969,6 @@
       "id": "mr3xzh52lg11h2",
       "status": "pending",
       "title": "1.2.1. Digital Fundamentals"
-    },
-    {
-      "id": "mr3xzh75foqf6q",
-      "parentId": "mr3xzh52lg11h2",
-      "createdAt": 1783023214289,
-      "order": 7,
-      "title": "G. Digital Communication",
-      "status": "pending"
     },
     {
       "status": "pending",
@@ -40637,9 +40629,9 @@
     {
       "id": "ms1fuoj67mfhzx",
       "title": "G. Digital Communication",
-      "parentId": null,
+      "parentId": "mr3xzh52lg11h2",
       "status": "pending",
-      "order": 1,
+      "order": 12,
       "createdAt": 1785048607410
     },
     {
