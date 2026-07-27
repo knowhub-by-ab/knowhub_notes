@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-27T17:08:04.970Z",
+  "exportedAt": "2026-07-27T17:08:55.228Z",
   "nodes": [
     {
       "title": "Professional Career Development (OLD)",
@@ -127125,9 +127125,9 @@
     {
       "id": "ms3hbyvy0dcvxl",
       "title": "2. Technical Foundations",
-      "parentId": "ms3h9vb1zrtdoe",
+      "parentId": "ms3h9ea93va2g4",
       "status": "pending",
-      "order": 1,
+      "order": 2,
       "createdAt": 1785172025949
     },
     {
