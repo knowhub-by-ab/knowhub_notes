@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-27T19:26:17.278Z",
+  "exportedAt": "2026-07-27T19:26:53.731Z",
   "nodes": [
     {
       "title": "Professional Career Development (OLD)",
@@ -49627,27 +49627,11 @@
       "createdAt": 1785180345158
     },
     {
-      "id": "ms3majalqq605m",
-      "title": "Professional Career Development",
-      "parentId": null,
-      "status": "pending",
-      "order": 2,
-      "createdAt": 1785180357165
-    },
-    {
-      "id": "ms3majalm19bck",
-      "title": "1. Universal Foundations",
-      "parentId": "ms3maa12cvdkh4",
-      "status": "pending",
-      "order": 1,
-      "createdAt": 1785180357165
-    },
-    {
       "id": "ms3majalyvioii",
       "title": "1.2. Digital Literacy",
-      "parentId": "ms3majalm19bck",
+      "parentId": "ms3maa12cvdkh4",
       "status": "pending",
-      "order": 0,
+      "order": 2,
       "createdAt": 1785180357165
     },
     {
@@ -67253,18 +67237,6 @@
       "name": "L.12. Designing Your Ideal Productive Life",
       "nodeId": "ms3maa13io0bgz",
       "createdAt": 1785180345158
-    },
-    {
-      "id": "ms3majalqq605m",
-      "name": "Professional Career Development",
-      "nodeId": "ms3majalqq605m",
-      "createdAt": 1785180357165
-    },
-    {
-      "id": "ms3majalm19bck",
-      "name": "1. Universal Foundations",
-      "nodeId": "ms3majalm19bck",
-      "createdAt": 1785180357165
     },
     {
       "id": "ms3majalyvioii",
