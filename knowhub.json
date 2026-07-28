@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-28T03:38:52.771Z",
+  "exportedAt": "2026-07-28T03:39:18.059Z",
   "nodes": [
     {
       "status": "in_progress",
@@ -49630,9 +49630,9 @@
       "status": "pending",
       "title": "1.2. Digital Literacy",
       "id": "ms3majalyvioii",
-      "order": 2,
+      "order": 1,
       "createdAt": 1785180357165,
-      "parentId": "ms3maa12cvdkh4"
+      "parentId": "ms3maa12m15s48"
     },
     {
       "parentId": "ms3majalyvioii",
