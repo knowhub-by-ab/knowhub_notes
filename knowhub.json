@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-28T03:38:23.947Z",
+  "exportedAt": "2026-07-28T03:38:52.771Z",
   "nodes": [
     {
       "status": "in_progress",
@@ -49625,14 +49625,6 @@
       "status": "pending",
       "id": "ms3maa13io0bgz",
       "title": "L.12. Designing Your Ideal Productive Life"
-    },
-    {
-      "id": "ms3majalqq605m",
-      "title": "Professional Career Development",
-      "status": "pending",
-      "parentId": null,
-      "createdAt": 1785180357165,
-      "order": 2
     },
     {
       "status": "pending",
