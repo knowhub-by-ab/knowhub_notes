@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-28T03:37:45.232Z",
+  "exportedAt": "2026-07-28T03:38:23.947Z",
   "nodes": [
     {
       "status": "in_progress",
@@ -49635,20 +49635,12 @@
       "order": 2
     },
     {
-      "id": "ms3majalm19bck",
-      "title": "1. Universal Foundations",
-      "status": "pending",
-      "parentId": "ms3maa12cvdkh4",
-      "order": 1,
-      "createdAt": 1785180357165
-    },
-    {
       "status": "pending",
       "title": "1.2. Digital Literacy",
       "id": "ms3majalyvioii",
-      "order": 0,
+      "order": 2,
       "createdAt": 1785180357165,
-      "parentId": "ms3majalm19bck"
+      "parentId": "ms3maa12cvdkh4"
     },
     {
       "parentId": "ms3majalyvioii",
