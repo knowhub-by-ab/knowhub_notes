@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-30T07:32:00.493Z",
+  "exportedAt": "2026-07-30T07:32:26.145Z",
   "nodes": [
     {
       "title": "Professional Career Development (OLD)",
@@ -67881,6 +67881,13 @@
     }
   ],
   "chatSessions": [
+    {
+      "id": "ms7749y0brdrvw",
+      "title": "New chat",
+      "messages": [],
+      "createdAt": 1785396735576,
+      "updatedAt": 1785396735576
+    },
     {
       "id": "mrvz4z5js5e6h9",
       "title": "Learning Artificial Intelligence Basics",
