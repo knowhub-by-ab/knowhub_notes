@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-07-30T07:32:52.122Z",
+  "exportedAt": "2026-07-30T07:33:18.245Z",
   "nodes": [
     {
       "title": "Professional Career Development (OLD)",
@@ -67883,10 +67883,19 @@
   "chatSessions": [
     {
       "id": "ms7749y0brdrvw",
-      "title": "New chat",
-      "messages": [],
+      "title": "Gemini AI basics",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Teach me Gemini"
+        },
+        {
+          "role": "assistant",
+          "content": "--C."
+        }
+      ],
       "createdAt": 1785396735576,
-      "updatedAt": 1785396735576
+      "updatedAt": 1785396788198
     },
     {
       "id": "mrvz4z5js5e6h9",
