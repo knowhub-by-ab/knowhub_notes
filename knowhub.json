@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-19T21:12:23.510Z",
+  "exportedAt": "2026-08-19T21:13:38.363Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -116597,9 +116597,9 @@
     {
       "id": "mt0l1ykz7nssrh",
       "title": "2.5. Programming Languages — Core",
-      "parentId": null,
+      "parentId": "mt0krmkckz22cc",
       "status": "pending",
-      "order": 6,
+      "order": 4,
       "createdAt": 1787173661266
     },
     {
@@ -161835,22 +161835,6 @@
       "createdAt": 1787173701249
     },
     {
-      "id": "mt0l3kwzokcrmz",
-      "title": "Professional Career Development",
-      "parentId": null,
-      "status": "pending",
-      "order": 4,
-      "createdAt": 1787173736866
-    },
-    {
-      "id": "mt0l3kwzhonff0",
-      "title": "2. Technical Foundations",
-      "parentId": "mt0l3kwzokcrmz",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1787173736866
-    },
-    {
       "id": "mt0l3kwz2syk9u",
       "title": "2.8. Database Technologies Deep Dive",
       "parentId": null,
@@ -176931,27 +176915,11 @@
       "createdAt": 1787173736866
     },
     {
-      "id": "mt0l4r05nnl1os",
-      "title": "Professional Career Development",
-      "parentId": null,
-      "status": "pending",
-      "order": 5,
-      "createdAt": 1787173791412
-    },
-    {
-      "id": "mt0l4r054ung6d",
-      "title": "2. Technical Foundations",
-      "parentId": "mt0l4r05nnl1os",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1787173791412
-    },
-    {
       "id": "mt0l4r05zromgt",
       "title": "2.9. Web & Frontend Fundamentals",
-      "parentId": "mt0l4r054ung6d",
+      "parentId": null,
       "status": "pending",
-      "order": 0,
+      "order": 6,
       "createdAt": 1787173791412
     },
     {
@@ -318729,18 +318697,6 @@
       "createdAt": 1787173701249
     },
     {
-      "id": "mt0l3kwzokcrmz",
-      "name": "Professional Career Development",
-      "nodeId": "mt0l3kwzokcrmz",
-      "createdAt": 1787173736866
-    },
-    {
-      "id": "mt0l3kwzhonff0",
-      "name": "2. Technical Foundations",
-      "nodeId": "mt0l3kwzhonff0",
-      "createdAt": 1787173736866
-    },
-    {
       "id": "mt0l3kwz2syk9u",
       "name": "2.8. Database Technologies Deep Dive",
       "nodeId": "mt0l3kwz2syk9u",
@@ -330049,18 +330005,6 @@
       "name": "L.12. Building cloud-database abstractions and internal platforms",
       "nodeId": "mt0l3kx16u2njq",
       "createdAt": 1787173736866
-    },
-    {
-      "id": "mt0l4r05nnl1os",
-      "name": "Professional Career Development",
-      "nodeId": "mt0l4r05nnl1os",
-      "createdAt": 1787173791412
-    },
-    {
-      "id": "mt0l4r054ung6d",
-      "name": "2. Technical Foundations",
-      "nodeId": "mt0l4r054ung6d",
-      "createdAt": 1787173791412
     },
     {
       "id": "mt0l4r05zromgt",
