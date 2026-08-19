@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-19T21:10:01.496Z",
+  "exportedAt": "2026-08-19T21:10:37.354Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -116613,9 +116613,9 @@
     {
       "id": "mt0l1ykz7nssrh",
       "title": "2.5. Programming Languages — Core",
-      "parentId": "mt0l1ykzhagclp",
+      "parentId": "mt0l1ykz3nc1dx",
       "status": "pending",
-      "order": 0,
+      "order": 1,
       "createdAt": 1787173661266
     },
     {
