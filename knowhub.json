@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-19T21:13:38.363Z",
+  "exportedAt": "2026-08-19T21:14:58.304Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -131677,9 +131677,9 @@
     {
       "id": "mt0l2dolyuo0wq",
       "title": "2.6. Programming Languages — Extended",
-      "parentId": null,
+      "parentId": "mt0krmkckz22cc",
       "status": "pending",
-      "order": 6,
+      "order": 5,
       "createdAt": 1787173680836
     },
     {
@@ -146757,7 +146757,7 @@
     {
       "id": "mt0l2tflqkh4bw",
       "title": "2.7. Advanced Algorithms & Data Structures",
-      "parentId": null,
+      "parentId": "mt0krmkckz22cc",
       "status": "pending",
       "order": 6,
       "createdAt": 1787173701249
@@ -161837,9 +161837,9 @@
     {
       "id": "mt0l3kwz2syk9u",
       "title": "2.8. Database Technologies Deep Dive",
-      "parentId": null,
+      "parentId": "mt0krmkckz22cc",
       "status": "pending",
-      "order": 6,
+      "order": 7,
       "createdAt": 1787173736866
     },
     {
@@ -176917,9 +176917,9 @@
     {
       "id": "mt0l4r05zromgt",
       "title": "2.9. Web & Frontend Fundamentals",
-      "parentId": null,
+      "parentId": "mt0krmkckz22cc",
       "status": "pending",
-      "order": 6,
+      "order": 8,
       "createdAt": 1787173791412
     },
     {
