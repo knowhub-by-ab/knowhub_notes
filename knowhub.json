@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-19T20:57:09.547Z",
+  "exportedAt": "2026-08-19T20:58:22.015Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -40323,27 +40323,11 @@
       "createdAt": 1787172863414
     },
     {
-      "id": "mt0knkl09pg6m6",
-      "title": "Professional Career Development",
-      "parentId": null,
-      "status": "pending",
-      "order": 1,
-      "createdAt": 1787172989940
-    },
-    {
-      "id": "mt0knkl0tdogzi",
-      "title": "1. Universal Foundations",
-      "parentId": "mt0knkl09pg6m6",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1787172989940
-    },
-    {
       "id": "mt0knkl0le7x21",
       "title": "1.6. AI Literacy for Everyone",
-      "parentId": "mt0knkl0tdogzi",
+      "parentId": null,
       "status": "pending",
-      "order": 0,
+      "order": 4,
       "createdAt": 1787172989940
     },
     {
@@ -55419,27 +55403,11 @@
       "createdAt": 1787172989940
     },
     {
-      "id": "mt0knrlhano2p0",
-      "title": "Professional Career Development",
-      "parentId": null,
-      "status": "pending",
-      "order": 2,
-      "createdAt": 1787172999029
-    },
-    {
-      "id": "mt0knrlh6jh5cp",
-      "title": "1. Universal Foundations",
-      "parentId": "mt0knrlhano2p0",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1787172999029
-    },
-    {
       "id": "mt0knrlh9ms5vb",
       "title": "1.7. Financial & Economic Literacy",
-      "parentId": "mt0knrlh6jh5cp",
+      "parentId": null,
       "status": "pending",
-      "order": 0,
+      "order": 4,
       "createdAt": 1787172999029
     },
     {
@@ -70515,27 +70483,11 @@
       "createdAt": 1787172999029
     },
     {
-      "id": "mt0ko20e3oyox2",
-      "title": "Professional Career Development",
-      "parentId": null,
-      "status": "pending",
-      "order": 3,
-      "createdAt": 1787173012526
-    },
-    {
-      "id": "mt0ko20ecxlswb",
-      "title": "1. Universal Foundations",
-      "parentId": "mt0ko20e3oyox2",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1787173012526
-    },
-    {
       "id": "mt0ko20e73xhvn",
       "title": "1.8. Legal & Regulatory Literacy",
-      "parentId": "mt0ko20ecxlswb",
+      "parentId": null,
       "status": "pending",
-      "order": 0,
+      "order": 4,
       "createdAt": 1787173012526
     },
     {
@@ -121179,18 +121131,6 @@
       "createdAt": 1787172863414
     },
     {
-      "id": "mt0knkl09pg6m6",
-      "name": "Professional Career Development",
-      "nodeId": "mt0knkl09pg6m6",
-      "createdAt": 1787172989940
-    },
-    {
-      "id": "mt0knkl0tdogzi",
-      "name": "1. Universal Foundations",
-      "nodeId": "mt0knkl0tdogzi",
-      "createdAt": 1787172989940
-    },
-    {
       "id": "mt0knkl0le7x21",
       "name": "1.6. AI Literacy for Everyone",
       "nodeId": "mt0knkl0le7x21",
@@ -132501,18 +132441,6 @@
       "createdAt": 1787172989940
     },
     {
-      "id": "mt0knrlhano2p0",
-      "name": "Professional Career Development",
-      "nodeId": "mt0knrlhano2p0",
-      "createdAt": 1787172999029
-    },
-    {
-      "id": "mt0knrlh6jh5cp",
-      "name": "1. Universal Foundations",
-      "nodeId": "mt0knrlh6jh5cp",
-      "createdAt": 1787172999029
-    },
-    {
       "id": "mt0knrlh9ms5vb",
       "name": "1.7. Financial & Economic Literacy",
       "nodeId": "mt0knrlh9ms5vb",
@@ -143821,18 +143749,6 @@
       "name": "L.12. The ongoing FI journey: maintaining, evolving, and enjoying true financial independence",
       "nodeId": "mt0knrliqcma3o",
       "createdAt": 1787172999029
-    },
-    {
-      "id": "mt0ko20e3oyox2",
-      "name": "Professional Career Development",
-      "nodeId": "mt0ko20e3oyox2",
-      "createdAt": 1787173012526
-    },
-    {
-      "id": "mt0ko20ecxlswb",
-      "name": "1. Universal Foundations",
-      "nodeId": "mt0ko20ecxlswb",
-      "createdAt": 1787173012526
     },
     {
       "id": "mt0ko20e73xhvn",
