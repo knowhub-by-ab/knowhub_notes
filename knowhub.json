@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-19T20:58:53.993Z",
+  "exportedAt": "2026-08-19T20:59:25.375Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -55405,9 +55405,9 @@
     {
       "id": "mt0knrlh9ms5vb",
       "title": "1.7. Financial & Economic Literacy",
-      "parentId": "ms3maa12m15s48",
+      "parentId": "ms3maa12cvdkh4",
       "status": "pending",
-      "order": 1,
+      "order": 6,
       "createdAt": 1787172999029
     },
     {
@@ -70485,9 +70485,9 @@
     {
       "id": "mt0ko20e73xhvn",
       "title": "1.8. Legal & Regulatory Literacy",
-      "parentId": null,
+      "parentId": "ms3maa12cvdkh4",
       "status": "pending",
-      "order": 4,
+      "order": 7,
       "createdAt": 1787173012526
     },
     {
