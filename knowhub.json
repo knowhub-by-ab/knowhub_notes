@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-19T21:04:02.022Z",
+  "exportedAt": "2026-08-19T21:04:26.929Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -90381,9 +90381,9 @@
     {
       "id": "mt0kt32o5aiyby",
       "title": "2.2. Programming Foundations",
-      "parentId": null,
+      "parentId": "mt0krmkckz22cc",
       "status": "pending",
-      "order": 4,
+      "order": 1,
       "createdAt": 1787173247183
     },
     {
