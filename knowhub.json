@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-19T21:03:36.779Z",
+  "exportedAt": "2026-08-19T21:04:02.022Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -107691,22 +107691,6 @@
       "createdAt": 1787173282627
     },
     {
-      "id": "mt0ku61zm8hgsg",
-      "title": "Professional Career Development",
-      "parentId": null,
-      "status": "pending",
-      "order": 3,
-      "createdAt": 1787173297703
-    },
-    {
-      "id": "mt0ku61zdfk4d2",
-      "title": "2. Technical Foundations",
-      "parentId": "mt0ku61zm8hgsg",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1787173297703
-    },
-    {
       "id": "mt0ku61z8yhm25",
       "title": "2.4. Modern Technology Foundations",
       "parentId": null,
@@ -202703,18 +202687,6 @@
       "name": "L.12. Communicating and Defending Design Decisions",
       "nodeId": "mt0ktuf8trtnsz",
       "createdAt": 1787173282627
-    },
-    {
-      "id": "mt0ku61zm8hgsg",
-      "name": "Professional Career Development",
-      "nodeId": "mt0ku61zm8hgsg",
-      "createdAt": 1787173297703
-    },
-    {
-      "id": "mt0ku61zdfk4d2",
-      "name": "2. Technical Foundations",
-      "nodeId": "mt0ku61zdfk4d2",
-      "createdAt": 1787173297703
     },
     {
       "id": "mt0ku61z8yhm25",
