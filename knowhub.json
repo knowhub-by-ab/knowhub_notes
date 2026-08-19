@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-19T20:58:22.015Z",
+  "exportedAt": "2026-08-19T20:58:53.993Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -40325,9 +40325,9 @@
     {
       "id": "mt0knkl0le7x21",
       "title": "1.6. AI Literacy for Everyone",
-      "parentId": null,
+      "parentId": "ms3maa12cvdkh4",
       "status": "pending",
-      "order": 4,
+      "order": 5,
       "createdAt": 1787172989940
     },
     {
@@ -55405,9 +55405,9 @@
     {
       "id": "mt0knrlh9ms5vb",
       "title": "1.7. Financial & Economic Literacy",
-      "parentId": null,
+      "parentId": "ms3maa12m15s48",
       "status": "pending",
-      "order": 4,
+      "order": 1,
       "createdAt": 1787172999029
     },
     {
