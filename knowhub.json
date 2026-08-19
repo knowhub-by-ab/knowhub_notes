@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-19T21:11:50.853Z",
+  "exportedAt": "2026-08-19T21:12:23.510Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -146755,22 +146755,6 @@
       "createdAt": 1787173680836
     },
     {
-      "id": "mt0l2tflh94xdf",
-      "title": "Professional Career Development",
-      "parentId": null,
-      "status": "pending",
-      "order": 3,
-      "createdAt": 1787173701249
-    },
-    {
-      "id": "mt0l2tfl59jykj",
-      "title": "2. Technical Foundations",
-      "parentId": "mt0l2tflh94xdf",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1787173701249
-    },
-    {
       "id": "mt0l2tflqkh4bw",
       "title": "2.7. Advanced Algorithms & Data Structures",
       "parentId": null,
@@ -161869,9 +161853,9 @@
     {
       "id": "mt0l3kwz2syk9u",
       "title": "2.8. Database Technologies Deep Dive",
-      "parentId": "mt0l3kwzhonff0",
+      "parentId": null,
       "status": "pending",
-      "order": 0,
+      "order": 6,
       "createdAt": 1787173736866
     },
     {
@@ -307433,18 +307417,6 @@
       "name": "L.12. Research workflow: reproducible research, literate programming, and publishing in MATLAB",
       "nodeId": "mt0l2domxy3lvi",
       "createdAt": 1787173680836
-    },
-    {
-      "id": "mt0l2tflh94xdf",
-      "name": "Professional Career Development",
-      "nodeId": "mt0l2tflh94xdf",
-      "createdAt": 1787173701249
-    },
-    {
-      "id": "mt0l2tfl59jykj",
-      "name": "2. Technical Foundations",
-      "nodeId": "mt0l2tfl59jykj",
-      "createdAt": 1787173701249
     },
     {
       "id": "mt0l2tflqkh4bw",
