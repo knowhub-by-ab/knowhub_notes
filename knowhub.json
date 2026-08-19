@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-19T20:59:59.117Z",
+  "exportedAt": "2026-08-19T21:00:27.228Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -85563,19 +85563,11 @@
       "createdAt": 1787173012526
     },
     {
-      "id": "mt0krmkcx6bny2",
-      "title": "Professional Career Development",
-      "parentId": null,
-      "status": "pending",
-      "order": 1,
-      "createdAt": 1787173179131
-    },
-    {
       "id": "mt0krmkckz22cc",
       "title": "2. Technical Foundations",
-      "parentId": null,
+      "parentId": "ms3maa12m15s48",
       "status": "pending",
-      "order": 2,
+      "order": 1,
       "createdAt": 1787173179131
     },
     {
@@ -159883,12 +159875,6 @@
       "name": "L.12. Legacy legal leadership: building institutional capability that outlasts you",
       "nodeId": "mt0ko20fu8fqjy",
       "createdAt": 1787173012526
-    },
-    {
-      "id": "mt0krmkcx6bny2",
-      "name": "Professional Career Development",
-      "nodeId": "mt0krmkcx6bny2",
-      "createdAt": 1787173179131
     },
     {
       "id": "mt0krmkckz22cc",
