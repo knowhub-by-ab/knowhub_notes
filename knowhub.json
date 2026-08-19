@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-19T21:01:54.105Z",
+  "exportedAt": "2026-08-19T21:02:32.471Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -90379,27 +90379,11 @@
       "createdAt": 1787173179131
     },
     {
-      "id": "mt0kt32okuapre",
-      "title": "Professional Career Development",
-      "parentId": null,
-      "status": "pending",
-      "order": 1,
-      "createdAt": 1787173247183
-    },
-    {
-      "id": "mt0kt32oml8y1a",
-      "title": "2. Technical Foundations",
-      "parentId": "mt0kt32okuapre",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1787173247183
-    },
-    {
       "id": "mt0kt32o5aiyby",
       "title": "2.2. Programming Foundations",
-      "parentId": "mt0kt32oml8y1a",
+      "parentId": null,
       "status": "pending",
-      "order": 0,
+      "order": 4,
       "createdAt": 1787173247183
     },
     {
@@ -189751,18 +189735,6 @@
       "name": "H.12. Emerging Ethical Challenges",
       "nodeId": "mt0krmkctjo9by",
       "createdAt": 1787173179131
-    },
-    {
-      "id": "mt0kt32okuapre",
-      "name": "Professional Career Development",
-      "nodeId": "mt0kt32okuapre",
-      "createdAt": 1787173247183
-    },
-    {
-      "id": "mt0kt32oml8y1a",
-      "name": "2. Technical Foundations",
-      "nodeId": "mt0kt32oml8y1a",
-      "createdAt": 1787173247183
     },
     {
       "id": "mt0kt32o5aiyby",
