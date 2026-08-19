@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-19T21:04:26.929Z",
+  "exportedAt": "2026-08-19T21:05:29.959Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -98965,9 +98965,9 @@
     {
       "id": "mt0ktuf7ue73p3",
       "title": "2.3. Core Technical Foundations",
-      "parentId": null,
+      "parentId": "mt0krmkckz22cc",
       "status": "pending",
-      "order": 4,
+      "order": 2,
       "createdAt": 1787173282627
     },
     {
@@ -107693,9 +107693,9 @@
     {
       "id": "mt0ku61z8yhm25",
       "title": "2.4. Modern Technology Foundations",
-      "parentId": null,
+      "parentId": "mt0krmkckz22cc",
       "status": "pending",
-      "order": 4,
+      "order": 3,
       "createdAt": 1787173297703
     },
     {
