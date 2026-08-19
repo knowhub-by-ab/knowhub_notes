@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-19T20:50:43.635Z",
+  "exportedAt": "2026-08-19T20:51:29.425Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -8084,7 +8084,7 @@
     },
     {
       "status": "pending",
-      "order": 2,
+      "order": 1,
       "parentId": "ms3maa12cvdkh4",
       "title": "1.2. Digital Literacy",
       "createdAt": 1785180357165,
@@ -22627,27 +22627,11 @@
       "title": "L.12. Building an Organization Driven by Value"
     },
     {
-      "id": "mt0kfhmqeazvtq",
-      "title": "Professional Career Development",
+      "id": "mt0kfhmq5yixzl",
+      "title": "1.4. Data Literacy",
       "parentId": "ms3maa12cvdkh4",
       "status": "pending",
       "order": 3,
-      "createdAt": 1787172612865
-    },
-    {
-      "id": "mt0kfhmqx7z05b",
-      "title": "1. Universal Foundations",
-      "parentId": "mt0kfhmqeazvtq",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1787172612865
-    },
-    {
-      "id": "mt0kfhmq5yixzl",
-      "title": "1.4. Data Literacy",
-      "parentId": "mt0kfhmqx7z05b",
-      "status": "pending",
-      "order": 0,
       "createdAt": 1787172612865
     },
     {
@@ -54993,18 +54977,6 @@
       "name": "L.12. Building an Organization Driven by Value",
       "nodeId": "ms3mbuw7epnilb",
       "createdAt": 1785180418854
-    },
-    {
-      "id": "mt0kfhmqeazvtq",
-      "name": "Professional Career Development",
-      "nodeId": "mt0kfhmqeazvtq",
-      "createdAt": 1787172612865
-    },
-    {
-      "id": "mt0kfhmqx7z05b",
-      "name": "1. Universal Foundations",
-      "nodeId": "mt0kfhmqx7z05b",
-      "createdAt": 1787172612865
     },
     {
       "id": "mt0kfhmq5yixzl",
