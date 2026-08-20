@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-20T20:02:22.221Z",
+  "exportedAt": "2026-08-20T20:03:01.760Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -90381,9 +90381,9 @@
     {
       "id": "mt1xxmyystkuke",
       "title": "2.2. Programming Foundations",
-      "parentId": null,
+      "parentId": "mt0krmkckz22cc",
       "status": "pending",
-      "order": 6,
+      "order": 1,
       "createdAt": 1787255760777
     },
     {
@@ -98965,9 +98965,9 @@
     {
       "id": "mt1xyardhj11g1",
       "title": "2.3. Core Technical Foundations",
-      "parentId": null,
+      "parentId": "ms3maa12m15s48",
       "status": "pending",
-      "order": 6,
+      "order": 2,
       "createdAt": 1787255791608
     },
     {
