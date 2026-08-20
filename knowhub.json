@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-20T20:20:50.463Z",
+  "exportedAt": "2026-08-20T20:21:30.338Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -207075,22 +207075,6 @@
       "createdAt": 1787256416701
     },
     {
-      "id": "mt1ycmav91f3tg",
-      "title": "Professional Career Development",
-      "parentId": null,
-      "status": "pending",
-      "order": 5,
-      "createdAt": 1787256459751
-    },
-    {
-      "id": "mt1ycmavu9u391",
-      "title": "2. Technical Foundations",
-      "parentId": "mt1ycmav91f3tg",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1787256459751
-    },
-    {
       "id": "mt1ycmavbloca9",
       "title": "2.11. Math & Theoretical Computer Science",
       "parentId": null,
@@ -412993,18 +412977,6 @@
       "name": "L.12. Mentoring teams through complex system design challenges",
       "nodeId": "mt1ybp33w14tgz",
       "createdAt": 1787256416701
-    },
-    {
-      "id": "mt1ycmav91f3tg",
-      "name": "Professional Career Development",
-      "nodeId": "mt1ycmav91f3tg",
-      "createdAt": 1787256459751
-    },
-    {
-      "id": "mt1ycmavu9u391",
-      "name": "2. Technical Foundations",
-      "nodeId": "mt1ycmavu9u391",
-      "createdAt": 1787256459751
     },
     {
       "id": "mt1ycmavbloca9",
