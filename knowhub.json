@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-20T20:34:59.234Z",
+  "exportedAt": "2026-08-20T20:35:47.108Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -207077,9 +207077,9 @@
     {
       "id": "mt1ycmavbloca9",
       "title": "2.11. Math & Theoretical Computer Science",
-      "parentId": "ms3maa12m15s48",
+      "parentId": "mt0krmkckz22cc",
       "status": "pending",
-      "order": 2,
+      "order": 10,
       "createdAt": 1787256459751
     },
     {
