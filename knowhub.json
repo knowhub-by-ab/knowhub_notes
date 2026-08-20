@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-20T19:59:48.529Z",
+  "exportedAt": "2026-08-20T20:00:28.731Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -98963,27 +98963,11 @@
       "createdAt": 1787255760777
     },
     {
-      "id": "mt1xyardt5owuc",
-      "title": "Professional Career Development",
-      "parentId": null,
-      "status": "pending",
-      "order": 2,
-      "createdAt": 1787255791608
-    },
-    {
-      "id": "mt1xyard6rcs3f",
-      "title": "2. Technical Foundations",
-      "parentId": "mt1xyardt5owuc",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1787255791608
-    },
-    {
       "id": "mt1xyardhj11g1",
       "title": "2.3. Core Technical Foundations",
-      "parentId": "mt1xyardt5owuc",
+      "parentId": null,
       "status": "pending",
-      "order": 1,
+      "order": 6,
       "createdAt": 1787255791608
     },
     {
@@ -226365,18 +226349,6 @@
       "name": "L.12. Reflecting and Iterating on Your Own Workflow",
       "nodeId": "mt1xxmz0c78vz5",
       "createdAt": 1787255760777
-    },
-    {
-      "id": "mt1xyardt5owuc",
-      "name": "Professional Career Development",
-      "nodeId": "mt1xyardt5owuc",
-      "createdAt": 1787255791608
-    },
-    {
-      "id": "mt1xyard6rcs3f",
-      "name": "2. Technical Foundations",
-      "nodeId": "mt1xyard6rcs3f",
-      "createdAt": 1787255791608
     },
     {
       "id": "mt1xyardhj11g1",
