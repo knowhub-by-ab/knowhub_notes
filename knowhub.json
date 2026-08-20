@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-20T20:15:03.769Z",
+  "exportedAt": "2026-08-20T20:15:45.907Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -176933,9 +176933,9 @@
     {
       "id": "mt1yagpear4jv1",
       "title": "2.9. Web & Frontend Fundamentals",
-      "parentId": "mt1yagpehgwhhr",
+      "parentId": null,
       "status": "pending",
-      "order": 1,
+      "order": 8,
       "createdAt": 1787256359185
     },
     {
