@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-20T20:37:44.652Z",
+  "exportedAt": "2026-08-20T20:38:26.408Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -237237,9 +237237,9 @@
     {
       "id": "mt1yetrquntddh",
       "title": "2.13. Computer Architecture & Low-Level Computing",
-      "parentId": null,
+      "parentId": "ms3maa12m15s48",
       "status": "pending",
-      "order": 8,
+      "order": 2,
       "createdAt": 1787256562741
     },
     {
