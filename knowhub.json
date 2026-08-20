@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-20T20:12:57.920Z",
+  "exportedAt": "2026-08-20T20:13:40.126Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -161833,22 +161833,6 @@
       "status": "pending",
       "order": 11,
       "createdAt": 1787256302149
-    },
-    {
-      "id": "mt1y9p7rz93jpi",
-      "title": "Professional Career Development",
-      "parentId": null,
-      "status": "pending",
-      "order": 2,
-      "createdAt": 1787256323558
-    },
-    {
-      "id": "mt1y9p7rq9pm5b",
-      "title": "2. Technical Foundations",
-      "parentId": "mt1y9p7rz93jpi",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1787256323558
     },
     {
       "id": "mt1y9p7r14cjh7",
@@ -379111,18 +379095,6 @@
       "name": "L.12. Final Mastery Challenge: CP Grand Finals Simulation",
       "nodeId": "mt1y98p6bycumu",
       "createdAt": 1787256302149
-    },
-    {
-      "id": "mt1y9p7rz93jpi",
-      "name": "Professional Career Development",
-      "nodeId": "mt1y9p7rz93jpi",
-      "createdAt": 1787256323558
-    },
-    {
-      "id": "mt1y9p7rq9pm5b",
-      "name": "2. Technical Foundations",
-      "nodeId": "mt1y9p7rq9pm5b",
-      "createdAt": 1787256323558
     },
     {
       "id": "mt1y9p7r14cjh7",
