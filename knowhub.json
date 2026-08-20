@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-20T20:10:41.978Z",
+  "exportedAt": "2026-08-20T20:11:27.671Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -146773,9 +146773,9 @@
     {
       "id": "mt1y98p1ulg2y5",
       "title": "2.7. Advanced Algorithms & Data Structures",
-      "parentId": "mt1y98p13lm5ko",
+      "parentId": null,
       "status": "pending",
-      "order": 1,
+      "order": 8,
       "createdAt": 1787256302149
     },
     {
