@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-20T20:16:54.556Z",
+  "exportedAt": "2026-08-20T20:17:40.427Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -176915,22 +176915,6 @@
       "createdAt": 1787256323558
     },
     {
-      "id": "mt1yagpehgwhhr",
-      "title": "Professional Career Development",
-      "parentId": null,
-      "status": "pending",
-      "order": 3,
-      "createdAt": 1787256359185
-    },
-    {
-      "id": "mt1yagpe456tha",
-      "title": "2. Technical Foundations",
-      "parentId": "mt1yagpehgwhhr",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1787256359185
-    },
-    {
       "id": "mt1yagpear4jv1",
       "title": "2.9. Web & Frontend Fundamentals",
       "parentId": null,
@@ -192029,9 +192013,9 @@
     {
       "id": "mt1ybp3241xdem",
       "title": "2.10. System Design & Distributed Systems",
-      "parentId": "mt1ybp32twsosl",
+      "parentId": "mt1ybp3288csac",
       "status": "pending",
-      "order": 0,
+      "order": 1,
       "createdAt": 1787256416701
     },
     {
@@ -390405,18 +390389,6 @@
       "name": "L.12. Building cloud-database abstractions and internal platforms",
       "nodeId": "mt1y9p7sgai0zz",
       "createdAt": 1787256323558
-    },
-    {
-      "id": "mt1yagpehgwhhr",
-      "name": "Professional Career Development",
-      "nodeId": "mt1yagpehgwhhr",
-      "createdAt": 1787256359185
-    },
-    {
-      "id": "mt1yagpe456tha",
-      "name": "2. Technical Foundations",
-      "nodeId": "mt1yagpe456tha",
-      "createdAt": 1787256359185
     },
     {
       "id": "mt1yagpear4jv1",
