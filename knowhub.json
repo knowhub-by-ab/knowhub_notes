@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-20T20:21:30.338Z",
+  "exportedAt": "2026-08-20T20:22:23.370Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -222173,9 +222173,9 @@
     {
       "id": "mt1ydrb3xltqa8",
       "title": "2.12. Developer Environment & Tooling",
-      "parentId": "mt1ydrb32zp95i",
+      "parentId": null,
       "status": "pending",
-      "order": 0,
+      "order": 8,
       "createdAt": 1787256512895
     },
     {
