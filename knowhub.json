@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-20T20:31:58.095Z",
+  "exportedAt": "2026-08-20T20:32:52.828Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -161837,9 +161837,9 @@
     {
       "id": "mt1y9p7r14cjh7",
       "title": "2.8. Database Technologies Deep Dive",
-      "parentId": "ms3maa12m15s48",
+      "parentId": "mt0krmkckz22cc",
       "status": "pending",
-      "order": 2,
+      "order": 7,
       "createdAt": 1787256323558
     },
     {
@@ -176917,9 +176917,9 @@
     {
       "id": "mt1yagpear4jv1",
       "title": "2.9. Web & Frontend Fundamentals",
-      "parentId": "ms3maa12m15s48",
+      "parentId": "mt0krmkckz22cc",
       "status": "pending",
-      "order": 3,
+      "order": 8,
       "createdAt": 1787256359185
     },
     {
@@ -191997,9 +191997,9 @@
     {
       "id": "mt1ybp3241xdem",
       "title": "2.10. System Design & Distributed Systems",
-      "parentId": null,
+      "parentId": "ms3maa12m15s48",
       "status": "pending",
-      "order": 8,
+      "order": 2,
       "createdAt": 1787256416701
     },
     {
