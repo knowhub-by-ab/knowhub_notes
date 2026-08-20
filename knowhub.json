@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-20T20:33:25.566Z",
+  "exportedAt": "2026-08-20T20:34:07.013Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -191997,9 +191997,9 @@
     {
       "id": "mt1ybp3241xdem",
       "title": "2.10. System Design & Distributed Systems",
-      "parentId": "ms3maa12m15s48",
+      "parentId": "mt0krmkckz22cc",
       "status": "pending",
-      "order": 2,
+      "order": 9,
       "createdAt": 1787256416701
     },
     {
