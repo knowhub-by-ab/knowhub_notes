@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-20T20:26:07.294Z",
+  "exportedAt": "2026-08-20T20:26:48.372Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -237235,22 +237235,6 @@
       "createdAt": 1787256512895
     },
     {
-      "id": "mt1yetrqsu83q3",
-      "title": "Professional Career Development",
-      "parentId": null,
-      "status": "pending",
-      "order": 7,
-      "createdAt": 1787256562741
-    },
-    {
-      "id": "mt1yetrq1lrzed",
-      "title": "2. Technical Foundations",
-      "parentId": "mt1yetrqsu83q3",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1787256562741
-    },
-    {
       "id": "mt1yetrquntddh",
       "title": "2.13. Computer Architecture & Low-Level Computing",
       "parentId": null,
@@ -435581,18 +435565,6 @@
       "name": "L.12. The future of development: fully cloud-native, zero local setup",
       "nodeId": "mt1ydrb4l22bnm",
       "createdAt": 1787256512895
-    },
-    {
-      "id": "mt1yetrqsu83q3",
-      "name": "Professional Career Development",
-      "nodeId": "mt1yetrqsu83q3",
-      "createdAt": 1787256562741
-    },
-    {
-      "id": "mt1yetrq1lrzed",
-      "name": "2. Technical Foundations",
-      "nodeId": "mt1yetrq1lrzed",
-      "createdAt": 1787256562741
     },
     {
       "id": "mt1yetrquntddh",
