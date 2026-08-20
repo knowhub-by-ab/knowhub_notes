@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-20T20:00:28.731Z",
+  "exportedAt": "2026-08-20T20:00:56.366Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -107709,9 +107709,9 @@
     {
       "id": "mt1y02hq3pq7ah",
       "title": "2.4. Modern Technology Foundations",
-      "parentId": "mt1y02hqaf3mwh",
+      "parentId": "mt1y02hq6dfukk",
       "status": "pending",
-      "order": 0,
+      "order": 1,
       "createdAt": 1787255874205
     },
     {
