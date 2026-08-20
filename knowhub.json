@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-20T20:22:57.529Z",
+  "exportedAt": "2026-08-20T20:23:43.375Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -222155,22 +222155,6 @@
       "createdAt": 1787256459751
     },
     {
-      "id": "mt1ydrb3emryrb",
-      "title": "Professional Career Development",
-      "parentId": null,
-      "status": "pending",
-      "order": 6,
-      "createdAt": 1787256512895
-    },
-    {
-      "id": "mt1ydrb32zp95i",
-      "title": "2. Technical Foundations",
-      "parentId": "mt1ydrb3emryrb",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1787256512895
-    },
-    {
       "id": "mt1ydrb3xltqa8",
       "title": "2.12. Developer Environment & Tooling",
       "parentId": null,
@@ -424287,18 +424271,6 @@
       "name": "L.12. Algorithm engineering: bridging theory and practice in real systems",
       "nodeId": "mt1ycmawl0olvb",
       "createdAt": 1787256459751
-    },
-    {
-      "id": "mt1ydrb3emryrb",
-      "name": "Professional Career Development",
-      "nodeId": "mt1ydrb3emryrb",
-      "createdAt": 1787256512895
-    },
-    {
-      "id": "mt1ydrb32zp95i",
-      "name": "2. Technical Foundations",
-      "nodeId": "mt1ydrb32zp95i",
-      "createdAt": 1787256512895
     },
     {
       "id": "mt1ydrb3xltqa8",
