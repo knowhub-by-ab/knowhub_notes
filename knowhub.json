@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-20T20:28:08.653Z",
+  "exportedAt": "2026-08-20T20:28:55.815Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -146757,9 +146757,9 @@
     {
       "id": "mt1y98p1ulg2y5",
       "title": "2.7. Advanced Algorithms & Data Structures",
-      "parentId": "ms3maa12m15s48",
+      "parentId": "mt0krmkckz22cc",
       "status": "pending",
-      "order": 2,
+      "order": 6,
       "createdAt": 1787256302149
     },
     {
@@ -161837,9 +161837,9 @@
     {
       "id": "mt1y9p7r14cjh7",
       "title": "2.8. Database Technologies Deep Dive",
-      "parentId": null,
+      "parentId": "ms3maa12m15s48",
       "status": "pending",
-      "order": 8,
+      "order": 2,
       "createdAt": 1787256323558
     },
     {
