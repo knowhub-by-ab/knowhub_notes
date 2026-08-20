@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-20T20:12:18.048Z",
+  "exportedAt": "2026-08-20T20:12:57.920Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -161853,9 +161853,9 @@
     {
       "id": "mt1y9p7r14cjh7",
       "title": "2.8. Database Technologies Deep Dive",
-      "parentId": "mt1y9p7rz93jpi",
+      "parentId": null,
       "status": "pending",
-      "order": 1,
+      "order": 8,
       "createdAt": 1787256323558
     },
     {
