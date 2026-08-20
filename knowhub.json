@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-08-20T20:00:56.366Z",
+  "exportedAt": "2026-08-20T20:02:22.221Z",
   "nodes": [
     {
       "title": "Professional Career Development",
@@ -107691,27 +107691,11 @@
       "createdAt": 1787255791608
     },
     {
-      "id": "mt1y02hq6dfukk",
-      "title": "Professional Career Development",
-      "parentId": null,
-      "status": "pending",
-      "order": 3,
-      "createdAt": 1787255874205
-    },
-    {
-      "id": "mt1y02hqaf3mwh",
-      "title": "2. Technical Foundations",
-      "parentId": "mt1y02hq6dfukk",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1787255874205
-    },
-    {
       "id": "mt1y02hq3pq7ah",
       "title": "2.4. Modern Technology Foundations",
-      "parentId": "mt1y02hq6dfukk",
+      "parentId": null,
       "status": "pending",
-      "order": 1,
+      "order": 6,
       "createdAt": 1787255874205
     },
     {
@@ -116611,27 +116595,11 @@
       "createdAt": 1787255874205
     },
     {
-      "id": "mt1y0nxtjopf0o",
-      "title": "Professional Career Development",
-      "parentId": null,
-      "status": "pending",
-      "order": 4,
-      "createdAt": 1787255902000
-    },
-    {
-      "id": "mt1y0nxt7lil4w",
-      "title": "2. Technical Foundations",
-      "parentId": "mt1y0nxtjopf0o",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1787255902000
-    },
-    {
       "id": "mt1y0nxt396rxl",
       "title": "2.5. Programming Languages — Core",
-      "parentId": "mt1y0nxt7lil4w",
+      "parentId": null,
       "status": "pending",
-      "order": 0,
+      "order": 6,
       "createdAt": 1787255902000
     },
     {
@@ -131707,27 +131675,11 @@
       "createdAt": 1787255902000
     },
     {
-      "id": "mt1y14p28i8xkm",
-      "title": "Professional Career Development",
-      "parentId": null,
-      "status": "pending",
-      "order": 5,
-      "createdAt": 1787255923717
-    },
-    {
-      "id": "mt1y14p22o8oog",
-      "title": "2. Technical Foundations",
-      "parentId": "mt1y14p28i8xkm",
-      "status": "pending",
-      "order": 0,
-      "createdAt": 1787255923717
-    },
-    {
       "id": "mt1y14p2hxp9nq",
       "title": "2.6. Programming Languages — Extended",
-      "parentId": "mt1y14p22o8oog",
+      "parentId": null,
       "status": "pending",
-      "order": 0,
+      "order": 6,
       "createdAt": 1787255923717
     },
     {
@@ -232897,18 +232849,6 @@
       "createdAt": 1787255791608
     },
     {
-      "id": "mt1y02hq6dfukk",
-      "name": "Professional Career Development",
-      "nodeId": "mt1y02hq6dfukk",
-      "createdAt": 1787255874205
-    },
-    {
-      "id": "mt1y02hqaf3mwh",
-      "name": "2. Technical Foundations",
-      "nodeId": "mt1y02hqaf3mwh",
-      "createdAt": 1787255874205
-    },
-    {
       "id": "mt1y02hq3pq7ah",
       "name": "2.4. Modern Technology Foundations",
       "nodeId": "mt1y02hq3pq7ah",
@@ -239585,18 +239525,6 @@
       "name": "L.12. Enterprise Governance, Compliance, and Auditing",
       "nodeId": "mt1y02hq4oqlsc",
       "createdAt": 1787255874205
-    },
-    {
-      "id": "mt1y0nxtjopf0o",
-      "name": "Professional Career Development",
-      "nodeId": "mt1y0nxtjopf0o",
-      "createdAt": 1787255902000
-    },
-    {
-      "id": "mt1y0nxt7lil4w",
-      "name": "2. Technical Foundations",
-      "nodeId": "mt1y0nxt7lil4w",
-      "createdAt": 1787255902000
     },
     {
       "id": "mt1y0nxt396rxl",
@@ -250907,18 +250835,6 @@
       "name": "L.12. Ruby committer workflow: RubyCI, benchmarks, and RFCs",
       "nodeId": "mt1y0nxvf7sjkv",
       "createdAt": 1787255902000
-    },
-    {
-      "id": "mt1y14p28i8xkm",
-      "name": "Professional Career Development",
-      "nodeId": "mt1y14p28i8xkm",
-      "createdAt": 1787255923717
-    },
-    {
-      "id": "mt1y14p22o8oog",
-      "name": "2. Technical Foundations",
-      "nodeId": "mt1y14p22o8oog",
-      "createdAt": 1787255923717
     },
     {
       "id": "mt1y14p2hxp9nq",
