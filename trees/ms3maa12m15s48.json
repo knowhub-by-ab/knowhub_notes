@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "treeId": "ms3maa12m15s48",
+  "nodes": [],
+  "shards": {
+    "nodes": {
+      "files": [
+        "tree-shards/ms3maa12m15s48/000.json",
+        "tree-shards/ms3maa12m15s48/001.json",
+        "tree-shards/ms3maa12m15s48/002.json"
+      ],
+      "counts": [
+        4000,
+        4000,
+        3297
+      ],
+      "hashes": [
+        1353851077,
+        1773279438,
+        -417261753
+      ],
+      "count": 11297
+    }
+  }
+}
